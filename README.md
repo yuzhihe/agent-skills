@@ -2,7 +2,7 @@
 
 A collection of reusable Agent Skills for Codex, Antigravity, Claude Code, Cursor, and other agents that support the Agent Skills format.
 
-这是一个可复用的 Agent Skills 集合，面向 Codex、Antigravity、Claude Code、Cursor 以及其他支持 Agent Skills 格式的 Agent。
+这是一个 Agent Skills 集合，面向 Codex、Antigravity、Claude Code、Cursor 以及其他支持 Agent Skills 格式的 Agent。
 
 ## Available skills
 
