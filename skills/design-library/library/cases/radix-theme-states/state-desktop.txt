@@ -1,0 +1,2273 @@
+Browser tab: 2, Title: "Playground – Radix Themes", URL: "https://www.radix-ui.com/themes/playground#button".
+1 AXWebArea Playground – Radix Themes, URL: radix-ui.com/themes/playground
+	2 container
+		3 container
+			4 link Description: Radix Homepage, Value: radix-ui.com/
+			5 link Description: Made by WorkOS, Value: workos.com/
+			6 link Description: Themes, Value: radix-ui.com/
+			7 link Description: Primitives, Value: radix-ui.com/primitives
+			8 link Description: Icons, Value: radix-ui.com/icons
+			9 link Description: Colors, Value: radix-ui.com/colors
+			10 link Description: Documentation, Value: radix-ui.com/themes/docs/overview/getting-started
+			11 link Description: Playground, Value: radix-ui.com/themes/playground
+			12 link Description: Blog, Value: radix-ui.com/blog
+			13 link Description: View GitHub, Value: github.com/radix-ui/themes
+			14 button Toggle theme
+				15 image
+		16 container
+			17 container
+				18 button T
+				19 heading Theme, Value: 3
+					20 text Theme
+				21 text Accent color
+				22 container Accent color
+					23 radio button (settable, integer) 0
+					24 radio button (settable, integer) 0
+					25 radio button (settable, integer) 0
+					26 radio button (settable, integer) 0
+					27 radio button (settable, integer) 0
+					28 radio button (settable, integer) 0
+					29 radio button (settable, integer) 0
+					30 radio button (settable, integer) 0
+					31 radio button (settable, integer) 0
+					32 radio button (settable, integer) 0
+					33 radio button (settable, integer) 0
+					34 radio button (settable, integer) 0
+					35 radio button (settable, integer) 0
+					36 radio button (settable, integer) 0
+					37 radio button (settable, integer) 0
+					38 radio button (settable, integer) 0
+					39 radio button (settable, integer) 1
+					40 radio button (settable, integer) 0
+					41 radio button (settable, integer) 0
+					42 radio button (settable, integer) 0
+					43 radio button (settable, integer) 0
+					44 radio button (settable, integer) 0
+					45 radio button (settable, integer) 0
+					46 radio button (settable, integer) 0
+					47 radio button (settable, integer) 0
+					48 radio button (settable, integer) 0
+				49 text Gray color
+				50 container Gray color
+					51 radio button (settable, integer) 1
+					52 radio button (settable, integer) 0
+					53 radio button (settable, integer) 0
+					54 radio button (settable, integer) 0
+					55 radio button (settable, integer) 0
+					56 radio button (settable, integer) 0
+					57 radio button (settable, integer) 0
+				58 text Appearance
+				59 container Appearance
+					60 container
+						61 radio button (settable, integer) Description: Light, Value: 1
+						62 image
+						63 text Light
+					64 container
+						65 radio button (settable, integer) Description: Dark, Value: 0
+						66 image
+						67 text Dark
+				68 text Radius
+				69 container Radius
+					70 radio button (settable, integer) None, Value: 0, ID: theme-panel-radius-none
+					71 radio button (settable, integer) Small, Value: 0, ID: theme-panel-radius-small
+					72 radio button (settable, integer) Medium, Value: 1, ID: theme-panel-radius-medium
+					73 radio button (settable, integer) Large, Value: 0, ID: theme-panel-radius-large
+					74 radio button (settable, integer) Full, Value: 0, ID: theme-panel-radius-full
+				75 text Scaling
+				76 container Scaling
+					77 container
+						78 radio button (settable, integer) Description: 90%, Value: 0
+						79 text 90%
+					80 container
+						81 radio button (settable, integer) Description: 95%, Value: 0
+						82 text 95%
+					83 container
+						84 radio button (settable, integer) Description: 100%, Value: 1
+						85 text 100%
+					86 container
+						87 radio button (settable, integer) Description: 105%, Value: 0
+						88 text 105%
+					89 container
+						90 radio button (settable, integer) Description: 110%, Value: 0
+						91 text 110%
+				92 text Panel background
+				93 pop up button (collapsed) Learn more about panel background options, Secondary Actions: Expand
+				94 container Panel background
+					95 container
+						96 radio button (settable, integer) Description: Solid, Value: 0
+						97 image
+						98 text Solid
+					99 container
+						100 radio button (settable, integer) Description: Translucent, Value: 1
+						101 image
+						102 text Translucent
+				103 button Copy Theme
+		104 container
+			105 heading Alert Dialog, Value: 1, ID: alert-dialog
+				106 link Description: Alert Dialog, Value: radix-ui.com/themes/playground
+			107 link Description: View in docs, Value: radix-ui.com/themes/docs/components/alert-dialog
+			108 pop up button (collapsed) Open, Secondary Actions: Expand
+			109 pop up button (collapsed) Open, Secondary Actions: Expand
+			110 pop up button (collapsed) Open, Secondary Actions: Expand
+			111 pop up button (collapsed) Open, Secondary Actions: Expand
+			112 heading Aspect Ratio, Value: 1, ID: aspect-ratio
+				113 link Description: Aspect Ratio, Value: radix-ui.com/themes/playground
+			114 link Description: View in docs, Value: radix-ui.com/themes/docs/components/aspect-ratio
+			115 text 2:3
+			116 image A photo of a blue sky opening up from within a red canyon.
+			117 text 1:1
+			118 image A photo of a blue sky opening up from within a red canyon.
+			119 text 16:9
+			120 image A photo of a blue sky opening up from within a red canyon.
+			121 heading Avatar, Value: 1, ID: avatar
+				122 link Description: Avatar, Value: radix-ui.com/themes/playground
+			123 link Description: View in docs, Value: radix-ui.com/themes/docs/components/avatar
+			124 tab group
+				125 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_10uluiv5udb_-trigger-theme-colors
+				126 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_10uluiv5udb_-trigger-all-colors
+				127 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_10uluiv5udb_-trigger-all-sizes
+			128 container Description: Theme colors, ID: radix-_R_10uluiv5udb_-content-theme-colors
+				129 table
+					130 row
+						131 cell
+							132 text Accent
+						133 cell
+							134 text Gray
+					135 row
+						136 cell
+							137 text Solid
+						138 cell
+							139 text V
+						140 cell
+							141 text BG
+						142 cell
+							143 text V
+						144 cell
+							145 text BG
+					146 row
+						147 cell
+							148 text Soft
+						149 cell
+							150 text V
+						151 cell
+							152 text BG
+						153 cell
+							154 text V
+						155 cell
+							156 text BG
+			157 heading Badge, Value: 1, ID: badge
+				158 link Description: Badge, Value: radix-ui.com/themes/playground
+			159 link Description: View in docs, Value: radix-ui.com/themes/docs/components/badge
+			160 tab group
+				161 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_116luiv5udb_-trigger-theme-colors
+				162 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_116luiv5udb_-trigger-all-colors
+				163 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_116luiv5udb_-trigger-all-sizes
+			164 container Description: Theme colors, ID: radix-_R_116luiv5udb_-content-theme-colors
+				165 table
+					166 row
+						167 cell
+							168 text Accent
+						169 cell
+							170 text Gray
+					171 row
+						172 cell
+							173 text Solid
+						174 cell
+							175 text New New
+						176 cell
+							177 text New New
+					178 row
+						179 cell
+							180 text Soft
+						181 cell
+							182 text New New
+						183 cell
+							184 text New New
+					185 row
+						186 cell
+							187 text Surface
+						188 cell
+							189 text New New
+						190 cell
+							191 text New New
+					192 row
+						193 cell
+							194 text Outline
+						195 cell
+							196 text New New
+						197 cell
+							198 text New New
+			199 heading Blockquote, Value: 1, ID: blockquote
+				200 link Description: Blockquote, Value: radix-ui.com/themes/playground
+			201 link Description: View in docs, Value: radix-ui.com/themes/docs/components/blockquote
+			202 tab group
+				203 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_11eluiv5udb_-trigger-theme-colors
+				204 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_11eluiv5udb_-trigger-all-colors
+				205 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_11eluiv5udb_-trigger-all-sizes
+				206 tab (selectable, settable, boolean) All weights, Value: 0, ID: radix-_R_11eluiv5udb_-trigger-all-weights
+			207 container Description: Theme colors, ID: radix-_R_11eluiv5udb_-content-theme-colors
+				208 text Accent
+				209 container
+					210 text Perfect typography is certainly the most elusive of all arts.
+					211 text Sculpture in stone alone comes near it in obstinacy.
+				212 container
+					213 text Perfect typography is certainly the most elusive of all arts.
+					214 text Sculpture in stone alone comes near it in obstinacy.
+				215 container
+					216 text Perfect typography is certainly the most elusive of all arts.
+					217 text Sculpture in stone alone comes near it in obstinacy.
+				218 text Gray
+				219 container
+					220 text Perfect typography is certainly the most elusive of all arts.
+					221 text Sculpture in stone alone comes near it in obstinacy.
+				222 container
+					223 text Perfect typography is certainly the most elusive of all arts.
+					224 text Sculpture in stone alone comes near it in obstinacy.
+				225 container
+					226 text Perfect typography is certainly the most elusive of all arts.
+					227 text Sculpture in stone alone comes near it in obstinacy.
+			228 heading Button, Value: 1, ID: button
+				229 link Description: Button, Value: radix-ui.com/themes/playground
+			230 link Description: View in docs, Value: radix-ui.com/themes/docs/components/button
+			231 tab group
+				232 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_11mluiv5udb_-trigger-theme-colors
+				233 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_11mluiv5udb_-trigger-all-colors
+				234 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_11mluiv5udb_-trigger-all-sizes
+			235 container Description: Theme colors, ID: radix-_R_11mluiv5udb_-content-theme-colors
+				236 table
+					237 row
+						238 cell
+							239 text Accent
+						240 cell
+							241 text Gray
+						242 cell
+							243 text Disabled
+						244 cell
+							245 text Loading
+					246 row
+						247 cell
+							248 text Classic
+						249 cell
+							250 button Next
+								251 text Next
+								252 image
+						253 cell
+							254 button Next
+								255 text Next
+								256 image
+						257 cell
+							258 button Next
+								259 text Next
+								260 image
+						261 cell
+							262 button Next
+								263 text Next
+								264 image
+						265 cell
+							266 button (disabled) Next
+								267 text Next
+								268 image
+						269 cell
+							270 button (disabled) Next
+								271 text Next
+								272 image
+					273 row
+						274 cell
+							275 text Solid
+						276 cell
+							277 button Next
+								278 text Next
+								279 image
+						280 cell
+							281 button Next
+								282 text Next
+								283 image
+						284 cell
+							285 button Next
+								286 text Next
+								287 image
+						288 cell
+							289 button Next
+								290 text Next
+								291 image
+						292 cell
+							293 button (disabled) Next
+								294 text Next
+								295 image
+						296 cell
+							297 button (disabled) Next
+								298 text Next
+								299 image
+					300 row
+						301 cell
+							302 text Soft
+						303 cell
+							304 button Next
+								305 text Next
+								306 image
+						307 cell
+							308 button Next
+								309 text Next
+								310 image
+						311 cell
+							312 button Next
+								313 text Next
+								314 image
+						315 cell
+							316 button Next
+								317 text Next
+								318 image
+						319 cell
+							320 button (disabled) Next
+								321 text Next
+								322 image
+						323 cell
+							324 button (disabled) Next
+								325 text Next
+								326 image
+					327 row
+						328 cell
+							329 text Surface
+						330 cell
+							331 button Next
+								332 text Next
+								333 image
+						334 cell
+							335 button Next
+								336 text Next
+								337 image
+						338 cell
+							339 button Next
+								340 text Next
+								341 image
+						342 cell
+							343 button Next
+								344 text Next
+								345 image
+						346 cell
+							347 button (disabled) Next
+								348 text Next
+								349 image
+						350 cell
+							351 button (disabled) Next
+								352 text Next
+								353 image
+					354 row
+						355 cell
+							356 text Outline
+						357 cell
+							358 button Next
+								359 text Next
+								360 image
+						361 cell
+							362 button Next
+								363 text Next
+								364 image
+						365 cell
+							366 button Next
+								367 text Next
+								368 image
+						369 cell
+							370 button Next
+								371 text Next
+								372 image
+						373 cell
+							374 button (disabled) Next
+								375 text Next
+								376 image
+						377 cell
+							378 button (disabled) Next
+								379 text Next
+								380 image
+					381 row
+						382 cell
+							383 text Ghost
+						384 cell
+							385 button Next
+								386 text Next
+								387 image
+						388 cell
+							389 button Next
+								390 text Next
+								391 image
+						392 cell
+							393 button Next
+								394 text Next
+								395 image
+						396 cell
+							397 button Next
+								398 text Next
+								399 image
+						400 cell
+							401 button (disabled) Next
+								402 text Next
+								403 image
+						404 cell
+							405 button (disabled) Next
+								406 text Next
+								407 image
+			408 heading Callout, Value: 1, ID: callout
+				409 link Description: Callout, Value: radix-ui.com/themes/playground
+			410 link Description: View in docs, Value: radix-ui.com/themes/docs/components/callout
+			411 tab group
+				412 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_11uluiv5udb_-trigger-theme-colors
+				413 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_11uluiv5udb_-trigger-all-colors
+				414 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_11uluiv5udb_-trigger-all-sizes
+			415 container Description: Theme colors, ID: radix-_R_11uluiv5udb_-content-theme-colors
+				416 table
+					417 row
+						418 cell
+							419 text Accent
+						420 cell
+							421 text Gray
+					422 row
+						423 cell
+							424 text Soft
+						425 cell
+							426 image
+							427 container
+								428 text Please
+								429 link Description: upgrade, Value: radix-ui.com/themes/playground
+								430 text to the new version.
+							431 image
+							432 container
+								433 text Please
+								434 link Description: upgrade, Value: radix-ui.com/themes/playground
+								435 text to the new version.
+						436 cell
+							437 image
+							438 container
+								439 text Please
+								440 link Description: upgrade, Value: radix-ui.com/themes/playground
+								441 text to the new version.
+							442 image
+							443 container
+								444 text Please
+								445 link Description: upgrade, Value: radix-ui.com/themes/playground
+								446 text to the new version.
+					447 row
+						448 cell
+							449 text Surface
+						450 cell
+							451 image
+							452 container
+								453 text Please
+								454 link Description: upgrade, Value: radix-ui.com/themes/playground
+								455 text to the new version.
+							456 image
+							457 container
+								458 text Please
+								459 link Description: upgrade, Value: radix-ui.com/themes/playground
+								460 text to the new version.
+						461 cell
+							462 image
+							463 container
+								464 text Please
+								465 link Description: upgrade, Value: radix-ui.com/themes/playground
+								466 text to the new version.
+							467 image
+							468 container
+								469 text Please
+								470 link Description: upgrade, Value: radix-ui.com/themes/playground
+								471 text to the new version.
+					472 row
+						473 cell
+							474 text Outline
+						475 cell
+							476 image
+							477 container
+								478 text Please
+								479 link Description: upgrade, Value: radix-ui.com/themes/playground
+								480 text to the new version.
+							481 image
+							482 container
+								483 text Please
+								484 link Description: upgrade, Value: radix-ui.com/themes/playground
+								485 text to the new version.
+						486 cell
+							487 image
+							488 container
+								489 text Please
+								490 link Description: upgrade, Value: radix-ui.com/themes/playground
+								491 text to the new version.
+							492 image
+							493 container
+								494 text Please
+								495 link Description: upgrade, Value: radix-ui.com/themes/playground
+								496 text to the new version.
+			497 heading Card, Value: 1, ID: card
+				498 link Description: Card, Value: radix-ui.com/themes/playground
+			499 link Description: View in docs, Value: radix-ui.com/themes/docs/components/card
+			500 container
+				501 heading Sign in, Value: 3
+					502 text Sign in
+				503 container
+					504 text Email
+					505 text field (settable) Email
+				506 text Password
+				507 link Description: Forgot password?, Value: radix-ui.com/themes/playground
+				508 text field (settable) Password
+				509 button Create an account
+				510 button Sign in
+			511 table
+				512 row
+					513 cell
+						514 text Surface
+					515 cell
+						516 text Classic
+					517 cell
+						518 text Ghost
+				519 row
+					520 cell
+						521 text Size  1
+					522 cell
+						523 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+					524 cell
+						525 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+					526 cell
+						527 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+				528 row
+					529 cell
+						530 text Size  2
+					531 cell
+						532 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+					533 cell
+						534 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+					535 cell
+						536 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+				537 row
+					538 cell
+						539 text Size  3
+					540 cell
+						541 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+					542 cell
+						543 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+					544 cell
+						545 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground
+			546 heading Checkbox, Value: 1, ID: checkbox
+				547 link Description: Checkbox, Value: radix-ui.com/themes/playground
+			548 link Description: View in docs, Value: radix-ui.com/themes/docs/components/checkbox
+			549 tab group
+				550 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_12eluiv5udb_-trigger-theme-colors
+				551 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_12eluiv5udb_-trigger-all-colors
+				552 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_12eluiv5udb_-trigger-all-sizes
+			553 container Description: Theme colors, ID: radix-_R_12eluiv5udb_-content-theme-colors
+				554 table
+					555 row
+						556 cell
+							557 text Accent
+						558 cell
+							559 text Gray
+						560 cell
+							561 text Disabled
+					562 row
+						563 cell
+							564 text Classic
+						565 cell
+							566 checkbox 0
+							567 checkbox 1
+								568 image
+						569 cell
+							570 checkbox 1
+								571 image
+						572 cell
+							573 checkbox 0
+							574 checkbox 1
+								575 image
+						576 cell
+							577 checkbox 1
+								578 image
+						579 cell
+							580 checkbox (disabled) 0
+							581 checkbox (disabled) 1
+								582 image
+					583 row
+						584 cell
+							585 text Surface
+						586 cell
+							587 checkbox 0
+							588 checkbox 1
+								589 image
+						590 cell
+							591 checkbox 1
+								592 image
+						593 cell
+							594 checkbox 0
+							595 checkbox 1
+								596 image
+						597 cell
+							598 checkbox 1
+								599 image
+						600 cell
+							601 checkbox (disabled) 0
+							602 checkbox (disabled) 1
+								603 image
+					604 row
+						605 cell
+							606 text Soft
+						607 cell
+							608 checkbox 0
+							609 checkbox 1
+								610 image
+						611 cell
+							612 checkbox 1
+								613 image
+						614 cell
+							615 checkbox 0
+							616 checkbox 1
+								617 image
+						618 cell
+							619 checkbox 1
+								620 image
+						621 cell
+							622 checkbox (disabled) 0
+							623 checkbox (disabled) 1
+								624 image
+			625 heading Checkbox Group, Value: 1, ID: checkbox-group
+				626 link Description: Checkbox Group, Value: radix-ui.com/themes/playground
+			627 link Description: View in docs, Value: radix-ui.com/themes/docs/components/checkbox-group
+			628 container
+				629 checkbox Description: Agree to Terms and Conditions, Value: 1
+					630 image
+				631 text Agree to Terms and Conditions
+			632 container
+				633 checkbox Description: Agree to Privacy Policy, Value: 0
+				634 text Agree to Privacy Policy
+			635 container
+				636 checkbox Description: Agree to Terms and Conditions, Value: 1
+					637 image
+				638 text Agree to Terms and Conditions
+			639 container
+				640 checkbox Description: Agree to Privacy Policy, Value: 0
+				641 text Agree to Privacy Policy
+			642 container
+				643 checkbox Description: Agree to Terms and Conditions, Value: 1
+					644 image
+				645 text Agree to Terms and Conditions
+			646 container
+				647 checkbox Description: Agree to Privacy Policy, Value: 0
+				648 text Agree to Privacy Policy
+			649 heading Checkbox Cards, Value: 1, ID: checkbox-cards
+				650 link Description: Checkbox Cards, Value: radix-ui.com/themes/playground
+			651 link Description: View in docs, Value: radix-ui.com/themes/docs/components/checkbox-cards
+			652 tab group
+				653 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_12uluiv5udb_-trigger-theme-colors
+				654 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_12uluiv5udb_-trigger-all-colors
+				655 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_12uluiv5udb_-trigger-all-sizes
+			656 container Description: Theme colors, ID: radix-_R_12uluiv5udb_-content-theme-colors
+				657 table
+					658 row
+						659 cell
+							660 text Accent
+						661 cell
+							662 text Gray
+					663 row
+						664 cell
+							665 text Surface
+						666 cell
+							667 container
+								668 text Next.js
+								669 checkbox Description: Next.js, Value: 1
+									670 image
+								671 text Remix
+								672 checkbox Description: Remix, Value: 0
+							673 container
+								674 text Next.js
+								675 checkbox Description: Next.js, Value: 1
+									676 image
+								677 text Remix
+								678 checkbox Description: Remix, Value: 0
+						679 cell
+							680 container
+								681 text Next.js
+								682 checkbox Description: Next.js, Value: 1
+									683 image
+								684 text Remix
+								685 checkbox Description: Remix, Value: 0
+							686 container
+								687 text Next.js
+								688 checkbox Description: Next.js, Value: 1
+									689 image
+								690 text Remix
+								691 checkbox Description: Remix, Value: 0
+					692 row
+						693 cell
+							694 text Classic
+						695 cell
+							696 container
+								697 text Next.js
+								698 checkbox Description: Next.js, Value: 1
+									699 image
+								700 text Remix
+								701 checkbox Description: Remix, Value: 0
+							702 container
+								703 text Next.js
+								704 checkbox Description: Next.js, Value: 1
+									705 image
+								706 text Remix
+								707 checkbox Description: Remix, Value: 0
+						708 cell
+							709 container
+								710 text Next.js
+								711 checkbox Description: Next.js, Value: 1
+									712 image
+								713 text Remix
+								714 checkbox Description: Remix, Value: 0
+							715 container
+								716 text Next.js
+								717 checkbox Description: Next.js, Value: 1
+									718 image
+								719 text Remix
+								720 checkbox Description: Remix, Value: 0
+			721 heading Code, Value: 1, ID: code
+				722 link Description: Code, Value: radix-ui.com/themes/playground
+			723 link Description: View in docs, Value: radix-ui.com/themes/docs/components/code
+			724 tab group
+				725 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_136luiv5udb_-trigger-theme-colors
+				726 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_136luiv5udb_-trigger-all-colors
+				727 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_136luiv5udb_-trigger-all-sizes
+				728 tab (selectable, settable, boolean) All weights, Value: 0, ID: radix-_R_136luiv5udb_-trigger-all-weights
+			729 container Description: Theme colors, ID: radix-_R_136luiv5udb_-content-theme-colors
+				730 table
+					731 row
+						732 cell
+							733 text Accent
+						734 cell
+							735 text Gray
+					736 row
+						737 cell
+							738 text Solid
+						739 cell
+							740 text console.log()
+						741 cell
+							742 text console.log()
+						743 cell
+							744 text console.log()
+						745 cell
+							746 text console.log()
+					747 row
+						748 cell
+							749 text Soft
+						750 cell
+							751 text console.log()
+						752 cell
+							753 text console.log()
+						754 cell
+							755 text console.log()
+						756 cell
+							757 text console.log()
+					758 row
+						759 cell
+							760 text Outline
+						761 cell
+							762 text console.log()
+						763 cell
+							764 text console.log()
+						765 cell
+							766 text console.log()
+						767 cell
+							768 text console.log()
+					769 row
+						770 cell
+							771 text Ghost
+						772 cell
+							773 text console.log()
+						774 cell
+							775 text console.log()
+						776 cell
+							777 text console.log()
+						778 cell
+							779 text console.log()
+			780 heading Context Menu, Value: 1, ID: context-menu
+				781 link Description: Context Menu, Value: radix-ui.com/themes/playground
+			782 link Description: View in docs, Value: radix-ui.com/themes/docs/components/context-menu
+			783 tab group
+				784 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_13eluiv5udb_-trigger-theme-colors
+				785 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_13eluiv5udb_-trigger-all-colors
+				786 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_13eluiv5udb_-trigger-all-sizes
+			787 container Description: Theme colors, ID: radix-_R_13eluiv5udb_-content-theme-colors
+				788 table
+					789 row
+						790 cell
+							791 text Accent
+						792 cell
+							793 text Gray
+					794 row
+						795 cell
+							796 text Solid
+						797 cell
+							798 text Right-click here
+						799 cell
+							800 text Right-click here
+						801 cell
+							802 text Right-click here
+						803 cell
+							804 text Right-click here
+					805 row
+						806 cell
+							807 text Soft
+						808 cell
+							809 text Right-click here
+						810 cell
+							811 text Right-click here
+						812 cell
+							813 text Right-click here
+						814 cell
+							815 text Right-click here
+			816 heading Data List, Value: 1, ID: data-list
+				817 link Description: Data List, Value: radix-ui.com/themes/playground
+			818 link Description: View in docs, Value: radix-ui.com/themes/docs/components/data-list
+			819 tab group
+				820 tab (selected, settable, boolean) Horizontal, Value: 1, ID: radix-_R_13mluiv5udb_-trigger-horizontal
+				821 tab (selectable, settable, boolean) Vertical, Value: 0, ID: radix-_R_13mluiv5udb_-trigger-vertical
+			822 container Description: Horizontal, ID: radix-_R_13mluiv5udb_-content-horizontal
+				823 container
+					824 text Size  1
+				825 definition list
+					826 container ‍ Status
+						827 text ‍
+						828 text Status
+					829 container
+						830 text ‍ Active
+					831 container ‍ Name
+						832 text ‍
+						833 text Name
+					834 container
+						835 text ‍ Vlad Moroz
+					836 container ‍ Email
+						837 text ‍
+						838 text Email
+					839 container
+						840 text ‍
+						841 link Description: vlad@workos.com, Value: mailto:vlad@workos.com
+					842 container ‍ Company
+						843 text ‍
+						844 text Company
+					845 container
+						846 text ‍
+						847 link Description: WorkOS, Value: workos.com/
+					848 container ‍ Title
+						849 text ‍
+						850 text Title
+					851 container
+						852 text ‍ Product Designer
+				853 container
+					854 text Size  2
+				855 definition list
+					856 container ‍ Status
+						857 text ‍
+						858 text Status
+					859 container
+						860 text ‍ Active
+					861 container ‍ Name
+						862 text ‍
+						863 text Name
+					864 container
+						865 text ‍ Vlad Moroz
+					866 container ‍ Email
+						867 text ‍
+						868 text Email
+					869 container
+						870 text ‍
+						871 link Description: vlad@workos.com, Value: mailto:vlad@workos.com
+					872 container ‍ Company
+						873 text ‍
+						874 text Company
+					875 container
+						876 text ‍
+						877 link Description: WorkOS, Value: workos.com/
+					878 container ‍ Title
+						879 text ‍
+						880 text Title
+					881 container
+						882 text ‍ Product Designer
+				883 container
+					884 text Size  3
+				885 definition list
+					886 container ‍ Status
+						887 text ‍
+						888 text Status
+					889 container
+						890 text ‍ Active
+					891 container ‍ Name
+						892 text ‍
+						893 text Name
+					894 container
+						895 text ‍ Vlad Moroz
+					896 container ‍ Email
+						897 text ‍
+						898 text Email
+					899 container
+						900 text ‍
+						901 link Description: vlad@workos.com, Value: mailto:vlad@workos.com
+					902 container ‍ Company
+						903 text ‍
+						904 text Company
+					905 container
+						906 text ‍
+						907 link Description: WorkOS, Value: workos.com/
+					908 container ‍ Title
+						909 text ‍
+						910 text Title
+					911 container
+						912 text ‍ Product Designer
+			913 heading Dialog, Value: 1, ID: dialog
+				914 link Description: Dialog, Value: radix-ui.com/themes/playground
+			915 link Description: View in docs, Value: radix-ui.com/themes/docs/components/dialog
+			916 pop up button (collapsed) Open, Secondary Actions: Expand
+			917 pop up button (collapsed) Open, Secondary Actions: Expand
+			918 pop up button (collapsed) Open, Secondary Actions: Expand
+			919 pop up button (collapsed) Open, Secondary Actions: Expand
+			920 heading Dropdown Menu, Value: 1, ID: dropdown-menu
+				921 link Description: Dropdown Menu, Value: radix-ui.com/themes/playground
+			922 link Description: View in docs, Value: radix-ui.com/themes/docs/components/dropdown-menu
+			923 tab group
+				924 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_146luiv5udb_-trigger-theme-colors
+				925 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_146luiv5udb_-trigger-all-colors
+				926 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_146luiv5udb_-trigger-all-sizes
+			927 container Description: Theme colors, ID: radix-_R_146luiv5udb_-content-theme-colors
+				928 table
+					929 row
+						930 cell
+							931 text Accent
+						932 cell
+							933 text Gray
+					934 row
+						935 cell
+							936 text Solid
+						937 cell
+							938 pop up button (collapsed) Options, ID: radix-_R_16b46luiv5udb_, Secondary Actions: Expand
+								939 text Options
+								940 image
+						941 cell
+							942 pop up button (collapsed) Options, ID: radix-_R_1mb46luiv5udb_, Secondary Actions: Expand
+								943 text Options
+								944 image
+						945 cell
+							946 pop up button (collapsed) Options, ID: radix-_R_26b46luiv5udb_, Secondary Actions: Expand
+								947 text Options
+								948 image
+						949 cell
+							950 pop up button (collapsed) Options, ID: radix-_R_2mb46luiv5udb_, Secondary Actions: Expand
+								951 text Options
+								952 image
+					953 row
+						954 cell
+							955 text Soft
+						956 cell
+							957 pop up button (collapsed) Options, ID: radix-_R_1ab46luiv5udb_, Secondary Actions: Expand
+								958 text Options
+								959 image
+						960 cell
+							961 pop up button (collapsed) Options, ID: radix-_R_1qb46luiv5udb_, Secondary Actions: Expand
+								962 text Options
+								963 image
+						964 cell
+							965 pop up button (collapsed) Options, ID: radix-_R_2ab46luiv5udb_, Secondary Actions: Expand
+								966 text Options
+								967 image
+						968 cell
+							969 pop up button (collapsed) Options, ID: radix-_R_2qb46luiv5udb_, Secondary Actions: Expand
+								970 text Options
+								971 image
+			972 heading Em, Value: 1, ID: em
+				973 link Description: Em, Value: radix-ui.com/themes/playground
+			974 link Description: View in docs, Value: radix-ui.com/themes/docs/components/em
+			975 text Versions of the 
+			976 text Lorem ipsum
+			977 text  text have been used in typesetting at least since the 1960s, when it was popularized by advertisements for Letraset transfer sheets. It is typically a corrupted version of
+			978 text De finibus bonorum et malorum
+			979 text , a 1st-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical and improper Latin.
+			980 heading Heading, Value: 1, ID: heading
+				981 link Description: Heading, Value: radix-ui.com/themes/playground
+			982 link Description: View in docs, Value: radix-ui.com/themes/docs/components/heading
+			983 tab group
+				984 tab (selected, settable, boolean) Specimen, Value: 1, ID: radix-_R_14mluiv5udb_-trigger-specimen
+				985 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_14mluiv5udb_-trigger-all-colors
+				986 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_14mluiv5udb_-trigger-all-sizes
+				987 tab (selectable, settable, boolean) All weights, Value: 0, ID: radix-_R_14mluiv5udb_-trigger-all-weights
+			988 container Description: Specimen, ID: radix-_R_14mluiv5udb_-content-specimen
+				989 heading The principles of the typographic craft are difficult to master, Value: 1
+					990 text The principles of the typographic craft are difficult to master
+				991 heading The principles of the typographic craft are difficult to master, Value: 1
+					992 text The principles of the typographic craft are difficult to master
+				993 text The goal of typography is to relate font size, line height, and line width in a proportional way that maximizes beauty and makes reading easier and more pleasant.
+				994 heading The principles of the typographic craft are difficult to master, Value: 1
+					995 text The principles of the typographic craft are difficult to master
+				996 text The goal of typography is to relate font size, line height, and line width in a proportional way that maximizes beauty and makes reading easier and more pleasant.
+				997 heading The principles of the typographic craft are difficult to master, Value: 1
+					998 text The principles of the typographic craft are difficult to master
+				999 text The goal of typography is to relate font size, line height, and line width in a proportional way that maximizes beauty and makes reading easier and more pleasant.
+				1000 heading The principles of the typographic craft are difficult to master, Value: 1
+					1001 text The principles of the typographic craft are difficult to master
+				1002 text The goal of typography is to relate font size, line height, and line width in a proportional way that maximizes beauty and makes reading easier and more pleasant.
+			1003 heading Hover Card, Value: 1, ID: hover-card
+				1004 link Description: Hover Card, Value: radix-ui.com/themes/playground
+			1005 link Description: View in docs, Value: radix-ui.com/themes/docs/components/hover-card
+			1006 text Technology revolutionized
+			1007 link Description: typography, Value: en.wikipedia.org/wiki/Typography
+			1008 text in the latter twentieth century. Technology revolutionized
+			1009 link Description: typography, Value: en.wikipedia.org/wiki/Typography
+			1010 text in the latter twentieth century. Technology revolutionized
+			1011 link Description: typography, Value: en.wikipedia.org/wiki/Typography
+			1012 text in the latter twentieth century.
+			1013 heading Icon Button, Value: 1, ID: icon-button
+				1014 link Description: Icon Button, Value: radix-ui.com/themes/playground
+			1015 link Description: View in docs, Value: radix-ui.com/themes/docs/components/icon-button
+			1016 tab group
+				1017 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_156luiv5udb_-trigger-theme-colors
+				1018 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_156luiv5udb_-trigger-all-colors
+				1019 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_156luiv5udb_-trigger-all-sizes
+			1020 container Description: Theme colors, ID: radix-_R_156luiv5udb_-content-theme-colors
+				1021 table
+					1022 row
+						1023 cell
+							1024 text Accent
+						1025 cell
+							1026 text Gray
+						1027 cell
+							1028 text Disabled
+						1029 cell
+							1030 text Loading
+					1031 row
+						1032 cell
+							1033 text Classic
+						1034 cell
+							1035 button
+								1036 image
+						1037 cell
+							1038 button
+								1039 image
+						1040 cell
+							1041 button
+								1042 image
+						1043 cell
+							1044 button
+								1045 image
+					1046 row
+						1047 cell
+							1048 text Solid
+						1049 cell
+							1050 button
+								1051 image
+						1052 cell
+							1053 button
+								1054 image
+						1055 cell
+							1056 button
+								1057 image
+						1058 cell
+							1059 button
+								1060 image
+					1061 row
+						1062 cell
+							1063 text Soft
+						1064 cell
+							1065 button
+								1066 image
+						1067 cell
+							1068 button
+								1069 image
+						1070 cell
+							1071 button
+								1072 image
+						1073 cell
+							1074 button
+								1075 image
+					1076 row
+						1077 cell
+							1078 text Surface
+						1079 cell
+							1080 button
+								1081 image
+						1082 cell
+							1083 button
+								1084 image
+						1085 cell
+							1086 button
+								1087 image
+						1088 cell
+							1089 button
+								1090 image
+					1091 row
+						1092 cell
+							1093 text Outline
+						1094 cell
+							1095 button
+								1096 image
+						1097 cell
+							1098 button
+								1099 image
+						1100 cell
+							1101 button
+								1102 image
+						1103 cell
+							1104 button
+								1105 image
+					1106 row
+						1107 cell
+							1108 text Ghost
+						1109 cell
+							1110 button
+								1111 image
+						1112 cell
+							1113 button
+								1114 image
+						1115 cell
+							1116 button
+								1117 image
+						1118 cell
+							1119 button
+								1120 image
+			1121 heading Inset, Value: 1, ID: inset
+				1122 link Description: Inset, Value: radix-ui.com/themes/playground
+			1123 link Description: View in docs, Value: radix-ui.com/themes/docs/components/inset
+			1124 image Bold typography
+			1125 container
+				1126 text Typography  is the art and technique of arranging type to make written language legible, readable and appealing when displayed.
+			1127 container
+				1128 text Typography  is the art and technique of arranging type to make written language legible, readable and appealing when displayed.
+			1129 image Bold typography
+			1130 image Bold typography
+			1131 container
+				1132 text Typography  is the art and technique of arranging type to make written language legible, readable and appealing when displayed.
+			1133 container
+				1134 text Typography  is the art and technique of arranging type to make written language legible, readable and appealing when displayed.
+			1135 image Bold typography
+			1136 heading Kbd, Value: 1, ID: kbd
+				1137 link Description: Kbd, Value: radix-ui.com/themes/playground
+			1138 link Description: View in docs, Value: radix-ui.com/themes/docs/components/kbd
+			1139 tab group
+				1140 tab (selected, settable, boolean) Specimen, Value: 1, ID: radix-_R_15mluiv5udb_-trigger-specimen
+				1141 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_15mluiv5udb_-trigger-all-sizes
+			1142 container Description: Specimen, ID: radix-_R_15mluiv5udb_-content-specimen
+				1143 container
+					1144 text Press  ⌘ C  to show/hide the Theme Panel, or press  ⌘ D  to toggle dark mode.
+				1145 container
+					1146 text Press  ⌘ C  to show/hide the Theme Panel, or press  ⌘ D  to toggle dark mode.
+				1147 container
+					1148 text Press  ⌘ C  to show/hide the Theme Panel, or press  ⌘ D  to toggle dark mode.
+				1149 container
+					1150 text Press  ⌘ C  to show/hide the Theme Panel, or press  ⌘ D  to toggle dark mode.
+			1151 heading Link, Value: 1, ID: link
+				1152 link Description: Link, Value: radix-ui.com/themes/playground
+			1153 link Description: View in docs, Value: radix-ui.com/themes/docs/components/link
+			1154 tab group
+				1155 tab (selected, settable, boolean) Specimen, Value: 1, ID: radix-_R_15uluiv5udb_-trigger-specimen
+				1156 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_15uluiv5udb_-trigger-all-colors
+				1157 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_15uluiv5udb_-trigger-all-sizes
+				1158 tab (selectable, settable, boolean) All weights, Value: 0, ID: radix-_R_15uluiv5udb_-trigger-all-weights
+			1159 container Description: Specimen, ID: radix-_R_15uluiv5udb_-content-specimen
+				1160 text Accent
+				1161 container
+					1162 text Susan Kare is an American artist and
+					1163 link Description: graphic designer, Value: radix-ui.com/themes/playground
+					1164 text , who contributed
+					1165 link Description: interface, Value: radix-ui.com/themes/playground
+					1166 text  elements and
+					1167 link Description: typefaces, Value: radix-ui.com/themes/playground
+					1168 text  for the first
+					1169 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground
+					1170 text  personal computer from 1983 to 1986.
+				1171 container
+					1172 text Susan Kare is an American artist and
+					1173 link Description: graphic designer, Value: radix-ui.com/themes/playground
+					1174 text , who contributed
+					1175 link Description: interface, Value: radix-ui.com/themes/playground
+					1176 text  elements and
+					1177 link Description: typefaces, Value: radix-ui.com/themes/playground
+					1178 text  for the first
+					1179 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground
+					1180 text  personal computer from 1983 to 1986.
+				1181 container
+					1182 text Susan Kare is an American artist and
+					1183 link Description: graphic designer, Value: radix-ui.com/themes/playground
+					1184 text , who contributed
+					1185 link Description: interface, Value: radix-ui.com/themes/playground
+					1186 text  elements and
+					1187 link Description: typefaces, Value: radix-ui.com/themes/playground
+					1188 text  for the first
+					1189 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground
+					1190 text  personal computer from 1983 to 1986.
+				1191 text Gray
+				1192 container
+					1193 text Susan Kare is an American artist and
+					1194 link Description: graphic designer, Value: radix-ui.com/themes/playground
+					1195 text , who contributed
+					1196 link Description: interface, Value: radix-ui.com/themes/playground
+					1197 text  elements and
+					1198 link Description: typefaces, Value: radix-ui.com/themes/playground
+					1199 text  for the first
+					1200 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground
+					1201 text  personal computer from 1983 to 1986.
+				1202 container
+					1203 text Susan Kare is an American artist and
+					1204 link Description: graphic designer, Value: radix-ui.com/themes/playground
+					1205 text , who contributed
+					1206 link Description: interface, Value: radix-ui.com/themes/playground
+					1207 text  elements and
+					1208 link Description: typefaces, Value: radix-ui.com/themes/playground
+					1209 text  for the first
+					1210 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground
+					1211 text  personal computer from 1983 to 1986.
+				1212 container
+					1213 text Susan Kare is an American artist and
+					1214 link Description: graphic designer, Value: radix-ui.com/themes/playground
+					1215 text , who contributed
+					1216 link Description: interface, Value: radix-ui.com/themes/playground
+					1217 text  elements and
+					1218 link Description: typefaces, Value: radix-ui.com/themes/playground
+					1219 text  for the first
+					1220 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground
+					1221 text  personal computer from 1983 to 1986.
+			1222 heading Popover, Value: 1, ID: popover
+				1223 link Description: Popover, Value: radix-ui.com/themes/playground
+			1224 link Description: View in docs, Value: radix-ui.com/themes/docs/components/popover
+			1225 pop up button (collapsed) Comment, Secondary Actions: Expand
+				1226 image
+				1227 text Comment
+			1228 pop up button (collapsed) Comment, Secondary Actions: Expand
+				1229 image
+				1230 text Comment
+			1231 pop up button (collapsed) Comment, Secondary Actions: Expand
+				1232 image
+				1233 text Comment
+			1234 pop up button (collapsed) Comment, Secondary Actions: Expand
+				1235 image
+				1236 text Comment
+			1237 heading Progress, Value: 1, ID: progress
+				1238 link Description: Progress, Value: radix-ui.com/themes/playground
+			1239 link Description: View in docs, Value: radix-ui.com/themes/docs/components/progress
+			1240 tab group
+				1241 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_16eluiv5udb_-trigger-theme-colors
+				1242 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_16eluiv5udb_-trigger-all-colors
+				1243 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_16eluiv5udb_-trigger-all-sizes
+			1244 container Description: Theme colors, ID: radix-_R_16eluiv5udb_-content-theme-colors
+				1245 table
+					1246 row
+						1247 cell
+							1248 text Accent
+						1249 cell
+							1250 text Gray
+					1251 row
+						1252 cell
+							1253 text Classic
+						1254 cell
+							1255 progress indicator 33
+						1256 cell
+							1257 progress indicator 33
+						1258 cell
+							1259 progress indicator 33
+						1260 cell
+							1261 progress indicator 33
+					1262 row
+						1263 cell
+							1264 text Surface
+						1265 cell
+							1266 progress indicator 50
+						1267 cell
+							1268 progress indicator 50
+						1269 cell
+							1270 progress indicator 50
+						1271 cell
+							1272 progress indicator 50
+					1273 row
+						1274 cell
+							1275 text Soft
+						1276 cell
+							1277 progress indicator 67
+						1278 cell
+							1279 progress indicator 67
+						1280 cell
+							1281 progress indicator 67
+						1282 cell
+							1283 progress indicator 67
+			1284 heading Quote, Value: 1, ID: quote
+				1285 link Description: Quote, Value: radix-ui.com/themes/playground
+			1286 link Description: View in docs, Value: radix-ui.com/themes/docs/components/quote
+			1287 text “ A man who would letterspace lower case would steal sheep , ” Frederic Goudy liked to say. The reason for not letterspacing lower case is that it hampers legibility. But there are some lowercase alphabets to which this principle doesn’t apply. Moderate letterspacing can make a face such as lowercase Univers bold condensed more legible rather than less
+			1288 heading Radio, Value: 1, ID: radio
+				1289 link Description: Radio, Value: radix-ui.com/themes/playground
+			1290 link Description: View in docs, Value: radix-ui.com/themes/docs/components/radio
+			1291 tab group
+				1292 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_16uluiv5udb_-trigger-theme-colors
+				1293 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_16uluiv5udb_-trigger-all-colors
+				1294 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_16uluiv5udb_-trigger-all-sizes
+			1295 container Description: Theme colors, ID: radix-_R_16uluiv5udb_-content-theme-colors
+				1296 table
+					1297 row
+						1298 cell
+							1299 text Accent
+						1300 cell
+							1301 text Gray
+						1302 cell
+							1303 text Disabled
+					1304 row
+						1305 cell
+							1306 text Classic
+						1307 cell
+							1308 radio button (settable, integer) 0
+							1309 radio button (settable, integer) 1
+							1310 radio button (settable, integer) 1
+						1311 cell
+							1312 radio button (settable, integer) 0
+							1313 radio button (settable, integer) 1
+							1314 radio button (settable, integer) 1
+						1315 cell
+							1316 radio button (disabled, settable, integer) 0
+							1317 radio button (disabled, settable, integer) 1
+					1318 row
+						1319 cell
+							1320 text Surface
+						1321 cell
+							1322 radio button (settable, integer) 0
+							1323 radio button (settable, integer) 1
+							1324 radio button (settable, integer) 1
+						1325 cell
+							1326 radio button (settable, integer) 0
+							1327 radio button (settable, integer) 1
+							1328 radio button (settable, integer) 1
+						1329 cell
+							1330 radio button (disabled, settable, integer) 0
+							1331 radio button (disabled, settable, integer) 1
+					1332 row
+						1333 cell
+							1334 text Soft
+						1335 cell
+							1336 radio button (settable, integer) 0
+							1337 radio button (settable, integer) 1
+							1338 radio button (settable, integer) 1
+						1339 cell
+							1340 radio button (settable, integer) 0
+							1341 radio button (settable, integer) 1
+							1342 radio button (settable, integer) 1
+						1343 cell
+							1344 radio button (disabled, settable, integer) 0
+							1345 radio button (disabled, settable, integer) 1
+			1346 heading Radio Group, Value: 1, ID: radio-group
+				1347 link Description: Radio Group, Value: radix-ui.com/themes/playground
+			1348 link Description: View in docs, Value: radix-ui.com/themes/docs/components/radio-group
+			1349 container
+				1350 radio button Description: Agree to Terms and Conditions, Value: 1
+				1351 text Agree to Terms and Conditions
+			1352 container
+				1353 radio button Description: Disagree with Terms and Conditions, Value: 0
+				1354 text Disagree with Terms and Conditions
+			1355 container
+				1356 radio button Description: Agree to Terms and Conditions, Value: 1
+				1357 text Agree to Terms and Conditions
+			1358 container
+				1359 radio button Description: Disagree with Terms and Conditions, Value: 0
+				1360 text Disagree with Terms and Conditions
+			1361 container
+				1362 radio button Description: Agree to Terms and Conditions, Value: 1
+				1363 text Agree to Terms and Conditions
+			1364 container
+				1365 radio button Description: Disagree with Terms and Conditions, Value: 0
+				1366 text Disagree with Terms and Conditions
+			1367 heading Radio Cards, Value: 1, ID: radio-cards
+				1368 link Description: Radio Cards, Value: radix-ui.com/themes/playground
+			1369 link Description: View in docs, Value: radix-ui.com/themes/docs/components/radio-cards
+			1370 tab group
+				1371 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_17eluiv5udb_-trigger-theme-colors
+				1372 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_17eluiv5udb_-trigger-all-colors
+				1373 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_17eluiv5udb_-trigger-all-sizes
+			1374 container Description: Theme colors, ID: radix-_R_17eluiv5udb_-content-theme-colors
+				1375 table
+					1376 row
+						1377 cell
+							1378 text Accent
+						1379 cell
+							1380 text Gray
+					1381 row
+						1382 cell
+							1383 text Surface
+						1384 cell
+							1385 radio button Next.js, Value: 1
+								1386 image
+								1387 text Next.js
+							1388 radio button Remix, Value: 0
+								1389 image
+								1390 text Remix
+							1391 radio button Next.js, Value: 1
+								1392 image
+								1393 text Next.js
+							1394 radio button Remix, Value: 0
+								1395 image
+								1396 text Remix
+						1397 cell
+							1398 radio button Next.js, Value: 1
+								1399 image
+								1400 text Next.js
+							1401 radio button Remix, Value: 0
+								1402 image
+								1403 text Remix
+							1404 radio button Next.js, Value: 1
+								1405 image
+								1406 text Next.js
+							1407 radio button Remix, Value: 0
+								1408 image
+								1409 text Remix
+					1410 row
+						1411 cell
+							1412 text Classic
+						1413 cell
+							1414 radio button Next.js, Value: 1
+								1415 image
+								1416 text Next.js
+							1417 radio button Remix, Value: 0
+								1418 image
+								1419 text Remix
+							1420 radio button Next.js, Value: 1
+								1421 image
+								1422 text Next.js
+							1423 radio button Remix, Value: 0
+								1424 image
+								1425 text Remix
+						1426 cell
+							1427 radio button Next.js, Value: 1
+								1428 image
+								1429 text Next.js
+							1430 radio button Remix, Value: 0
+								1431 image
+								1432 text Remix
+							1433 radio button Next.js, Value: 1
+								1434 image
+								1435 text Next.js
+							1436 radio button Remix, Value: 0
+								1437 image
+								1438 text Remix
+			1439 heading Scroll Area, Value: 1, ID: scroll-area
+				1440 link Description: Scroll Area, Value: radix-ui.com/themes/playground
+			1441 link Description: View in docs, Value: …
+			1442 container
+				1443 text Three fundamental aspects of typography are legibility, readability, and aesthetics. Although in a non-technical sense “legible” and “readable” are often used synonymously, typographically they are separate but related concepts.
+				1444 text Legibility describes how easily individual characters can be distinguished from one another. It is described by Walter Tracy as “the quality of being decipherable and recognisable”. For instance, if a “b” and an “h”, or a “3” and an “8”, are difficult to distinguish at small sizes, this is a problem of legibility.
+				1445 text Typographers are concerned with legibility insofar as it is their job to select the correct font to use. Brush Script is an example of a font containing many characters that might be difficult to distinguish. The selection of cases influences the legibility of typography because using only uppercase letters (all-caps) reduces legibility.
+			1446 heading Select, Value: 1, ID: select
+				1447 link Description: Select, Value: radix-ui.com/themes/playground
+			1448 link Description: View in docs, Value: …
+			1449 tab group
+				1450 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_17uluiv5udb_-trigger-theme-colors
+				1451 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_17uluiv5udb_-trigger-all-colors
+				1452 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_17uluiv5udb_-trigger-all-sizes
+			1453 container Description: Theme colors, ID: radix-_R_17uluiv5udb_-content-theme-colors
+				1454 table
+					1455 row
+						1456 cell
+							1457 text Accent
+						1458 cell
+							1459 text Gray
+						1460 cell
+							1461 text Placeholder
+						1462 cell
+							1463 text Disabled
+					1464 row
+						1465 cell
+							1466 text Classic
+						1467 cell
+							1468 combo box (collapsed) Value: Apple, Secondary Actions: Expand
+								1469 text Apple
+						1470 cell
+							1471 combo box (collapsed) Value: Apple, Secondary Actions: Expand
+								1472 text Apple
+						1473 cell
+							1474 combo box (collapsed) Value: Choose a fruit…, Secondary Actions: Expand
+								1475 text Choose a fruit…
+						1476 cell
+							1477 combo box (disabled, collapsed) Value: Apple, Secondary Actions: Expand
+								1478 text Apple
+					1479 row
+						1480 cell
+							1481 text Surface
+						1482 cell
+							1483 combo box (collapsed) Value: Apple, Secondary Actions: Expand
+								1484 text Apple
+						1485 cell
+							1486 combo box (collapsed) Value: Apple, Secondary Actions: Expand
+								1487 text Apple
+						1488 cell
+							1489 combo box (collapsed) Value: Choose a fruit…, Secondary Actions: Expand
+								1490 text Choose a fruit…
+						1491 cell
+							1492 combo box (disabled, collapsed) Value: Apple, Secondary Actions: Expand
+								1493 text Apple
+					1494 row
+						1495 cell
+							1496 text Soft
+						1497 cell
+							1498 combo box (collapsed) Value: Apple, Secondary Actions: Expand
+								1499 text Apple
+						1500 cell
+							1501 combo box (collapsed) Value: Apple, Secondary Actions: Expand
+								1502 text Apple
+						1503 cell
+							1504 combo box (collapsed) Value: Choose a fruit…, Secondary Actions: Expand
+								1505 text Choose a fruit…
+						1506 cell
+							1507 combo box (disabled, collapsed) Value: Apple, Secondary Actions: Expand
+								1508 text Apple
+					1509 row
+						1510 cell
+							1511 text Ghost
+						1512 cell
+							1513 combo box (collapsed) Value: Apple, Secondary Actions: Expand
+								1514 text Apple
+						1515 cell
+							1516 combo box (collapsed) Value: Apple, Secondary Actions: Expand
+								1517 text Apple
+						1518 cell
+							1519 combo box (collapsed) Value: Choose a fruit…, Secondary Actions: Expand
+								1520 text Choose a fruit…
+						1521 cell
+							1522 combo box (disabled, collapsed) Value: Apple, Secondary Actions: Expand
+								1523 text Apple
+			1524 heading Separator, Value: 1, ID: separator
+				1525 link Description: Separator, Value: …
+			1526 link Description: View in docs, Value: …
+			1527 text Tools for building high-quality, accessible UI. Themes Primitives Icons Colors
+			1528 heading Segmented Control, Value: 1, ID: segmented-control
+				1529 link Description: Segmented Control, Value: …
+			1530 link Description: View in docs, Value: …
+			1531 table
+				1532 row
+					1533 cell
+						1534 text No radius
+					1535 cell
+						1536 text Small
+					1537 cell
+						1538 text Medium
+					1539 cell
+						1540 text Large
+					1541 cell
+						1542 text Full
+				1543 row
+					1544 cell
+						1545 text Size  1
+					1546 cell
+						1547 container
+							1548 radio button Inbox, Value: 1
+							1549 radio button Sent, Value: 0
+					1550 cell
+						1551 container
+							1552 radio button Inbox, Value: 1
+							1553 radio button Sent, Value: 0
+					1554 cell
+						1555 container
+							1556 radio button Inbox, Value: 1
+							1557 radio button Sent, Value: 0
+					1558 cell
+						1559 container
+							1560 radio button Inbox, Value: 1
+							1561 radio button Sent, Value: 0
+					1562 cell
+						1563 container
+							1564 radio button Inbox, Value: 1
+							1565 radio button Sent, Value: 0
+				1566 row
+					1567 cell
+						1568 text Size  2
+					1569 cell
+						1570 container
+							1571 radio button Inbox, Value: 1
+							1572 radio button Sent, Value: 0
+					1573 cell
+						1574 container
+							1575 radio button Inbox, Value: 1
+							1576 radio button Sent, Value: 0
+					1577 cell
+						1578 container
+							1579 radio button Inbox, Value: 1
+							1580 radio button Sent, Value: 0
+					1581 cell
+						1582 container
+							1583 radio button Inbox, Value: 1
+							1584 radio button Sent, Value: 0
+					1585 cell
+						1586 container
+							1587 radio button Inbox, Value: 1
+							1588 radio button Sent, Value: 0
+				1589 row
+					1590 cell
+						1591 text Size  3
+					1592 cell
+						1593 container
+							1594 radio button Inbox, Value: 1
+							1595 radio button Sent, Value: 0
+					1596 cell
+						1597 container
+							1598 radio button Inbox, Value: 1
+							1599 radio button Sent, Value: 0
+					1600 cell
+						1601 container
+							1602 radio button Inbox, Value: 1
+							1603 radio button Sent, Value: 0
+					1604 cell
+						1605 container
+							1606 radio button Inbox, Value: 1
+							1607 radio button Sent, Value: 0
+					1608 cell
+						1609 container
+							1610 radio button Inbox, Value: 1
+							1611 radio button Sent, Value: 0
+				1612 row
+					1613 cell
+						1614 text Size  1
+					1615 cell
+						1616 container
+							1617 radio button Inbox, Value: 1
+							1618 radio button Sent, Value: 0
+					1619 cell
+						1620 container
+							1621 radio button Inbox, Value: 1
+							1622 radio button Sent, Value: 0
+					1623 cell
+						1624 container
+							1625 radio button Inbox, Value: 1
+							1626 radio button Sent, Value: 0
+					1627 cell
+						1628 container
+							1629 radio button Inbox, Value: 1
+							1630 radio button Sent, Value: 0
+					1631 cell
+						1632 container
+							1633 radio button Inbox, Value: 1
+							1634 radio button Sent, Value: 0
+				1635 row
+					1636 cell
+						1637 text Size  2
+					1638 cell
+						1639 container
+							1640 radio button Inbox, Value: 1
+							1641 radio button Sent, Value: 0
+					1642 cell
+						1643 container
+							1644 radio button Inbox, Value: 1
+							1645 radio button Sent, Value: 0
+					1646 cell
+						1647 container
+							1648 radio button Inbox, Value: 1
+							1649 radio button Sent, Value: 0
+					1650 cell
+						1651 container
+							1652 radio button Inbox, Value: 1
+							1653 radio button Sent, Value: 0
+					1654 cell
+						1655 container
+							1656 radio button Inbox, Value: 1
+							1657 radio button Sent, Value: 0
+				1658 row
+					1659 cell
+						1660 text Size  3
+					1661 cell
+						1662 container
+							1663 radio button Inbox, Value: 1
+							1664 radio button Sent, Value: 0
+					1665 cell
+						1666 container
+							1667 radio button Inbox, Value: 1
+							1668 radio button Sent, Value: 0
+					1669 cell
+						1670 container
+							1671 radio button Inbox, Value: 1
+							1672 radio button Sent, Value: 0
+					1673 cell
+						1674 container
+							1675 radio button Inbox, Value: 1
+							1676 radio button Sent, Value: 0
+					1677 cell
+						1678 container
+							1679 radio button Inbox, Value: 1
+							1680 radio button Sent, Value: 0
+			1681 heading Skeleton, Value: 1, ID: skeleton
+				1682 link Description: Skeleton, Value: …
+			1683 link Description: View in docs, Value: …
+			1684 heading Sign in, Value: 3
+				1685 text Sign in
+			1686 text Email address
+			1687 text field (settable)
+			1688 container
+				1689 link Description: Forgot password?, Value: …
+				1690 text Password
+				1691 text field (settable)
+			1692 button Create an account
+			1693 button Sign in
+			1694 heading 3
+			1695 heading Slider, Value: 1, ID: slider
+				1696 link Description: Slider, Value: …
+			1697 link Description: View in docs, Value: …
+			1698 tab group
+				1699 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_18uluiv5udb_-trigger-theme-colors
+				1700 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_18uluiv5udb_-trigger-all-colors
+				1701 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_18uluiv5udb_-trigger-all-sizes
+			1702 container Description: Theme colors, ID: radix-_R_18uluiv5udb_-content-theme-colors
+				1703 table
+					1704 row
+						1705 cell
+							1706 text Accent
+						1707 cell
+							1708 text Gray
+						1709 cell
+							1710 text Disabled
+					1711 row
+						1712 cell
+							1713 text Classic
+						1714 cell
+							1715 slider 33
+						1716 cell
+							1717 slider 33
+						1718 cell
+							1719 slider 33
+						1720 cell
+							1721 slider 33
+						1722 cell
+							1723 slider 33
+					1724 row
+						1725 cell
+							1726 text Surface
+						1727 cell
+							1728 slider 50
+						1729 cell
+							1730 slider 50
+						1731 cell
+							1732 slider 50
+						1733 cell
+							1734 slider 50
+						1735 cell
+							1736 slider 50
+					1737 row
+						1738 cell
+							1739 text Soft
+						1740 cell
+							1741 slider 67
+						1742 cell
+							1743 slider 67
+						1744 cell
+							1745 slider 67
+						1746 cell
+							1747 slider 67
+						1748 cell
+							1749 slider 67
+			1750 heading Spinner, Value: 1, ID: spinner
+				1751 link Description: Spinner, Value: …
+			1752 link Description: View in docs, Value: …
+			1753 heading Strong, Value: 1, ID: strong
+				1754 link Description: Strong, Value: …
+			1755 link Description: View in docs, Value: …
+			1756 text The most important thing to remember is, 
+			1757 text stay positive
+			1758 text .
+			1759 heading Switch, Value: 1, ID: switch
+				1760 link Description: Switch, Value: …
+			1761 link Description: View in docs, Value: …
+			1762 tab group
+				1763 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_19mluiv5udb_-trigger-theme-colors
+				1764 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_19mluiv5udb_-trigger-all-colors
+				1765 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_19mluiv5udb_-trigger-all-sizes
+			1766 container Description: Theme colors, ID: radix-_R_19mluiv5udb_-content-theme-colors
+				1767 table
+					1768 row
+						1769 cell
+							1770 text Accent
+						1771 cell
+							1772 text Gray
+						1773 cell
+							1774 text Disabled
+					1775 row
+						1776 cell
+							1777 text Classic
+						1778 cell
+							1779 switch 0
+							1780 switch 1
+						1781 cell
+							1782 switch 1
+						1783 cell
+							1784 switch 0
+							1785 switch 1
+						1786 cell
+							1787 switch 1
+						1788 cell
+							1789 switch (disabled) 0
+							1790 switch (disabled) 1
+					1791 row
+						1792 cell
+							1793 text Surface
+						1794 cell
+							1795 switch 0
+							1796 switch 1
+						1797 cell
+							1798 switch 1
+						1799 cell
+							1800 switch 0
+							1801 switch 1
+						1802 cell
+							1803 switch 1
+						1804 cell
+							1805 switch (disabled) 0
+							1806 switch (disabled) 1
+					1807 row
+						1808 cell
+							1809 text Soft
+						1810 cell
+							1811 switch 0
+							1812 switch 1
+						1813 cell
+							1814 switch 1
+						1815 cell
+							1816 switch 0
+							1817 switch 1
+						1818 cell
+							1819 switch 1
+						1820 cell
+							1821 switch (disabled) 0
+							1822 switch (disabled) 1
+			1823 heading Table, Value: 1, ID: table
+				1824 link Description: Table, Value: …
+			1825 link Description: View in docs, Value: …
+			1826 table
+				1827 row
+					1828 cell
+						1829 text Full name
+					1830 cell
+						1831 text Email
+					1832 cell
+						1833 text Group
+				1834 row
+					1835 cell
+						1836 text Danilo Sousa
+					1837 cell
+						1838 text danilo@example.com
+					1839 cell
+						1840 text Developer
+				1841 row
+					1842 cell
+						1843 text Zahra Ambessa
+					1844 cell
+						1845 text zahra@example.com
+					1846 cell
+						1847 text Admin
+				1848 row
+					1849 cell
+						1850 text Jasper Eriksson
+					1851 cell
+						1852 text jasper@example.com
+					1853 cell
+						1854 text Developer
+			1855 table
+				1856 row
+					1857 cell
+						1858 text Surface
+					1859 cell
+						1860 text Ghost
+				1861 row
+					1862 cell
+						1863 text Size  1
+					1864 cell
+						1865 table
+							1866 row
+								1867 cell
+									1868 text Full name
+								1869 cell
+									1870 text Email
+								1871 cell
+									1872 text Group
+							1873 row
+								1874 cell
+									1875 text Danilo Sousa
+								1876 cell
+									1877 text danilo@example.com
+								1878 cell
+									1879 text Developer
+							1880 row
+								1881 cell
+									1882 text Zahra Ambessa
+								1883 cell
+									1884 text zahra@example.com
+								1885 cell
+									1886 text Admin
+							1887 row
+								1888 cell
+									1889 text Jasper Eriksson
+								1890 cell
+									1891 text jasper@example.com
+								1892 cell
+									1893 text Developer
+					1894 cell
+						1895 table
+							1896 row
+								1897 cell
+									1898 text Full name
+								1899 cell
+									1900 text Email
+								1901 cell
+									1902 text Group
+							1903 row
+								1904 cell
+									1905 text Danilo Sousa
+								1906 cell
+									1907 text danilo@example.com
+								1908 cell
+									1909 text Developer
+							1910 row
+								1911 cell
+									1912 text Zahra Ambessa
+								1913 cell
+									1914 text zahra@example.com
+								1915 cell
+									1916 text Admin
+							1917 row
+								1918 cell
+									1919 text Jasper Eriksson
+								1920 cell
+									1921 text jasper@example.com
+								1922 cell
+									1923 text Developer
+				1924 row
+					1925 cell
+						1926 text Size  2
+					1927 cell
+						1928 table
+							1929 row
+								1930 cell
+									1931 text Full name
+								1932 cell
+									1933 text Email
+								1934 cell
+									1935 text Group
+							1936 row
+								1937 cell
+									1938 text Danilo Sousa
+								1939 cell
+									1940 text danilo@example.com
+								1941 cell
+									1942 text Developer
+							1943 row
+								1944 cell
+									1945 text Zahra Ambessa
+								1946 cell
+									1947 text zahra@example.com
+								1948 cell
+									1949 text Admin
+							1950 row
+								1951 cell
+									1952 text Jasper Eriksson
+								1953 cell
+									1954 text jasper@example.com
+								1955 cell
+									1956 text Developer
+					1957 cell
+						1958 table
+							1959 row
+								1960 cell
+									1961 text Full name
+								1962 cell
+									1963 text Email
+								1964 cell
+									1965 text Group
+							1966 row
+								1967 cell
+									1968 text Danilo Sousa
+								1969 cell
+									1970 text danilo@example.com
+								1971 cell
+									1972 text Developer
+							1973 row
+								1974 cell
+									1975 text Zahra Ambessa
+								1976 cell
+									1977 text zahra@example.com
+								1978 cell
+									1979 text Admin
+							1980 row
+								1981 cell
+									1982 text Jasper Eriksson
+								1983 cell
+									1984 text jasper@example.com
+								1985 cell
+									1986 text Developer
+				1987 row
+					1988 cell
+						1989 text Size  3
+					1990 cell
+						1991 table
+							1992 row
+								1993 cell
+									1994 text Full name
+								1995 cell
+									1996 text Email
+								1997 cell
+									1998 text Group
+							1999 row
+								2000 cell
+									2001 text Danilo Sousa
+								2002 cell
+									2003 text danilo@example.com
+								2004 cell
+									2005 text Developer
+							2006 row
+								2007 cell
+									2008 text Zahra Ambessa
+								2009 cell
+									2010 text zahra@example.com
+								2011 cell
+									2012 text Admin
+							2013 row
+								2014 cell
+									2015 text Jasper Eriksson
+								2016 cell
+									2017 text jasper@example.com
+								2018 cell
+									2019 text Developer
+					2020 cell
+						2021 table
+							2022 row
+								2023 cell
+									2024 text Full name
+								2025 cell
+									2026 text Email
+								2027 cell
+									2028 text Group
+							2029 row
+								2030 cell
+									2031 text Danilo Sousa
+								2032 cell
+									2033 text danilo@example.com
+								2034 cell
+									2035 text Developer
+							2036 row
+								2037 cell
+									2038 text Zahra Ambessa
+								2039 cell
+									2040 text zahra@example.com
+								2041 cell
+									2042 text Admin
+							2043 row
+								2044 cell
+									2045 text Jasper Eriksson
+								2046 cell
+									2047 text jasper@example.com
+								2048 cell
+									2049 text Developer
+			2050 heading Tabs, Value: 1, ID: tabs
+				2051 link Description: Tabs, Value: …
+			2052 link Description: View in docs, Value: …
+			2053 tab group
+				2054 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_1a6luiv5udb_-trigger-theme-colors
+				2055 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_1a6luiv5udb_-trigger-all-colors
+				2056 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_1a6luiv5udb_-trigger-all-sizes
+			2057 container Description: Theme colors, ID: radix-_R_1a6luiv5udb_-content-theme-colors
+				2058 text Accent
+				2059 tab group
+					2060 tab (selected, settable, boolean) Account, Value: 1, ID: radix-_R_9ba6luiv5udb_-trigger-account
+					2061 tab (selectable, settable, boolean) Documents, Value: 0, ID: radix-_R_9ba6luiv5udb_-trigger-documents
+				2062 tab group
+					2063 tab (selected, settable, boolean) Account, Value: 1, ID: radix-_R_dba6luiv5udb_-trigger-account
+					2064 tab (selectable, settable, boolean) Documents, Value: 0, ID: radix-_R_dba6luiv5udb_-trigger-documents
+				2065 text Gray
+				2066 tab group
+					2067 tab (selected, settable, boolean) Account, Value: 1, ID: radix-_R_aba6luiv5udb_-trigger-account
+					2068 tab (selectable, settable, boolean) Documents, Value: 0, ID: radix-_R_aba6luiv5udb_-trigger-documents
+				2069 tab group
+					2070 tab (selected, settable, boolean) Account, Value: 1, ID: radix-_R_eba6luiv5udb_-trigger-account
+					2071 tab (selectable, settable, boolean) Documents, Value: 0, ID: radix-_R_eba6luiv5udb_-trigger-documents
+			2072 heading Tab Nav, Value: 1, ID: tab-nav
+				2073 link Description: Tab Nav, Value: …
+			2074 link Description: View in docs, Value: …
+			2075 tab group
+				2076 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_1aeluiv5udb_-trigger-theme-colors
+				2077 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_1aeluiv5udb_-trigger-all-colors
+				2078 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_1aeluiv5udb_-trigger-all-sizes
+			2079 container Description: Theme colors, ID: radix-_R_1aeluiv5udb_-content-theme-colors
+				2080 text Accent
+				2081 container Main
+					2082 content list
+						2083 link Description: Account, Value: …
+						2084 link Description: Documents, Value: …
+				2085 container Main
+					2086 content list
+						2087 link Description: Account, Value: …
+						2088 link Description: Documents, Value: …
+				2089 text Gray
+				2090 container Main
+					2091 content list
+						2092 link Description: Account, Value: …
+						2093 link Description: Documents, Value: …
+				2094 container Main
+					2095 content list
+						2096 link Description: Account, Value: …
+						2097 link Description: Documents, Value: …
+			2098 heading Text, Value: 1, ID: text
+				2099 link Description: Text, Value: …
+			2100 link Description: View in docs, Value: …
+			2101 tab group
+				2102 tab (selected, settable, boolean) Specimen, Value: 1, ID: radix-_R_1amluiv5udb_-trigger-specimen
+				2103 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_1amluiv5udb_-trigger-all-colors
+				2104 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_1amluiv5udb_-trigger-all-sizes
+				2105 tab (selectable, settable, boolean) All weights, Value: 0, ID: radix-_R_1amluiv5udb_-trigger-all-weights
+			2106 container Description: Specimen, ID: radix-_R_1amluiv5udb_-content-specimen
+				2107 text The goal of typography is to relate font size, line height, and line width in a proportional way that maximizes beauty and makes reading easier and more pleasant. The question is: What proportion(s) will give us the best results? The golden ratio is often observed in nature where beauty and utility intersect; perhaps we can use this “divine” proportion to enhance these attributes in our typography.
+				2108 text The goal of typography is to relate font size, line height, and line width in a proportional way that maximizes beauty and makes reading easier and more pleasant. The question is: What proportion(s) will give us the best results? The golden ratio is often observed in nature where beauty and utility intersect; perhaps we can use this “divine” proportion to enhance these attributes in our typography.
+				2109 text The goal of typography is to relate font size, line height, and line width in a proportional way that maximizes beauty and makes reading easier and more pleasant. The question is: What proportion(s) will give us the best results? The golden ratio is often observed in nature where beauty and utility intersect; perhaps we can use this “divine” proportion to enhance these attributes in our typography.
+				2110 text The goal of typography is to relate font size, line height, and line width in a proportional way that maximizes beauty and makes reading easier and more pleasant. The question is: What proportion(s) will give us the best results? The golden ratio is often observed in nature where beauty and utility intersect; perhaps we can use this “divine” proportion to enhance these attributes in our typography.
+				2111 text Quick Look
+				2112 text Extensions from the installed software may add new features to this app.
+				2113 text Quick Look
+				2114 text Extensions from the installed software may add new features to this app.
+				2115 text Quick Look
+				2116 text Extensions from the installed software may add new features to this app.
+				2117 text Quick Look
+				2118 text Extensions from the installed software may add new features to this app.
+				2119 text Quick Look
+				2120 text Extensions from the installed software may add new features to this app.
+				2121 text Quick Look
+				2122 text Extensions from the installed software may add new features to this app.
+				2123 text Quick Look
+				2124 text Extensions from the installed software may add new features to this app.
+				2125 text Quick Look
+				2126 text Extensions from the installed software may add new features to this app.
+				2127 button Quick Look
+				2128 text Opens in a new window
+				2129 button Quick Look
+				2130 text Opens in a new window
+				2131 button Quick Look
+				2132 text Opens in a new window
+				2133 button Quick Look
+				2134 text Opens in a new window
+			2135 heading Text Area, Value: 1, ID: text-area
+				2136 link Description: Text Area, Value: …
+			2137 link Description: View in docs, Value: …
+			2138 tab group
+				2139 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_1auluiv5udb_-trigger-theme-colors
+				2140 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_1auluiv5udb_-trigger-all-colors
+				2141 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_1auluiv5udb_-trigger-all-sizes
+			2142 container Description: Theme colors, ID: radix-_R_1auluiv5udb_-content-theme-colors
+				2143 table
+					2144 row
+						2145 cell
+							2146 text Accent
+						2147 cell
+							2148 text Gray
+						2149 cell
+							2150 text Disabled
+						2151 cell
+							2152 text Read-only
+					2153 row
+						2154 cell
+							2155 text Classic
+						2156 cell
+							2157 text entry area (settable)
+						2158 cell
+							2159 text entry area (settable)
+						2160 cell
+							2161 text entry area (disabled) The :autofill CSS pseudo-class matches when an <input> element has its value autofilled by the browser.
+						2162 cell
+							2163 text entry area The :autofill CSS pseudo-class matches when an <input> element has its value autofilled by the browser.
+					2164 row
+						2165 cell
+							2166 text Surface
+						2167 cell
+							2168 text entry area (settable)
+						2169 cell
+							2170 text entry area (settable)
+						2171 cell
+							2172 text entry area (disabled) The :autofill CSS pseudo-class matches when an <input> element has its value autofilled by the browser.
+						2173 cell
+							2174 text entry area The :autofill CSS pseudo-class matches when an <input> element has its value autofilled by the browser.
+					2175 row
+						2176 cell
+							2177 text Soft
+						2178 cell
+							2179 text entry area (settable)
+						2180 cell
+							2181 text entry area (settable)
+						2182 cell
+							2183 text entry area (disabled) The :autofill CSS pseudo-class matches when an <input> element has its value autofilled by the browser.
+						2184 cell
+							2185 text entry area The :autofill CSS pseudo-class matches when an <input> element has its value autofilled by the browser.
+			2186 heading Text Field, Value: 1, ID: text-field
+				2187 link Description: Text Field, Value: …
+			2188 link Description: View in docs, Value: …
+			2189 tab group
+				2190 tab (selected, settable, boolean) Theme colors, Value: 1, ID: radix-_R_1b6luiv5udb_-trigger-theme-colors
+				2191 tab (selectable, settable, boolean) All colors, Value: 0, ID: radix-_R_1b6luiv5udb_-trigger-all-colors
+				2192 tab (selectable, settable, boolean) All sizes, Value: 0, ID: radix-_R_1b6luiv5udb_-trigger-all-sizes
+			2193 container Description: Theme colors, ID: radix-_R_1b6luiv5udb_-content-theme-colors
+				2194 table
+					2195 row
+						2196 cell
+							2197 text Accent
+						2198 cell
+							2199 text Gray
+						2200 cell
+							2201 text Disabled
+						2202 cell
+							2203 text Read-only
+					2204 row
+						2205 cell
+							2206 text Classic
+						2207 cell
+							2208 text field (settable)
+							2209 image
+							2210 button
+								2211 image
+						2212 cell
+							2213 text field (settable)
+							2214 image
+							2215 button
+								2216 image
+						2217 cell
+							2218 text field (disabled) Quick brown fox
+							2219 image
+						2220 cell
+							2221 text field Quick brown fox
+							2222 image
+							2223 button
+								2224 image
+					2225 row
+						2226 cell
+							2227 text Surface
+						2228 cell
+							2229 text field (settable)
+							2230 image
+							2231 button
+								2232 image
+						2233 cell
+							2234 text field (settable)
+							2235 image
+							2236 button
+								2237 image
+						2238 cell
+							2239 text field (disabled) Quick brown fox
+							2240 image
+						2241 cell
+							2242 text field Quick brown fox
+							2243 image
+							2244 button
+								2245 image
+					2246 row
+						2247 cell
+							2248 text Soft
+						2249 cell
+							2250 text field (settable)
+							2251 image
+							2252 button
+								2253 image
+						2254 cell
+							2255 text field (settable)
+							2256 image
+							2257 button
+								2258 image
+						2259 cell
+							2260 text field (disabled) Quick brown fox
+							2261 image
+						2262 cell
+							2263 text field Quick brown fox
+							2264 image
+							2265 button
+								2266 image
+			2267 heading Tooltip, Value: 1, ID: tooltip
+				2268 link Description: Tooltip, Value: …
+			2269 link Description: View in docs, Value: …
+			2270 text Hover here
+
+The focused UI element is 61 radio button (settable, integer) Description: Light, Value: 1

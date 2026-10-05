@@ -5,7 +5,8 @@
   "source": "https://github.com/shadcn-ui/ui/issues",
   "studied": "2026-10-05",
   "tasks": [
-    "utility"
+    "utility",
+    "workflow"
   ],
   "density": "high",
   "assets_needed": [
@@ -16,5 +17,6 @@
   ],
   "lang": "en",
   "summary": "桌面版有全局导航、局部侧栏、搜索/状态筛选和密集问题行；窄屏收起侧栏，列表成为主轴。",
-  "usage": "工单、问题追踪、审批和运营列表；只需展示品牌故事的营销页。"
+  "usage": "工单、问题追踪、审批和运营列表；只需展示品牌故事的营销页。",
+  "caveat": "公开问题列表；未研究创建、评论与权限。"
 }

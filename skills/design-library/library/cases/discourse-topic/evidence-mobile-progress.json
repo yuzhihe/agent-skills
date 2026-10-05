@@ -1,0 +1,583 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 38.3984375,
+        "width": 38.3984375,
+        "x": 10.71875,
+        "y": 6.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 32.921875,
+        "width": 80.9296875,
+        "x": 150.109375,
+        "y": 9.5390625
+      },
+      "style": {
+        "background": "rgb(123, 95, 226)",
+        "borderRadius": "999px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "6.9648px 9.05424px"
+      },
+      "tag": "BUTTON",
+      "text": "Log In"
+    },
+    {
+      "rect": {
+        "height": 32.5,
+        "width": 50.5546875,
+        "x": 239.0390625,
+        "y": 9.75
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "EN"
+    },
+    {
+      "rect": {
+        "height": 40.84375,
+        "width": 40.84375,
+        "x": 297.59375,
+        "y": 5.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3.4288px"
+      },
+      "tag": "BUTTON",
+      "text": "​"
+    },
+    {
+      "rect": {
+        "height": 40.84375,
+        "width": 40.84375,
+        "x": 338.4375,
+        "y": 5.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3.4288px"
+      },
+      "tag": "BUTTON",
+      "text": "​"
+    },
+    {
+      "rect": {
+        "height": 58.1875,
+        "width": 336.5625,
+        "x": 26.71875,
+        "y": 88
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "24.2512px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "29.1014px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Dark/light mode toggle now available in core"
+    },
+    {
+      "rect": {
+        "height": 58.59375,
+        "width": 285.6484375,
+        "x": 26.71875,
+        "y": 87.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "24.2512px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "29.1014px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dark/light mode toggle now available in core"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 128.453125,
+        "x": 26.71875,
+        "y": 150.1875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.5014px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "News and Events"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 122.1640625,
+        "x": 163.171875,
+        "y": 150.1875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.5014px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Announcements"
+    },
+    {
+      "rect": {
+        "height": 50.65625,
+        "width": 238,
+        "x": 16,
+        "y": 447.203125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "21.112px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "25.3344px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Dark/light mode toggle now available in core"
+    },
+    {
+      "rect": {
+        "height": 50.828125,
+        "width": 231.0390625,
+        "x": 16,
+        "y": 446.703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "21.112px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "25.3344px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dark/light mode toggle now available in core"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 128.453125,
+        "x": 16,
+        "y": 505.859375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.5014px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "News and Events"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 122.1640625,
+        "x": 16,
+        "y": 533.359375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.5014px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Announcements"
+    },
+    {
+      "rect": {
+        "height": 41.8984375,
+        "width": 222.515625,
+        "x": 16,
+        "y": 561.859375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dark/Light Mode Toggle"
+    },
+    {
+      "rect": {
+        "height": 35.5,
+        "width": 71.078125,
+        "x": 294.921875,
+        "y": 440.203125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "8px 0px"
+      },
+      "tag": "A",
+      "text": "Feb 2025"
+    },
+    {
+      "rect": {
+        "height": 38.3984375,
+        "width": 72.5234375,
+        "x": 293.4765625,
+        "y": 785.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "8px 0px"
+      },
+      "tag": "A",
+      "text": "Mar 2025"
+    },
+    {
+      "rect": {
+        "height": 37.5,
+        "width": 92.1171875,
+        "x": 10,
+        "y": 786.5
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 10.4px"
+      },
+      "tag": "BUTTON",
+      "text": "jump to…"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 48,
+        "x": 26.71875,
+        "y": 214.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16.7109375,
+        "width": 47.40625,
+        "x": 82.71875,
+        "y": 201.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16.7155px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Osama"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 32.6953125,
+        "x": 82.71875,
+        "y": 217.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16.7155px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "team"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 62.265625,
+        "x": 301.015625,
+        "y": 202.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.5014px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Feb 2025"
+    },
+    {
+      "rect": {
+        "height": 144,
+        "width": 336.5625,
+        "x": 26.71875,
+        "y": 259.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "The Dark/Light Mode Toggle theme component, which adds a toggle to allow users to easily switch between light "
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 214.484375,
+        "x": 60.0625,
+        "y": 261.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dark/Light Mode Toggle"
+    },
+    {
+      "rect": {
+        "height": 144,
+        "width": 336.5625,
+        "x": 26.71875,
+        "y": 419.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "In addition to various bug fixes and improvements, the core version differs slightly from the original theme c"
+    },
+    {
+      "rect": {
+        "height": 96,
+        "width": 336.5625,
+        "x": 26.71875,
+        "y": 579.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "The color selector can be configured via the interface color selector site setting to appear either in the sit"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 336.5625,
+        "x": 26.71875,
+        "y": 691.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Here’s a screenshot when it’s in the sidebar footer:"
+    },
+    {
+      "rect": {
+        "height": 374,
+        "width": 183,
+        "x": 26.71875,
+        "y": 755.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "441×901 30.3 KB"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta",
+  "url": "https://meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-05T11:58:21.933Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

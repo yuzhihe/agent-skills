@@ -6,7 +6,8 @@
   "studied": "2026-10-05",
   "tasks": [
     "forms",
-    "utility"
+    "utility",
+    "service"
   ],
   "density": "medium",
   "assets_needed": [
@@ -18,5 +19,9 @@
   ],
   "lang": "en",
   "summary": "桌面将活动说明、日期和时段分三栏，选定日期后只更新对应的时段列表。",
-  "usage": "适合咨询、活动和服务预约；需要真实时区、可用日期和时段数据。"
+  "usage": "适合咨询、活动和服务预约；需要真实时区、可用日期和时段数据。",
+  "caveat": "已选择日期；未预约，手机后续时段未完整研究。",
+  "patterns": [
+    "booking-calendar"
+  ]
 }

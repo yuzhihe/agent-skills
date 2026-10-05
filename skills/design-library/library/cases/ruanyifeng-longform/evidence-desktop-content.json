@@ -1,0 +1,226 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 361,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": -309.9296875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 57.59375,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 67.0703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "布局的传统解决方案，基于盒状模型，依赖 display 属性 + position属性 + float属性。它对于那些特殊布局非常不方便，比如，垂直居中就不容易实现。"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 63.6015625,
+        "x": 433.125,
+        "y": 72.0703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(34, 52, 114)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "盒状模型"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 81.046875,
+        "x": 550.1875,
+        "y": 72.0703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(34, 52, 114)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "display"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 90.3359375,
+        "x": 690.5078125,
+        "y": 72.0703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(34, 52, 114)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "position"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 62.4609375,
+        "x": 834.359375,
+        "y": 72.0703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(34, 52, 114)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "float"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 63.6015625,
+        "x": 449.0234375,
+        "y": 100.8671875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(34, 52, 114)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "垂直居中"
+    },
+    {
+      "rect": {
+        "height": 377,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 140.6640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 57.59375,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 533.6640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "2009年，W3C 提出了一种新的方案----Flex 布局，可以简便、完整、响应式地实现各种页面布局。目前，它已经得到了所有浏览器的支持，这意味着，现在就能很安全地使用这项功能。"
+    },
+    {
+      "rect": {
+        "height": 326,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 607.2578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": ""
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 720
+  },
+  "title": "Flex 布局教程：语法篇 - 阮一峰的网络日志",
+  "url": "https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:55:34.546Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

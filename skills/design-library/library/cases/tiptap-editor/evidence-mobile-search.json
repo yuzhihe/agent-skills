@@ -1,0 +1,604 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": -14,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Highlight text"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 20,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Link"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 61,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Superscript"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 95,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Subscript"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 136,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Align left"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 170,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Align center"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 204,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Align right"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 238,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Align justify"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 66.1875,
+        "x": 279,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "12px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "4px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Add"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 358.1875,
+        "y": 806.5
+      },
+      "style": {
+        "background": "rgb(45, 45, 47)",
+        "borderRadius": "12px",
+        "color": "rgba(255, 255, 255, 0.96)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Search and replace"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 297,
+        "y": 15
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "8px",
+        "color": "rgba(239, 239, 245, 0.22)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "14.4px",
+        "padding": "5px"
+      },
+      "tag": "BUTTON",
+      "text": "Previous result"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 323,
+        "y": 15
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "8px",
+        "color": "rgba(239, 239, 245, 0.22)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "14.4px",
+        "padding": "5px"
+      },
+      "tag": "BUTTON",
+      "text": "Next result"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 351,
+        "y": 15
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "8px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "2px",
+        "lineHeight": "14.4px",
+        "padding": "5px"
+      },
+      "tag": "BUTTON",
+      "text": "Close"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 332.3984375,
+        "x": 16,
+        "y": 45
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "4px 6px 4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 358,
+        "x": 16,
+        "y": 81
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "4px 6px 4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "Replace"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 360,
+        "x": 15,
+        "y": 119
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "8px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "4px",
+        "lineHeight": "14.4px",
+        "padding": "5px"
+      },
+      "tag": "BUTTON",
+      "text": "Match case"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 360,
+        "x": 15,
+        "y": 143
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0)",
+        "borderRadius": "8px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "4px",
+        "lineHeight": "14.4px",
+        "padding": "5px"
+      },
+      "tag": "BUTTON",
+      "text": "Whole words"
+    },
+    {
+      "rect": {
+        "height": 37,
+        "width": 360,
+        "x": 15,
+        "y": 184
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "rgba(247, 247, 253, 0.64)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "8px",
+        "lineHeight": "21px",
+        "padding": "8px 10px"
+      },
+      "tag": "LABEL",
+      "text": "Use regular expression"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 69.1328125,
+        "x": 209.1015625,
+        "y": 240
+      },
+      "style": {
+        "background": "rgba(232, 232, 253, 0.05)",
+        "borderRadius": "12px",
+        "color": "rgba(239, 239, 245, 0.22)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "4px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Replace"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 88.765625,
+        "x": 280.234375,
+        "y": 240
+      },
+      "style": {
+        "background": "rgba(232, 232, 253, 0.05)",
+        "borderRadius": "12px",
+        "color": "rgba(239, 239, 245, 0.22)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "4px",
+        "lineHeight": "16.1px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Replace all"
+    },
+    {
+      "rect": {
+        "height": 1694.0390625,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "16px 24px 253.2px"
+      },
+      "tag": "DIV",
+      "text": "Getting started\n\nWelcome to the Simple Editor template! This template integrates open source UI components and"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 342,
+        "x": 24,
+        "y": 16
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Getting started"
+    },
+    {
+      "rect": {
+        "height": 102.375,
+        "width": 342,
+        "x": 24,
+        "y": 72
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Welcome to the Simple Editor template! This template integrates open source UI components and Tiptap extension"
+    },
+    {
+      "rect": {
+        "height": 51.1875,
+        "width": 342,
+        "x": 24,
+        "y": 194.375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Integrate it by following the Tiptap UI Components docs or using our CLI tool."
+    },
+    {
+      "rect": {
+        "height": 48.09375,
+        "width": 283.3515625,
+        "x": 24,
+        "y": 195.875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(122, 82, 255)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Tiptap UI Components docs"
+    },
+    {
+      "rect": {
+        "height": 30,
+        "width": 342,
+        "x": 24,
+        "y": 377.5625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Features"
+    },
+    {
+      "rect": {
+        "height": 127.96875,
+        "width": 326,
+        "x": 40,
+        "y": 437.5625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "A fully responsive rich text editor with built-in support for common formatting and layout tools. Type markdow"
+    },
+    {
+      "rect": {
+        "height": 76.78125,
+        "width": 342,
+        "x": 24,
+        "y": 595.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(245, 245, 245)",
+        "fontFamily": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Add images, customize alignment, and apply advanced formatting to make your writing more engaging and professi"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Tiptap Simple Editor template",
+  "url": "https://template.tiptap.dev/preview/templates/simple",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-05T11:59:36.001Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

@@ -1,0 +1,127 @@
+Browser tab: 3, Title: "Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta", URL: "https://meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en".
+1 AXWebArea Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta, URL: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en
+	2 container main
+		3 container ember3
+			4 container Description: Skip navigation links, ID: skip-links__container
+				5 container
+					6 link Description: Skip to last reply, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991/31
+					7 link Description: Skip to top, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991/1
+				8 link Description: Skip to main content, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en#main-container
+			9 container
+				11 link Description: Discourse Meta, Value: meta.discourse.org/
+				16 container Header
+					18 button Log In
+					19 content list
+						20 button (collapsed) EN, Help: Change site language, ID: ember27, Secondary Actions: Expand
+						170 pop up button Description: Search, ID: search-button
+						171 pop up button Description: Navigation menu, ID: toggle-hamburger-menu
+			172 container main-outlet
+				173 container ember22
+					174 container topic-title
+						175 heading Dark/light mode toggle now available in core, Value: 1
+							176 link Description: Dark/light mode toggle now available in core, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991
+						177 link Description: News and Events, Value: meta.discourse.org/c/news-and-events/207
+						178 link Description: megaphone Announcements, Value: meta.discourse.org/c/news-and-events/announcements/67
+					179 container
+						180 container topic-progress-wrapper
+							181 button Content language preferences
+							182 container Description: topic progress, ID: topic-progress
+								183 container
+									184 text 1 / 30
+					185 container topic
+						186 container
+							187 heading post by Osama on Feb 7, 2025, Value: 2, ID: post-heading-1
+								188 text post by Osama on Feb 7, 2025
+							189 container post by Osama on Feb 7, 2025, ID: post_1
+								190 link Description: Osama's profile, Value: meta.discourse.org/u/osama
+								191 link Description: team, Value: meta.discourse.org/g/team
+								192 link Description: Feb 7, 2025, Help: Post date, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991
+								193 container
+									194 text The 
+									195 link Description: Dark/Light Mode Toggle link clicked 163 times, Value: meta.discourse.org/t/dark-light-mode-toggle/215585
+									196 text  theme component, which adds a toggle to allow users to easily switch between light and dark modes, has been merged into Discourse core and it can be enabled via the 
+									197 text interface color selector
+									198 text  site setting. In addition to various bug fixes and improvements, the core version differs slightly from the original theme component in that it has a third “Auto” option which makes the site’s color mode match the system preference of the user’s device. The color selector can be configured via the 
+									199 text interface color selector
+									200 text  site setting to appear either in the site header next to the search icon, or in the sidebar footer. Here’s a screenshot when it’s in the sidebar footer:
+									201 link Description: 441×901 30.3 KB, Value: global.discourse-cdn.com/meta/original/4X/2/1/f/21fb7ebed969a83c38a2e3d72c3264574e4205e2.png
+									202 text And this is when it’s in the header:
+									203 link Description: 697×357 18.3 KB, Value: global.discourse-cdn.com/meta/original/4X/1/d/3/1d34cb8e34877f80c73ea69e3e340465980412b9.png
+									204 heading Heading link Existing users of the theme component, Value: 2
+										205 link Description: Heading link, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en#p-1705002-existing-users-of-the-theme-component-1
+										206 text Existing users of the theme component
+									207 text We’ve deprecated the theme component and pushed a final update to make it detect if the core version is available and alert admins to delete it and enable the core version. Here’s a screenshot of the admin alert:
+									208 link Description: 1528×383 45 KB, Value: global.discourse-cdn.com/meta/original/4X/d/d/e/ddeac1a11253d12193a94476fc55093097c5b320.png
+									209 text Once the core version is enabled, the theme component will no longer have an effect on your site. However, you should still completely delete it to prevent potential breakages in the future since we will no longer do any maintenance for the theme component.
+									210 container Post actions
+										211 pop up button (collapsed) Description: 44 reactions, ID: discourse-reactions-counter-1705002-left, Secondary Actions: Expand
+											212 image heart
+											213 image rocket
+											214 image confetti_ball
+										215 button Please sign up or log in to like this post
+										216 button copy a link to this post to clipboard
+										217 button show more
+								218 content list
+									219 link Description: Dark/Light Mode Toggle 15, Value: meta.discourse.org/t/dark-light-mode-toggle/215585/168
+									220 link Description: 3.5.0.beta1: Dark/light mode selector, better flagging info, and encouraging more valuable conversations 3, Value: meta.discourse.org/t/3-5-0-beta1-dark-light-mode-selector-better-flagging-info-and-encouraging-more-valuable-conversations/353246
+									221 link Description: Explanation of dark mode, how to select it, and how to enable switching 2, Value: meta.discourse.org/t/explanation-of-dark-mode-how-to-select-it-and-how-to-enable-switching/327397
+									222 link Description: Battle Axe - A free theme by the Tappara.co hockey community 1, Value: meta.discourse.org/t/battle-axe-a-free-theme-by-the-tappara-co-hockey-community/37766/59
+									223 link Description: Light/dark mode toggle is illogical/buggy, Value: meta.discourse.org/t/light-dark-mode-toggle-is-illogical-buggy/357286
+								224 container
+									225 button (collapsed) 3.2k views, ID: ember30, Secondary Actions: Expand
+										226 text 3.2k
+										227 text views
+									228 button (collapsed) 107 likes, ID: ember31, Secondary Actions: Expand
+										229 text 107
+										230 text likes
+									231 button (collapsed) 9 links, ID: ember32, Secondary Actions: Expand
+										232 text 9
+										233 text links
+									234 button (collapsed) 12 users, ID: ember33, Secondary Actions: Expand
+										235 text 12
+										236 text users
+								237 button Summarize
+							238 link Description: Ad Did you know Discourse offers hosting? - Plans start at $0!, Value: discourse.org/pricing?utm_source=meta.discourse.org&utm_content=brandaware-free&utm_campaign=mh2025&ad_placement=between_posts
+							239 heading post by Kevin7 on Feb 7, 2025, Value: 2, ID: post-heading-2
+								240 text post by Kevin7 on Feb 7, 2025
+							241 heading post by Osama on Feb 7, 2025, Value: 2, ID: post-heading-3
+								242 text post by Osama on Feb 7, 2025
+							243 heading post by Kevin7 on Feb 7, 2025, Value: 2, ID: post-heading-4
+								244 text post by Kevin7 on Feb 7, 2025
+							245 heading post by Osama on Feb 8, 2025, Value: 2, ID: post-heading-5
+								246 text post by Osama on Feb 8, 2025
+							247 heading post by joo on Feb 8, 2025, Value: 2, ID: post-heading-6
+								248 text post by joo on Feb 8, 2025
+							249 heading post by Osama on Feb 8, 2025, Value: 2, ID: post-heading-7
+								250 text post by Osama on Feb 8, 2025
+							251 heading post by patrickemin on Feb 8, 2025, Value: 2, ID: post-heading-8
+								252 text post by patrickemin on Feb 8, 2025
+							253 heading post by Osama on Feb 8, 2025, Value: 2, ID: post-heading-9
+								254 text post by Osama on Feb 8, 2025
+							255 heading post by Andrew_Rowe on Feb 8, 2025, Value: 2, ID: post-heading-10
+								256 text post by Andrew_Rowe on Feb 8, 2025
+							257 heading post by StefanoCecere on Feb 9, 2025, Value: 2, ID: post-heading-11
+								258 text post by StefanoCecere on Feb 9, 2025
+							259 heading post by Jagster on Feb 9, 2025, Value: 2, ID: post-heading-12
+								260 text post by Jagster on Feb 9, 2025
+							261 heading post by StefanoCecere on Feb 9, 2025, Value: 2, ID: post-heading-13
+								262 text post by StefanoCecere on Feb 9, 2025
+							263 heading post by StefanoCecere on Feb 10, 2025, Value: 2, ID: post-heading-15
+								264 text post by StefanoCecere on Feb 10, 2025
+							265 heading post by StefanoCecere on Feb 10, 2025, Value: 2, ID: post-heading-16
+								266 text post by StefanoCecere on Feb 10, 2025
+							267 heading post by patrickemin on Feb 10, 2025, Value: 2, ID: post-heading-17
+								268 text post by patrickemin on Feb 10, 2025
+							269 heading post by Osama on Feb 11, 2025, Value: 2, ID: post-heading-18
+								270 text post by Osama on Feb 11, 2025
+							271 heading post by patrickemin on Feb 11, 2025, Value: 2, ID: post-heading-19
+								272 text post by patrickemin on Feb 11, 2025
+							273 heading post by Jagster on Feb 11, 2025, Value: 2, ID: post-heading-20
+								274 text post by Jagster on Feb 11, 2025
+							275 heading post by patrickemin on Feb 11, 2025, Value: 2, ID: post-heading-21
+								276 text post by patrickemin on Feb 11, 2025
+							277 heading Load more posts below, Value: 2, ID: post-stream-load-more-heading__below
+								278 text Load more posts below
+				279 container Description: User card, ID: user-card
+
+The focused UI element is 1 AXWebArea Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta, URL: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en

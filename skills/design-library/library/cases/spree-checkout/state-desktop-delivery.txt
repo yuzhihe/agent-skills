@@ -1,0 +1,3 @@
+Browser tab: 1, Title: "Spree Commerce Demo | Next.js Ecommerce Storefront", URL: "https://demo.spreecommerce.org/us/en/checkout/cart_QVquA48cIW".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea Spree Commerce Demo | Next.js Ecommerce Storefront, URL: demo.spreecommerce.org/us/en/checkout/cart_QVquA48cIW

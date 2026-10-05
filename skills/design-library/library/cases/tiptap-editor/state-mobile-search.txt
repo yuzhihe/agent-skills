@@ -1,0 +1,24 @@
+Browser tab: 3, Title: "Tiptap Simple Editor template", URL: "https://template.tiptap.dev/preview/templates/simple".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~				53 button (expanded) Description: Search and replace, Secondary Actions: Collapse
++		114 container Search and replace
++			115 text 0 / 0
++			116 container
++				117 button (disabled) Previous result
++					118 image
++				119 button (disabled) Next result
++					120 image
++			121 button Close
++				122 image
++			123 container
++				124 text field (settable) Search
++			125 text field (settable) Replace
++			126 checkbox Match case, Value: 0
++			127 checkbox Whole words, Value: 0
++			128 container base-ui-_R_9einpfiv5ubrbH1_-label
++				129 text Use regular expression
++				130 switch Description: Use regular expression, Value: 0, ID: base-ui-_R_9einpfiv5ubrb_
++			131 container
++				132 button (disabled) Replace current result
++				133 button (disabled) Replace all results
+The focused UI element is 124 text field (settable) Search

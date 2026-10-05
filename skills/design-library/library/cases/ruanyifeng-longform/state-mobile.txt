@@ -1,0 +1,49 @@
+Browser tab: 3, Title: "Flex 布局教程：语法篇 - 阮一峰的网络日志", URL: "https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 3-15, 18-27, 334-340, 345-351, 356-362, 367-373, 378-384, 391-397, 402-408, 413-419, 424-430, 451-457, 462-468, 475-481, 486-492, 499-505, 510-516, 521-527, 532-538, 543-549, 557-563, 568-574, 579-585, 593-599, 604-610, 615-621, 626-632, 637-643, 650-656, 661-667, 693-699, 704-710, 718-724, 729-735, 740-746, 768-774, 782-788, 796-802, 809-815, 820-826, 831-837, 844-850, 861-867, 877-883, 888-894, 899-905, 910-916, 921-927, 932-938, 946-952, 957-963, 968-974, 979-985, 990-996, 1001-1007, 1012-1018, 1023-1029, 1034-1040, 1045-1051, 1071-1077, 1082-1088, 1096-1102, 1122-1128, 1133-1139, 1152-1158, 1172-1178, 1183-1189, 1198-1204, 1209-1215, 1220-1226, 1231-1237, 1242-1248, 1256-1262, 1267-1273, 1278-1284, 1294-1300, 1320-1326, 1338-1344, 1349-1355, 1360-1366, 1371-1377, 1382-1388, 1396-1402, 1407-1413, 1426-1432, 1438-1444, 1449-1455, 1460-1466, 1471-1477, 1487-1493, 1498-1504, 1515-1521, 1529-1535, 1544-1550, 1559-1565, 1570-1576, 1581-1587, 1594-1600, 1605-1611, 1616-1622, 1627-1633, 1638-1644, 1649-1655, 1660-1666, 1671-1677, 1682-1688, 1693-1699, 1704-1710, 1715-1721, 1726-1732, 1737-1743, 1748-1754, 1759-1765, 1773-1779, 1786-1792, 1797-1803, 1810-1816, 1826-1832, 1839-1845, 1850-1856, 1861-1867, 1903-1909, 1919-1925, 1930-1936, 1941-1947, 1954-1960, 1965-1971, 1979-1985, 1990-1996, 2001-2007, 2012-2018, 2023-2029, 2038-2044, 2049-2055, 2060-2066, 2071-2077, 2082-2088, 2116-2122, 2133-2139, 2152-2158, 2166-2172, 2177-2183, 2193-2199, 2204-2210, 2215-2221, 2226-2232, 2237-2243, 2248-2254, 2262-2268, 2275-2281, 2286-2292, 2300-2306, 2311-2317, 2322-2328, 2333-2339, 2346-2352, 2357-2363, 2368-2374, 2382-2388, 2393-2399, 2404-2410, 2417-2423, 2429-2435, 2444-2450, 2455-2461, 2470-2476, 2483-2489, 2494-2500, 2505-2511, 2516-2522, 2527-2533, 2540-2546, 2551-2557, 2562-2568, 2573-2579, 2584-2590, 2595-2601, 2606-2612, 2620-2626, 2631-2637, 2644-2650, 2655-2661, 2666-2672, 2677-2683, 2688-2694, 2703-2709, 2720-2726, 2731-2737, 2742-2748, 2755-2761, 2766-2772, 2779-2785, 2790-2796, 2801-2807, 2812-2818, 2827-2833, 2841-2847, 2854-2860, 2865-2871, 2876-2882, 2889-2895, 2903-2909, 2920-2926, 2931-2937, 2942-2948, 2953-2959, 2964-2970, 2975-2981, 2986-2992, 2999-3005, 3010-3016, 3024-3030, 3039-3045, 3051-3057, 3065-3071, 3079-3085, 3093-3099, 3104-3110, 3115-3121, 3126-3132, 3137-3143, 3148-3154, 3159-3165, 3173-3179, 3190-3196, 3204-3210, 3215-3221, 3228-3234, 3239-3245, 3250-3256, 3264-3270, 3275-3281, 3286-3292, 3300-3306, 3313-3319, 3324-3330, 3335-3341, 3354-3360, 3365-3371, 3376-3382, 3387-3393, 3401-3407, 3412-3418, 3427-3433, 3438-3444, 3452-3458, 3463-3469, 3474-3480, 3485-3491, 3496-3502, 3507-3513, 3518-3524, 3529-3535, 3543-3549, 3554-3560, 3565-3571, 3576-3582
+~1 AXWebArea Flex 布局教程：语法篇 - 阮一峰的网络日志, URL: ruanyifeng.com/blog/2015/07/flex-grammar.html
++		3619 container header-name
++			3620 text 阮一峰的网络日志 
++			3621 container site_location
++				3622 text » 
++				3623 link Description: 首页, Value: ruanyifeng.com/blog/
++			3624 container site_archive
++				3625 text  » 
++				3626 link Description: 档案, Value: ruanyifeng.com/blog/archives.html
++				3627 container
++					3628 text 分类 ：
++					3629 content list
++						3630 link Description: 开发者手册, Value: ruanyifeng.com/blog/developer/
++				3631 content list
++					3632 link Description: ⇐ , Help: ES6 的功能侦测库 ES-Checker, Value: ruanyifeng.com/blog/2015/06/es-checker.html
++					3633 link Description:  ⇒, Help: Flex 布局教程：实例篇, Value: ruanyifeng.com/blog/2015/07/flex-examples.html
+~					34 link Description: 2015年7月10日, Value: ruanyifeng.com/blog/2015/07/
+~							39 link Description: 盒状模型, Value: developer.mozilla.org/en-US/docs/Web/CSS/box_model
+~							41 link Description: display, Value: developer.mozilla.org/en-US/docs/Web/CSS/display
+~							43 link Description: position, Value: developer.mozilla.org/en-US/docs/Web/CSS/position
+~							45 link Description: float, Value: developer.mozilla.org/en-US/docs/Web/CSS/float
+~							47 link Description: 垂直居中, Value: css-tricks.com/centering-css-complete-guide/
+~							52 link Description: 下一篇文章, Value: ruanyifeng.com/blog/2015/07/flex-examples.html
+~							56 link Description: Demo, Value: static.vgee.cn/static/index.html
+~							60 link Description: A Complete Guide to Flexbox, Value: css-tricks.com/snippets/css/a-guide-to-flexbox/
+~							62 link Description: A Visual Guide to CSS3 Flexbox Properties, Value: scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+~							295 link Description: 创意共享3.0许可证, Value: creativecommons.org/licenses/by-nc-nd/3.0/deed.zh
+~						309 link Description: 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云, Value: ruanyifeng.com/blog/2026/03/kimi-cursor.html
+~						314 link Description: 零安装的"云养虾"：ArkClaw 使用指南, Value: ruanyifeng.com/blog/2026/03/arkclaw.html
+~						319 link Description: 字节全家桶 Seed 2.0 + TRAE 玩转 Skill, Value: ruanyifeng.com/blog/2026/02/seed-2.0.html
+~						324 link Description: 智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex, Value: ruanyifeng.com/blog/2026/02/glm-5.html
+~							498 link Description: https://github.com/Coffcer/flex-layout, Value: github.com/Coffcer/flex-layout
+~								1425 link Description: http://sandbox.runjs.cn/show/zkqimsj5, Value: sandbox.runjs.cn/show/zkqimsj5
+~							1785 link Description: https://github.com/JailBreakC/flex-box-demo, Value: github.com/JailBreakC/flex-box-demo
+~								1824 link Description: https://ihuangmx.gitbooks.io/front-demo/content/zen-flex-demo.html#flex-布局在线测试, Value: ihuangmx.gitbooks.io/front-demo/content/zen-flex-demo.html#flex-%E5%B8%83%E5%B1%80%E5%9C%A8%E7%BA%BF%E6%B5%8B%E8%AF%95
+~							2274 link Description: https://hanzichi.github.io/2017/flex/index.html, Value: hanzichi.github.io/2017/flex/index.html
+~							2416 link Description: https://css-tricks.com/snippets/css/a-guide-to-flexbox/, Value: css-tricks.com/snippets/css/a-guide-to-flexbox/
+~							2441 link Description: flexbox演示站, Value: xluos.github.io/demo/flexbox/
+~							2443 link Description: https://xluos.github.io/demo/flexbox/, Value: xluos.github.io/demo/flexbox/
+~							2539 link Description: https://css-tricks.com/snippets/css/a-guide-to-flexbox/#article-header-id-6, Value: css-tricks.com/snippets/css/a-guide-to-flexbox/#article-header-id-6
+~							2888 link Description: https://mp.weixin.qq.com/s/T-Z_8he9UxBBfL8Jb3zwtA。, Value: mp.weixin.qq.com/s/T-Z_8he9UxBBfL8Jb3zwtA%E3%80%82
+~			3612 link Description: Weibo, Help: 微博, Value: weibo.com/ruanyf
+~			3614 link Description: Twitter, Value: twitter.com/ruanyf
+~			3616 link Description: GitHub, Value: github.com/ruanyf
+~			3618 link Description: yifeng.ruan@gmail.com, Help: 电子邮件, Value: mailto:yifeng.ruan@gmail.com
+The focused UI element is 1 AXWebArea Flex 布局教程：语法篇 - 阮一峰的网络日志, URL: ruanyifeng.com/blog/2015/07/flex-grammar.html

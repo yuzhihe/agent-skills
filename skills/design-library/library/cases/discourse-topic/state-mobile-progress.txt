@@ -1,0 +1,11 @@
+Browser tab: 3, Title: "Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta", URL: "https://meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
++						291 text Osama:  The 
++						292 link Description: Dark/Light Mode Toggle, Value: meta.discourse.org/t/dark-light-mode-toggle/215585
++						293 text  theme component, which adds a toggle to allow users to easily switch between light and dark modes, has been merged into Discourse core and it can be enabled via the interface color selector site setting. In addition to various bug fixes and improvements, the core version differs slightly from the original theme component in that it has a third “Auto” option which makes the site’s color mode match the system preference of the user’s device. The color selector can be configured via the interface color selector site setting to appear either in the site header next to the search icon, or in the sidebar footer. Here’s a screenshot when it’s in the sidebar footer: 
++						294 link Description: [image], Value: global.discourse-cdn.com/meta/original/4X/2/1/f/21fb7ebed969a83c38a2e3d72c3264574e4205e2.png
++						295 text  And this is when it’s in the header: 
++						296 link Description: [image], Value: global.discourse-cdn.com/meta/original/4X/1/d/3/1d34cb8e34877f80c73ea69e3e340465980412b9.png
++						297 link Description: Heading link, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en#p-1705002-existing-users-of-the-theme-component-1
++						298 text Existing users of the theme component We’ve …
+The focused UI element is 1 AXWebArea Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta, URL: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en

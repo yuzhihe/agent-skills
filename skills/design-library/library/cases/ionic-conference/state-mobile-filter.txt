@@ -1,0 +1,3 @@
+Browser tab: 2, Title: "Ionic Stencil Conference App", URL: "https://ionic-react-conference-app.firebaseapp.com/schedule".
+There has been no change in the accessibility tree.
+The focused UI element is 10 button options

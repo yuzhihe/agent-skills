@@ -31,6 +31,11 @@ TASKS = {
     "pricing": "定价比较",
     "forms": "表单与账户",
     "dashboard": "仪表盘",
+    "workflow": "后台列表与操作",
+    "states": "反馈与主题状态",
+    "mobile": "移动操作界面",
+    "editing": "编辑工作区",
+    "service": "专业服务与帮助",
 }
 DENSITY = {"low": "低", "medium": "中", "high": "高"}
 LANG = {"en": "英文", "zh": "中文", "multi": "多语言", "ja": "日文"}
@@ -56,6 +61,28 @@ ASSET = {
     "licensed-photos": "可用摄影", "product-images": "产品画面",
     "original-campaign-images": "原创活动视觉",
     "portfolio-images": "作品图",
+}
+PATTERNS = {
+    "data-table": "数据表格 / 列对齐",
+    "batch-actions": "行选择 / 批量操作",
+    "filter-panel": "筛选菜单 / 筛选抽屉",
+    "resource-discovery": "资源搜索 / 预览比较",
+    "cart-summary": "购物车抽屉 / 订单摘要",
+    "checkout-form": "结账 / 配送与支付表单",
+    "form-validation": "表单校验 / 输入错误",
+    "conditional-form": "条件表单 / 选择后追问",
+    "step-form": "分步表单 / 上一步与下一步",
+    "mobile-navigation": "移动底部导航",
+    "theme-switch": "深浅主题 / 暗色模式",
+    "button-states": "按钮禁用 / 加载状态",
+    "editor-toolbar": "富文本编辑 / 格式工具条",
+    "discussion-thread": "社区主题 / 回复流",
+    "reading-progress": "长讨论阅读位置 / 跳转面板",
+    "accordion": "折叠展开 / 服务分流",
+    "pricing-comparison": "定价卡片 / 套餐比较",
+    "text-profile": "文字个人主页 / 经历时间线",
+    "doc-navigation": "文档目录 / 页内导航",
+    "booking-calendar": "预约月历 / 日期与时段",
 }
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 MARKDOWN_LINK = re.compile(r"!?\[[^]]*\]\(([^)]+)\)")
@@ -118,6 +145,16 @@ def read_cases():
         if (not isinstance(case["density"], str) or case["density"] not in DENSITY
                 or not isinstance(case["lang"], str) or case["lang"] not in LANG):
             errors.append(f"{path}: density 或 lang 标签无效")
+        # Optional fields preserve compatibility with cases made before 0.5.1.
+        patterns = case.get("patterns", [])
+        if (not isinstance(patterns, list) or any(
+                not isinstance(item, str) or item not in PATTERNS for item in patterns)
+                or len(patterns) != len(set(patterns))):
+            errors.append(f"{path}: patterns 须为无重复的已定义标签数组")
+        if "caveat" in case and (not isinstance(case["caveat"], str)
+                                 or not case["caveat"].strip()
+                                 or "\n" in case["caveat"] or "\r" in case["caveat"]):
+            errors.append(f"{path}: caveat 须为非空的单行使用边界")
         for filename in ("analysis.md", "screenshots/desktop.jpg", "screenshots/mobile.jpg"):
             if not (directory / filename).is_file():
                 errors.append(f"{directory / filename}: 文件不存在")
@@ -149,30 +186,49 @@ def build_index(cases):
     lines = [
         "# 内置案例索引", "",
         f"共 {len(cases)} 个本地案例，研究日期 {days[0]} 至 {days[-1]}。本页由 [构建脚本](../scripts/build_library.py) 生成。", "",
-        "先确定页面任务，再读对应的任务索引；比较内容密度和可用素材后，只打开少数案例正文。",
+        "整页设计：按下表进入任务索引。具体组件或交互：先读 [设计模式入口](patterns.md)。两种入口按需选择，不必全部加载。",
+        "比较内容组织、密度、素材与使用边界后，只打开少数案例正文。表格与浏览页顺序仅供浏览，不代表推荐排名。",
         "风格标签用于辅助选择，不能替代任务适配。案例是局部研究快照，不是完整设计系统或用户已确认的偏好。", "",
-        "| 页面任务 | 案例数 | 先看这些案例 |", "| --- | ---: | --- |",
+        "| 页面任务 | 案例数 |", "| --- | ---: |",
     ]
     for task, label in TASKS.items():
         matching = [case for case in cases if task in case["tasks"]]
         if not matching:
             continue
-        examples = "、".join(case["name"] for case in matching[:3])
-        lines.append(f"| [{label}](indexes/{task}.md) | {len(matching)} | {md(examples)} |")
-    lines += ["", "需要查看所有缩略图时打开 [离线案例浏览页](catalog.html)。样式 JSON 只在需要精确参数时读取。", ""]
+        lines.append(f"| [{label}](indexes/{task}.md) | {len(matching)} |")
+    lines += ["", "需要查看所有缩略图时打开 [离线案例浏览页](catalog.html)。样式 JSON 只在需要精确参数时读取。",
+              "需要评估适用范围与剩余缺口时，再读 [覆盖说明](coverage.md)，不必在每次设计时加载。", ""]
     return "\n".join(lines)
 
 
 def build_task_index(task, cases):
     matching = [case for case in cases if task in case["tasks"]]
     lines = [f"# {TASKS[task]}", "", "[返回任务入口](../index.md) · 按任务与素材选择候选，再阅读分析正文。", "",
-             "| 案例 | 可借鉴的组织方式 | 密度 | 素材依赖 | 气质 | 原站语言 |",
-             "| --- | --- | --- | --- | --- | --- |"]
+             "| 案例 | 可借鉴的组织方式 | 密度 | 素材依赖 | 气质 | 原站语言 | 使用边界 |",
+             "| --- | --- | --- | --- | --- | --- | --- |"]
     for case in matching:
         path = f"../cases/{case['id']}/analysis.md"
         lines.append(f"| [{md(case['name'])}]({path}) | {md(case['summary'])} | {DENSITY[case['density']]} | "
-                     f"{labels(case['assets_needed'], ASSET)} | {labels(case['tone'], TONE)} | {LANG[case['lang']]} |")
+                     f"{labels(case['assets_needed'], ASSET)} | {labels(case['tone'], TONE)} | {LANG[case['lang']]} | "
+                     f"{md(case.get('caveat', '详见案例正文'))} |")
     lines += ["", "标签概括研究快照；适合和不适合的条件以案例正文为准。", ""]
+    return "\n".join(lines)
+
+
+def build_pattern_index(cases):
+    lines = ["# 设计模式入口", "", "[返回任务入口](index.md)", "",
+             "具体组件或交互需求从这里找候选；整页布局优先按任务查。标签表示案例中有相应证据，不保证整个流程或所有操作已验证。",
+             "先看使用边界，再读候选的分析和对应状态截图。组件示例可作辅助参考，不能因此替换整页风格。列表顺序不是推荐排名。", "",
+             "| 需求与常见说法 | 候选与使用边界 |", "| --- | --- |"]
+    for pattern, label in PATTERNS.items():
+        matching = [case for case in cases if pattern in case.get("patterns", [])]
+        if not matching:
+            continue
+        candidates = "；".join(
+            f"[{md(case['name'])}](cases/{case['id']}/analysis.md)（{md(case.get('caveat', '详见正文'))}）"
+            for case in matching)
+        lines.append(f"| {label} | {candidates} |")
+    lines += ["", "未找到对应模式时，可按任务索引找相近参考；仍不适合就说明缺口，使用专业判断，不把缺陷或未验证状态当作推荐。", ""]
     return "\n".join(lines)
 
 
@@ -188,12 +244,14 @@ def build_catalog(cases):
         name = escaped(case["name"])
         summary = escaped(case["summary"])
         usage = escaped(case["usage"])
+        caveat = escaped(case.get("caveat", "详见案例正文"))
         tone = escaped(labels(case["tone"], TONE))
         task = escaped(TASKS[case["tasks"][0]])
         keywords = escaped(" ".join([case["name"], case["summary"], case["usage"],
                                      labels(case["tone"], TONE),
                                      labels(case["assets_needed"], ASSET),
-                                     " ".join(TASKS[key] for key in case["tasks"])]))
+                                     " ".join(TASKS[key] for key in case["tasks"]),
+                                     labels(case.get("patterns", []), PATTERNS)]))
         evidence = f'<a href="cases/{slug}/evidence-desktop.json">实测样式 ↗</a>' if (
             CASES / slug / "evidence-desktop.json").is_file() else ""
         cards.append(
@@ -201,7 +259,7 @@ def build_catalog(cases):
             f'<button class="preview" aria-label="查看 {name} 截图">'
             f'<img loading="lazy" src="cases/{slug}/screenshots/desktop.jpg" alt="{summary}" width="1280" height="720"></button>'
             f'<div><div class="meta"><span>{position:02d} / {task}</span><span>{tone}</span></div>'
-            f'<h2>{name}</h2><p>{summary}</p><div class="links">'
+            f'<h2>{name}</h2><p>{summary}</p><p>使用边界：{caveat}</p><div class="links">'
             f'<a href="cases/{slug}/analysis.md">阅读分析 ↗</a>'
             f'{evidence}</div>'
             f'<details><summary>适合什么时候用</summary><p>{usage}</p></details></div></article>'
@@ -225,6 +283,7 @@ def main():
         print("\n".join(errors), file=sys.stderr)
         return 1
     outputs = {LIBRARY / "index.md": build_index(cases),
+               LIBRARY / "patterns.md": build_pattern_index(cases),
                LIBRARY / "catalog.html": build_catalog(cases)}
     for task in TASKS:
         if any(task in case["tasks"] for case in cases):

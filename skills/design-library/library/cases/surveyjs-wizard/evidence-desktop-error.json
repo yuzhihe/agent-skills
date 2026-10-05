@@ -1,0 +1,79 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 40,
+        "width": 648,
+        "x": 316,
+        "y": 252
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(28, 27, 32)",
+        "fontFamily": "\"Open Sans\", Inter, system-ui, -apple-system, \"system-ui\", Roboto, \"Noto Sans\", \"Helvetica Neue\", Ubuntu, \"Segoe UI\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "8px 12px"
+      },
+      "tag": "INPUT",
+      "text": "you@example.com"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 352.8984375,
+        "x": 296,
+        "y": 352
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "0px",
+        "lineHeight": "normal",
+        "padding": "16px 32px"
+      },
+      "tag": "BUTTON",
+      "text": "Previous"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 323.1015625,
+        "x": 660.8984375,
+        "y": 352
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "0px",
+        "lineHeight": "normal",
+        "padding": "16px 32px"
+      },
+      "tag": "BUTTON",
+      "text": "Next"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "",
+  "url": "https://surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:51:58.249Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

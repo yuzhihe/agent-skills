@@ -1,0 +1,27 @@
+{
+  "order": 44,
+  "id": "ionic-conference",
+  "name": "Ionic Conference · 移动议程",
+  "source": "https://ionic-react-conference-app.firebaseapp.com/schedule",
+  "studied": "2026-10-05",
+  "tasks": [
+    "mobile",
+    "utility"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "event-data"
+  ],
+  "tone": [
+    "practical",
+    "structured"
+  ],
+  "lang": "en",
+  "summary": "按时间分组的议程列表配合底部导航，手机筛选使用独立全屏面板。",
+  "usage": "适合会议议程、课程安排和移动任务列表；本例为公开演示的旧部署版本。",
+  "caveat": "旧演示部署；筛选仅开关面板，未验证全部目的地。",
+  "patterns": [
+    "mobile-navigation",
+    "filter-panel"
+  ]
+}

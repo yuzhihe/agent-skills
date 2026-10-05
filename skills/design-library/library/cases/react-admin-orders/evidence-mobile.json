@@ -1,0 +1,646 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 9,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Open menu"
+    },
+    {
+      "rect": {
+        "height": 36.5,
+        "width": 124.1171875,
+        "x": 96.8828125,
+        "y": 6.75
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24.5px",
+        "padding": "6px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "ENGLISH"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 221,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Change Theme"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 261,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Toggle light/dark mode"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 301,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Refresh"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 341,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Profile"
+    },
+    {
+      "rect": {
+        "height": 5284.375,
+        "width": 390,
+        "x": 0,
+        "y": 56
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "ORDERED (22)\nDELIVERED (520)\nCANCELLED (58)\nOrder #KCSVDE\nShawn Oberbrunner\n\nDate: 2026/10/4 01:15:43\n\nTotal: "
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 314.65625,
+        "x": 8,
+        "y": 120
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "23px",
+        "padding": "8px 0px 9px 12px"
+      },
+      "tag": "INPUT",
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 222,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Arial",
+        "fontSize": "28px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "12px"
+      },
+      "tag": "BUTTON",
+      "text": "Add filter"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 278,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Arial",
+        "fontSize": "28px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "12px"
+      },
+      "tag": "BUTTON",
+      "text": "Columns"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 334,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Arial",
+        "fontSize": "28px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "12px"
+      },
+      "tag": "BUTTON",
+      "text": "Export"
+    },
+    {
+      "rect": {
+        "height": 59,
+        "width": 124,
+        "x": 9,
+        "y": 169
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "17.5px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "ORDERED (22)"
+    },
+    {
+      "rect": {
+        "height": 59,
+        "width": 124,
+        "x": 133,
+        "y": 169
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "17.5px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "DELIVERED (520)"
+    },
+    {
+      "rect": {
+        "height": 59,
+        "width": 124,
+        "x": 257,
+        "y": 169
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "17.5px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "CANCELLED (58)"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 316,
+        "y": 250
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "12px"
+      },
+      "tag": "A",
+      "text": "Edit"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 310
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Shawn Oberbrunner"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 338.015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Date: 2026/10/4 01:15:43"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 362.9296875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Total: US$114.86"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 387.84375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Status: ordered"
+    },
+    {
+      "rect": {
+        "height": 20.8046875,
+        "width": 322,
+        "x": 34,
+        "y": 412.7578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Returned:"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 316,
+        "y": 479.5625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "12px"
+      },
+      "tag": "A",
+      "text": "Edit"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 539.5625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Shawn Oberbrunner"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 567.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Date: 2026/10/3 22:39:55"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 592.4921875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Total: US$21.76"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 617.40625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Status: ordered"
+    },
+    {
+      "rect": {
+        "height": 20.8046875,
+        "width": 322,
+        "x": 34,
+        "y": 642.3203125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Returned:"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 316,
+        "y": 709.125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "12px"
+      },
+      "tag": "A",
+      "text": "Edit"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 769.125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dora Padberg"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 797.140625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Date: 2026/9/30 01:57:48"
+    },
+    {
+      "rect": {
+        "height": 20.015625,
+        "width": 322,
+        "x": 34,
+        "y": 822.0546875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Total: US$33.46"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Posters Galore Admin - Orders",
+  "url": "https://marmelab.com/react-admin-demo/#/orders",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-05T11:47:07.830Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

@@ -22,5 +22,10 @@
   "recognition": {
     "label": "2024 Webby Winner：Best User Interface",
     "url": "https://winners.webbyawards.com/winners/websites-and-mobile-sites/features-design/best-user-interface"
-  }
+  },
+  "caveat": "已操作手机筛选抽屉；未逐项验证筛选结果。",
+  "patterns": [
+    "filter-panel",
+    "resource-discovery"
+  ]
 }

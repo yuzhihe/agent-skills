@@ -1,0 +1,22 @@
+Browser tab: 3, Title: "Tiptap Simple Editor template", URL: "https://template.tiptap.dev/preview/templates/simple".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 109
+~				10 checkbox (expanded) Description: Format text as heading, Value: 0, ID: radix-_R_kanpfiv5ubrb_, Secondary Actions: Collapse
++					11 image
++		109 menu Format text as heading, ID: radix-_R_kanpfiv5ubrbH1_
++			110 container
++				111 Heading 1
++					112 image
++					113 text Heading 1
++				114 Heading 2
++					115 image
++					116 text Heading 2
++				117 Heading 3
++					118 image
++					119 text Heading 3
++				120 Heading 4
++					121 image
++					122 text Heading 4
++		123 container Heading
++			124 text Heading
+The focused UI element is 109 menu Format text as heading, ID: radix-_R_kanpfiv5ubrbH1_

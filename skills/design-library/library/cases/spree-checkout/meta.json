@@ -1,0 +1,29 @@
+{
+  "order": 42,
+  "id": "spree-checkout",
+  "name": "Spree · 购物车与结账",
+  "source": "https://demo.spreecommerce.org/us/en",
+  "studied": "2026-10-05",
+  "tasks": [
+    "commerce",
+    "forms",
+    "mobile"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "product-photos",
+    "commerce-data"
+  ],
+  "tone": [
+    "clean",
+    "structured"
+  ],
+  "lang": "en",
+  "summary": "购物车侧抽屉衔接分组结账表单，桌面保留订单摘要，手机将摘要折叠到顶部。",
+  "usage": "适合实物商品结账及费用确认；需真实商品、运费和支付规则，不宜照搬美国地址字段。",
+  "caveat": "已查看结账与摘要；未提交订单，未验证支付结果。",
+  "patterns": [
+    "cart-summary",
+    "checkout-form"
+  ]
+}

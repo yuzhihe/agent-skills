@@ -1,0 +1,143 @@
+Browser tab: 3, Title: "Tiptap Simple Editor template", URL: "https://template.tiptap.dev/preview/templates/simple".
+1 AXWebArea Tiptap Simple Editor template, URL: template.tiptap.dev/preview/templates/simple
+	2 container
+		3 toolbar toolbar
+			4 container
+				5 button (disabled) Undo
+					6 image
+				7 button (disabled) Redo
+					8 image
+			9 container
+				10 checkbox (disabled, collapsed) Description: Format text as heading, Value: 0, ID: radix-_R_kanpfiv5ubrb_, Secondary Actions: Expand
+					11 image
+					12 image
+				13 pop up button (disabled, collapsed) Description: List options, ID: radix-_R_14anpfiv5ubrb_, Secondary Actions: Expand
+					14 image
+					15 image
+				16 checkbox (disabled) Description: Blockquote, Value: 0
+					17 image
+				18 checkbox (disabled) Description: Code Block, Value: 0
+					19 image
+			20 container
+				21 checkbox (disabled) Description: Bold, Value: 0
+					22 image
+				23 checkbox (disabled) Description: Italic, Value: 0
+					24 image
+				25 checkbox (disabled) Description: Strike, Value: 0
+					26 image
+				27 checkbox (disabled) Description: Code, Value: 0
+					28 image
+				29 checkbox (disabled) Description: Underline, Value: 0
+					30 image
+				31 checkbox (disabled, collapsed) Description: Highlight, Value: 0, Secondary Actions: Expand
+					32 image
+				33 checkbox (disabled, collapsed) Description: Link, Value: 0, Secondary Actions: Expand
+					34 image
+			35 container
+				36 checkbox (disabled) Description: Superscript, Value: 0
+					37 image
+				38 checkbox (disabled) Description: Subscript, Value: 0
+					39 image
+			40 container
+				41 checkbox (disabled) Description: Align left, Value: 0
+					42 image
+				43 checkbox (disabled) Description: Align center, Value: 0
+					44 image
+				45 checkbox (disabled) Description: Align right, Value: 0
+					46 image
+				47 checkbox (disabled) Description: Align justify, Value: 0
+					48 image
+			49 checkbox (disabled) Description: Add image, Value: 0
+				50 image
+				51 text Add
+			52 container
+				53 button (collapsed) Description: Search and replace, Secondary Actions: Expand
+					54 image
+				55 button Switch to dark mode
+					56 image
+		57 container Description: Main content area, start typing to enter text., Value: Getting started
+
+Welcome to the Simple Editor template! This template integrates open source UI components and Tiptap extensions licensed under MIT.
+
+Integrate it by following the Tiptap UI Components docs or using our CLI tool.
+
+npx @tiptap/cli init
+Features
+
+A fully responsive rich text editor with built-in support for common formatting and layout tools. Type markdown ** or use keyboard shortcuts ⌘+B for most all common markdown marks. 🪄
+
+Add images, customize alignment, and apply advanced formatting to make your writing more engaging and professional.
+
+Superscript (x2) and Subscript (H2O) for precision.
+
+Typographic conversion: automatically convert to -> an arrow →.
+
+→ Learn more
+
+Make it your own
+
+Switch between light and dark modes, and tailor the editor's appearance with customizable CSS to match your style.
+
+Task item checkbox for Test template
+
+Test template
+
+Task item checkbox for Integrate the free template
+
+Integrate the free template
+
+
+
+			58 heading Getting started, Value: 1
+				59 text Getting started
+			60 container
+				61 text Welcome to the 
+				62 text Simple Editor
+				63 text  template! This template integrates  open source  UI components and Tiptap extensions licensed under  MIT .
+			64 container
+				65 text Integrate it by following the 
+				66 link Description: Tiptap UI Components docs, Value: tiptap.dev/docs/ui-components/templates/simple-editor
+				67 text  or using our CLI tool.
+			68 text npx @tiptap/cli init
+			69 heading Features, Value: 2
+				70 text Features
+			71 container
+				72 text A fully responsive rich text editor with built-in support for common formatting and layout tools. Type markdown  **  or use keyboard shortcuts  ⌘+B  for  most  all common markdown marks. 🪄
+			73 container
+				74 text Add images, customize alignment, and apply  advanced formatting  to make your writing more engaging and professional.
+			75 image placeholder-image
+			76 content list
+				77 container
+					78 AXListMarker • 
+					79 text Superscript
+					80 text  (x
+					81 text 2
+					82 text ) and 
+					83 text Subscript
+					84 text  (H
+					85 text 2
+					86 text O) for precision.
+				87 container
+					88 AXListMarker • 
+					89 text Typographic conversion
+					90 text : automatically convert to 
+					91 text ->
+					92 text  an arrow 
+					93 text →
+					94 text .
+			95 container
+				96 text → 
+				97 link Description: Learn more, Value: tiptap.dev/docs/ui-components/templates/simple-editor#features
+			98 heading Make it your own, Value: 2
+				99 text Make it your own
+			100 text Switch between light and dark modes, and tailor the editor's appearance with customizable CSS to match your style.
+			101 content list
+				102 container
+					103 checkbox (settable, integer) Description: Task item checkbox for Test template, Value: 1
+					104 text Task item checkbox for Test template Test template
+				105 container
+					106 checkbox (settable, integer) Description: Task item checkbox for Integrate the free template, Value: 0
+					107 text Task item checkbox for Integrate the free template
+					108 link Description: Integrate the free template, Value: tiptap.dev/docs/ui-components/templates/simple-editor
+
+The focused UI element is 1 AXWebArea Tiptap Simple Editor template, URL: template.tiptap.dev/preview/templates/simple

@@ -1,0 +1,15 @@
+Browser tab: 1, Title: "Spree Commerce Demo | Next.js Ecommerce Storefront", URL: "https://demo.spreecommerce.org/us/en/checkout/cart_QVquA48cIW".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~		707 button (expanded) Hide order summary, Secondary Actions: Collapse
++		717 container checkout-summary-panel
++			718 container
++				719 image Digital Air Fryer 6.2L
++				720 text 1
++			721 text Digital Air Fryer 6.2L
++			722 text Color: Matte Black
++			723 text $179.99
++			724 text Subtotal $179.99 Shipping Enter shipping address Total USD $179.99
++			725 container
++				726 text field (settable) Gift card or discount code
++				727 button (disabled) Apply
+The focused UI element is 707 button (expanded) Hide order summary, Secondary Actions: Collapse

@@ -1,0 +1,13 @@
+Browser tab: 1, Title: "Posters Galore Admin - Orders", URL: "https://marmelab.com/react-admin-demo/#/orders".
+0 AXWebArea Posters Galore Admin - Orders, URL: marmelab.com/react-admin-demo/#/orders
+	1 container
+		2 menu
+			3 Customer, Value: 0
+			4 Passed Since, Value: 0
+			5 Passed Before, Value: 0
+			6 Min amount, Value: 0
+			7 Returned, Value: 0
+			8 Save current query...
+			9 Remove all filters
+
+The focused UI element is 3 Customer, Value: 0

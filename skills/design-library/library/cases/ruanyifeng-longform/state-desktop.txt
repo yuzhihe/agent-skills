@@ -1,0 +1,3639 @@
+Browser tab: 3, Title: "Flex 布局教程：语法篇 - 阮一峰的网络日志", URL: "https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html".
+1 AXWebArea Flex 布局教程：语法篇 - 阮一峰的网络日志, URL: ruanyifeng.com/blog…
+	2 container container-inner
+		3 container header-content
+			4 container header-name
+				5 text 阮一峰的网络日志 
+				6 container site_location
+					7 text » 
+					8 link Description: 首页, Value: ruanyifeng.com/blog/
+				9 container site_archive
+					10 text  » 
+					11 link Description: 档案, Value: ruanyifeng.com/blog…
+			12 container
+				13 text field (settable) sbi
+				14 button Description: 搜索, URL: ruanyifeng.com/stat…
+			15 link Description: 订阅Feed, Value: ruanyifeng.com/feed…
+		16 container alpha-inner
+			17 container entry-1845
+				18 content list
+					19 container
+						20 text 上一篇：
+						21 link Description: ES6 的功能侦测库 , Help: ES6 的功能侦测库 ES-Checker, Value: ruanyifeng.com/blog…
+					22 container
+						23 text 下一篇：
+						24 link Description: Flex 布局教程：实, Help: Flex 布局教程：实例篇, Value: ruanyifeng.com/blog…
+				25 text 分类 ：
+				26 content list
+					27 link Description: 开发者手册, Value: ruanyifeng.com/blog…
+				28 container
+					29 heading Flex 布局教程：语法篇, Value: 1, ID: page-title
+						30 text Flex 布局教程：语法篇
+					31 text 作者： 
+					32 link Description: 阮一峰, Value: ruanyifeng.com/
+					33 text 日期： 
+					34 link Description: 2015年7月10日, Value: ruanyifeng.com/blog…
+					35 container main-content
+						36 text 网页布局（layout）是 CSS 的一个重点应用。
+						37 container
+							38 text 布局的传统解决方案，基于
+							39 link Description: 盒状模型, Value: developer.mozilla.o…
+							40 text ，依赖 
+							41 link Description: display, Value: developer.mozilla.o…
+							42 text  属性 + 
+							43 link Description: position, Value: developer.mozilla.o…
+							44 text 属性 + 
+							45 link Description: float, Value: developer.mozilla.o…
+							46 text 属性。它对于那些特殊布局非常不方便，比如，
+							47 link Description: 垂直居中, Value: css-tricks.com/cent…
+							48 text 就不容易实现。
+						49 text 2009年，W3C 提出了一种新的方案----Flex 布局，可以简便、完整、响应式地实现各种页面布局。目前，它已经得到了所有浏览器的支持，这意味着，现在就能很安全地使用这项功能。
+						50 container
+							51 text Flex 布局将成为未来布局的首选方案。本文介绍它的语法，
+							52 link Description: 下一篇文章, Value: ruanyifeng.com/blog…
+							53 text 给出常见布局的 Flex 写法。网友 
+							54 link Description: JailBreak, Value: vgee.cn/
+							55 text  为本文的所有示例制作了 
+							56 link Description: Demo, Value: static.vgee.cn/stat…
+							57 text ，也可以参考。
+						58 container
+							59 text 以下内容主要参考了下面两篇文章：
+							60 link Description: A Complete Guide to Flexbox, Value: css-tricks.com/snip…
+							61 text  和 
+							62 link Description: A Visual Guide to CSS3 Flexbox Properties, Value: scotch.io/tutorials…
+							63 text 。
+						64 heading 一、Flex 布局是什么？, Value: 2
+							65 text 一、Flex 布局是什么？
+						66 text Flex 是 Flexible Box 的缩写，意为"弹性布局"，用来为盒状模型提供最大的灵活性。
+						67 text 任何一个容器都可以指定为 Flex 布局。
+						68 container
+							69 text .box { display :  flex ; }
+						70 text 行内元素也可以使用 Flex 布局。
+						71 container
+							72 text .box { display :  inline-flex ; }
+						73 container
+							74 text Webkit 内核的浏览器，必须加上 -webkit 前缀。
+						75 container
+							76 text .box { display :  -webkit-flex ; /* Safari */ display :  flex ; }
+						77 container
+							78 text 注意，设为 Flex 布局以后，子元素的 float 、 clear 和 vertical-align 属性将失效。
+						79 heading 二、基本概念, Value: 2
+							80 text 二、基本概念
+						81 text 采用 Flex 布局的元素，称为 Flex 容器（flex container），简称"容器"。它的所有子元素自动成为容器成员，称为 Flex 项目（flex item），简称"项目"。
+						82 container
+							83 text 容器默认存在两根轴：水平的主轴（main axis）和垂直的交叉轴（cross axis）。主轴的开始位置（与边框的交叉点）叫做 main start ，结束位置叫做 main end ；交叉轴的开始位置叫做 cross start ，结束位置叫做 cross end 。
+						84 container
+							85 text 项目默认沿主轴排列。单个项目占据的主轴空间叫做 main size ，占据的交叉轴空间叫做 cross size 。
+						86 heading 三、容器的属性, Value: 2
+							87 text 三、容器的属性
+						88 text 以下6个属性设置在容器上。
+						89 content list
+							90 container
+								91 AXListMarker ■ 
+								92 text flex-direction
+							93 container
+								94 AXListMarker ■ 
+								95 text flex-wrap
+							96 container
+								97 AXListMarker ■ 
+								98 text flex-flow
+							99 container
+								100 AXListMarker ■ 
+								101 text justify-content
+							102 container
+								103 AXListMarker ■ 
+								104 text align-items
+							105 container
+								106 AXListMarker ■ 
+								107 text align-content
+						108 heading 3.1 flex-direction属性, Value: 3
+							109 text 3.1 flex-direction属性
+						110 container
+							111 text flex-direction 属性决定主轴的方向（即项目的排列方向）。
+						112 container
+							113 text .box  { flex-direction :  row | row-reverse | column | column-reverse ; }
+						114 text 它可能有4个值。
+						115 content list
+							116 container
+								117 AXListMarker ■ 
+								118 text row （默认值）：主轴为水平方向，起点在左端。
+							119 container
+								120 AXListMarker ■ 
+								121 text row-reverse ：主轴为水平方向，起点在右端。
+							122 container
+								123 AXListMarker ■ 
+								124 text column ：主轴为垂直方向，起点在上沿。
+							125 container
+								126 AXListMarker ■ 
+								127 text column-reverse ：主轴为垂直方向，起点在下沿。
+						128 heading 3.2 flex-wrap属性, Value: 3
+							129 text 3.2 flex-wrap属性
+						130 container
+							131 text 默认情况下，项目都排在一条线（又称"轴线"）上。 flex-wrap 属性定义，如果一条轴线排不下，如何换行。
+						132 container
+							133 text .box { flex-wrap :  nowrap | wrap | wrap-reverse ; }
+						134 text 它可能取三个值。
+						135 container
+							136 text （1） nowrap （默认）：不换行。
+						137 container
+							138 text （2） wrap ：换行，第一行在上方。
+						139 container
+							140 text （3） wrap-reverse ：换行，第一行在下方。
+						141 heading 3.3 flex-flow, Value: 3
+							142 text 3.3 flex-flow
+						143 container
+							144 text flex-flow 属性是 flex-direction 属性和 flex-wrap 属性的简写形式，默认值为 row nowrap 。
+						145 container
+							146 text .box  { flex-flow : < flex-direction> ||  < flex-wrap> ; }
+						147 heading 3.4 justify-content属性, Value: 3
+							148 text 3.4 justify-content属性
+						149 container
+							150 text justify-content 属性定义了项目在主轴上的对齐方式。
+						151 container
+							152 text .box  { justify-content :  flex-start | flex-end | center | space-between | space-around ; }
+						153 text 它可能取5个值，具体对齐方式与轴的方向有关。下面假设主轴为从左到右。
+						154 content list
+							155 container
+								156 AXListMarker ■ 
+								157 text flex-start （默认值）：左对齐
+							158 container
+								159 AXListMarker ■ 
+								160 text flex-end ：右对齐
+							161 container
+								162 AXListMarker ■ 
+								163 text center ： 居中
+							164 container
+								165 AXListMarker ■ 
+								166 text space-between ：两端对齐，项目之间的间隔都相等。
+							167 container
+								168 AXListMarker ■ 
+								169 text space-around ：每个项目两侧的间隔相等。所以，项目之间的间隔比项目与边框的间隔大一倍。
+						170 heading 3.5 align-items属性, Value: 3
+							171 text 3.5 align-items属性
+						172 container
+							173 text align-items 属性定义项目在交叉轴上如何对齐。
+						174 container
+							175 text .box  { align-items :  flex-start | flex-end | center | baseline | stretch ; }
+						176 text 它可能取5个值。具体的对齐方式与交叉轴的方向有关，下面假设交叉轴从上到下。
+						177 content list
+							178 container
+								179 AXListMarker ■ 
+								180 text flex-start ：交叉轴的起点对齐。
+							181 container
+								182 AXListMarker ■ 
+								183 text flex-end ：交叉轴的终点对齐。
+							184 container
+								185 AXListMarker ■ 
+								186 text center ：交叉轴的中点对齐。
+							187 container
+								188 AXListMarker ■ 
+								189 text baseline : 项目的第一行文字的基线对齐。
+							190 container
+								191 AXListMarker ■ 
+								192 text stretch （默认值）：如果项目未设置高度或设为auto，将占满整个容器的高度。
+						193 heading 3.6 align-content属性, Value: 3
+							194 text 3.6 align-content属性
+						195 container
+							196 text align-content 属性定义了多根轴线的对齐方式。如果项目只有一根轴线，该属性不起作用。
+						197 container
+							198 text .box  { align-content :  flex-start | flex-end | center | space-between | space-around | stretch ; }
+						199 text 该属性可能取6个值。
+						200 content list
+							201 container
+								202 AXListMarker ■ 
+								203 text flex-start ：与交叉轴的起点对齐。
+							204 container
+								205 AXListMarker ■ 
+								206 text flex-end ：与交叉轴的终点对齐。
+							207 container
+								208 AXListMarker ■ 
+								209 text center ：与交叉轴的中点对齐。
+							210 container
+								211 AXListMarker ■ 
+								212 text space-between ：与交叉轴两端对齐，轴线之间的间隔平均分布。
+							213 container
+								214 AXListMarker ■ 
+								215 text space-around ：每根轴线两侧的间隔都相等。所以，轴线之间的间隔比轴线与边框的间隔大一倍。
+							216 container
+								217 AXListMarker ■ 
+								218 text stretch （默认值）：轴线占满整个交叉轴。
+						219 heading 四、项目的属性, Value: 3
+							220 text 四、项目的属性
+						221 text 以下6个属性设置在项目上。
+						222 content list
+							223 container
+								224 AXListMarker ■ 
+								225 text order
+							226 container
+								227 AXListMarker ■ 
+								228 text flex-grow
+							229 container
+								230 AXListMarker ■ 
+								231 text flex-shrink
+							232 container
+								233 AXListMarker ■ 
+								234 text flex-basis
+							235 container
+								236 AXListMarker ■ 
+								237 text flex
+							238 container
+								239 AXListMarker ■ 
+								240 text align-self
+						241 heading 4.1 order属性, Value: 3
+							242 text 4.1 order属性
+						243 container
+							244 text order 属性定义项目的排列顺序。数值越小，排列越靠前，默认为0。
+						245 container
+							246 text .item  { order : < integer> ; }
+						247 heading 4.2 flex-grow属性, Value: 3
+							248 text 4.2 flex-grow属性
+						249 container
+							250 text flex-grow 属性定义项目的放大比例，默认为 0 ，即如果存在剩余空间，也不放大。
+						251 container
+							252 text .item  { flex-grow : < number> ; /* default 0 */ }
+						253 container
+							254 text 如果所有项目的 flex-grow 属性都为1，则它们将等分剩余空间（如果有的话）。如果一个项目的 flex-grow 属性为2，其他项目都为1，则前者占据的剩余空间将比其他项多一倍。
+						255 heading 4.3 flex-shrink属性, Value: 3
+							256 text 4.3 flex-shrink属性
+						257 container
+							258 text flex-shrink 属性定义了项目的缩小比例，默认为1，即如果空间不足，该项目将缩小。
+						259 container
+							260 text .item  { flex-shrink : < number> ; /* default 1 */ }
+						261 container
+							262 text 如果所有项目的 flex-shrink 属性都为1，当空间不足时，都将等比例缩小。如果一个项目的 flex-shrink 属性为0，其他项目都为1，则空间不足时，前者不缩小。
+						263 text 负值对该属性无效。
+						264 heading 4.4 flex-basis属性, Value: 3
+							265 text 4.4 flex-basis属性
+						266 container
+							267 text flex-basis 属性定义了在分配多余空间之前，项目占据的主轴空间（main size）。浏览器根据这个属性，计算主轴是否有多余空间。它的默认值为 auto ，即项目的本来大小。
+						268 container
+							269 text .item  { flex-basis : < length> | auto ; /* default auto */ }
+						270 container
+							271 text 它可以设为跟 width 或 height 属性一样的值（比如350px），则项目将占据固定空间。
+						272 heading 4.5 flex属性, Value: 3
+							273 text 4.5 flex属性
+						274 container
+							275 text flex 属性是 flex-grow ,  flex-shrink  和  flex-basis 的简写，默认值为 0 1 auto 。后两个属性可选。
+						276 container
+							277 text .item  { flex :  none | [  < 'flex-grow' >  < 'flex-shrink' >? ||  < 'flex-basis' > ]
+ }
+						278 container
+							279 text 该属性有两个快捷值： auto  ( 1 1 auto ) 和 none ( 0 0 auto )。
+						280 text 建议优先使用这个属性，而不是单独写三个分离的属性，因为浏览器会推算相关值。
+						281 heading 4.6 align-self属性, Value: 3
+							282 text 4.6 align-self属性
+						283 container
+							284 text align-self 属性允许单个项目有与其他项目不一样的对齐方式，可覆盖 align-items 属性。默认值为 auto ，表示继承父元素的 align-items 属性，如果没有父元素，则等同于 stretch 。
+						285 container
+							286 text .item  { align-self :  auto | flex-start | flex-end | center | baseline | stretch ; }
+						287 text 该属性可能取6个值，除了auto，其他都与align-items属性完全一致。
+						288 text （完）
+					289 heading 文档信息, Value: 3
+						290 text 文档信息
+					291 content list
+						292 container
+							293 AXListMarker ■ 
+							294 text 版权声明：自由转载-非商用-非衍生-保持署名（
+							295 link Description: 创意共享3.0许可证, Value: creativecommons.org…
+							296 text ）
+						297 container
+							298 AXListMarker ■ 
+							299 text 发表日期： 
+							300 container 2015-07-10T11:39:15+08:00
+								301 text 2015年7月10日
+			302 container related_entries
+				303 heading 相关文章, Value: 2
+					304 text 相关文章
+				305 content list
+					306 container
+						307 AXListMarker ■ 
+						308 text 2026.03.21: 
+						309 link Description: 套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的"套壳"疑云, Value: ruanyifeng.com/blog…
+						310 text 1、 本周末，有一条最热闹的 AI 新闻，震动了太平洋两岸，连马斯克都关注了。
+					311 container
+						312 AXListMarker ■ 
+						313 text 2026.03.12: 
+						314 link Description: 零安装的"云养虾"：ArkClaw 使用指南, Value: ruanyifeng.com/blog…
+						315 text 一、引言 大家这两天，有没有被"龙虾"（OpenClaw）刷屏？
+					316 container
+						317 AXListMarker ■ 
+						318 text 2026.02.14: 
+						319 link Description: 字节全家桶 Seed 2.0 + TRAE 玩转 Skill, Value: ruanyifeng.com/blog…
+						320 text 一、引言 国产大模型之中，字节是一个异类。
+					321 container
+						322 AXListMarker ■ 
+						323 text 2026.02.12: 
+						324 link Description: 智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex, Value: ruanyifeng.com/blog…
+						325 text 一、引言 刚才我看到，智谱新一代的旗舰模型 GLM-5 已经正式发布了。
+			326 container comments
+				327 heading 留言（255条）, Value: 2
+					328 text 留言（255条）
+				329 container comments-content
+					330 container comment-350741
+						331 container
+							332 text shikelong  说：
+						333 text flex布局除了响应不同页面之外，还有什么优点呢？
+						334 container
+							335 container July 10, 2015 6:14 PM
+								336 text 2015年7月10日 18:14
+							337 text  | 
+							338 link Description: #, Value: ruanyifeng.com/blog…
+							339 text  | 
+							340 link Description: 引用, Help: 引用shikelong的这条留言, Value: ruanyifeng.com/blog…
+					341 container comment-350742
+						342 container
+							343 text KevinSu  说：
+						344 text 简单明了，配图很赞！
+						345 container
+							346 container July 10, 2015 7:24 PM
+								347 text 2015年7月10日 19:24
+							348 text  | 
+							349 link Description: #, Value: ruanyifeng.com/blog…
+							350 text  | 
+							351 link Description: 引用, Help: 引用KevinSu的这条留言, Value: ruanyifeng.com/blog…
+					352 container comment-350753
+						353 container
+							354 text liaotonglang  说：
+						355 text 看标题还以为是讲编译器，兴冲冲点进来。不过并不失望，最近做课程设计正好需要这个。博主配图好漂亮。
+						356 container
+							357 container July 11, 2015 11:31 AM
+								358 text 2015年7月11日 11:31
+							359 text  | 
+							360 link Description: #, Value: ruanyifeng.com/blog…
+							361 text  | 
+							362 link Description: 引用, Help: 引用liaotonglang的这条留言, Value: ruanyifeng.com/blog…
+					363 container comment-350762
+						364 container
+							365 text Soli  说：
+						366 text 属性名字起的很别扭哈。
+						367 container
+							368 container July 11, 2015 10:48 PM
+								369 text 2015年7月11日 22:48
+							370 text  | 
+							371 link Description: #, Value: ruanyifeng.com/blog…
+							372 text  | 
+							373 link Description: 引用, Help: 引用Soli的这条留言, Value: ruanyifeng.com/blog…
+					374 container comment-350763
+						375 container
+							376 text imskull  说：
+						377 text 多谢，很不错的文章，一直都用Polymer预定义的flex排版（"layout horizontal center"这样），看完才知道原来flex还有其它这些功能。
+						378 container
+							379 container July 11, 2015 11:50 PM
+								380 text 2015年7月11日 23:50
+							381 text  | 
+							382 link Description: #, Value: ruanyifeng.com/blog…
+							383 text  | 
+							384 link Description: 引用, Help: 引用imskull的这条留言, Value: ruanyifeng.com/blog…
+					385 container comment-350777
+						386 container
+							387 text 張旭  说：
+						388 container
+							389 text wow! 這傢伙太實用了!
+							390 text grid layout framework 不知道是否會重寫了
+						391 container
+							392 container July 13, 2015 2:13 PM
+								393 text 2015年7月13日 14:13
+							394 text  | 
+							395 link Description: #, Value: ruanyifeng.com/blog…
+							396 text  | 
+							397 link Description: 引用, Help: 引用張旭的这条留言, Value: ruanyifeng.com/blog…
+					398 container comment-350821
+						399 container
+							400 text WINE  说：
+						401 text 长见识了
+						402 container
+							403 container July 15, 2015 9:48 AM
+								404 text 2015年7月15日 09:48
+							405 text  | 
+							406 link Description: #, Value: ruanyifeng.com/blog…
+							407 text  | 
+							408 link Description: 引用, Help: 引用WINE的这条留言, Value: ruanyifeng.com/blog…
+					409 container comment-350823
+						410 container
+							411 text temp  说：
+						412 text 进了阿里，写文章不精致了。
+						413 container
+							414 container July 15, 2015 10:37 AM
+								415 text 2015年7月15日 10:37
+							416 text  | 
+							417 link Description: #, Value: ruanyifeng.com/blog…
+							418 text  | 
+							419 link Description: 引用, Help: 引用temp的这条留言, Value: ruanyifeng.com/blog…
+					420 container comment-350929
+						421 container
+							422 text 大个  说：
+						423 text 阮大神啊，flex-basis，这个属性的作用是优先级高于width的width吗？它除了设置宽度的作用还有什么用处？（宽度指的是水平方向，如果是垂直方向就是height了）。
+						424 container
+							425 container July 20, 2015 4:56 PM
+								426 text 2015年7月20日 16:56
+							427 text  | 
+							428 link Description: #, Value: ruanyifeng.com/blog…
+							429 text  | 
+							430 link Description: 引用, Help: 引用大个的这条留言, Value: ruanyifeng.com/blog…
+					431 container comment-350954
+						432 container
+							433 text longfei  说：
+						434 container comment-quote-350954
+							435 container
+								436 text 阮老师，那个item的flex-grow属性，我写了个demo
+								437 text CSS:
+								438 text body{margin:0;}
+								439 text ul,li{margin:0; padding:0;}
+								440 text li{list-style-type:none;}
+								441 text #list{border:2px solid gold; height:500px; display:flex; flex-direction:row;}
+								442 text #list li{font-family:"microsoft yahei"; font-size:50px; background:#C00; color:#fff; margin:2px; flex-grow:1;}
+								443 text #list li:nth-child(2){flex-grow:2;}
+							444 container
+								445 text <ul id="list">
+								446 text <li>test1</li>
+								447 text <li>test2</li>
+								448 text <li>test3</li>
+								449 text </ul>
+								450 text 结果第2个li所占的宽度并不是其它li的2倍，为什么呢？比其它两个要大，但不足2倍。
+						451 container
+							452 container July 22, 2015 11:50 AM
+								453 text 2015年7月22日 11:50
+							454 text  | 
+							455 link Description: #, Value: ruanyifeng.com/blog…
+							456 text  | 
+							457 link Description: 引用, Help: 引用longfei的这条留言, Value: ruanyifeng.com/blog…
+					458 container comment-350958
+						459 container
+							460 text 夜幕下的猫  说：
+						461 text 写的非常好！我用来弄我的 zhihu-daily-reader 布局了，嘿嘿！
+						462 container
+							463 container July 22, 2015 3:52 PM
+								464 text 2015年7月22日 15:52
+							465 text  | 
+							466 link Description: #, Value: ruanyifeng.com/blog…
+							467 text  | 
+							468 link Description: 引用, Help: 引用夜幕下的猫的这条留言, Value: ruanyifeng.com/blog…
+					469 container comment-350959
+						470 container
+							471 text 阮一峰  说：
+						472 container comment-quote-350959
+							473 text @longfei:
+							474 text flex-basis都设为0，因为flex-grow定义的是，剩余空间分配的比例关系。
+						475 container
+							476 container July 22, 2015 4:06 PM
+								477 text 2015年7月22日 16:06
+							478 text  | 
+							479 link Description: #, Value: ruanyifeng.com/blog…
+							480 text  | 
+							481 link Description: 引用, Help: 引用阮一峰的这条留言, Value: ruanyifeng.com/blog…
+					482 container comment-351154
+						483 container
+							484 text victor  说：
+						485 text 兼容性是大问题！
+						486 container
+							487 container August 6, 2015 2:32 PM
+								488 text 2015年8月 6日 14:32
+							489 text  | 
+							490 link Description: #, Value: ruanyifeng.com/blog…
+							491 text  | 
+							492 link Description: 引用, Help: 引用victor的这条留言, Value: ruanyifeng.com/blog…
+					493 container comment-351282
+						494 container
+							495 text coffce  说：
+						496 container
+							497 text Nice！看了这篇文后我写了个基于flex的栅格布局库 flex-layout
+							498 link Description: https://github.com/Coffcer/flex-layout, Value: github.com/Coffcer/…
+						499 container
+							500 container August 17, 2015 9:49 AM
+								501 text 2015年8月17日 09:49
+							502 text  | 
+							503 link Description: #, Value: ruanyifeng.com/blog…
+							504 text  | 
+							505 link Description: 引用, Help: 引用coffce的这条留言, Value: ruanyifeng.com/blog…
+					506 container comment-351351
+						507 container
+							508 text dubbo  说：
+						509 text 有了这个以后可以真正的告别table了。
+						510 container
+							511 container August 21, 2015 7:41 AM
+								512 text 2015年8月21日 07:41
+							513 text  | 
+							514 link Description: #, Value: ruanyifeng.com/blog…
+							515 text  | 
+							516 link Description: 引用, Help: 引用dubbo的这条留言, Value: ruanyifeng.com/blog…
+					517 container comment-351445
+						518 container
+							519 text 夜愿  说：
+						520 text 阮老师，align-items：flex-start和align-items:flex:end 的图弄反了
+						521 container
+							522 container August 26, 2015 2:00 PM
+								523 text 2015年8月26日 14:00
+							524 text  | 
+							525 link Description: #, Value: ruanyifeng.com/blog…
+							526 text  | 
+							527 link Description: 引用, Help: 引用夜愿的这条留言, Value: ruanyifeng.com/blog…
+					528 container comment-351802
+						529 container
+							530 text 第二梦  说：
+						531 text 您发表的每篇文章,都是那么的善于理解,一目了然,看着很轻松并且感觉学到了知识;非常感觉,看了您的很多文章觉得不评论支持一下过意不去.
+						532 container
+							533 container September 21, 2015 1:34 AM
+								534 text 2015年9月21日 01:34
+							535 text  | 
+							536 link Description: #, Value: ruanyifeng.com/blog…
+							537 text  | 
+							538 link Description: 引用, Help: 引用第二梦的这条留言, Value: ruanyifeng.com/blog…
+					539 container comment-351835
+						540 container
+							541 text 广州哈哥  说：
+						542 text 阮老师，您好，我是0基础开始学习flex,今天看了你的这篇博文，发现有个地方好像你给弄反了。就是justify-content和align-items这两个属性。我试过了，其实，前者是设置项目在交叉轴上的对齐方式的，而后者是设置项目在主轴上的对齐方式的。
+						543 container
+							544 container September 23, 2015 10:10 PM
+								545 text 2015年9月23日 22:10
+							546 text  | 
+							547 link Description: #, Value: ruanyifeng.com/blog…
+							548 text  | 
+							549 link Description: 引用, Help: 引用广州哈哥的这条留言, Value: ruanyifeng.com/blog…
+					550 container comment-351840
+						551 container
+							552 text 六翼  说：
+						553 container comment-quote-351840
+							554 container
+								555 text 引用阮一峰的发言： @longfei: flex-basis都设为0，因为flex-grow定义的是，剩余空间分配的比例关系。
+							556 text 那请问不设为0的时候它是多少呢？看您的原文里是“auto”，但这个auto是怎么计算的？
+						557 container
+							558 container September 24, 2015 9:58 AM
+								559 text 2015年9月24日 09:58
+							560 text  | 
+							561 link Description: #, Value: ruanyifeng.com/blog…
+							562 text  | 
+							563 link Description: 引用, Help: 引用六翼的这条留言, Value: ruanyifeng.com/blog…
+					564 container comment-352065
+						565 container
+							566 text ixoixo  说：
+						567 text 能不能好好解释下flex-grow flex-shrink flex-basis的用法，网上的各种解释感觉都不好理解
+						568 container
+							569 container October 9, 2015 11:07 PM
+								570 text 2015年10月 9日 23:07
+							571 text  | 
+							572 link Description: #, Value: ruanyifeng.com/blog…
+							573 text  | 
+							574 link Description: 引用, Help: 引用ixoixo的这条留言, Value: ruanyifeng.com/blog…
+					575 container comment-352463
+						576 container
+							577 text 年华果腹  说：
+						578 text 想学习flex的相关知识，找了几篇文章大概看了一下，觉得都不满意，突然在google上发现文章后面带有阮老师标识的文章，于是默默把其他的几篇文章的tab都关了
+						579 container
+							580 container October 30, 2015 1:20 PM
+								581 text 2015年10月30日 13:20
+							582 text  | 
+							583 link Description: #, Value: ruanyifeng.com/blog…
+							584 text  | 
+							585 link Description: 引用, Help: 引用年华果腹的这条留言, Value: ruanyifeng.com/blog…
+					586 container comment-352599
+						587 container
+							588 text phc  说：
+						589 container comment-quote-352599
+							590 container
+								591 text 引用广州哈哥的发言： 阮老师，您好，我是0基础开始学习flex,今天看了你的这篇博文，发现有个地方好像你给弄反了。就是justify-content和align-items这两个属性。我试过了，其实，前者是设置项目在交叉轴上的对齐方式的，而后者是设置项目在主轴上的对齐方式的。
+							592 text 我不知道自己理解的对不对，但是我觉得主轴的话也就是项目的排布方向，加入是水平排布，那么交叉轴即是垂直方向的，设置align-items:stretch；的话确实是在垂直方向上拉伸的，那align-itmes就是设置交叉轴的吧
+						593 container
+							594 container November 5, 2015 5:34 PM
+								595 text 2015年11月 5日 17:34
+							596 text  | 
+							597 link Description: #, Value: ruanyifeng.com/blog…
+							598 text  | 
+							599 link Description: 引用, Help: 引用phc的这条留言, Value: ruanyifeng.com/blog…
+					600 container comment-352605
+						601 container
+							602 text 大海的子民  说：
+						603 text 如果我把子元素按照固定像素来分配，是否可以（就是替换现在的float布局），还是子元素用width吗？
+						604 container
+							605 container November 5, 2015 9:32 PM
+								606 text 2015年11月 5日 21:32
+							607 text  | 
+							608 link Description: #, Value: ruanyifeng.com/blog…
+							609 text  | 
+							610 link Description: 引用, Help: 引用大海的子民的这条留言, Value: ruanyifeng.com/blog…
+					611 container comment-352717
+						612 container
+							613 text Jasmine  说：
+						614 text 很好用的布局，学习了！
+						615 container
+							616 container November 11, 2015 3:19 PM
+								617 text 2015年11月11日 15:19
+							618 text  | 
+							619 link Description: #, Value: ruanyifeng.com/blog…
+							620 text  | 
+							621 link Description: 引用, Help: 引用Jasmine的这条留言, Value: ruanyifeng.com/blog…
+					622 container comment-353257
+						623 container
+							624 text Citrus  说：
+						625 text 多次过来学习，非常感谢。
+						626 container
+							627 container December 12, 2015 12:31 PM
+								628 text 2015年12月12日 12:31
+							629 text  | 
+							630 link Description: #, Value: ruanyifeng.com/blog…
+							631 text  | 
+							632 link Description: 引用, Help: 引用Citrus的这条留言, Value: ruanyifeng.com/blog…
+					633 container comment-353259
+						634 container
+							635 text professorz  说：
+						636 text flex-direction 图片顺序和文字顺序是不是不一样呀。
+						637 container
+							638 container December 12, 2015 5:35 PM
+								639 text 2015年12月12日 17:35
+							640 text  | 
+							641 link Description: #, Value: ruanyifeng.com/blog…
+							642 text  | 
+							643 link Description: 引用, Help: 引用professorz的这条留言, Value: ruanyifeng.com/blog…
+					644 container comment-353454
+						645 container
+							646 text ppYoung  说：
+						647 container
+							648 text 原来是css-tricks上的文章翻译过来的，为什么不做说明
+							649 text 传送门：https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+						650 container
+							651 container December 22, 2015 11:37 AM
+								652 text 2015年12月22日 11:37
+							653 text  | 
+							654 link Description: #, Value: ruanyifeng.com/blog…
+							655 text  | 
+							656 link Description: 引用, Help: 引用ppYoung的这条留言, Value: ruanyifeng.com/blog…
+					657 container comment-353661
+						658 container
+							659 text 巫婆  说：
+						660 text 我每次写项目的时候也考虑过用flex布局，但是有的手机上显示不谦容。我到现在都不知道该怎么解决。
+						661 container
+							662 container December 30, 2015 5:51 PM
+								663 text 2015年12月30日 17:51
+							664 text  | 
+							665 link Description: #, Value: ruanyifeng.com/blog…
+							666 text  | 
+							667 link Description: 引用, Help: 引用巫婆的这条留言, Value: ruanyifeng.com/blog…
+					668 container comment-353673
+						669 container
+							670 text wcg  说：
+						671 container
+							672 text @mixin flex(){
+							673 text display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+							674 text display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+							675 text display: -ms-flexbox; /* TWEENER - IE 10 */
+							676 text display: -webkit-flex; /* NEW - Chrome */
+							677 text display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+							678 text }
+							679 text body{
+							680 text @include flex();
+							681 text flex: 1;
+							682 text justify-content: center;
+							683 text align-items: center;
+							684 text flex-direction: column;
+							685 text }
+							686 text #main{
+							687 text @include flex();
+							688 text height: 400px;
+							689 text width: 1200px;
+							690 text background-color: red;
+							691 text }
+							692 text div #main 并不会居中
+						693 container
+							694 container December 31, 2015 3:42 PM
+								695 text 2015年12月31日 15:42
+							696 text  | 
+							697 link Description: #, Value: ruanyifeng.com/blog…
+							698 text  | 
+							699 link Description: 引用, Help: 引用wcg 的这条留言, Value: ruanyifeng.com/blog…
+					700 container comment-353827
+						701 container
+							702 text lomin  说：
+						703 text 想问一下，微信的内置浏览器是不是不支持这个属性啊。。我写了一个。在电脑上用chrome浏览器有用。在微信上没用了
+						704 container
+							705 container January 7, 2016 10:04 AM
+								706 text 2016年1月 7日 10:04
+							707 text  | 
+							708 link Description: #, Value: ruanyifeng.com/blog…
+							709 text  | 
+							710 link Description: 引用, Help: 引用lomin的这条留言, Value: ruanyifeng.com/blog…
+					711 container comment-353896
+						712 container
+							713 text wing-kai  说：
+						714 container comment-quote-353896
+							715 container
+								716 text 引用lomin的发言： 想问一下，微信的内置浏览器是不是不支持这个属性啊。。我写了一个。在电脑上用chrome浏览器有用。在微信上没用了
+							717 text 微信的话用display: box
+						718 container
+							719 container January 9, 2016 1:01 PM
+								720 text 2016年1月 9日 13:01
+							721 text  | 
+							722 link Description: #, Value: ruanyifeng.com/blog…
+							723 text  | 
+							724 link Description: 引用, Help: 引用wing-kai的这条留言, Value: ruanyifeng.com/blog…
+					725 container comment-353929
+						726 container
+							727 text littelbowl  说：
+						728 text 感谢科普，跟着demo学习下来很有收获。
+						729 container
+							730 container January 11, 2016 3:20 PM
+								731 text 2016年1月11日 15:20
+							732 text  | 
+							733 link Description: #, Value: ruanyifeng.com/blog…
+							734 text  | 
+							735 link Description: 引用, Help: 引用littelbowl的这条留言, Value: ruanyifeng.com/blog…
+					736 container comment-354315
+						737 container
+							738 text 小天312  说：
+						739 text 移动端的兼容应该没有什么大问题了吧。可以在团队开发时候推广了吧？
+						740 container
+							741 container January 25, 2016 5:37 PM
+								742 text 2016年1月25日 17:37
+							743 text  | 
+							744 link Description: #, Value: ruanyifeng.com/blog…
+							745 text  | 
+							746 link Description: 引用, Help: 引用小天312的这条留言, Value: ruanyifeng.com/blog…
+					747 container comment-354390
+						748 container
+							749 text Silvers · Rayleigh  说：
+						750 container comment-quote-354390
+							751 container
+								752 text 引用longfei的发言： 阮老师，那个item的flex-grow属性，我写了个demo
+								753 text CSS:
+								754 text body{margin:0;}
+								755 text ul,li{margin:0; padding:0;}
+								756 text li{list-style-type:none;}
+								757 text #list{border:2px solid gold; height:500px; display:flex; flex-direction:row;}
+								758 text #list li{font-family:"microsoft yahei"; font-size:50px; background:#C00; color:#fff; margin:2px; flex-grow:1;}
+								759 text #list li:nth-child(2){flex-grow:2;} <ul id="list">
+								760 text <li>test1</li>
+								761 text <li>test2</li>
+								762 text <li>test3</li>
+								763 text </ul>
+								764 text 结果第2个li所占的宽度并不是其它li的2倍，为什么呢？比其它两个要大，但不足2倍。
+							765 container
+								766 text 这里是你理解错了，3个 li 平分下来每个是1/3。
+								767 text 你想实现的2个相等，1个宽度是其他2个的两倍实际上就是4个 li 平分，其中2个合并成1个，所以每个 li 是1/4，也就是#list li:nth-child(2){flex-grow:3;}
+						768 container
+							769 container January 30, 2016 4:28 PM
+								770 text 2016年1月30日 16:28
+							771 text  | 
+							772 link Description: #, Value: ruanyifeng.com/blog…
+							773 text  | 
+							774 link Description: 引用, Help: 引用Silvers · Rayleigh的这条留言, Value: ruanyifeng.com/blog…
+					775 container comment-354391
+						776 container
+							777 text Silvers · Rayleigh  说：
+						778 container comment-quote-354391
+							779 container
+								780 text 引用巫婆的发言： 我每次写项目的时候也考虑过用flex布局，但是有的手机上显示不谦容。我到现在都不知道该怎么解决。
+							781 text 不兼容可以用 display:box 试试看
+						782 container
+							783 container January 30, 2016 4:29 PM
+								784 text 2016年1月30日 16:29
+							785 text  | 
+							786 link Description: #, Value: ruanyifeng.com/blog…
+							787 text  | 
+							788 link Description: 引用, Help: 引用Silvers · Rayleigh的这条留言, Value: ruanyifeng.com/blog…
+					789 container comment-354413
+						790 container
+							791 text 村小闹  说：
+						792 container comment-quote-354413
+							793 container
+								794 text 引用广州哈哥的发言： 阮老师，您好，我是0基础开始学习flex,今天看了你的这篇博文，发现有个地方好像你给弄反了。就是justify-content和align-items这两个属性。我试过了，其实，前者是设置项目在交叉轴上的对齐方式的，而后者是设置项目在主轴上的对齐方式的。
+							795 text 是你自己弄错了好吧~
+						796 container
+							797 container February 1, 2016 3:29 PM
+								798 text 2016年2月 1日 15:29
+							799 text  | 
+							800 link Description: #, Value: ruanyifeng.com/blog…
+							801 text  | 
+							802 link Description: 引用, Help: 引用村小闹的这条留言, Value: ruanyifeng.com/blog…
+					803 container comment-354684
+						804 container
+							805 text 无双  说：
+						806 container
+							807 link Description: http://flexboxin5.com/, Value: flexboxin5.com/
+							808 text 博士哥与我本科生一站
+						809 container
+							810 container February 28, 2016 4:13 PM
+								811 text 2016年2月28日 16:13
+							812 text  | 
+							813 link Description: #, Value: ruanyifeng.com/blog…
+							814 text  | 
+							815 link Description: 引用, Help: 引用无双的这条留言, Value: ruanyifeng.com/blog…
+					816 container comment-354744
+						817 container
+							818 text jingsam  说：
+						819 text 3.1 节关于 flex-direction 的部分，代码和图不是一一对应的。
+						820 container
+							821 container March 3, 2016 2:12 PM
+								822 text 2016年3月 3日 14:12
+							823 text  | 
+							824 link Description: #, Value: ruanyifeng.com/blog…
+							825 text  | 
+							826 link Description: 引用, Help: 引用jingsam的这条留言, Value: ruanyifeng.com/blog…
+					827 container comment-354763
+						828 container
+							829 text 大果子  说：
+						830 text 我就看看能不能发表成功
+						831 container
+							832 container March 4, 2016 10:46 AM
+								833 text 2016年3月 4日 10:46
+							834 text  | 
+							835 link Description: #, Value: ruanyifeng.com/blog…
+							836 text  | 
+							837 link Description: 引用, Help: 引用大果子的这条留言, Value: ruanyifeng.com/blog…
+					838 container comment-355116
+						839 container
+							840 text cc  说：
+						841 container
+							842 text flex-wrap: wrap;
+							843 text 在微信内置浏览器中无效！
+						844 container
+							845 container March 19, 2016 12:25 PM
+								846 text 2016年3月19日 12:25
+							847 text  | 
+							848 link Description: #, Value: ruanyifeng.com/blog…
+							849 text  | 
+							850 link Description: 引用, Help: 引用cc的这条留言, Value: ruanyifeng.com/blog…
+					851 container comment-355117
+						852 container
+							853 text cc  说：
+						854 container comment-quote-355117
+							855 container
+								856 text 引用cc的发言： flex-wrap: wrap;
+								857 text 在微信内置浏览器中无效！
+							858 container
+								859 text autoprefixer({browsers: ['last 10 version']})
+								860 text 这样都无效！
+						861 container
+							862 container March 19, 2016 12:26 PM
+								863 text 2016年3月19日 12:26
+							864 text  | 
+							865 link Description: #, Value: ruanyifeng.com/blog…
+							866 text  | 
+							867 link Description: 引用, Help: 引用cc的这条留言, Value: ruanyifeng.com/blog…
+					868 container comment-355118
+						869 container
+							870 text cc  说：
+						871 container comment-quote-355118
+							872 container
+								873 text 引用cc的发言：
+								874 text autoprefixer({browsers: ['last 10 version']})
+								875 text 这样都无效！
+							876 text 换个写法吧，历史的倒退！shit!
+						877 container
+							878 container March 19, 2016 12:27 PM
+								879 text 2016年3月19日 12:27
+							880 text  | 
+							881 link Description: #, Value: ruanyifeng.com/blog…
+							882 text  | 
+							883 link Description: 引用, Help: 引用cc的这条留言, Value: ruanyifeng.com/blog…
+					884 container comment-355256
+						885 container
+							886 text SHUSHU  说：
+						887 text 谢谢老师讲解，之前的一些困惑现在看明白了
+						888 container
+							889 container March 25, 2016 1:55 PM
+								890 text 2016年3月25日 13:55
+							891 text  | 
+							892 link Description: #, Value: ruanyifeng.com/blog…
+							893 text  | 
+							894 link Description: 引用, Help: 引用SHUSHU的这条留言, Value: ruanyifeng.com/blog…
+					895 container comment-355475
+						896 container
+							897 text 杨继坤  说：
+						898 text 厉害
+						899 container
+							900 container April 7, 2016 5:03 PM
+								901 text 2016年4月 7日 17:03
+							902 text  | 
+							903 link Description: #, Value: ruanyifeng.com/blog…
+							904 text  | 
+							905 link Description: 引用, Help: 引用杨继坤的这条留言, Value: ruanyifeng.com/blog…
+					906 container comment-355517
+						907 container
+							908 text yanhaijing  说：
+						909 text 棒棒的
+						910 container
+							911 container April 9, 2016 6:46 PM
+								912 text 2016年4月 9日 18:46
+							913 text  | 
+							914 link Description: #, Value: ruanyifeng.com/blog…
+							915 text  | 
+							916 link Description: 引用, Help: 引用yanhaijing的这条留言, Value: ruanyifeng.com/blog…
+					917 container comment-355570
+						918 container
+							919 text wlq  说：
+						920 text 阮老师，item翻译成项目感觉怪怪的，没有直接用item好理解点
+						921 container
+							922 container April 12, 2016 10:56 AM
+								923 text 2016年4月12日 10:56
+							924 text  | 
+							925 link Description: #, Value: ruanyifeng.com/blog…
+							926 text  | 
+							927 link Description: 引用, Help: 引用wlq的这条留言, Value: ruanyifeng.com/blog…
+					928 container comment-355650
+						929 container
+							930 text 麦当真  说：
+						931 text 一峰老师，我简直不能更加感激您，也非常崇拜您。哇唔，我猜您已经将技术看作是艺术了吧！！！现在好多程序员生活都比较枯燥（我猜他们和我一样，嘻嘻）（每天都很忙，技术更新快，提升自己的技术还要完成项目），灵魂也很干涸（因为很忙，所以太少的时间感受生活，去吸取技术之外的东西来滋养我们的灵魂）。然而每次看您的博文，我就感觉自己经历了一场与艺术的邂逅，不仅学习了知识，还让我得以短暂的放松，让我的心灵经历了一次奇妙的旅行，然后再元气满满，整装继续上路。非常感谢您的分享，您无私的指引，以及心灵的关怀。
+						932 container
+							933 container April 14, 2016 11:14 AM
+								934 text 2016年4月14日 11:14
+							935 text  | 
+							936 link Description: #, Value: ruanyifeng.com/blog…
+							937 text  | 
+							938 link Description: 引用, Help: 引用麦当真的这条留言, Value: ruanyifeng.com/blog…
+					939 container comment-355930
+						940 container
+							941 text MZ  说：
+						942 container comment-quote-355930
+							943 container
+								944 text 引用阮一峰的发言： @longfei: flex-basis都设为0，因为flex-grow定义的是，剩余空间分配的比例关系。
+							945 text flex-basis设为0，那项目的初始大小是多大？
+						946 container
+							947 container April 27, 2016 8:21 PM
+								948 text 2016年4月27日 20:21
+							949 text  | 
+							950 link Description: #, Value: ruanyifeng.com/blog…
+							951 text  | 
+							952 link Description: 引用, Help: 引用MZ的这条留言, Value: ruanyifeng.com/blog…
+					953 container comment-355965
+						954 container
+							955 text 善心法西斯  说：
+						956 text 很清楚，一目了然
+						957 container
+							958 container April 28, 2016 11:58 PM
+								959 text 2016年4月28日 23:58
+							960 text  | 
+							961 link Description: #, Value: ruanyifeng.com/blog…
+							962 text  | 
+							963 link Description: 引用, Help: 引用善心法西斯的这条留言, Value: ruanyifeng.com/blog…
+					964 container comment-356167
+						965 container
+							966 text 曾胜荣  说：
+						967 text 请问flex在任何浏览器都能用吗，有没有兼容性的问题
+						968 container
+							969 container May 11, 2016 12:28 AM
+								970 text 2016年5月11日 00:28
+							971 text  | 
+							972 link Description: #, Value: ruanyifeng.com/blog…
+							973 text  | 
+							974 link Description: 引用, Help: 引用曾胜荣的这条留言, Value: ruanyifeng.com/blog…
+					975 container comment-356228
+						976 container
+							977 text 赖俊杰  说：
+						978 text 老师的文章写得总是那么易懂
+						979 container
+							980 container May 13, 2016 5:07 PM
+								981 text 2016年5月13日 17:07
+							982 text  | 
+							983 link Description: #, Value: ruanyifeng.com/blog…
+							984 text  | 
+							985 link Description: 引用, Help: 引用赖俊杰的这条留言, Value: ruanyifeng.com/blog…
+					986 container comment-356317
+						987 container
+							988 text 林明哲  说：
+						989 text 图片很好！点赞。flex在安卓原生开发上也有了支持库。https://github.com/google/flexbox-layout
+						990 container
+							991 container May 16, 2016 4:55 PM
+								992 text 2016年5月16日 16:55
+							993 text  | 
+							994 link Description: #, Value: ruanyifeng.com/blog…
+							995 text  | 
+							996 link Description: 引用, Help: 引用林明哲的这条留言, Value: ruanyifeng.com/blog…
+					997 container comment-356328
+						998 container
+							999 text Christopher  说：
+						1000 text 前端自学者受用了，谢谢！
+						1001 container
+							1002 container May 16, 2016 11:12 PM
+								1003 text 2016年5月16日 23:12
+							1004 text  | 
+							1005 link Description: #, Value: ruanyifeng.com/blog…
+							1006 text  | 
+							1007 link Description: 引用, Help: 引用Christopher的这条留言, Value: ruanyifeng.com/blog…
+					1008 container comment-356417
+						1009 container
+							1010 text walle  说：
+						1011 text 好的老师不仅要学会知识，还要讲得通俗易懂，阮老师就是这样的老师
+						1012 container
+							1013 container May 19, 2016 3:24 PM
+								1014 text 2016年5月19日 15:24
+							1015 text  | 
+							1016 link Description: #, Value: ruanyifeng.com/blog…
+							1017 text  | 
+							1018 link Description: 引用, Help: 引用walle的这条留言, Value: ruanyifeng.com/blog…
+					1019 container comment-356630
+						1020 container
+							1021 text react-native-android  说：
+						1022 text flex-direction这个属性的默认值是row吗？这样的话是不是默认情况下，item就是横向排列了。但是。我在做的过程中发现，如果不写flex-direction属性的话，item是竖向排列的
+						1023 container
+							1024 container May 26, 2016 10:46 AM
+								1025 text 2016年5月26日 10:46
+							1026 text  | 
+							1027 link Description: #, Value: ruanyifeng.com/blog…
+							1028 text  | 
+							1029 link Description: 引用, Help: 引用react-native-android的这条留言, Value: ruanyifeng.com/blog…
+					1030 container comment-357332
+						1031 container
+							1032 text laoyur  说：
+						1033 text 还是没看明白align-content跟justify-content的区别 :(
+						1034 container
+							1035 container June 7, 2016 8:17 PM
+								1036 text 2016年6月 7日 20:17
+							1037 text  | 
+							1038 link Description: #, Value: ruanyifeng.com/blog…
+							1039 text  | 
+							1040 link Description: 引用, Help: 引用laoyur的这条留言, Value: ruanyifeng.com/blog…
+					1041 container comment-359825
+						1042 container
+							1043 text 落雨收柴  说：
+						1044 text 老师，怎样使用flex布局使得两个组件的一部分重叠
+						1045 container
+							1046 container June 27, 2016 5:39 PM
+								1047 text 2016年6月27日 17:39
+							1048 text  | 
+							1049 link Description: #, Value: ruanyifeng.com/blog…
+							1050 text  | 
+							1051 link Description: 引用, Help: 引用落雨收柴的这条留言, Value: ruanyifeng.com/blog…
+					1052 container comment-359862
+						1053 container
+							1054 text 石海伟  说：
+						1055 container comment-quote-359862
+							1056 container
+								1057 text 引用longfei的发言： 阮老师，那个item的flex-grow属性，我写了个demo
+								1058 text CSS:
+								1059 text body{margin:0;}
+								1060 text ul,li{margin:0; padding:0;}
+								1061 text li{list-style-type:none;}
+								1062 text #list{border:2px solid gold; height:500px; display:flex; flex-direction:row;}
+								1063 text #list li{font-family:"microsoft yahei"; font-size:50px; background:#C00; color:#fff; margin:2px; flex-grow:1;}
+								1064 text #list li:nth-child(2){flex-grow:2;} <ul id="list">
+								1065 text <li>test1</li>
+								1066 text <li>test2</li>
+								1067 text <li>test3</li>
+								1068 text </ul>
+								1069 text 结果第2个li所占的宽度并不是其它li的2倍，为什么呢？比其它两个要大，但不足2倍。
+							1070 text 好像是按多余空间算的
+						1071 container
+							1072 container June 28, 2016 3:57 PM
+								1073 text 2016年6月28日 15:57
+							1074 text  | 
+							1075 link Description: #, Value: ruanyifeng.com/blog…
+							1076 text  | 
+							1077 link Description: 引用, Help: 引用石海伟的这条留言, Value: ruanyifeng.com/blog…
+					1078 container comment-359865
+						1079 container
+							1080 text 两仪  说：
+						1081 text 玉峰老师的博客真写的通熟易懂 点赞一个
+						1082 container
+							1083 container June 28, 2016 11:24 PM
+								1084 text 2016年6月28日 23:24
+							1085 text  | 
+							1086 link Description: #, Value: ruanyifeng.com/blog…
+							1087 text  | 
+							1088 link Description: 引用, Help: 引用两仪的这条留言, Value: ruanyifeng.com/blog…
+					1089 container comment-359896
+						1090 container
+							1091 text 卓  说：
+						1092 container comment-quote-359896
+							1093 container
+								1094 text 引用石海伟的发言： 好像是按多余空间算的
+							1095 text 一共有三个li元素，flex-grow:2即当前元素宽度为 父元素的2/3 并不是其他元素的两倍
+						1096 container
+							1097 container June 29, 2016 4:08 PM
+								1098 text 2016年6月29日 16:08
+							1099 text  | 
+							1100 link Description: #, Value: ruanyifeng.com/blog…
+							1101 text  | 
+							1102 link Description: 引用, Help: 引用卓的这条留言, Value: ruanyifeng.com/blog…
+					1103 container comment-359897
+						1104 container
+							1105 text 卓  说：
+						1106 container comment-quote-359897
+							1107 container
+								1108 text 引用longfei的发言： 阮老师，那个item的flex-grow属性，我写了个demo
+								1109 text CSS:
+								1110 text body{margin:0;}
+								1111 text ul,li{margin:0; padding:0;}
+								1112 text li{list-style-type:none;}
+								1113 text #list{border:2px solid gold; height:500px; display:flex; flex-direction:row;}
+								1114 text #list li{font-family:"microsoft yahei"; font-size:50px; background:#C00; color:#fff; margin:2px; flex-grow:1;}
+								1115 text #list li:nth-child(2){flex-grow:2;} <ul id="list">
+								1116 text <li>test1</li>
+								1117 text <li>test2</li>
+								1118 text <li>test3</li>
+								1119 text </ul>
+								1120 text 结果第2个li所占的宽度并不是其它li的2倍，为什么呢？比其它两个要大，但不足2倍。
+							1121 text 一共有三个li元素，flex-grow:2即当前元素宽度为 父元素的2/3 并不是其他元素的两倍
+						1122 container
+							1123 container June 29, 2016 4:09 PM
+								1124 text 2016年6月29日 16:09
+							1125 text  | 
+							1126 link Description: #, Value: ruanyifeng.com/blog…
+							1127 text  | 
+							1128 link Description: 引用, Help: 引用卓的这条留言, Value: ruanyifeng.com/blog…
+					1129 container comment-359991
+						1130 container
+							1131 text Mr.Luo  说：
+						1132 text 默认好像是flex-wrap: wrap;
+						1133 container
+							1134 container July 1, 2016 4:17 PM
+								1135 text 2016年7月 1日 16:17
+							1136 text  | 
+							1137 link Description: #, Value: ruanyifeng.com/blog…
+							1138 text  | 
+							1139 link Description: 引用, Help: 引用Mr.Luo的这条留言, Value: ruanyifeng.com/blog…
+					1140 container comment-360189
+						1141 container
+							1142 text 卓  说：
+						1143 container comment-quote-360189
+							1144 text 请问: 针对此属性 justify-content: space-between 3个元素为一行排列，最后多余的两个多余的元素如何让它靠左排布，事实上是左右排布了，表面看就是中间空了个元素，请看demo
+							1145 text 1 2 3 4 5
+							1146 container
+								1147 text .container {width: 400px;display: flex;justify-content: space-between;flex-flow: row wrap;
+								1148 text }
+							1149 container
+								1150 text span {width: 110px;background-color: #f60;border-radius: 5px;margin-top: 10px;padding: 10px;
+								1151 text }
+						1152 container
+							1153 container July 5, 2016 10:47 AM
+								1154 text 2016年7月 5日 10:47
+							1155 text  | 
+							1156 link Description: #, Value: ruanyifeng.com/blog…
+							1157 text  | 
+							1158 link Description: 引用, Help: 引用卓的这条留言, Value: ruanyifeng.com/blog…
+					1159 container comment-360190
+						1160 container
+							1161 text 卓  说：
+						1162 container
+							1163 text 引用卓的发言： 请问: 针对此属性 justify-content: space-between 3个元素为一行排列，最后多余的两个多余的元素如何让它靠左排布，事实上是左右排布了，表面看就是中间空了个元素，请看demo
+							1164 text 1
+							1165 text 2
+							1166 text 3
+							1167 text 4
+							1168 text 5
+							1169 text .container {width: 400px;display: flex;justify-content: space-between;flex-flow: row wrap;
+							1170 text } span {width: 110px;background-color: #f60;border-radius: 5px;margin-top: 10px;padding: 10px;
+							1171 text }
+						1172 container
+							1173 container July 5, 2016 10:49 AM
+								1174 text 2016年7月 5日 10:49
+							1175 text  | 
+							1176 link Description: #, Value: ruanyifeng.com/blog…
+							1177 text  | 
+							1178 link Description: 引用, Help: 引用卓的这条留言, Value: ruanyifeng.com/blog…
+					1179 container comment-360443
+						1180 container
+							1181 text 键盘侠  说：
+						1182 text 我只想说这个css3的新属性flex局势一个巨坑，谁用谁知道。安卓低端机完全不支持
+						1183 container
+							1184 container July 9, 2016 5:16 PM
+								1185 text 2016年7月 9日 17:16
+							1186 text  | 
+							1187 link Description: #, Value: ruanyifeng.com/blog…
+							1188 text  | 
+							1189 link Description: 引用, Help: 引用键盘侠的这条留言, Value: ruanyifeng.com/blog…
+					1190 container comment-360450
+						1191 container
+							1192 text Yac  说：
+						1193 container
+							1194 text 目前发现一个问题，和@卓貌似是一个问题：
+							1195 text 父元素：justify-content: space-between
+							1196 text 在每排3个元素一共5个元素情况下，第五个元素怎么实现居中？
+							1197 text 现在的效果是第1、2、3元素正常，4元素居左，5元素居右
+						1198 container
+							1199 container July 10, 2016 3:19 AM
+								1200 text 2016年7月10日 03:19
+							1201 text  | 
+							1202 link Description: #, Value: ruanyifeng.com/blog…
+							1203 text  | 
+							1204 link Description: 引用, Help: 引用Yac的这条留言, Value: ruanyifeng.com/blog…
+					1205 container comment-360471
+						1206 container
+							1207 text 肖德华  说：
+						1208 text UC浏览器设置flex：1；盒子里面加入文字 弹性盒子会被撑开要怎么解决，其他浏览器都是正常的
+						1209 container
+							1210 container July 10, 2016 5:10 PM
+								1211 text 2016年7月10日 17:10
+							1212 text  | 
+							1213 link Description: #, Value: ruanyifeng.com/blog…
+							1214 text  | 
+							1215 link Description: 引用, Help: 引用肖德华的这条留言, Value: ruanyifeng.com/blog…
+					1216 container comment-360612
+						1217 container
+							1218 text zw  说：
+						1219 text 不得不说，看了半天外文网站， 不如看十分钟阮大师的。
+						1220 container
+							1221 container July 13, 2016 4:42 PM
+								1222 text 2016年7月13日 16:42
+							1223 text  | 
+							1224 link Description: #, Value: ruanyifeng.com/blog…
+							1225 text  | 
+							1226 link Description: 引用, Help: 引用zw的这条留言, Value: ruanyifeng.com/blog…
+					1227 container comment-360644
+						1228 container
+							1229 text liangwang  说：
+						1230 text "Webkit内核的浏览器，必须加上-webkit前缀。“， 我测试了下safari和chrome，都不需要的。
+						1231 container
+							1232 container July 14, 2016 10:34 AM
+								1233 text 2016年7月14日 10:34
+							1234 text  | 
+							1235 link Description: #, Value: ruanyifeng.com/blog…
+							1236 text  | 
+							1237 link Description: 引用, Help: 引用liangwang的这条留言, Value: ruanyifeng.com/blog…
+					1238 container comment-360645
+						1239 container
+							1240 text liangwang  说：
+						1241 text 问下，支付宝是否已经有页面部署了flex的布局？ 似乎各大浏览器，除了chrome支持的都不是特别好，比如IE8就，FireFox46之前的，Safari9.1之前的都不支持
+						1242 container
+							1243 container July 14, 2016 10:46 AM
+								1244 text 2016年7月14日 10:46
+							1245 text  | 
+							1246 link Description: #, Value: ruanyifeng.com/blog…
+							1247 text  | 
+							1248 link Description: 引用, Help: 引用liangwang的这条留言, Value: ruanyifeng.com/blog…
+					1249 container comment-360865
+						1250 container
+							1251 text 孟泰德  说：
+						1252 container comment-quote-360865
+							1253 container
+								1254 text 引用liangwang的发言： "Webkit内核的浏览器，必须加上-webkit前缀。“， 我测试了下safari和chrome，都不需要的。
+							1255 text 在ios8及以下的版本中就需要了
+						1256 container
+							1257 container July 19, 2016 1:12 PM
+								1258 text 2016年7月19日 13:12
+							1259 text  | 
+							1260 link Description: #, Value: ruanyifeng.com/blog…
+							1261 text  | 
+							1262 link Description: 引用, Help: 引用孟泰德的这条留言, Value: ruanyifeng.com/blog…
+					1263 container comment-361733
+						1264 container
+							1265 text vec  说：
+						1266 text 太好了，总算是弄明白了，谢谢博主！
+						1267 container
+							1268 container August 5, 2016 12:18 AM
+								1269 text 2016年8月 5日 00:18
+							1270 text  | 
+							1271 link Description: #, Value: ruanyifeng.com/blog…
+							1272 text  | 
+							1273 link Description: 引用, Help: 引用vec的这条留言, Value: ruanyifeng.com/blog…
+					1274 container comment-361750
+						1275 container
+							1276 text 前端小菜  说：
+						1277 text 怎么用flex实现footer一直存在在屏幕下方 不随滚动消失
+						1278 container
+							1279 container August 5, 2016 10:51 AM
+								1280 text 2016年8月 5日 10:51
+							1281 text  | 
+							1282 link Description: #, Value: ruanyifeng.com/blog…
+							1283 text  | 
+							1284 link Description: 引用, Help: 引用前端小菜的这条留言, Value: ruanyifeng.com/blog…
+					1285 container comment-361759
+						1286 container
+							1287 text zhishaofei3  说：
+						1288 container comment-quote-361759
+							1289 container
+								1290 text 引用Silvers · Rayleigh的发言： 这里是你理解错了，3个 li 平分下来每个是1/3。
+								1291 text 你想实现的2个相等，1个宽度是其他2个的两倍实际上就是4个 li 平分，其中2个合并成1个，所以每个 li 是1/4，也就是#list li:nth-child(2){flex-grow:3;}
+							1292 container
+								1293 text 3也不行吧？
+						1294 container
+							1295 container August 5, 2016 1:11 PM
+								1296 text 2016年8月 5日 13:11
+							1297 text  | 
+							1298 link Description: #, Value: ruanyifeng.com/blog…
+							1299 text  | 
+							1300 link Description: 引用, Help: 引用zhishaofei3的这条留言, Value: ruanyifeng.com/blog…
+					1301 container comment-361761
+						1302 container
+							1303 text zhishaofei3  说：
+						1304 container comment-quote-361761
+							1305 container
+								1306 text 引用longfei的发言： 阮老师，那个item的flex-grow属性，我写了个demo
+								1307 text CSS:
+								1308 text body{margin:0;}
+								1309 text ul,li{margin:0; padding:0;}
+								1310 text li{list-style-type:none;}
+								1311 text #list{border:2px solid gold; height:500px; display:flex; flex-direction:row;}
+								1312 text #list li{font-family:"microsoft yahei"; font-size:50px; background:#C00; color:#fff; margin:2px; flex-grow:1;}
+								1313 text #list li:nth-child(2){flex-grow:2;} <ul id="list">
+								1314 text <li>test1</li>
+								1315 text <li>test2</li>
+								1316 text <li>test3</li>
+								1317 text </ul>
+								1318 text 结果第2个li所占的宽度并不是其它li的2倍，为什么呢？比其它两个要大，但不足2倍。
+							1319 text 是按剩余空间算的，因为你里面有文字，所以刨去了文字宽度，你去掉文字就好了
+						1320 container
+							1321 container August 5, 2016 2:08 PM
+								1322 text 2016年8月 5日 14:08
+							1323 text  | 
+							1324 link Description: #, Value: ruanyifeng.com/blog…
+							1325 text  | 
+							1326 link Description: 引用, Help: 引用zhishaofei3的这条留言, Value: ruanyifeng.com/blog…
+					1327 container comment-362540
+						1328 container
+							1329 text zousjun  说：
+						1330 container comment-quote-362540
+							1331 container
+								1332 text 引用zhishaofei3的发言： 是按剩余空间算的，因为你里面有文字，所以刨去了文字宽度，你去掉文字就好了
+							1333 text 这里是必须先除去每个元素实际占有的大小之后，然后按照你设置的比例来分配空间，h
+							1334 text 还有默认空间应该是flex-grow： 1，而不是flex-grow： 0；
+							1335 text <ul id="list">
+  <li>test1</li>
+  <li>test2</li>
+  <li>test3</li>
+</ul>
+
+							1336 text body{margin:0;}
+	ul,li{ margin:0; padding:0;}
+	li{ list-style-type:none;}
+	#list{ border:2px solid gold; height:500px; display:flex; flex-direction:row;}
+	#list li {
+		width: 120px;
+	}
+	#list li{font-family:"microsoft yahei"; font-size:50px; background:#C00; color:#fff; margin:2px; flex-grow:1;}
+	#list li:nth-child(2){flex-grow:2;}
+	#list li:nth-child(3){
+		flex-grow: 0;
+	}
+
+							1337 text 你可以比较一下两段代码的不同
+						1338 container
+							1339 container August 17, 2016 6:27 PM
+								1340 text 2016年8月17日 18:27
+							1341 text  | 
+							1342 link Description: #, Value: ruanyifeng.com/blog…
+							1343 text  | 
+							1344 link Description: 引用, Help: 引用zousjun的这条留言, Value: ruanyifeng.com/blog…
+					1345 container comment-363136
+						1346 container
+							1347 text 微风  说：
+						1348 text 苹果手机的IOS8系统不支持flex布局，有什么好方法吗？
+						1349 container
+							1350 container August 25, 2016 4:48 PM
+								1351 text 2016年8月25日 16:48
+							1352 text  | 
+							1353 link Description: #, Value: ruanyifeng.com/blog…
+							1354 text  | 
+							1355 link Description: 引用, Help: 引用微风的这条留言, Value: ruanyifeng.com/blog…
+					1356 container comment-364156
+						1357 container
+							1358 text 小汤  说：
+						1359 text 不错，容易明白，大神就是大神
+						1360 container
+							1361 container September 9, 2016 3:15 PM
+								1362 text 2016年9月 9日 15:15
+							1363 text  | 
+							1364 link Description: #, Value: ruanyifeng.com/blog…
+							1365 text  | 
+							1366 link Description: 引用, Help: 引用小汤的这条留言, Value: ruanyifeng.com/blog…
+					1367 container comment-364512
+						1368 container
+							1369 text felbry  说：
+						1370 text 今天实践过程中发现了一个理解误区，就是刚开始把justify-content误认为是指定水平对齐方式（其实针对的是主轴），而align-items是指定垂直对齐方式。而指定主轴需要用到flex-direction(默认为水平)。不过后来想想，假使指定主轴为竖直的话，那主轴和交叉轴是不是就是一样了？还有那个align-content说的是针对多根轴线，是不是就意味着如果主轴指定为column，就是主轴和交叉轴一样是一根线了，如果主轴为默认，那么当主轴和交叉轴的对齐方式一样的话，直接用一个align-content属性就ok了？
+						1371 container
+							1372 container September 14, 2016 3:44 PM
+								1373 text 2016年9月14日 15:44
+							1374 text  | 
+							1375 link Description: #, Value: ruanyifeng.com/blog…
+							1376 text  | 
+							1377 link Description: 引用, Help: 引用felbry的这条留言, Value: ruanyifeng.com/blog…
+					1378 container comment-365898
+						1379 container
+							1380 text lavender  说：
+						1381 text 很明了，很直观，感谢博主~
+						1382 container
+							1383 container October 8, 2016 2:25 PM
+								1384 text 2016年10月 8日 14:25
+							1385 text  | 
+							1386 link Description: #, Value: ruanyifeng.com/blog…
+							1387 text  | 
+							1388 link Description: 引用, Help: 引用lavender的这条留言, Value: ruanyifeng.com/blog…
+					1389 container comment-366014
+						1390 container
+							1391 text 家兴  说：
+						1392 container comment-quote-366014
+							1393 text flex-direction: row | row-reverse | column | column-reverse;
+							1394 text 这部分的描述和下面的配图，容易误导一些新手哈
+							1395 text 可能会造成 row = 下图第一个 依次的顺序
+						1396 container
+							1397 container October 10, 2016 11:11 AM
+								1398 text 2016年10月10日 11:11
+							1399 text  | 
+							1400 link Description: #, Value: ruanyifeng.com/blog…
+							1401 text  | 
+							1402 link Description: 引用, Help: 引用家兴的这条留言, Value: ruanyifeng.com/blog…
+					1403 container comment-367470
+						1404 container
+							1405 text 张宝  说：
+						1406 text “四、项目的属性”这个标题的字体小了，之前同种标题都是,应该是H2
+						1407 container
+							1408 container October 31, 2016 12:40 PM
+								1409 text 2016年10月31日 12:40
+							1410 text  | 
+							1411 link Description: #, Value: ruanyifeng.com/blog…
+							1412 text  | 
+							1413 link Description: 引用, Help: 引用张宝的这条留言, Value: ruanyifeng.com/blog…
+					1414 container comment-367515
+						1415 container
+							1416 text cnwhy  说：
+						1417 container comment-quote-367515
+							1418 container
+								1419 text 在我测试中有这样的感觉,还请指正
+								1420 text 1.当主轴设置的是水平方向时(row,row-reverse)方向还和容器的dir属有关;
+								1421 text flex-direction 的方向是相对dir设置的方向来设置的.
+							1422 text 2.交叉轴的方向(默认和主轴换行的方向一至),flex-wrap: wrap-reverse; 会改变交叉轴的方向
+							1423 container
+								1424 text demo: 
+								1425 link Description: http://sandbox.runjs.cn/show/zkqimsj5, Value: sandbox.runjs.cn/sh…
+						1426 container
+							1427 container November 1, 2016 6:17 PM
+								1428 text 2016年11月 1日 18:17
+							1429 text  | 
+							1430 link Description: #, Value: ruanyifeng.com/blog…
+							1431 text  | 
+							1432 link Description: 引用, Help: 引用cnwhy的这条留言, Value: ruanyifeng.com/blog…
+					1433 container comment-368187
+						1434 container
+							1435 text 良心的荒野开拓者  说：
+						1436 container
+							1437 text 引用phc的发言： 我不知道自己理解的对不对，但是我觉得主轴的话也就是项目的排布方向，加入是水平排布，那么交叉轴即是垂直方向的，设置align-items:stretch；的话确实是在垂直方向上拉伸的，那align-itmes就是设置交叉轴的吧
+						1438 container
+							1439 container November 11, 2016 2:37 PM
+								1440 text 2016年11月11日 14:37
+							1441 text  | 
+							1442 link Description: #, Value: ruanyifeng.com/blog…
+							1443 text  | 
+							1444 link Description: 引用, Help: 引用良心的荒野开拓者的这条留言, Value: ruanyifeng.com/blog…
+					1445 container comment-369832
+						1446 container
+							1447 text LeoHsia  说：
+						1448 text 真的非常感谢！解决了从入行以来一直面临的垂直居中的大问题，在很多应用场景中可以实现。虽然负面性还有待发掘，真的是非常感谢博主！！！
+						1449 container
+							1450 container December 5, 2016 10:45 PM
+								1451 text 2016年12月 5日 22:45
+							1452 text  | 
+							1453 link Description: #, Value: ruanyifeng.com/blog…
+							1454 text  | 
+							1455 link Description: 引用, Help: 引用LeoHsia的这条留言, Value: ruanyifeng.com/blog…
+					1456 container comment-370287
+						1457 container
+							1458 text 螃蟹  说：
+						1459 text 感谢阮老师无私教诲
+						1460 container
+							1461 container December 13, 2016 10:36 AM
+								1462 text 2016年12月13日 10:36
+							1463 text  | 
+							1464 link Description: #, Value: ruanyifeng.com/blog…
+							1465 text  | 
+							1466 link Description: 引用, Help: 引用螃蟹的这条留言, Value: ruanyifeng.com/blog…
+					1467 container comment-370505
+						1468 container
+							1469 text Cody Constant  说：
+						1470 text 以前一直对flex模糊不清，终于决定攻破它，打开了好几篇教程，看完阮老师的后，彻底会用啦！谢谢您
+						1471 container
+							1472 container December 17, 2016 3:24 PM
+								1473 text 2016年12月17日 15:24
+							1474 text  | 
+							1475 link Description: #, Value: ruanyifeng.com/blog…
+							1476 text  | 
+							1477 link Description: 引用, Help: 引用Cody Constant的这条留言, Value: ruanyifeng.com/blog…
+					1478 container comment-370887
+						1479 container
+							1480 text dfb  说：
+						1481 container comment-quote-370887
+							1482 text 我有个等高布局不懂，就是左边有一张1000多px高的图片，右边为文字区域。
+							1483 container
+								1484 text 怎么让其当右边文字区域的高度小于浏览器高度时，左边的图片高度为浏览器高度，
+								1485 text 当右边文字区域的高度大于浏览器高度时，则左边的图片的高度为右边文字区域的高度？
+							1486 text 要求是：不用js控制，还有不能把左边的图片当背景图来使用
+						1487 container
+							1488 container December 23, 2016 9:51 AM
+								1489 text 2016年12月23日 09:51
+							1490 text  | 
+							1491 link Description: #, Value: ruanyifeng.com/blog…
+							1492 text  | 
+							1493 link Description: 引用, Help: 引用dfb的这条留言, Value: …
+					1494 container comment-371122
+						1495 container
+							1496 text flowplay  说：
+						1497 text flex-grow, flex-shrink,flex-basis可能不好理解，补充下，这里指的空间是主轴空间，是水平的还是垂直的，依flex-direction而定
+						1498 container
+							1499 container December 26, 2016 9:47 PM
+								1500 text 2016年12月26日 21:47
+							1501 text  | 
+							1502 link Description: #, Value: …
+							1503 text  | 
+							1504 link Description: 引用, Help: 引用flowplay的这条留言, Value: …
+					1505 container comment-371645
+						1506 container
+							1507 text vinceok  说：
+						1508 container comment-quote-371645
+							1509 container
+								1510 text 引用zhishaofei3的发言： 是按剩余空间算的，因为你里面有文字，所以刨去了文字宽度，你去掉文字就好了
+							1511 container
+								1512 text 引用Silvers · Rayleigh的发言： 这里是你理解错了，3个 li 平分下来每个是1/3。
+								1513 text 你想实现的2个相等，1个宽度是其他2个的两倍实际上就是4个 li 平分，其中2个合并成1个，所以每个 li 是1/4，也就是#list li:nth-child(2){flex-grow:3;}
+							1514 text 你说的很对，博主没有说清楚
+						1515 container
+							1516 container January 6, 2017 10:40 AM
+								1517 text 2017年1月 6日 10:40
+							1518 text  | 
+							1519 link Description: #, Value: …
+							1520 text  | 
+							1521 link Description: 引用, Help: 引用vinceok的这条留言, Value: …
+					1522 container comment-371815
+						1523 container
+							1524 text 炉石不传说  说：
+						1525 container comment-quote-371815
+							1526 container
+								1527 text 引用chshouyu的发言： 现在介绍有点晚了吧-_-#
+							1528 text 不晚，我就是刚刚来学习的，因为小程序出来了，学习一下布局
+						1529 container
+							1530 container January 9, 2017 2:25 PM
+								1531 text 2017年1月 9日 14:25
+							1532 text  | 
+							1533 link Description: #, Value: …
+							1534 text  | 
+							1535 link Description: 引用, Help: 引用炉石不传说的这条留言, Value: …
+					1536 container comment-371868
+						1537 container
+							1538 text The One  说：
+						1539 container comment-quote-371868
+							1540 container
+								1541 text 引用Silvers · Rayleigh的发言： 这里是你理解错了，3个 li 平分下来每个是1/3。
+								1542 text 你想实现的2个相等，1个宽度是其他2个的两倍实际上就是4个 li 平分，其中2个合并成1个，所以每个 li 是1/4，也就是#list li:nth-child(2){flex-grow:3;}
+							1543 text flex-grow分的是剩余的空间你要看你内容之外的空间
+						1544 container
+							1545 container January 10, 2017 10:44 AM
+								1546 text 2017年1月10日 10:44
+							1547 text  | 
+							1548 link Description: #, Value: …
+							1549 text  | 
+							1550 link Description: 引用, Help: 引用The One的这条留言, Value: …
+					1551 container comment-372311
+						1552 container
+							1553 text lightbee  说：
+						1554 container comment-quote-372311
+							1555 container
+								1556 text 引用广州哈哥的发言： 阮老师，您好，我是0基础开始学习flex,今天看了你的这篇博文，发现有个地方好像你给弄反了。就是justify-content和align-items这两个属性。我试过了，其实，前者是设置项目在交叉轴上的对齐方式的，而后者是设置项目在主轴上的对齐方式的。
+							1557 container
+								1558 text 没有错啊，你再试试看，或者是你理解错了吧。
+						1559 container
+							1560 container January 26, 2017 12:03 AM
+								1561 text 2017年1月26日 00:03
+							1562 text  | 
+							1563 link Description: #, Value: …
+							1564 text  | 
+							1565 link Description: 引用, Help: 引用lightbee的这条留言, Value: …
+					1566 container comment-372583
+						1567 container
+							1568 text ReedSUN  说：
+						1569 text 阮老师，在align-content属性中，您说 `align-content属性定义了多根轴线的对齐方式。如果项目只有一根轴线，该属性不起作用。` 一开始我没太看明白，后来才发现这里说的应该是多行的对齐方式。我觉得在这里用行代替轴线更容易解释整个属性。
+						1570 container
+							1571 container February 9, 2017 12:53 AM
+								1572 text 2017年2月 9日 00:53
+							1573 text  | 
+							1574 link Description: #, Value: …
+							1575 text  | 
+							1576 link Description: 引用, Help: 引用ReedSUN的这条留言, Value: …
+					1577 container comment-372829
+						1578 container
+							1579 text Sherry  说：
+						1580 text 四、项目的属性 应该是h2标签吧，现在用的是h3标签
+						1581 container
+							1582 container February 13, 2017 11:04 AM
+								1583 text 2017年2月13日 11:04
+							1584 text  | 
+							1585 link Description: #, Value: …
+							1586 text  | 
+							1587 link Description: 引用, Help: 引用Sherry的这条留言, Value: …
+					1588 container comment-373014
+						1589 container
+							1590 text 我叫春  说：
+						1591 container
+							1592 text 使用align-content属性，如何定义多轴？
+							1593 text 求html代码，或者align-content的Demo
+						1594 container
+							1595 container February 17, 2017 9:54 AM
+								1596 text 2017年2月17日 09:54
+							1597 text  | 
+							1598 link Description: #, Value: …
+							1599 text  | 
+							1600 link Description: 引用, Help: 引用我叫春的这条留言, Value: …
+					1601 container comment-373021
+						1602 container
+							1603 text 雨辰  说：
+						1604 text 这篇是我看到讲得最好的一篇
+						1605 container
+							1606 container February 17, 2017 2:44 PM
+								1607 text 2017年2月17日 14:44
+							1608 text  | 
+							1609 link Description: #, Value: …
+							1610 text  | 
+							1611 link Description: 引用, Help: 引用雨辰的这条留言, Value: …
+					1612 container comment-373036
+						1613 container
+							1614 text lihsai0  说：
+						1615 text 尝试了一下flex+单行省略号，发现盒子被撑开好多。
+						1616 container
+							1617 container February 17, 2017 10:44 PM
+								1618 text 2017年2月17日 22:44
+							1619 text  | 
+							1620 link Description: #, Value: …
+							1621 text  | 
+							1622 link Description: 引用, Help: 引用lihsai0的这条留言, Value: …
+					1623 container comment-373244
+						1624 container
+							1625 text 艺米  说：
+						1626 text 您好，我试了一下align-content，将其设置成stretch，并不会把每行拉伸，填满容器高度。而是在每行下面留有相同高度的空白。能否确认一下？
+						1627 container
+							1628 container February 21, 2017 6:59 PM
+								1629 text 2017年2月21日 18:59
+							1630 text  | 
+							1631 link Description: #, Value: …
+							1632 text  | 
+							1633 link Description: 引用, Help: 引用艺米的这条留言, Value: …
+					1634 container comment-373273
+						1635 container
+							1636 text 前段之路  说：
+						1637 text 非常好~讲的清楚明白
+						1638 container
+							1639 container February 22, 2017 11:43 AM
+								1640 text 2017年2月22日 11:43
+							1641 text  | 
+							1642 link Description: #, Value: …
+							1643 text  | 
+							1644 link Description: 引用, Help: 引用前段之路的这条留言, Value: …
+					1645 container comment-373280
+						1646 container
+							1647 text 冬天  说：
+						1648 text 每次看到您的内容， 我嘴里默默来了一个句 阮大神~~~
+						1649 container
+							1650 container February 22, 2017 2:33 PM
+								1651 text 2017年2月22日 14:33
+							1652 text  | 
+							1653 link Description: #, Value: …
+							1654 text  | 
+							1655 link Description: 引用, Help: 引用冬天的这条留言, Value: …
+					1656 container comment-373284
+						1657 container
+							1658 text 全栈攻城狮  说：
+						1659 text 每个例子都照着敲了一遍，真赞。敲完之后，对flex布局了解的也就差不多了。谢谢阮大神，如果不是你，我还困在MDN的文档里，犯糊涂呢。哈哈哈
+						1660 container
+							1661 container February 22, 2017 3:47 PM
+								1662 text 2017年2月22日 15:47
+							1663 text  | 
+							1664 link Description: #, Value: …
+							1665 text  | 
+							1666 link Description: 引用, Help: 引用全栈攻城狮的这条留言, Value: …
+					1667 container comment-374224
+						1668 container
+							1669 text 夏目比丘  说：
+						1670 text 谢谢阮老师，您传授给我们的知识让我们收获很多
+						1671 container
+							1672 container March 8, 2017 6:07 PM
+								1673 text 2017年3月 8日 18:07
+							1674 text  | 
+							1675 link Description: #, Value: …
+							1676 text  | 
+							1677 link Description: 引用, Help: 引用夏目比丘的这条留言, Value: …
+					1678 container comment-374584
+						1679 container
+							1680 text youkelike  说：
+						1681 text "多根轴线的对齐方式" 是不是指出现了多行item的情况，每行一根轴线，多行item就有多根轴线？
+						1682 container
+							1683 container March 12, 2017 6:04 PM
+								1684 text 2017年3月12日 18:04
+							1685 text  | 
+							1686 link Description: #, Value: …
+							1687 text  | 
+							1688 link Description: 引用, Help: 引用youkelike的这条留言, Value: …
+					1689 container comment-375499
+						1690 container
+							1691 text liaokai  说：
+						1692 text 浏览这篇文章就是一次赏心悦目的浏览体验，配图清爽明了，真希望我以后看到的文章都有这么好的浏览体验
+						1693 container
+							1694 container March 27, 2017 11:23 AM
+								1695 text 2017年3月27日 11:23
+							1696 text  | 
+							1697 link Description: #, Value: …
+							1698 text  | 
+							1699 link Description: 引用, Help: 引用liaokai的这条留言, Value: …
+					1700 container comment-375792
+						1701 container
+							1702 text JoKer  说：
+						1703 text 我测试加入了 align-items: flex-start; 子标签加入了align-self: flex-end; 惊人的发现 在不同的浏览器 flex-end 和flex-start 效果不一样 这要如何解决？我放在谷歌和Edege里 效果居然上下相反
+						1704 container
+							1705 container April 1, 2017 5:17 PM
+								1706 text 2017年4月 1日 17:17
+							1707 text  | 
+							1708 link Description: #, Value: …
+							1709 text  | 
+							1710 link Description: 引用, Help: 引用JoKer的这条留言, Value: …
+					1711 container comment-375868
+						1712 container
+							1713 text leon  说：
+						1714 text 老师写的文章真的很清晰，期待您的续作。
+						1715 container
+							1716 container April 4, 2017 3:53 PM
+								1717 text 2017年4月 4日 15:53
+							1718 text  | 
+							1719 link Description: #, Value: …
+							1720 text  | 
+							1721 link Description: 引用, Help: 引用leon的这条留言, Value: …
+					1722 container comment-376211
+						1723 container
+							1724 text Rachel  说：
+						1725 text 老师的文章和配图很赞！
+						1726 container
+							1727 container April 12, 2017 4:08 PM
+								1728 text 2017年4月12日 16:08
+							1729 text  | 
+							1730 link Description: #, Value: …
+							1731 text  | 
+							1732 link Description: 引用, Help: 引用Rachel的这条留言, Value: …
+					1733 container comment-376313
+						1734 container
+							1735 text 王骞  说：
+						1736 text 总结的真好，条理清晰，便于理解和记忆。真是个有思想的人
+						1737 container
+							1738 container April 14, 2017 4:47 PM
+								1739 text 2017年4月14日 16:47
+							1740 text  | 
+							1741 link Description: #, Value: …
+							1742 text  | 
+							1743 link Description: 引用, Help: 引用王骞的这条留言, Value: …
+					1744 container comment-376818
+						1745 container
+							1746 text leon  说：
+						1747 text 仔细过了一遍真的很方便.
+						1748 container
+							1749 container May 1, 2017 10:30 PM
+								1750 text 2017年5月 1日 22:30
+							1751 text  | 
+							1752 link Description: #, Value: …
+							1753 text  | 
+							1754 link Description: 引用, Help: 引用leon的这条留言, Value: …
+					1755 container comment-377001
+						1756 container
+							1757 text 牧羊人  说：
+						1758 text 有事没事就逛阮老师的博客，受益匪浅。
+						1759 container
+							1760 container May 10, 2017 9:04 AM
+								1761 text 2017年5月10日 09:04
+							1762 text  | 
+							1763 link Description: #, Value: …
+							1764 text  | 
+							1765 link Description: 引用, Help: 引用牧羊人的这条留言, Value: …
+					1766 container comment-377209
+						1767 container
+							1768 text 京川啟继FE  说：
+						1769 container
+							1770 text 一讲就懂，很棒，超棒，非常棒；
+							1771 text 哪怕有些玩家吐槽进了阿里文章变得不精致了；这篇文章也远比网上泛滥的各种云里雾里的资料有用得多。
+							1772 text 感谢大大的分享√
+						1773 container
+							1774 container May 16, 2017 7:58 PM
+								1775 text 2017年5月16日 19:58
+							1776 text  | 
+							1777 link Description: #, Value: …
+							1778 text  | 
+							1779 link Description: 引用, Help: 引用京川啟继FE的这条留言, Value: …
+					1780 container comment-377379
+						1781 container
+							1782 text JailBreak  说：
+						1783 container comment-quote-377379
+							1784 text 将文章中提及的布局 全部实现了一遍，源码：
+							1785 link Description: https://github.com/JailBreakC/flex-box-demo, Value: …
+						1786 container
+							1787 container May 23, 2017 2:27 PM
+								1788 text 2017年5月23日 14:27
+							1789 text  | 
+							1790 link Description: #, Value: …
+							1791 text  | 
+							1792 link Description: 引用, Help: 引用JailBreak的这条留言, Value: …
+					1793 container comment-377391
+						1794 container
+							1795 text nollyup  说：
+						1796 text 非常好的文章，详细明了
+						1797 container
+							1798 container May 23, 2017 5:03 PM
+								1799 text 2017年5月23日 17:03
+							1800 text  | 
+							1801 link Description: #, Value: …
+							1802 text  | 
+							1803 link Description: 引用, Help: 引用nollyup的这条留言, Value: …
+					1804 container comment-377403
+						1805 container
+							1806 text 阮一峰  说：
+						1807 container comment-quote-377403
+							1808 text @JailBreak：
+							1809 text 赞！ 我要把它加到教程里面。
+						1810 container
+							1811 container May 24, 2017 7:29 AM
+								1812 text 2017年5月24日 07:29
+							1813 text  | 
+							1814 link Description: #, Value: …
+							1815 text  | 
+							1816 link Description: 引用, Help: 引用阮一峰的这条留言, Value: …
+					1817 container comment-377458
+						1818 container
+							1819 text Zen  说：
+						1820 container comment-quote-377458
+							1821 text 我也来做点贡献，看完阮一峰老师的教学文章，临时做了个 flex 布局动态测试的 demo，支持 flex 所有的属性测试，希望能对大家有所帮助
+							1822 container
+								1823 text 演示地址 : 
+								1824 link Description: https://ihuangmx.gitbooks.io/front-demo/content/zen-flex-demo.html#flex-布局在线测试, Value: …
+							1825 text 源码：https://github.com/ihuangmx/zen-flex-online
+						1826 container
+							1827 container May 25, 2017 5:16 PM
+								1828 text 2017年5月25日 17:16
+							1829 text  | 
+							1830 link Description: #, Value: …
+							1831 text  | 
+							1832 link Description: 引用, Help: 引用Zen的这条留言, Value: …
+					1833 container comment-377620
+						1834 container
+							1835 text JailBreak  说：
+						1836 container comment-quote-377620
+							1837 text @阮一峰：
+							1838 text 哈哈，多谢阮老师！
+						1839 container
+							1840 container June 1, 2017 4:08 PM
+								1841 text 2017年6月 1日 16:08
+							1842 text  | 
+							1843 link Description: #, Value: …
+							1844 text  | 
+							1845 link Description: 引用, Help: 引用JailBreak的这条留言, Value: …
+					1846 container comment-377625
+						1847 container
+							1848 text laiqi  说：
+						1849 text 阮一峰老师的教学文章真的太棒了，感谢有您，指路明灯
+						1850 container
+							1851 container June 1, 2017 6:34 PM
+								1852 text 2017年6月 1日 18:34
+							1853 text  | 
+							1854 link Description: #, Value: …
+							1855 text  | 
+							1856 link Description: 引用, Help: 引用laiqi的这条留言, Value: …
+					1857 container comment-377762
+						1858 container
+							1859 text xxx  说：
+						1860 text 实现过之后发现 3.1 flex-direction属性 中的图中的效果和下面的文字描述顺序就不一致
+						1861 container
+							1862 container June 8, 2017 3:13 PM
+								1863 text 2017年6月 8日 15:13
+							1864 text  | 
+							1865 link Description: #, Value: …
+							1866 text  | 
+							1867 link Description: 引用, Help: 引用xxx的这条留言, Value: …
+					1868 container comment-377786
+						1869 container
+							1870 text 柏运送  说：
+						1871 container comment-quote-377786
+							1872 container
+								1873 text 阮老师，flex布局，左边自适应，右边固定宽，但当页面缩小到一定比例后，左边不在自适应了，而是右边变小了，sapn的宽度好像不能一直按照70%的比例缩小下去
+								1874 text DOM3 event textInput
+								1875 text body{
+								1876 text padding:0;
+								1877 text margin:0;
+								1878 text font-size:0;
+								1879 text }
+								1880 text .box{
+								1881 text display: flex;
+								1882 text }
+								1883 text .d1{
+								1884 text flex:1;
+								1885 text border:1px solid blue;
+								1886 text margin-right:15px;
+								1887 text }
+								1888 text .d2{
+								1889 text width:300px;
+								1890 text border:1px solid red;
+								1891 text min-height:100vh;
+								1892 text }
+								1893 text .span{
+								1894 text display: inline-block;
+								1895 text width:70%;
+								1896 text border:1px solid red;
+								1897 text overflow: hidden;
+								1898 text white-space: nowrap;
+								1899 text text-overflow:ellipsis;
+								1900 text font-size:12px;
+								1901 text }
+								1902 text Loommodi cumque us repellendus unde veritatis? Beatae doloribus
+						1903 container
+							1904 container June 8, 2017 11:56 PM
+								1905 text 2017年6月 8日 23:56
+							1906 text  | 
+							1907 link Description: #, Value: …
+							1908 text  | 
+							1909 link Description: 引用, Help: 引用柏运送的这条留言, Value: …
+					1910 container comment-377905
+						1911 container
+							1912 text Alex Zou  说：
+						1913 container comment-quote-377905
+							1914 text 3.1 flex-direction属性
+							1915 text 样式中 属性 和 下面示意图 中的顺序 不一致。 有阅读误导。
+							1916 container
+								1917 text 图中顺序 对应为：
+								1918 text flex-direction: column-reverse | column | row | row-reverse;
+						1919 container
+							1920 container June 12, 2017 5:51 PM
+								1921 text 2017年6月12日 17:51
+							1922 text  | 
+							1923 link Description: #, Value: …
+							1924 text  | 
+							1925 link Description: 引用, Help: 引用Alex Zou的这条留言, Value: …
+					1926 container comment-377953
+						1927 container
+							1928 text 小小柴  说：
+						1929 text 阮大神我发现flex-basis这个属性好像并不是主轴所占空间，如果我将主轴方向定为垂直排列flex-direction: column;再给他定义flex-basis的属性，结果我发现只有水平方向的大小在变，垂直方向无效果
+						1930 container
+							1931 container June 14, 2017 3:28 PM
+								1932 text 2017年6月14日 15:28
+							1933 text  | 
+							1934 link Description: #, Value: …
+							1935 text  | 
+							1936 link Description: 引用, Help: 引用小小柴的这条留言, Value: …
+					1937 container comment-377960
+						1938 container
+							1939 text 去去去  说：
+						1940 text 看完以后，加深了印象
+						1941 container
+							1942 container June 14, 2017 5:59 PM
+								1943 text 2017年6月14日 17:59
+							1944 text  | 
+							1945 link Description: #, Value: …
+							1946 text  | 
+							1947 link Description: 引用, Help: 引用去去去的这条留言, Value: …
+					1948 container comment-378734
+						1949 container
+							1950 text 老姚  说：
+						1951 container
+							1952 text 谢谢您的教程
+							1953 text 整整两年了 即使到现在依然是非常好的react-native中文入门教程
+						1954 container
+							1955 container July 17, 2017 2:13 PM
+								1956 text 2017年7月17日 14:13
+							1957 text  | 
+							1958 link Description: #, Value: …
+							1959 text  | 
+							1960 link Description: 引用, Help: 引用老姚的这条留言, Value: …
+					1961 container comment-378970
+						1962 container
+							1963 text Msea  说：
+						1964 text 真心感谢 阮一峰同学
+						1965 container
+							1966 container July 26, 2017 9:03 PM
+								1967 text 2017年7月26日 21:03
+							1968 text  | 
+							1969 link Description: #, Value: …
+							1970 text  | 
+							1971 link Description: 引用, Help: 引用Msea的这条留言, Value: …
+					1972 container comment-379017
+						1973 container
+							1974 text Lulin  说：
+						1975 container comment-quote-379017
+							1976 container
+								1977 text 引用小小柴的发言： 阮大神我发现flex-basis这个属性好像并不是主轴所占空间，如果我将主轴方向定为垂直排列flex-direction: column;再给他定义flex-basis的属性，结果我发现只有水平方向的大小在变，垂直方向无效果
+							1978 text 主轴就是水平方向的啊，垂直方向的叫做交叉轴。
+						1979 container
+							1980 container July 27, 2017 4:31 PM
+								1981 text 2017年7月27日 16:31
+							1982 text  | 
+							1983 link Description: #, Value: …
+							1984 text  | 
+							1985 link Description: 引用, Help: 引用Lulin的这条留言, Value: …
+					1986 container comment-379110
+						1987 container
+							1988 text Better  说：
+						1989 text 设为 Flex 布局以后，子元素的float属性没有失效呀。。。
+						1990 container
+							1991 container July 31, 2017 11:08 AM
+								1992 text 2017年7月31日 11:08
+							1993 text  | 
+							1994 link Description: #, Value: …
+							1995 text  | 
+							1996 link Description: 引用, Help: 引用Better的这条留言, Value: …
+					1997 container comment-379112
+						1998 container
+							1999 text Better  说：
+						2000 text 我自己看错了。。。[允悲]，设为 Flex 布局以后，子元素的float、clear和vertical-align属性将失效是OK的。
+						2001 container
+							2002 container July 31, 2017 11:13 AM
+								2003 text 2017年7月31日 11:13
+							2004 text  | 
+							2005 link Description: #, Value: …
+							2006 text  | 
+							2007 link Description: 引用, Help: 引用Better的这条留言, Value: …
+					2008 container comment-379568
+						2009 container
+							2010 text cshenger  说：
+						2011 text 我发现这个文章的亮点现在在评论区了，从15年的7月到17年的7月，整整跨了两年！！！
+						2012 container
+							2013 container August 16, 2017 11:09 AM
+								2014 text 2017年8月16日 11:09
+							2015 text  | 
+							2016 link Description: #, Value: …
+							2017 text  | 
+							2018 link Description: 引用, Help: 引用cshenger的这条留言, Value: …
+					2019 container comment-380125
+						2020 container
+							2021 text 今晚打老虎  说：
+						2022 text 处于转型阶段的我，第一次看到这么详细的介绍，对于我来说就是雪中送炭啊！！！
+						2023 container
+							2024 container September 7, 2017 5:26 PM
+								2025 text 2017年9月 7日 17:26
+							2026 text  | 
+							2027 link Description: #, Value: …
+							2028 text  | 
+							2029 link Description: 引用, Help: 引用今晚打老虎的这条留言, Value: …
+					2030 container comment-380335
+						2031 container
+							2032 text 薛定谔的猫  说：
+						2033 container comment-quote-380335
+							2034 container
+								2035 text 引用cshenger的发言： 我发现这个文章的亮点现在在评论区了，从15年的7月到17年的7月，整整跨了两年！！！
+							2036 container
+								2037 text 不要大惊小怪，阮大师的文章一向如此，两年并不算多
+						2038 container
+							2039 container September 13, 2017 11:23 AM
+								2040 text 2017年9月13日 11:23
+							2041 text  | 
+							2042 link Description: #, Value: …
+							2043 text  | 
+							2044 link Description: 引用, Help: 引用薛定谔的猫的这条留言, Value: …
+					2045 container comment-380560
+						2046 container
+							2047 text korea  说：
+						2048 text flex-direction这块配图顺序是不是还可以优化？容易误导人
+						2049 container
+							2050 container September 18, 2017 11:42 AM
+								2051 text 2017年9月18日 11:42
+							2052 text  | 
+							2053 link Description: #, Value: …
+							2054 text  | 
+							2055 link Description: 引用, Help: 引用korea的这条留言, Value: …
+					2056 container comment-380581
+						2057 container
+							2058 text ellen  说：
+						2059 text vue里面使用justify-content：flex-end 无效
+						2060 container
+							2061 container September 18, 2017 5:40 PM
+								2062 text 2017年9月18日 17:40
+							2063 text  | 
+							2064 link Description: #, Value: …
+							2065 text  | 
+							2066 link Description: 引用, Help: 引用ellen的这条留言, Value: …
+					2067 container comment-380715
+						2068 container
+							2069 text 杨  说：
+						2070 text 纠正一下。当align-items : baseline的时候，子元素的vertical-align是有效的
+						2071 container
+							2072 container September 21, 2017 11:19 PM
+								2073 text 2017年9月21日 23:19
+							2074 text  | 
+							2075 link Description: #, Value: …
+							2076 text  | 
+							2077 link Description: 引用, Help: 引用杨的这条留言, Value: …
+					2078 container comment-380729
+						2079 container
+							2080 text 薯条君与番茄酱  说：
+						2081 text 大爱 太实用的
+						2082 container
+							2083 container September 22, 2017 12:02 PM
+								2084 text 2017年9月22日 12:02
+							2085 text  | 
+							2086 link Description: #, Value: …
+							2087 text  | 
+							2088 link Description: 引用, Help: 引用薯条君与番茄酱的这条留言, Value: …
+					2089 container comment-380894
+						2090 container
+							2091 text 一条不会发电的鳗鱼  说：
+						2092 container comment-quote-380894
+							2093 container
+								2094 text 引用longfei的发言： 阮老师，那个item的flex-grow属性，我写了个demo
+								2095 text CSS:
+								2096 text body{margin:0;}
+								2097 text ul,li{margin:0; padding:0;}
+								2098 text li{list-style-type:none;}
+								2099 text #list{border:2px solid gold; height:500px; display:flex; flex-direction:row;}
+								2100 text #list li{font-family:"microsoft yahei"; font-size:50px; background:#C00; color:#fff; margin:2px; flex-grow:1;}
+								2101 text #list li:nth-child(2){flex-grow:2;} <ul id="list">
+								2102 text <li>test1</li>
+								2103 text <li>test2</li>
+								2104 text <li>test3</li>
+								2105 text </ul>
+								2106 text 结果第2个li所占的宽度并不是其它li的2倍，为什么呢？比其它两个要大，但不足2倍。
+							2107 container
+								2108 text 引用zhishaofei3的发言： 是按剩余空间算的，因为你里面有文字，所以刨去了文字宽度，你去掉文字就好了
+							2109 container
+								2110 text zhishaofei3 说得对，确实是文字影响了item的宽度；
+								2111 text 如果要修改的话，考虑到 longfei的代码里面 现在只是修改了flex-grow而剩余两个用的是默认值（也就是flex-shrink:1;flex-basis:auto;）。
+								2112 text 可以根据 阮老师写的“建议优先使用flex这个属性，而不是单独写三个分离的属性，因为浏览器会推算相关值。”，把代码修改成
+								2113 text #list li{flex:1;}
+								2114 text #list li:nth-child(2){flex:2;}
+								2115 text 这样显示出来就和没有文字的时候一样是两倍，不会因为文字影响了宽度；
+						2116 container
+							2117 container September 26, 2017 4:10 PM
+								2118 text 2017年9月26日 16:10
+							2119 text  | 
+							2120 link Description: #, Value: …
+							2121 text  | 
+							2122 link Description: 引用, Help: 引用一条不会发电的鳗鱼的这条留言, Value: …
+					2123 container comment-381274
+						2124 container
+							2125 text xbup  说：
+						2126 container
+							2127 text 想问一个问题
+							2128 text 如果我拥有一个高为500px的容器
+							2129 text 并flex-direction:row，flex-wrap:warp
+							2130 text 添加两个项目宽均为100%
+							2131 text 那么这两个项目会均分高,为什么
+							2132 text 即使我没有指定他们的高度
+						2133 container
+							2134 container October 14, 2017 5:43 PM
+								2135 text 2017年10月14日 17:43
+							2136 text  | 
+							2137 link Description: #, Value: …
+							2138 text  | 
+							2139 link Description: 引用, Help: 引用xbup的这条留言, Value: …
+					2140 container comment-381276
+						2141 container
+							2142 text xbup  说：
+						2143 container comment-quote-381276
+							2144 container
+								2145 text 引用xbup的发言： 想问一个问题
+								2146 text 如果我拥有一个高为500px的容器
+								2147 text 并flex-direction:row，flex-wrap:warp
+								2148 text 添加两个项目宽均为100%
+								2149 text 那么这两个项目会均分高,为什么
+								2150 text 即使我没有指定他们的高度
+							2151 text 经验证，flex-grow自动默认到了1
+						2152 container
+							2153 container October 14, 2017 6:03 PM
+								2154 text 2017年10月14日 18:03
+							2155 text  | 
+							2156 link Description: #, Value: …
+							2157 text  | 
+							2158 link Description: 引用, Help: 引用xbup的这条留言, Value: …
+					2159 container comment-381277
+						2160 container
+							2161 text xbup  说：
+						2162 container comment-quote-381277
+							2163 container
+								2164 text 引用xbup的发言： 经验证，flex-grow自动默认到了1
+							2165 text 即使不设置100%也会如此啊。。。。。。。。。。
+						2166 container
+							2167 container October 14, 2017 6:11 PM
+								2168 text 2017年10月14日 18:11
+							2169 text  | 
+							2170 link Description: #, Value: …
+							2171 text  | 
+							2172 link Description: 引用, Help: 引用xbup的这条留言, Value: …
+					2173 container comment-381332
+						2174 container
+							2175 text destiny  说：
+						2176 text 阮老师，我做demo时，发现flex-wrap会把交叉轴的方向都改变了，垂直方向flex-start本来是顶部，变成了底部
+						2177 container
+							2178 container October 16, 2017 3:33 PM
+								2179 text 2017年10月16日 15:33
+							2180 text  | 
+							2181 link Description: #, Value: …
+							2182 text  | 
+							2183 link Description: 引用, Help: 引用destiny的这条留言, Value: …
+					2184 container comment-382184
+						2185 container
+							2186 text nissa  说：
+						2187 container comment-quote-382184
+							2188 container
+								2189 text 引用Silvers · Rayleigh的发言： 这里是你理解错了，3个 li 平分下来每个是1/3。
+								2190 text 你想实现的2个相等，1个宽度是其他2个的两倍实际上就是4个 li 平分，其中2个合并成1个，所以每个 li 是1/4，也就是#list li:nth-child(2){flex-grow:3;}
+							2191 container
+								2192 text 这个分配还是不完全 等比1：2：3的
+						2193 container
+							2194 container November 9, 2017 1:44 PM
+								2195 text 2017年11月 9日 13:44
+							2196 text  | 
+							2197 link Description: #, Value: …
+							2198 text  | 
+							2199 link Description: 引用, Help: 引用nissa的这条留言, Value: …
+					2200 container comment-382524
+						2201 container
+							2202 text 红烧肉  说：
+						2203 text align-content 这个东西的解释有问题，应该是多行，而不是多轴
+						2204 container
+							2205 container November 20, 2017 3:46 PM
+								2206 text 2017年11月20日 15:46
+							2207 text  | 
+							2208 link Description: #, Value: …
+							2209 text  | 
+							2210 link Description: 引用, Help: 引用红烧肉的这条留言, Value: …
+					2211 container comment-382830
+						2212 container
+							2213 text 随旭东  说：
+						2214 text flex-direction配图不走心啊
+						2215 container
+							2216 container November 29, 2017 3:49 PM
+								2217 text 2017年11月29日 15:49
+							2218 text  | 
+							2219 link Description: #, Value: …
+							2220 text  | 
+							2221 link Description: 引用, Help: 引用随旭东的这条留言, Value: …
+					2222 container comment-383147
+						2223 container
+							2224 text 好人  说：
+						2225 text 居然不知道flex还有这么多属性,写的很好,虽然有人吐槽说什么进了阿里文章写得不如以前精致,不知道还要怎么精致,自己写不出来,还好意思吐槽别人的文章,有本事写个精简的,把链接发出来,不然就别指责别人,我也是长见识了
+						2226 container
+							2227 container December 11, 2017 3:45 PM
+								2228 text 2017年12月11日 15:45
+							2229 text  | 
+							2230 link Description: #, Value: …
+							2231 text  | 
+							2232 link Description: 引用, Help: 引用好人的这条留言, Value: …
+					2233 container comment-383315
+						2234 container
+							2235 text 文里  说：
+						2236 text 很好，非常受用。之前看 css-tricks 的教程看得一头雾水，在这篇文章里理清了很多概念，卡住的一些问题也得到了解决。十分感谢博主。
+						2237 container
+							2238 container December 18, 2017 7:23 PM
+								2239 text 2017年12月18日 19:23
+							2240 text  | 
+							2241 link Description: #, Value: …
+							2242 text  | 
+							2243 link Description: 引用, Help: 引用文里的这条留言, Value: …
+					2244 container comment-383426
+						2245 container
+							2246 text 断水流  说：
+						2247 text 文章写的很不错，配图很给力，简单明了。我看了很多阮老师的文章，有点不敢相信，感觉好像什么都会一样，学Python看得到教程，学前端出看得到教程，而且都还讲得挺不错。
+						2248 container
+							2249 container December 21, 2017 3:06 PM
+								2250 text 2017年12月21日 15:06
+							2251 text  | 
+							2252 link Description: #, Value: …
+							2253 text  | 
+							2254 link Description: 引用, Help: 引用断水流的这条留言, Value: …
+					2255 container comment-383472
+						2256 container
+							2257 text EmmanuelAgui  说：
+						2258 container comment-quote-383472
+							2259 container
+								2260 text 引用小小柴的发言： 阮大神我发现flex-basis这个属性好像并不是主轴所占空间，如果我将主轴方向定为垂直排列flex-direction: column;再给他定义flex-basis的属性，结果我发现只有水平方向的大小在变，垂直方向无效果
+							2261 text flex-direction这个属性是容器container的属性，你外层容器设置flex-direction:column（此时主轴就是垂直方向）,在项目item里面设置flex-basis属性为不同值，这样主轴（即垂直方向）所占的大小就会变化。
+						2262 container
+							2263 container December 22, 2017 2:34 PM
+								2264 text 2017年12月22日 14:34
+							2265 text  | 
+							2266 link Description: #, Value: …
+							2267 text  | 
+							2268 link Description: 引用, Help: 引用EmmanuelAgui的这条留言, Value: …
+					2269 container comment-383541
+						2270 container
+							2271 text hanzichi  说：
+						2272 container
+							2273 text 也做了个直观的 demo，感谢阮老师 
+							2274 link Description: https://hanzichi.github.io/2017/flex/index.html, Value: …
+						2275 container
+							2276 container December 24, 2017 2:44 PM
+								2277 text 2017年12月24日 14:44
+							2278 text  | 
+							2279 link Description: #, Value: …
+							2280 text  | 
+							2281 link Description: 引用, Help: 引用hanzichi的这条留言, Value: …
+					2282 container comment-384515
+						2283 container
+							2284 text 石丽丽  说：
+						2285 text 在谷歌中，item的align-self 并不是居中在父亲的中间的。
+						2286 container
+							2287 container January 13, 2018 1:58 PM
+								2288 text 2018年1月13日 13:58
+							2289 text  | 
+							2290 link Description: #, Value: …
+							2291 text  | 
+							2292 link Description: 引用, Help: 引用石丽丽的这条留言, Value: …
+					2293 container comment-384841
+						2294 container
+							2295 text JohnnyWu  说：
+						2296 container comment-quote-384841
+							2297 container
+								2298 text 引用石丽丽的发言： 在谷歌中，item的align-self 并不是居中在父亲的中间的。
+							2299 text 容器的justify-content设置成space-between
+						2300 container
+							2301 container January 22, 2018 11:26 AM
+								2302 text 2018年1月22日 11:26
+							2303 text  | 
+							2304 link Description: #, Value: …
+							2305 text  | 
+							2306 link Description: 引用, Help: 引用JohnnyWu的这条留言, Value: …
+					2307 container comment-384953
+						2308 container
+							2309 text 小西  说：
+						2310 text 此文大赞！看一次就明白了，作者大才，才能这样简洁就把知识讲得这样透彻。
+						2311 container
+							2312 container January 24, 2018 5:43 PM
+								2313 text 2018年1月24日 17:43
+							2314 text  | 
+							2315 link Description: #, Value: …
+							2316 text  | 
+							2317 link Description: 引用, Help: 引用小西的这条留言, Value: …
+					2318 container comment-385285
+						2319 container
+							2320 text tenyiyi  说：
+						2321 text 厉害了 16年看了一遍，今天再看一遍
+						2322 container
+							2323 container January 31, 2018 2:36 PM
+								2324 text 2018年1月31日 14:36
+							2325 text  | 
+							2326 link Description: #, Value: …
+							2327 text  | 
+							2328 link Description: 引用, Help: 引用tenyiyi的这条留言, Value: …
+					2329 container comment-385543
+						2330 container
+							2331 text Limengke  说：
+						2332 text 反复看了几次了，很少用，所以老记不住
+						2333 container
+							2334 container February 5, 2018 1:49 PM
+								2335 text 2018年2月 5日 13:49
+							2336 text  | 
+							2337 link Description: #, Value: …
+							2338 text  | 
+							2339 link Description: 引用, Help: 引用Limengke的这条留言, Value: …
+					2340 container comment-385643
+						2341 container
+							2342 text 1080  说：
+						2343 container comment-quote-385643
+							2344 text @Silvers · Rayleigh：
+							2345 text 回答有毛病吧，flex-grow分的是剩余的空间，你的字体大小50px的大小本身就占了空间，应该把这个空间除去再分
+						2346 container
+							2347 container February 7, 2018 11:12 AM
+								2348 text 2018年2月 7日 11:12
+							2349 text  | 
+							2350 link Description: #, Value: …
+							2351 text  | 
+							2352 link Description: 引用, Help: 引用1080的这条留言, Value: …
+					2353 container comment-385768
+						2354 container
+							2355 text Airmole  说：
+						2356 text 今天做微信小程序的时候要做一个png图标+说明文字的分享的按钮，结果分享图标始终无法和文字在一条水平线上对齐，就是用了flex布局（display: flex; flex-direction: row; align-items: center;），结果分享图标确实是和文字在一条水平线线上了。但是却把button按钮撑的特别大，根本没了按钮的样子。。。
+						2357 container
+							2358 container February 14, 2018 8:00 PM
+								2359 text 2018年2月14日 20:00
+							2360 text  | 
+							2361 link Description: #, Value: …
+							2362 text  | 
+							2363 link Description: 引用, Help: 引用Airmole的这条留言, Value: …
+					2364 container comment-386108
+						2365 container
+							2366 text f'd'f  说：
+						2367 text 一峰老师，我简直不能更加感激您，也非常崇拜您。哇唔，我猜您已经将技术看作是艺术了吧！！！现在好多程序员生活都比较枯燥（我猜他们和我一样，嘻嘻）（每天都很忙，技术更新快，提升自己的技术还要完成项目），灵魂也很干涸（因为很忙，所以太少的时间感受生活，去吸取技术之外的东西来滋养我们的灵魂）。然而每次看您的博文，我就感觉自己经历了一场与艺术的邂逅，不仅学习了知识，还让我得以短暂的放松，让我的心灵经历了一次奇妙的旅行，然后再元气满满，整装继续上路。非常感谢您的分享，您无私的指引，以及心灵的关怀。
+						2368 container
+							2369 container February 27, 2018 6:00 PM
+								2370 text 2018年2月27日 18:00
+							2371 text  | 
+							2372 link Description: #, Value: …
+							2373 text  | 
+							2374 link Description: 引用, Help: 引用f'd'f的这条留言, Value: …
+					2375 container comment-386515
+						2376 container
+							2377 text 刘朋朋  说：
+						2378 container comment-quote-386515
+							2379 container
+								2380 text 引用云墨雪的发言： 坐个沙发, ie10的普及率还有待观望啊..
+							2381 text IE低版本是毒瘤啊
+						2382 container
+							2383 container March 9, 2018 10:10 AM
+								2384 text 2018年3月 9日 10:10
+							2385 text  | 
+							2386 link Description: #, Value: …
+							2387 text  | 
+							2388 link Description: 引用, Help: 引用刘朋朋的这条留言, Value: …
+					2389 container comment-386630
+						2390 container
+							2391 text 符永盛  说：
+						2392 text 研习完真想给峰哥点赞，可以没有这个功能~~真心感谢峰哥分享的知识^v^
+						2393 container
+							2394 container March 11, 2018 10:30 AM
+								2395 text 2018年3月11日 10:30
+							2396 text  | 
+							2397 link Description: #, Value: …
+							2398 text  | 
+							2399 link Description: 引用, Help: 引用符永盛的这条留言, Value: …
+					2400 container comment-387000
+						2401 container
+							2402 text 九月  说：
+						2403 text 看了一遍评论，有些错误，好像一直没改正。
+						2404 container
+							2405 container March 23, 2018 4:39 PM
+								2406 text 2018年3月23日 16:39
+							2407 text  | 
+							2408 link Description: #, Value: …
+							2409 text  | 
+							2410 link Description: 引用, Help: 引用九月的这条留言, Value: …
+					2411 container comment-387412
+						2412 container
+							2413 text 李成  说：
+						2414 container comment-quote-387412
+							2415 text 阮大大，您在属性align-content处有地方解释有点模糊，应该是在交叉轴方向上有多行时，align-content属性能作用；原文大意也是如此：“This aligns a flex container's lines within when there is extra space in the cross-axis, similar to how justify-content aligns individual items within the main-axis.”
+							2416 link Description: https://css-tricks.com/snippets/css/a-guide-to-flexbox/, Value: …
+						2417 container
+							2418 container April 3, 2018 12:30 AM
+								2419 text 2018年4月 3日 00:30
+							2420 text  | 
+							2421 link Description: #, Value: …
+							2422 text  | 
+							2423 link Description: 引用, Help: 引用李成的这条留言, Value: …
+					2424 container comment-387749
+						2425 container
+							2426 text feng  说：
+						2427 container
+							2428 text flex弹性布局 田字格布局怎么做？
+						2429 container
+							2430 container April 9, 2018 1:55 PM
+								2431 text 2018年4月 9日 13:55
+							2432 text  | 
+							2433 link Description: #, Value: …
+							2434 text  | 
+							2435 link Description: 引用, Help: 引用feng的这条留言, Value: …
+					2436 container comment-387845
+						2437 container
+							2438 text CodeDeer  说：
+						2439 container
+							2440 text 做了一个可交互的演示站
+							2441 link Description: flexbox演示站, Value: …
+							2442 text 初学者可以看一下快速帮助理解
+							2443 link Description: https://xluos.github.io/demo/flexbox/, Value: …
+						2444 container
+							2445 container April 10, 2018 11:20 PM
+								2446 text 2018年4月10日 23:20
+							2447 text  | 
+							2448 link Description: #, Value: …
+							2449 text  | 
+							2450 link Description: 引用, Help: 引用CodeDeer的这条留言, Value: …
+					2451 container comment-388197
+						2452 container
+							2453 text none  说：
+						2454 text MDN上找到的一个示例网站：http://the-echoplex.net/flexyboxes
+						2455 container
+							2456 container April 23, 2018 5:01 PM
+								2457 text 2018年4月23日 17:01
+							2458 text  | 
+							2459 link Description: #, Value: …
+							2460 text  | 
+							2461 link Description: 引用, Help: 引用none的这条留言, Value: …
+					2462 container comment-388347
+						2463 container
+							2464 text 王平  说：
+						2465 container comment-quote-388347
+							2466 container
+								2467 text 4.6 align-self属性
+								2468 text align-self属性允许单个项目有与其他项目不一样的对齐方式，可覆盖align-items属性。默认值为auto，表示继承父元素的align-items属性，如果没有父元素，则等同于stretch。
+							2469 text 最后一句：“如果没有父元素”，应该是如果父元素没有设置 align-items 属性的意思吧
+						2470 container
+							2471 container April 28, 2018 2:55 PM
+								2472 text 2018年4月28日 14:55
+							2473 text  | 
+							2474 link Description: #, Value: …
+							2475 text  | 
+							2476 link Description: 引用, Help: 引用王平的这条留言, Value: …
+					2477 container comment-388719
+						2478 container
+							2479 text 黄仔辉  说：
+						2480 container
+							2481 text 感谢 您对前端初学者的贡献，Flex知识点整理的非常好，我原本以为我很熟了，结果一看，查漏补缺了，感谢！
+							2482 text 另外 页面的排版 很舒服，让我想看下去的冲动，如果排版不行的话，我大概瞄一眼就没耐心看下去了。
+						2483 container
+							2484 container May 9, 2018 11:12 AM
+								2485 text 2018年5月 9日 11:12
+							2486 text  | 
+							2487 link Description: #, Value: …
+							2488 text  | 
+							2489 link Description: 引用, Help: 引用黄仔辉的这条留言, Value: …
+					2490 container comment-389863
+						2491 container
+							2492 text xiaokeke  说：
+						2493 text 别吹过头了，图基本就是照搬国外网站的。https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+						2494 container
+							2495 container June 18, 2018 12:04 PM
+								2496 text 2018年6月18日 12:04
+							2497 text  | 
+							2498 link Description: #, Value: …
+							2499 text  | 
+							2500 link Description: 引用, Help: 引用xiaokeke的这条留言, Value: …
+					2501 container comment-390521
+						2502 container
+							2503 text 漫长。  说：
+						2504 text 不错，以前用得稀里糊涂，看完您的文章之后，有了总体把握。
+						2505 container
+							2506 container July 4, 2018 9:05 AM
+								2507 text 2018年7月 4日 09:05
+							2508 text  | 
+							2509 link Description: #, Value: …
+							2510 text  | 
+							2511 link Description: 引用, Help: 引用漫长。的这条留言, Value: …
+					2512 container comment-390904
+						2513 container
+							2514 text yang  说：
+						2515 text 不错看了学的很清晰
+						2516 container
+							2517 container July 14, 2018 9:45 AM
+								2518 text 2018年7月14日 09:45
+							2519 text  | 
+							2520 link Description: #, Value: …
+							2521 text  | 
+							2522 link Description: 引用, Help: 引用yang的这条留言, Value: …
+					2523 container comment-391349
+						2524 container
+							2525 text Ada.H  说：
+						2526 text main axis, cross axis. 主轴水平，交叉轴垂直，这个是在flex-direction: row;的前提下定义的吧
+						2527 container
+							2528 container July 24, 2018 3:09 PM
+								2529 text 2018年7月24日 15:09
+							2530 text  | 
+							2531 link Description: #, Value: …
+							2532 text  | 
+							2533 link Description: 引用, Help: 引用Ada.H的这条留言, Value: …
+					2534 container comment-391383
+						2535 container
+							2536 text dmm  说：
+						2537 container
+							2538 text justify-content取值还可以是space-evenly，上面没有提到
+							2539 link Description: https://css-tricks.com/snippets/css/a-guide-to-flexbox/#article-header-id-6, Value: …
+						2540 container
+							2541 container July 25, 2018 1:50 PM
+								2542 text 2018年7月25日 13:50
+							2543 text  | 
+							2544 link Description: #, Value: …
+							2545 text  | 
+							2546 link Description: 引用, Help: 引用dmm的这条留言, Value: …
+					2547 container comment-391814
+						2548 container
+							2549 text 小A  说：
+						2550 text flex布局高度问题怎么解决
+						2551 container
+							2552 container August 4, 2018 3:01 PM
+								2553 text 2018年8月 4日 15:01
+							2554 text  | 
+							2555 link Description: #, Value: …
+							2556 text  | 
+							2557 link Description: 引用, Help: 引用小A的这条留言, Value: …
+					2558 container comment-392404
+						2559 container
+							2560 text 李文磊  说：
+						2561 text align-content:space-between; 配图不对，误导我很久
+						2562 container
+							2563 container August 21, 2018 1:28 PM
+								2564 text 2018年8月21日 13:28
+							2565 text  | 
+							2566 link Description: #, Value: …
+							2567 text  | 
+							2568 link Description: 引用, Help: 引用李文磊的这条留言, Value: …
+					2569 container comment-392829
+						2570 container
+							2571 text ????天涯  说：
+						2572 text 子div设置 flex-grow 后，如果没有内容是正确的，如果设置了内容，布局就变掉了，请问是怎么回事？
+						2573 container
+							2574 container September 4, 2018 6:48 PM
+								2575 text 2018年9月 4日 18:48
+							2576 text  | 
+							2577 link Description: #, Value: …
+							2578 text  | 
+							2579 link Description: 引用, Help: 引用????天涯的这条留言, Value: …
+					2580 container comment-393070
+						2581 container
+							2582 text 荣先森  说：
+						2583 text 感谢，文章加配图看懂了，怎么提高自己的js编写能力，看别人代码还好，但是一到自己写，，，，，就不知道了
+						2584 container
+							2585 container September 12, 2018 11:41 AM
+								2586 text 2018年9月12日 11:41
+							2587 text  | 
+							2588 link Description: #, Value: …
+							2589 text  | 
+							2590 link Description: 引用, Help: 引用荣先森的这条留言, Value: …
+					2591 container comment-393862
+						2592 container
+							2593 text 李杨  说：
+						2594 text align-content这个定义多根轴线的说法有误，这个主要是针对定义了wrap或wrap-reverse属性的父容器垂直布局，从形意理解上来说它和 justify-content正好是一个横竖布局的对应关系。
+						2595 container
+							2596 container October 10, 2018 3:28 PM
+								2597 text 2018年10月10日 15:28
+							2598 text  | 
+							2599 link Description: #, Value: …
+							2600 text  | 
+							2601 link Description: 引用, Help: 引用李杨的这条留言, Value: …
+					2602 container comment-394825
+						2603 container
+							2604 text 韦得  说：
+						2605 text 为什么在PHP文件中不支持flex横向布局呢？
+						2606 container
+							2607 container November 9, 2018 6:13 AM
+								2608 text 2018年11月 9日 06:13
+							2609 text  | 
+							2610 link Description: #, Value: …
+							2611 text  | 
+							2612 link Description: 引用, Help: 引用韦得的这条留言, Value: …
+					2613 container comment-395853
+						2614 container
+							2615 text Ron  说：
+						2616 container comment-quote-395853
+							2617 text 做了一年左右纯前端，flex布局入门就是看您的博客。今天再次看到，想起忘了给您说声谢谢了。
+							2618 container
+								2619 text thx。
+						2620 container
+							2621 container November 26, 2018 5:30 PM
+								2622 text 2018年11月26日 17:30
+							2623 text  | 
+							2624 link Description: #, Value: …
+							2625 text  | 
+							2626 link Description: 引用, Help: 引用Ron的这条留言, Value: …
+					2627 container comment-396959
+						2628 container
+							2629 text herbert  说：
+						2630 text flex-direction 对应的图列是否反了，row 应该是从左往右的箭头
+						2631 container
+							2632 container December 11, 2018 4:39 PM
+								2633 text 2018年12月11日 16:39
+							2634 text  | 
+							2635 link Description: #, Value: …
+							2636 text  | 
+							2637 link Description: 引用, Help: 引用herbert的这条留言, Value: …
+					2638 container comment-401576
+						2639 container
+							2640 text weiyinfu  说：
+						2641 container
+							2642 text 建议顶部加一个阅读进度条，因为目前评论太多了，右侧进度条根本无法反应实际进度。
+							2643 text 实现很简单，就加一个fixed div，让它的背景色为特定颜色，捕捉滚动条滚动事件，更新div的宽度。
+						2644 container
+							2645 container January 7, 2019 2:27 PM
+								2646 text 2019年1月 7日 14:27
+							2647 text  | 
+							2648 link Description: #, Value: …
+							2649 text  | 
+							2650 link Description: 引用, Help: 引用weiyinfu的这条留言, Value: …
+					2651 container comment-405975
+						2652 container
+							2653 text xxyangyoulin  说：
+						2654 text 网站搞一个目录看着就更方便了。
+						2655 container
+							2656 container January 25, 2019 9:06 PM
+								2657 text 2019年1月25日 21:06
+							2658 text  | 
+							2659 link Description: #, Value: …
+							2660 text  | 
+							2661 link Description: 引用, Help: 引用xxyangyoulin的这条留言, Value: …
+					2662 container comment-409751
+						2663 container
+							2664 text bokerr  说：
+						2665 text 虽然存在小瑕疵，但是不得不佩服讲得非常的有结构，认真拜读完收益良多。
+						2666 container
+							2667 container March 6, 2019 11:13 PM
+								2668 text 2019年3月 6日 23:13
+							2669 text  | 
+							2670 link Description: #, Value: …
+							2671 text  | 
+							2672 link Description: 引用, Help: 引用bokerr的这条留言, Value: …
+					2673 container comment-409967
+						2674 container
+							2675 text Gavin  说：
+						2676 text 非常棒的讲解！受益匪浅~
+						2677 container
+							2678 container March 17, 2019 8:21 AM
+								2679 text 2019年3月17日 08:21
+							2680 text  | 
+							2681 link Description: #, Value: …
+							2682 text  | 
+							2683 link Description: 引用, Help: 引用Gavin的这条留言, Value: …
+					2684 container comment-410186
+						2685 container
+							2686 text 王宏亮  说：
+						2687 text 如何让item主动换行呢？比如我希望4个一行。
+						2688 container
+							2689 container March 27, 2019 5:15 PM
+								2690 text 2019年3月27日 17:15
+							2691 text  | 
+							2692 link Description: #, Value: …
+							2693 text  | 
+							2694 link Description: 引用, Help: 引用王宏亮的这条留言, Value: …
+					2695 container comment-410188
+						2696 container
+							2697 text 徐凌波  说：
+						2698 container
+							2699 text 突然读到下面这里的后一句不明白了。
+							2700 text “align-content属性定义了多根轴线的对齐方式。如果项目只有一根轴线，该属性不起作用。”
+							2701 text ‘如果项目只有一根轴线’？ 这个怎么理解。
+							2702 text 再开始的时候我们介绍说。‘容器默认存在两根轴：水平的主轴（main axis）和垂直的交叉轴（cross axis）’。并没介绍容器里面项目也有轴线。求解。
+						2703 container
+							2704 container March 27, 2019 7:27 PM
+								2705 text 2019年3月27日 19:27
+							2706 text  | 
+							2707 link Description: #, Value: …
+							2708 text  | 
+							2709 link Description: 引用, Help: 引用徐凌波的这条留言, Value: …
+					2710 container comment-410254
+						2711 container
+							2712 text 痴人的梦  说：
+						2713 container comment-quote-410254
+							2714 container
+								2715 text 引用徐凌波的发言： 突然读到下面这里的后一句不明白了。
+								2716 text “align-content属性定义了多根轴线的对齐方式。如果项目只有一根轴线，该属性不起作用。”
+								2717 text ‘如果项目只有一根轴线’？ 这个怎么理解。
+								2718 text 再开始的时候我们介绍说。‘容器默认存在两根轴：水平的主轴（main axis）和垂直的交叉轴（cross axis）’。并没介绍容器里面项目也有轴线。求解。
+							2719 text 多个轴线既：一个容器内多个flex容器
+						2720 container
+							2721 container March 29, 2019 3:19 PM
+								2722 text 2019年3月29日 15:19
+							2723 text  | 
+							2724 link Description: #, Value: …
+							2725 text  | 
+							2726 link Description: 引用, Help: 引用痴人的梦的这条留言, Value: …
+					2727 container comment-410371
+						2728 container
+							2729 text 刘骏佳  说：
+						2730 text 我有一个问题 flex:1 这种写法 不是 省略后两项吧 flex:1 ≠ flex-grow:1吧
+						2731 container
+							2732 container April 4, 2019 9:52 PM
+								2733 text 2019年4月 4日 21:52
+							2734 text  | 
+							2735 link Description: #, Value: …
+							2736 text  | 
+							2737 link Description: 引用, Help: 引用刘骏佳的这条留言, Value: …
+					2738 container comment-410517
+						2739 container
+							2740 text 熊掌  说：
+						2741 text 跟菜鸟显示的一样，为何在你这里看就特别容易理解
+						2742 container
+							2743 container April 12, 2019 2:59 PM
+								2744 text 2019年4月12日 14:59
+							2745 text  | 
+							2746 link Description: #, Value: …
+							2747 text  | 
+							2748 link Description: 引用, Help: 引用熊掌的这条留言, Value: …
+					2749 container comment-411050
+						2750 container
+							2751 text ROI  说：
+						2752 container comment-quote-411050
+							2753 text @徐凌波：
+							2754 text 当wrap了以后发生换行了就有两根了
+						2755 container
+							2756 container May 7, 2019 8:31 PM
+								2757 text 2019年5月 7日 20:31
+							2758 text  | 
+							2759 link Description: #, Value: …
+							2760 text  | 
+							2761 link Description: 引用, Help: 引用ROI的这条留言, Value: …
+					2762 container comment-411798
+						2763 container
+							2764 text Tony  说：
+						2765 text 默认主轴是水平方向，flex-direction是唯一能改变主轴、侧轴的属性。。
+						2766 container
+							2767 container June 18, 2019 5:54 PM
+								2768 text 2019年6月18日 17:54
+							2769 text  | 
+							2770 link Description: #, Value: …
+							2771 text  | 
+							2772 link Description: 引用, Help: 引用Tony的这条留言, Value: …
+					2773 container comment-411799
+						2774 container
+							2775 text Tony  说：
+						2776 container comment-quote-411799
+							2777 text @xbup：
+							2778 text 我的理解是设置了flex-wrap:wrap,项目align-content的默认值是stretch，不知道对不对
+						2779 container
+							2780 container June 18, 2019 6:04 PM
+								2781 text 2019年6月18日 18:04
+							2782 text  | 
+							2783 link Description: #, Value: …
+							2784 text  | 
+							2785 link Description: 引用, Help: 引用Tony的这条留言, Value: …
+					2786 container comment-412263
+						2787 container
+							2788 text szxt  说：
+						2789 text 对于flex-basis还是不太理解，还需要多多练习，多谢您的讲解
+						2790 container
+							2791 container July 19, 2019 9:08 AM
+								2792 text 2019年7月19日 09:08
+							2793 text  | 
+							2794 link Description: #, Value: …
+							2795 text  | 
+							2796 link Description: 引用, Help: 引用szxt的这条留言, Value: …
+					2797 container comment-412369
+						2798 container
+							2799 text 胖海叔叔~  说：
+						2800 text 哈，这篇文章原来是阮老师写的，网上很多地方抄了，而且没写明出处。
+						2801 container
+							2802 container July 24, 2019 3:03 PM
+								2803 text 2019年7月24日 15:03
+							2804 text  | 
+							2805 link Description: #, Value: …
+							2806 text  | 
+							2807 link Description: 引用, Help: 引用胖海叔叔~的这条留言, Value: …
+					2808 container comment-412712
+						2809 container
+							2810 text noob  说：
+						2811 text flex 布局的弊端是啥呢
+						2812 container
+							2813 container August 12, 2019 9:58 PM
+								2814 text 2019年8月12日 21:58
+							2815 text  | 
+							2816 link Description: #, Value: …
+							2817 text  | 
+							2818 link Description: 引用, Help: 引用noob的这条留言, Value: …
+					2819 container comment-412862
+						2820 container
+							2821 text 李嘉豪  说：
+						2822 container comment-quote-412862
+							2823 container
+								2824 text 引用六翼的发言： 那请问不设为0的时候它是多少呢？看您的原文里是“auto”，但这个auto是怎么计算的？
+							2825 container
+								2826 text 因为demo里面没有给子元素设置宽度，所以auto默认长度由内容决定，basis：0，我理解的是将子元素宽度设置初始宽度为0，取消掉内容的影响，然后在重新按比例分配空间。
+						2827 container
+							2828 container August 21, 2019 11:29 AM
+								2829 text 2019年8月21日 11:29
+							2830 text  | 
+							2831 link Description: #, Value: …
+							2832 text  | 
+							2833 link Description: 引用, Help: 引用李嘉豪的这条留言, Value: …
+					2834 container comment-413089
+						2835 container
+							2836 text 拉拉  说：
+						2837 container comment-quote-413089
+							2838 container
+								2839 text 引用laoyur的发言： 还是没看明白align-content跟justify-content的区别:(
+							2840 text 如果按照文中所述，这两个没区别。实际上是 algin-content在wrap的情况下才生效，实际上还在一个轴上
+						2841 container
+							2842 container August 30, 2019 11:08 AM
+								2843 text 2019年8月30日 11:08
+							2844 text  | 
+							2845 link Description: #, Value: …
+							2846 text  | 
+							2847 link Description: 引用, Help: 引用拉拉的这条留言, Value: …
+					2848 container comment-413889
+						2849 container
+							2850 text 阿蛮哥  说：
+						2851 container comment-quote-413889
+							2852 text 原文：flex-grow:如果一个项目的flex-grow属性为2，其他项目都为1，则前者占据的{【剩余空间】将比其他项多一倍。
+							2853 text 应该修改：不是剩余空间，应该是项目在主轴方向上的所占比列，如果flow-direction:row,则为宽度比2：1；flow-direction:column,则为项目高度比2：1
+						2854 container
+							2855 container October 9, 2019 2:56 PM
+								2856 text 2019年10月 9日 14:56
+							2857 text  | 
+							2858 link Description: #, Value: …
+							2859 text  | 
+							2860 link Description: 引用, Help: 引用阿蛮哥的这条留言, Value: …
+					2861 container comment-413891
+						2862 container
+							2863 text 阿蛮哥  说：
+						2864 text 上面信息发错了，不好意思，是主轴上的剩余空间比
+						2865 container
+							2866 container October 9, 2019 3:58 PM
+								2867 text 2019年10月 9日 15:58
+							2868 text  | 
+							2869 link Description: #, Value: …
+							2870 text  | 
+							2871 link Description: 引用, Help: 引用阿蛮哥的这条留言, Value: …
+					2872 container comment-413980
+						2873 container
+							2874 text s  说：
+						2875 text 今天才知道 明明降龙十八掌 简洁浓缩版 10分钟快速生效版。 我当初没看。 看那么错杂七杂八的误入歧途啊
+						2876 container
+							2877 container October 15, 2019 4:02 PM
+								2878 text 2019年10月15日 16:02
+							2879 text  | 
+							2880 link Description: #, Value: …
+							2881 text  | 
+							2882 link Description: 引用, Help: 引用s的这条留言, Value: …
+					2883 container comment-413986
+						2884 container
+							2885 text lefe  说：
+						2886 container
+							2887 text 主轴会变化的，以前理解的不是很到位，基本概念中的图应该有个前提条件 flex-direction：flex。特意写了一篇文章说明 
+							2888 link Description: https://mp.weixin.qq.com/s/T-Z_8he9UxBBfL8Jb3zwtA。, Value: …
+						2889 container
+							2890 container October 16, 2019 7:32 AM
+								2891 text 2019年10月16日 07:32
+							2892 text  | 
+							2893 link Description: #, Value: …
+							2894 text  | 
+							2895 link Description: 引用, Help: 引用lefe的这条留言, Value: …
+					2896 container comment-414879
+						2897 container
+							2898 text ygw  说：
+						2899 container
+							2900 text justify-content:space-around;是两端间隔为项目间隔的一半；
+							2901 text justify-content:space-between;是两端无间隔
+							2902 text 那想要两端间隔和项目间隔都相等应该怎么处理
+						2903 container
+							2904 container December 5, 2019 9:24 AM
+								2905 text 2019年12月 5日 09:24
+							2906 text  | 
+							2907 link Description: #, Value: …
+							2908 text  | 
+							2909 link Description: 引用, Help: 引用ygw的这条留言, Value: …
+					2910 container comment-414883
+						2911 container
+							2912 text buygig  说：
+						2913 container comment-quote-414883
+							2914 container
+								2915 text 引用ygw的发言： justify-content:space-around;是两端间隔为项目间隔的一半；
+								2916 text justify-content:space-between;是两端无间隔
+								2917 text 那想要两端间隔和项目间隔都相等应该怎么处理
+							2918 container
+								2919 text 用justify-content:space-evenly;试试
+						2920 container
+							2921 container December 5, 2019 10:56 AM
+								2922 text 2019年12月 5日 10:56
+							2923 text  | 
+							2924 link Description: #, Value: …
+							2925 text  | 
+							2926 link Description: 引用, Help: 引用buygig的这条留言, Value: …
+					2927 container comment-415434
+						2928 container
+							2929 text tomy  说：
+						2930 text flex-direction的主轴横纵向写反了
+						2931 container
+							2932 container December 26, 2019 3:01 PM
+								2933 text 2019年12月26日 15:01
+							2934 text  | 
+							2935 link Description: #, Value: …
+							2936 text  | 
+							2937 link Description: 引用, Help: 引用tomy的这条留言, Value: …
+					2938 container comment-415742
+						2939 container
+							2940 text jackson  说：
+						2941 text ie11以下有待普及观望，不然用ie打开一团糟。
+						2942 container
+							2943 container January 8, 2020 4:15 PM
+								2944 text 2020年1月 8日 16:15
+							2945 text  | 
+							2946 link Description: #, Value: …
+							2947 text  | 
+							2948 link Description: 引用, Help: 引用jackson的这条留言, Value: …
+					2949 container comment-415893
+						2950 container
+							2951 text diviner  说：
+						2952 text 文章写的通俗易懂，图文并茂，让人记忆深刻， 谢谢
+						2953 container
+							2954 container January 17, 2020 4:15 AM
+								2955 text 2020年1月17日 04:15
+							2956 text  | 
+							2957 link Description: #, Value: …
+							2958 text  | 
+							2959 link Description: 引用, Help: 引用diviner的这条留言, Value: …
+					2960 container comment-415942
+						2961 container
+							2962 text Mark  说：
+						2963 text 喜欢阮老师的文章，通俗易懂。 小白可以上手直接撸。大爱@阮老师
+						2964 container
+							2965 container January 17, 2020 3:29 PM
+								2966 text 2020年1月17日 15:29
+							2967 text  | 
+							2968 link Description: #, Value: …
+							2969 text  | 
+							2970 link Description: 引用, Help: 引用Mark的这条留言, Value: …
+					2971 container comment-417214
+						2972 container
+							2973 text HappyGod  说：
+						2974 text 试了下，现在设置 flex:1; 默认 flex-basis 属性为0了，而不是 auto。 所以我们在写item项目的宽度某种比例时，尽量写 flex：XX， 而不是 flex-grow，因为后者需要添加 flex-basis:0。 我猜官方这么修改也是为了避免 出现上面longfei这样的疑问。
+						2975 container
+							2976 container March 26, 2020 6:14 PM
+								2977 text 2020年3月26日 18:14
+							2978 text  | 
+							2979 link Description: #, Value: …
+							2980 text  | 
+							2981 link Description: 引用, Help: 引用HappyGod的这条留言, Value: …
+					2982 container comment-419134
+						2983 container
+							2984 text 闪光魔法师  说：
+						2985 text align-content虽然名义上说是根据轴线来判断生效 但是实际上只要设置了flex-wrap 他的优先级就会比align-items高
+						2986 container
+							2987 container June 10, 2020 2:26 PM
+								2988 text 2020年6月10日 14:26
+							2989 text  | 
+							2990 link Description: #, Value: …
+							2991 text  | 
+							2992 link Description: 引用, Help: 引用闪光魔法师的这条留言, Value: …
+					2993 container comment-420342
+						2994 container
+							2995 text 中华坚果  说：
+						2996 container
+							2997 text 不知道是不是版本的问题哈，子项上flex和flex-grow分配剩余空间的计算方式应该是不同的，参考:https://www.cnblogs.com/jinyuting/p/13199704.html?utm_source=tuicool&utm_medium=referral。
+							2998 text 不能单纯认为flex是简写。
+						2999 container
+							3000 container July 14, 2020 9:38 AM
+								3001 text 2020年7月14日 09:38
+							3002 text  | 
+							3003 link Description: #, Value: …
+							3004 text  | 
+							3005 link Description: 引用, Help: 引用中华坚果的这条留言, Value: …
+					3006 container comment-420361
+						3007 container
+							3008 text 周周  说：
+						3009 text 作为新手小白菜鸟，最好还配一些实际例子才好，我基本看不懂。
+						3010 container
+							3011 container July 15, 2020 4:44 PM
+								3012 text 2020年7月15日 16:44
+							3013 text  | 
+							3014 link Description: #, Value: …
+							3015 text  | 
+							3016 link Description: 引用, Help: 引用周周的这条留言, Value: …
+					3017 container comment-421065
+						3018 container
+							3019 text 流连的岁月  说：
+						3020 container
+							3021 text justify-content: space-evenly;
+							3022 text 这个属性是已经弃用了吗？
+							3023 text 怎么没有一个人讲它？？？
+						3024 container
+							3025 container August 7, 2020 9:18 AM
+								3026 text 2020年8月 7日 09:18
+							3027 text  | 
+							3028 link Description: #, Value: …
+							3029 text  | 
+							3030 link Description: 引用, Help: 引用流连的岁月的这条留言, Value: …
+					3031 container comment-421641
+						3032 container
+							3033 text lt  说：
+						3034 container comment-quote-421641
+							3035 container
+								3036 text 引用中华坚果的发言： 不知道是不是版本的问题哈，子项上flex和flex-grow分配剩余空间的计算方式应该是不同的，参考:https://www.cnblogs.com/jinyuting/p/13199704.html?utm_source=tuicool&utm_medium=referral。
+								3037 text 不能单纯认为flex是简写。
+							3038 text 是单纯的简写，只不过当你 flex 取一个或两个值的时候，flex-basis 会从 auto 变为 0
+						3039 container
+							3040 container August 23, 2020 3:29 PM
+								3041 text 2020年8月23日 15:29
+							3042 text  | 
+							3043 link Description: #, Value: …
+							3044 text  | 
+							3045 link Description: 引用, Help: 引用lt的这条留言, Value: …
+					3046 container comment-422156
+						3047 container
+							3048 text 胤玄  说：
+						3049 container
+							3050 text 有没有上下左右都space-around的呢
+						3051 container
+							3052 container September 10, 2020 5:24 PM
+								3053 text 2020年9月10日 17:24
+							3054 text  | 
+							3055 link Description: #, Value: …
+							3056 text  | 
+							3057 link Description: 引用, Help: 引用胤玄的这条留言, Value: …
+					3058 container comment-422157
+						3059 container
+							3060 text 胤玄  说：
+						3061 container
+							3062 text Flex 下四个 40% 子元素
+							3063 text justify-content:space-around之后左右实现自动间距了
+							3064 text 但是上下还是紧贴着 有办法吗 还是得grid 布局
+						3065 container
+							3066 container September 10, 2020 5:25 PM
+								3067 text 2020年9月10日 17:25
+							3068 text  | 
+							3069 link Description: #, Value: …
+							3070 text  | 
+							3071 link Description: 引用, Help: 引用胤玄的这条留言, Value: …
+					3072 container comment-422158
+						3073 container
+							3074 text Rivalsa  说：
+						3075 container comment-quote-422158
+							3076 container
+								3077 text 引用胤玄的发言： 有没有上下左右都space-around的呢
+							3078 text 上下的话测试一下align-content:space-around;看看是不是你想要的效果？
+						3079 container
+							3080 container September 11, 2020 7:43 AM
+								3081 text 2020年9月11日 07:43
+							3082 text  | 
+							3083 link Description: #, Value: …
+							3084 text  | 
+							3085 link Description: 引用, Help: 引用Rivalsa的这条留言, Value: …
+					3086 container comment-422755
+						3087 container
+							3088 text 沙漠中的绿洲  说：
+						3089 container comment-quote-422755
+							3090 text @longfei：
+							3091 container
+								3092 text 增量是2倍，不代表宽度是2倍
+						3093 container
+							3094 container September 25, 2020 12:04 PM
+								3095 text 2020年9月25日 12:04
+							3096 text  | 
+							3097 link Description: #, Value: …
+							3098 text  | 
+							3099 link Description: 引用, Help: 引用沙漠中的绿洲的这条留言, Value: …
+					3100 container comment-423234
+						3101 container
+							3102 text jacker  说：
+						3103 text 多次过来学习，逐渐掌握，收获很多。
+						3104 container
+							3105 container October 15, 2020 10:04 AM
+								3106 text 2020年10月15日 10:04
+							3107 text  | 
+							3108 link Description: #, Value: …
+							3109 text  | 
+							3110 link Description: 引用, Help: 引用jacker的这条留言, Value: …
+					3111 container comment-423298
+						3112 container
+							3113 text mzghm  说：
+						3114 text 阮老师的讲解总是条理清晰，容易理解
+						3115 container
+							3116 container October 17, 2020 9:55 AM
+								3117 text 2020年10月17日 09:55
+							3118 text  | 
+							3119 link Description: #, Value: …
+							3120 text  | 
+							3121 link Description: 引用, Help: 引用mzghm的这条留言, Value: …
+					3122 container comment-423301
+						3123 container
+							3124 text 飞虎娃  说：
+						3125 text 阮老师，justify-content与align-content还应该添上一个属性值，那就是space-evenly。
+						3126 container
+							3127 container October 17, 2020 7:08 PM
+								3128 text 2020年10月17日 19:08
+							3129 text  | 
+							3130 link Description: #, Value: …
+							3131 text  | 
+							3132 link Description: 引用, Help: 引用飞虎娃的这条留言, Value: …
+					3133 container comment-423652
+						3134 container
+							3135 text 群哥  说：
+						3136 text space-evenly: items are distributed so that the spacing between any two items (and the space to the edges) is equal.效果：会每个项目两侧的间隔以及同项目流两侧的间隔相等。
+						3137 container
+							3138 container November 5, 2020 10:04 AM
+								3139 text 2020年11月 5日 10:04
+							3140 text  | 
+							3141 link Description: #, Value: …
+							3142 text  | 
+							3143 link Description: 引用, Help: 引用群哥的这条留言, Value: …
+					3144 container comment-423705
+						3145 container
+							3146 text leeXiao  说：
+						3147 text 是不是有点歧义，项目之间的距离应该是相邻两个项目之间的距离是两侧项目距离容器边框的二倍吧。是不是少了相邻二字。
+						3148 container
+							3149 container November 7, 2020 10:07 PM
+								3150 text 2020年11月 7日 22:07
+							3151 text  | 
+							3152 link Description: #, Value: …
+							3153 text  | 
+							3154 link Description: 引用, Help: 引用leeXiao的这条留言, Value: …
+					3155 container comment-423718
+						3156 container
+							3157 text ltns  说：
+						3158 text 怎么跟菜鸟教程一样的， 谁抄谁的
+						3159 container
+							3160 container November 10, 2020 10:30 AM
+								3161 text 2020年11月10日 10:30
+							3162 text  | 
+							3163 link Description: #, Value: …
+							3164 text  | 
+							3165 link Description: 引用, Help: 引用ltns的这条留言, Value: …
+					3166 container comment-423955
+						3167 container
+							3168 text luuusir  说：
+						3169 container comment-quote-423955
+							3170 container
+								3171 text 引用ltns的发言： 怎么跟菜鸟教程一样的， 谁抄谁的
+							3172 text 菜鸟教程最底下有引用这篇文章的链接，你可以看看，这才是原创
+						3173 container
+							3174 container November 25, 2020 9:48 PM
+								3175 text 2020年11月25日 21:48
+							3176 text  | 
+							3177 link Description: #, Value: …
+							3178 text  | 
+							3179 link Description: 引用, Help: 引用luuusir的这条留言, Value: …
+					3180 container comment-424111
+						3181 container
+							3182 text 菜鸟  说：
+						3183 container comment-quote-424111
+							3184 text 老师讲的太棒了，记下小笔记
+							3185 container
+								3186 text flex-wrap:{nowrap|wrap|wrap-reverse}
+								3187 text （1）nowrap（默认）：不换行，轴线从上面开始
+								3188 text （2）wrap：换行，轴线从上面开始
+								3189 text （3）wrap-reverse：换行，轴线从下面开始
+						3190 container
+							3191 container December 4, 2020 10:10 AM
+								3192 text 2020年12月 4日 10:10
+							3193 text  | 
+							3194 link Description: #, Value: …
+							3195 text  | 
+							3196 link Description: 引用, Help: 引用菜鸟的这条留言, Value: …
+					3197 container comment-424219
+						3198 container
+							3199 text erica  说：
+						3200 container comment-quote-424219
+							3201 container
+								3202 text 引用艺米的发言： 您好，我试了一下align-content，将其设置成stretch，并不会把每行拉伸，填满容器高度。而是在每行下面留有相同高度的空白。能否确认一下？
+							3203 text 或许你的align-items、height有设置？
+						3204 container
+							3205 container December 10, 2020 10:39 AM
+								3206 text 2020年12月10日 10:39
+							3207 text  | 
+							3208 link Description: #, Value: …
+							3209 text  | 
+							3210 link Description: 引用, Help: 引用erica的这条留言, Value: …
+					3211 container comment-425502
+						3212 container
+							3213 text 呆坐于人海  说：
+						3214 text 感觉条理很清晰 很不错！
+						3215 container
+							3216 container February 18, 2021 10:17 AM
+								3217 text 2021年2月18日 10:17
+							3218 text  | 
+							3219 link Description: #, Value: …
+							3220 text  | 
+							3221 link Description: 引用, Help: 引用呆坐于人海的这条留言, Value: …
+					3222 container comment-425987
+						3223 container
+							3224 text NICK  说：
+						3225 container comment-quote-425987
+							3226 text 老师好，我有个问题想请教一下。
+							3227 text 左右布局，左边放置了一张图片，右边放置了文本。文本的line-height：2.5。现在想让左边图片和右边文字顶端对齐，但是文本有半间距的问题，所以视觉上感觉对不齐，想问问老师有没有好的方案。
+						3228 container
+							3229 container March 17, 2021 6:18 PM
+								3230 text 2021年3月17日 18:18
+							3231 text  | 
+							3232 link Description: #, Value: …
+							3233 text  | 
+							3234 link Description: 引用, Help: 引用NICK的这条留言, Value: …
+					3235 container comment-426294
+						3236 container
+							3237 text Harvey  说：
+						3238 text 就连我这种小白，都能看的通俗易懂。
+						3239 container
+							3240 container April 9, 2021 11:15 AM
+								3241 text 2021年4月 9日 11:15
+							3242 text  | 
+							3243 link Description: #, Value: …
+							3244 text  | 
+							3245 link Description: 引用, Help: 引用Harvey的这条留言, Value: …
+					3246 container comment-426329
+						3247 container
+							3248 text 智走  说：
+						3249 text 项目属性有align-self那有没有justify-self
+						3250 container
+							3251 container April 10, 2021 6:21 PM
+								3252 text 2021年4月10日 18:21
+							3253 text  | 
+							3254 link Description: #, Value: …
+							3255 text  | 
+							3256 link Description: 引用, Help: 引用智走的这条留言, Value: …
+					3257 container comment-426404
+						3258 container
+							3259 text 李叔叔  说：
+						3260 container comment-quote-426404
+							3261 container
+								3262 text 引用云墨雪的发言： 坐个沙发, ie10的普及率还有待观望啊..
+							3263 text 现在是2021年，基本没人用IE了
+						3264 container
+							3265 container April 16, 2021 1:37 PM
+								3266 text 2021年4月16日 13:37
+							3267 text  | 
+							3268 link Description: #, Value: …
+							3269 text  | 
+							3270 link Description: 引用, Help: 引用李叔叔的这条留言, Value: …
+					3271 container comment-428409
+						3272 container
+							3273 text Arthas  说：
+						3274 text 可以加入新加的gap属性了
+						3275 container
+							3276 container July 28, 2021 2:35 PM
+								3277 text 2021年7月28日 14:35
+							3278 text  | 
+							3279 link Description: #, Value: …
+							3280 text  | 
+							3281 link Description: 引用, Help: 引用Arthas的这条留言, Value: …
+					3282 container comment-428843
+						3283 container
+							3284 text 吴某人  说：
+						3285 text 靠这篇文章，慢慢熟悉css，这篇文章对我作用太大了，2年后来评论
+						3286 container
+							3287 container August 17, 2021 9:23 AM
+								3288 text 2021年8月17日 09:23
+							3289 text  | 
+							3290 link Description: #, Value: …
+							3291 text  | 
+							3292 link Description: 引用, Help: 引用吴某人的这条留言, Value: …
+					3293 container comment-428847
+						3294 container
+							3295 text Wang Pengfei  说：
+						3296 container comment-quote-428847
+							3297 container
+								3298 text 引用ltns的发言： 怎么跟菜鸟教程一样的， 谁抄谁的
+							3299 text 菜鸟下面写了原文地址，你可以翻到最下面看看。
+						3300 container
+							3301 container August 17, 2021 12:23 PM
+								3302 text 2021年8月17日 12:23
+							3303 text  | 
+							3304 link Description: #, Value: …
+							3305 text  | 
+							3306 link Description: 引用, Help: 引用Wang Pengfei的这条留言, Value: …
+					3307 container comment-429207
+						3308 container
+							3309 text 祚鹤  说：
+						3310 container comment-quote-429207
+							3311 text 3.1 flex-direction属性
+							3312 text 配图跟列的属性没有一一对应啊
+						3313 container
+							3314 container September 1, 2021 3:09 PM
+								3315 text 2021年9月 1日 15:09
+							3316 text  | 
+							3317 link Description: #, Value: …
+							3318 text  | 
+							3319 link Description: 引用, Help: 引用祚鹤的这条留言, Value: …
+					3320 container comment-430383
+						3321 container
+							3322 text robinJiao  说：
+						3323 text 2021年看依然100%正确，绝对简明，易学。Ruan老师造福人类啊
+						3324 container
+							3325 container November 2, 2021 3:10 PM
+								3326 text 2021年11月 2日 15:10
+							3327 text  | 
+							3328 link Description: #, Value: …
+							3329 text  | 
+							3330 link Description: 引用, Help: 引用robinJiao的这条留言, Value: …
+					3331 container comment-430652
+						3332 container
+							3333 text zhangwenjin  说：
+						3334 text 现在学flex ,以这个为标准，简单明了
+						3335 container
+							3336 container November 17, 2021 4:24 PM
+								3337 text 2021年11月17日 16:24
+							3338 text  | 
+							3339 link Description: #, Value: …
+							3340 text  | 
+							3341 link Description: 引用, Help: 引用zhangwenjin的这条留言, Value: …
+					3342 container comment-431609
+						3343 container
+							3344 text CondorHero  说：
+						3345 container comment-quote-431609
+							3346 text 兄弟们，阮老师在介绍 justify-content 的时候少了一个属性：
+							3347 container
+								3348 text ```
+								3349 text justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;
+								3350 text ```
+							3351 container
+								3352 text space-evenly：
+								3353 text evenly 是匀称、平等的意思。也就是视觉上，每个 flex 子项两侧「保留的空白间距完全相等」
+						3354 container
+							3355 container January 6, 2022 11:44 AM
+								3356 text 2022年1月 6日 11:44
+							3357 text  | 
+							3358 link Description: #, Value: …
+							3359 text  | 
+							3360 link Description: 引用, Help: 引用CondorHero的这条留言, Value: …
+					3361 container comment-431845
+						3362 container
+							3363 text 常先生  说：
+						3364 text flex-direction的那张图，顺序和描述不符。容易误导初学者。希望大神改一下。
+						3365 container
+							3366 container January 19, 2022 9:13 PM
+								3367 text 2022年1月19日 21:13
+							3368 text  | 
+							3369 link Description: #, Value: …
+							3370 text  | 
+							3371 link Description: 引用, Help: 引用常先生的这条留言, Value: …
+					3372 container comment-431967
+						3373 container
+							3374 text chen  说：
+						3375 text space-evenly这个属性值还是很常用的，但是这里可能太老了没有提到。
+						3376 container
+							3377 container January 26, 2022 3:37 PM
+								3378 text 2022年1月26日 15:37
+							3379 text  | 
+							3380 link Description: #, Value: …
+							3381 text  | 
+							3382 link Description: 引用, Help: 引用chen的这条留言, Value: …
+					3383 container comment-432052
+						3384 container
+							3385 text 千久  说：
+						3386 text flex-direction 那张图主轴和侧轴弄反了
+						3387 container
+							3388 container February 5, 2022 11:26 AM
+								3389 text 2022年2月 5日 11:26
+							3390 text  | 
+							3391 link Description: #, Value: …
+							3392 text  | 
+							3393 link Description: 引用, Help: 引用千久的这条留言, Value: …
+					3394 container comment-432198
+						3395 container
+							3396 text zzs  说：
+						3397 container comment-quote-432198
+							3398 container
+								3399 text 引用shikelong的发言： flex布局除了响应不同页面之外，还有什么优点呢？
+							3400 text 鼻子除了呼吸 还能干嘛呢?
+						3401 container
+							3402 container February 14, 2022 6:22 PM
+								3403 text 2022年2月14日 18:22
+							3404 text  | 
+							3405 link Description: #, Value: …
+							3406 text  | 
+							3407 link Description: 引用, Help: 引用zzs的这条留言, Value: …
+					3408 container comment-432977
+						3409 container
+							3410 text Whiskey  说：
+						3411 text 阮老师的文章都是清晰易懂
+						3412 container
+							3413 container April 4, 2022 11:14 PM
+								3414 text 2022年4月 4日 23:14
+							3415 text  | 
+							3416 link Description: #, Value: …
+							3417 text  | 
+							3418 link Description: 引用, Help: 引用Whiskey的这条留言, Value: …
+					3419 container comment-433579
+						3420 container
+							3421 text bruce wang  说：
+						3422 container
+							3423 text flex: 1 在chrome 100的控制台的盒模型上显示为:
+							3424 text flex-grow: 1;
+							3425 text flex-shrink: 1;
+							3426 text flex-basis: 0%;
+						3427 container
+							3428 container May 18, 2022 5:54 PM
+								3429 text 2022年5月18日 17:54
+							3430 text  | 
+							3431 link Description: #, Value: …
+							3432 text  | 
+							3433 link Description: 引用, Help: 引用bruce wang的这条留言, Value: …
+					3434 container comment-433618
+						3435 container
+							3436 text 忆初  说：
+						3437 text 每次需要用到 flex 布局的时候，都会打开这篇文章参考，真滴非常感谢大神分享这么清晰易懂的文章
+						3438 container
+							3439 container May 20, 2022 12:02 PM
+								3440 text 2022年5月20日 12:02
+							3441 text  | 
+							3442 link Description: #, Value: …
+							3443 text  | 
+							3444 link Description: 引用, Help: 引用忆初的这条留言, Value: …
+					3445 container comment-433649
+						3446 container
+							3447 text 大名  说：
+						3448 container comment-quote-433649
+							3449 container
+								3450 text 引用professorz的发言： flex-direction 图片顺序和文字顺序是不是不一样呀。
+							3451 text 2015年提的，改下吧
+						3452 container
+							3453 container May 22, 2022 9:14 AM
+								3454 text 2022年5月22日 09:14
+							3455 text  | 
+							3456 link Description: #, Value: …
+							3457 text  | 
+							3458 link Description: 引用, Help: 引用大名的这条留言, Value: …
+					3459 container comment-433722
+						3460 container
+							3461 text 冯小7  说：
+						3462 text 推荐练习网站：https://flexboxfroggy.com/
+						3463 container
+							3464 container May 27, 2022 4:27 PM
+								3465 text 2022年5月27日 16:27
+							3466 text  | 
+							3467 link Description: #, Value: …
+							3468 text  | 
+							3469 link Description: 引用, Help: 引用冯小7的这条留言, Value: …
+					3470 container comment-436005
+						3471 container
+							3472 text 云峰  说：
+						3473 text 文章很重要的一点没有介绍，就是超出 flexible box 的情形没有介绍
+						3474 container
+							3475 container November 18, 2022 10:33 AM
+								3476 text 2022年11月18日 10:33
+							3477 text  | 
+							3478 link Description: #, Value: …
+							3479 text  | 
+							3480 link Description: 引用, Help: 引用云峰的这条留言, Value: …
+					3481 container comment-437598
+						3482 container
+							3483 text guo  说：
+						3484 text 想问下大佬，您的服务是部署在香港还是其他的地方呀，为什么公司会把你的站点给屏蔽了，只有在公司的网络打不开
+						3485 container
+							3486 container April 7, 2023 9:18 AM
+								3487 text 2023年4月 7日 09:18
+							3488 text  | 
+							3489 link Description: #, Value: …
+							3490 text  | 
+							3491 link Description: 引用, Help: 引用guo的这条留言, Value: …
+					3492 container comment-440190
+						3493 container
+							3494 text 柏琳  说：
+						3495 text 看完感觉学到了很多
+						3496 container
+							3497 container November 6, 2023 4:31 PM
+								3498 text 2023年11月 6日 16:31
+							3499 text  | 
+							3500 link Description: #, Value: …
+							3501 text  | 
+							3502 link Description: 引用, Help: 引用柏琳的这条留言, Value: …
+					3503 container comment-440214
+						3504 container
+							3505 text 悠悠乃  说：
+						3506 text 很实用，现在页面基本参考这个文档，很棒。
+						3507 container
+							3508 container November 9, 2023 4:25 PM
+								3509 text 2023年11月 9日 16:25
+							3510 text  | 
+							3511 link Description: #, Value: …
+							3512 text  | 
+							3513 link Description: 引用, Help: 引用悠悠乃的这条留言, Value: …
+					3514 container comment-442312
+						3515 container
+							3516 text 伊木然  说：
+						3517 text 2024年了 还看，真的对我了解felx等各种布局帮助很大
+						3518 container
+							3519 container May 12, 2024 7:19 PM
+								3520 text 2024年5月12日 19:19
+							3521 text  | 
+							3522 link Description: #, Value: …
+							3523 text  | 
+							3524 link Description: 引用, Help: 引用伊木然的这条留言, Value: …
+					3525 container comment-442506
+						3526 container
+							3527 text 微尘  说：
+						3528 text 这文章看完认为，水平方向固定是主轴，垂直方向固定是交叉轴。后面看了下一篇flex实例篇,发现主轴是由flex-direction规定的，也可以是垂直方向。
+						3529 container
+							3530 container May 28, 2024 11:57 AM
+								3531 text 2024年5月28日 11:57
+							3532 text  | 
+							3533 link Description: #, Value: …
+							3534 text  | 
+							3535 link Description: 引用, Help: 引用微尘的这条留言, Value: …
+					3536 container comment-442800
+						3537 container
+							3538 text 路过而已  说：
+						3539 container comment-quote-442800
+							3540 container
+								3541 text 引用Arthas的发言： 可以加入新加的gap属性了
+							3542 text 不可以的。gap属性实际上是grid布局中的属性，较早版本时写为grid-gap。虽然在较新版本的浏览器中，使用flex布局时gap属性也会生效，但是gap属性在flex布局中仍然不是一个标准属性，所以会存在兼容性问题。详情请查询官方关于gap属性的介绍。
+						3543 container
+							3544 container June 19, 2024 2:38 PM
+								3545 text 2024年6月19日 14:38
+							3546 text  | 
+							3547 link Description: #, Value: …
+							3548 text  | 
+							3549 link Description: 引用, Help: 引用路过而已的这条留言, Value: …
+					3550 container comment-444022
+						3551 container
+							3552 text 呢  说：
+						3553 text 还以为内容这么长，原来大部分是评论的高度
+						3554 container
+							3555 container September 12, 2024 3:42 PM
+								3556 text 2024年9月12日 15:42
+							3557 text  | 
+							3558 link Description: #, Value: …
+							3559 text  | 
+							3560 link Description: 引用, Help: 引用呢的这条留言, Value: …
+					3561 container comment-446254
+						3562 container
+							3563 text Feng  说：
+						3564 text 建议修改关于 主轴 交叉轴的描述。增加 flex-direction 为 row / column 时 主轴及交叉图的方向区分。
+						3565 container
+							3566 container March 13, 2025 11:45 AM
+								3567 text 2025年3月13日 11:45
+							3568 text  | 
+							3569 link Description: #, Value: …
+							3570 text  | 
+							3571 link Description: 引用, Help: 引用Feng的这条留言, Value: …
+					3572 container comment-last
+						3573 container
+							3574 text 荏狸十三  说：
+						3575 text 非常经典的教程，有时候忘记我还会回来现查询一下
+						3576 container
+							3577 container June 12, 2026 5:23 PM
+								3578 text 2026年6月12日 17:23
+							3579 text  | 
+							3580 link Description: #, Value: …
+							3581 text  | 
+							3582 link Description: 引用, Help: 引用荏狸十三的这条留言, Value: …
+				3583 container comments-open
+					3584 heading 我要发表看法, Value: 2
+						3585 text 我要发表看法
+					3586 container comments-form
+						3587 container comments-open-data
+							3588 container comments-open-text
+								3589 text 您的留言 （HTML标签部分可用）
+								3590 text entry area (settable) 您的留言 （HTML标签部分可用）, ID: comment-text
+							3591 container comment-form-name
+								3592 text 您的大名：
+								3593 container
+									3594 text field (settable) 您的大名：, ID: comment-author
+									3595 text «-必填
+							3596 container comment-form-email
+								3597 text 电子邮件：
+								3598 container
+									3599 text field (settable) 电子邮件：
+									3600 text «-必填，不公开
+							3601 container comment-form-url
+								3602 text 个人网址：
+								3603 container
+									3604 text field (settable) 个人网址：, ID: comment-url
+									3605 text «-我信任你，不会填写广告链接
+							3606 checkbox (settable, integer) Description: 记住个人信息？, Value: 0, ID: comment-bake-cookie
+						3607 container
+							3608 button 发表, ID: comment-submit
+							3609 text «- 点击按钮
+		3610 container
+			3611 image 微信扫描
+			3612 link Description: Weibo, Help: 微博, Value: …
+			3613 text  | 
+			3614 link Description: Twitter, Value: …
+			3615 text  | 
+			3616 link Description: GitHub, Value: …
+			3617 text Email: 
+			3618 link Description: yifeng.ruan@gmail.com, Help: 电子邮件, Value: …
+
+The focused UI element is 1 AXWebArea Flex 布局教程：语法篇 - 阮一峰的网络日志, URL: ruanyifeng.com/blog…

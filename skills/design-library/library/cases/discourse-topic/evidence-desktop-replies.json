@@ -1,0 +1,1297 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 40.84375,
+        "width": 40.84375,
+        "x": 10.71875,
+        "y": 5.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3.4288px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 136.21875,
+        "x": 69.9140625,
+        "y": 7.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 25.328125,
+        "width": 745.234375,
+        "x": 303.71875,
+        "y": 6.0625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "21.1131px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "25.3357px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Dark/light mode toggle now available in core"
+    },
+    {
+      "rect": {
+        "height": 25.5,
+        "width": 446.1328125,
+        "x": 323.5546875,
+        "y": 5.5625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "21.1131px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "25.3357px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dark/light mode toggle now available in core"
+    },
+    {
+      "rect": {
+        "height": 14.546875,
+        "width": 111.84375,
+        "x": 303.71875,
+        "y": 31.390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "12.1271px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14.5525px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "News and Events"
+    },
+    {
+      "rect": {
+        "height": 14.546875,
+        "width": 106.3671875,
+        "x": 422.5234375,
+        "y": 31.390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "12.1271px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14.5525px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Announcements"
+    },
+    {
+      "rect": {
+        "height": 32.921875,
+        "width": 80.9296875,
+        "x": 1080.953125,
+        "y": 9.5390625
+      },
+      "style": {
+        "background": "rgb(123, 95, 226)",
+        "borderRadius": "999px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "6.9648px 9.05424px"
+      },
+      "tag": "BUTTON",
+      "text": "Log In"
+    },
+    {
+      "rect": {
+        "height": 32.5,
+        "width": 50.5546875,
+        "x": 1169.8828125,
+        "y": 9.75
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "EN"
+    },
+    {
+      "rect": {
+        "height": 40.84375,
+        "width": 40.84375,
+        "x": 1228.4375,
+        "y": 5.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3.4288px"
+      },
+      "tag": "BUTTON",
+      "text": "​"
+    },
+    {
+      "rect": {
+        "height": 668,
+        "width": 272,
+        "x": 0,
+        "y": 52
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Home\nTopics\nMore\nCATEGORIES\nNews and Events\nCommunity Building\nGeneral\nSupport\nContribute\nCustomization\nDocume"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 52
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Home"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 90.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Topics"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 129.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "19.2px",
+        "padding": "0px 4px"
+      },
+      "tag": "BUTTON",
+      "text": "More"
+    },
+    {
+      "rect": {
+        "height": 14.5,
+        "width": 247,
+        "x": 12,
+        "y": 186.5390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "12.1264px",
+        "fontWeight": "600",
+        "gap": "8px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "CATEGORIES"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 212.1875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "News and Events"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 250.984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Community Building"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 289.78125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "General"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 328.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Support"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 367.375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Contribute"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 406.171875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Customization"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 444.96875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Documentation"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 483.765625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Wiki"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 522.5625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "Marketplace"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 561.359375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "13.9296px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "19.5014px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "All categories"
+    },
+    {
+      "rect": {
+        "height": 14.5,
+        "width": 247,
+        "x": 12,
+        "y": 618.3046875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "12.1264px",
+        "fontWeight": "600",
+        "gap": "8px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "TAGS"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 643.953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "official"
+    },
+    {
+      "rect": {
+        "height": 36.796875,
+        "width": 255,
+        "x": 8,
+        "y": 682.75
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px 4px"
+      },
+      "tag": "A",
+      "text": "release-notes"
+    },
+    {
+      "rect": {
+        "height": 21.921875,
+        "width": 26.71875,
+        "x": 209.5625,
+        "y": 685.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "4px 6.4px"
+      },
+      "tag": "BUTTON",
+      "text": "Color mode, currently [missing %{mode} value]"
+    },
+    {
+      "rect": {
+        "height": 27.5,
+        "width": 26.71875,
+        "x": 236.28125,
+        "y": 682.7890625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "4px 6.4px"
+      },
+      "tag": "BUTTON",
+      "text": "​"
+    },
+    {
+      "rect": {
+        "height": 37.5,
+        "width": 38.796875,
+        "x": 1020,
+        "y": 84
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 10.4px"
+      },
+      "tag": "BUTTON",
+      "text": "​"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 71.078125,
+        "x": 1020,
+        "y": 138.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Feb 2025"
+    },
+    {
+      "rect": {
+        "height": 22.3984375,
+        "width": 72.5234375,
+        "x": 1020,
+        "y": 475.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Mar 2025"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 48,
+        "x": 320,
+        "y": 77.84375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 153.296875,
+        "width": 615,
+        "x": 377,
+        "y": -70.15625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "1528×383 45 KB"
+    },
+    {
+      "rect": {
+        "height": 96,
+        "width": 615,
+        "x": 377,
+        "y": 105.640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Once the core version is enabled, the theme component will no longer have an effect on your site. However, you"
+    },
+    {
+      "rect": {
+        "height": 37.5,
+        "width": 627,
+        "x": 377,
+        "y": 241.640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(192, 195, 197)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "44\n​\n​\n​"
+    },
+    {
+      "rect": {
+        "height": 24.390625,
+        "width": 93.375,
+        "x": 377,
+        "y": 247.34375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(192, 195, 197)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.2px",
+        "padding": "1px 6px"
+      },
+      "tag": "BUTTON",
+      "text": "44"
+    },
+    {
+      "rect": {
+        "height": 37.5,
+        "width": 38.796875,
+        "x": 879.609375,
+        "y": 241.640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(192, 195, 197)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 10.4px"
+      },
+      "tag": "BUTTON",
+      "text": "​"
+    },
+    {
+      "rect": {
+        "height": 37.5,
+        "width": 38.796875,
+        "x": 922.40625,
+        "y": 241.640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(192, 195, 197)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 10.4px"
+      },
+      "tag": "BUTTON",
+      "text": "​"
+    },
+    {
+      "rect": {
+        "height": 37.5,
+        "width": 38.796875,
+        "x": 965.203125,
+        "y": 241.640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "color": "rgb(192, 195, 197)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 10.4px"
+      },
+      "tag": "BUTTON",
+      "text": "​"
+    },
+    {
+      "rect": {
+        "height": 22.3984375,
+        "width": 627,
+        "x": 377,
+        "y": 316.140625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dark/Light Mode Toggle"
+    },
+    {
+      "rect": {
+        "height": 22.3984375,
+        "width": 627,
+        "x": 377,
+        "y": 346.5390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "3.5.0.beta1: Dark/light mode selector, better flagging info, and encouraging more valuable conversations"
+    },
+    {
+      "rect": {
+        "height": 22.3984375,
+        "width": 627,
+        "x": 377,
+        "y": 376.9375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Explanation of dark mode, how to select it, and how to enable switching"
+    },
+    {
+      "rect": {
+        "height": 22.3984375,
+        "width": 627,
+        "x": 377,
+        "y": 407.3359375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Battle Axe - A free theme by the Tappara.co hockey community"
+    },
+    {
+      "rect": {
+        "height": 22.3984375,
+        "width": 627,
+        "x": 377,
+        "y": 437.734375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Light/dark mode toggle is illogical/buggy"
+    },
+    {
+      "rect": {
+        "height": 41.0546875,
+        "width": 39.8125,
+        "x": 377,
+        "y": 485.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "3.2k\nviews"
+    },
+    {
+      "rect": {
+        "height": 41.0546875,
+        "width": 31.546875,
+        "x": 428.8125,
+        "y": 485.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "107\nlikes"
+    },
+    {
+      "rect": {
+        "height": 41.0546875,
+        "width": 31.96875,
+        "x": 472.359375,
+        "y": 485.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "9\nlinks"
+    },
+    {
+      "rect": {
+        "height": 41.0546875,
+        "width": 38.296875,
+        "x": 516.328125,
+        "y": 485.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "12\nusers"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 32,
+        "x": 566.625,
+        "y": 494.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Osama's profile"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 32,
+        "x": 602.625,
+        "y": 494.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "patrickemin's profile"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 32,
+        "x": 638.625,
+        "y": 494.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "StefanoCecere's profile"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 32,
+        "x": 674.625,
+        "y": 494.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Jagster's profile"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 32,
+        "x": 710.625,
+        "y": 494.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "ozzi's profile"
+    },
+    {
+      "rect": {
+        "height": 37.5,
+        "width": 129.9921875,
+        "x": 874.0078125,
+        "y": 486.90625
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "999px",
+        "color": "rgb(80, 85, 88)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 10.4px"
+      },
+      "tag": "BUTTON",
+      "text": "Summarize"
+    },
+    {
+      "rect": {
+        "height": 39.390625,
+        "width": 684,
+        "x": 320,
+        "y": 534.1875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "19.2px",
+        "padding": "8.8px 13.6px 10.4px 58px"
+      },
+      "tag": "A",
+      "text": "Ad\nDid you know Discourse offers hosting? - Plans start at $0!"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 48,
+        "x": 320,
+        "y": 603.421875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(123, 95, 226)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 22.3984375,
+        "width": 52.9453125,
+        "x": 377,
+        "y": 586.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Kevin7"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 50.0078125,
+        "x": 435.21875,
+        "y": 587.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(109, 115, 119)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Kévin ."
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 71.078125,
+        "x": 920.921875,
+        "y": 587.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(150, 155, 159)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Feb 2025"
+    },
+    {
+      "rect": {
+        "height": 96,
+        "width": 615,
+        "x": 377,
+        "y": 628.9765625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 54, 56)",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Hello, thank you for this new feature, but I wonder why the buttons still have black text and icons when switc"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 1440
+  },
+  "title": "Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta",
+  "url": "https://meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:58:03.584Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

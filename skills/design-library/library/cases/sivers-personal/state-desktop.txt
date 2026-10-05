@@ -1,0 +1,239 @@
+Browser tab: 3, Title: "Derek Sivers", URL: "https://sive.rs/".
+1 AXWebArea Derek Sivers, URL: sive.rs/
+	2 heading Derek Sivers Search, Value: 1
+		3 link Description: Derek Sivers, Value: sive.rs/
+		4 link Description: Search, Value: sive.rs/search
+	5 container
+		6 container
+			7 text (Everything here is 100% me, 
+			8 link Description: no AI, Value: sive.rs/ai
+			9 text .)
+		10 container about
+			11 heading me in 10 seconds, Value: 2
+				12 text me in 10 seconds
+			13 container
+				14 link Description: Xenophile, Value: sive.rs/joke
+				15 text , 
+				16 link Description: programmer, Value: sive.rs/tech
+				17 text , 
+				18 link Description: netizen, Value: sive.rs/netizen
+				19 text , and 
+				20 link Description: conversationalist, Value: sive.rs/met
+				21 text .
+			22 container
+				23 text (1984-1997):
+				24 link Description: Musician, Value: sive.rs/m
+				25 text . 
+				26 link Description: Berklee, Value: berklee.edu/
+				27 text  grad, played 1000+ shows, guitarist for 
+				28 link Description: Ryuichi Sakamoto, Value: sive.rs/sakamoto
+				29 text , wrote and recorded 120+ 
+				30 link Description: songs, Value: sive.rs/music
+				31 text .
+			32 container
+				33 text (1998-2008):
+				34 link Description: Entrepreneur, Value: sive.rs/a
+				35 text . Started and sold 
+				36 link Description: CD Baby, Value: en.wikipedia.org/wiki/CD_Baby
+				37 text . Paid $83M to musicians.
+			38 container
+				39 text (2009-2025):
+				40 link Description: Author, Value: sivers.com/
+				41 text , 
+				42 link Description: speaker, Value: sive.rs/i
+				43 text . 5 
+				44 link Description: books, Value: sivers.com/
+				45 text , 550+ 
+				46 link Description: articles, Value: sive.rs/blog
+				47 text , some TED 
+				48 link Description: talks, Value: sive.rs/presentations
+				49 text , guest on 250+ 
+				50 link Description: podcasts, Value: sive.rs/i
+				51 text .
+			52 container
+				53 text (2026+):  ?
+			54 heading Me in 10 minutes?, Value: 2
+				55 link Description: Me in 10 minutes, Value: sive.rs/about
+				56 text ?
+			57 container
+				58 text See my 
+				59 link Description: /about, Value: sive.rs/about
+				60 text  page.
+			61 heading What am I doing now?, Value: 2
+				62 link Description: What am I doing now, Value: sive.rs/now
+				63 text ?
+			64 container
+				65 text See my 
+				66 link Description: /now, Value: sive.rs/now
+				67 text  page.
+			68 heading Contact me, Value: 2
+				69 link Description: Contact me, Value: sive.rs/contact
+			70 container
+				71 text I like meeting people, and I reply to every email, so 
+				72 link Description: say hello, Value: sive.rs/contact
+				73 text .
+		74 container articles
+			75 heading newest articles, Value: 2
+				76 text newest 
+				77 link Description: articles, Value: sive.rs/blog
+			78 content list
+				79 container
+					80 text 2026-09-03
+					81 link Description: Bangalore India hospital flow, Value: sive.rs/inflow
+				82 container
+					83 text 2026-08-18
+					84 link Description: Building without predicting, Value: sive.rs/fit
+				85 container
+					86 text 2026-05-14
+					87 link Description: Prepare your “no” and keep it handy, Value: sive.rs/n0
+				88 container
+					89 text 2026-05-12
+					90 link Description: My life was changed by four sentences in four books, Value: sive.rs/4s4b
+				91 container
+					92 text 2026-05-05
+					93 link Description: Geography is four-dimensional, Value: sive.rs/4d
+			94 container
+				95 text … and 
+				96 link Description: more here, Value: sive.rs/blog
+				97 text .
+		98 container mybooks
+			99 heading my books, Value: 2
+				100 text my books
+			101 link Description: Derek Sivers hardcover books, stacked, Value: sivers.com/
+			102 container
+				103 link Description: Useful Not True book cover, Value: sive.rs/u
+				104 heading Useful Not True (2024), Value: 3
+					105 link Description: Useful Not True, Value: sive.rs/u
+					106 text (2024)
+				107 text Doubt everything. No beliefs are true. Adopt what works for you now.
+			108 container
+				109 link Description: How to Live book cover, Value: sive.rs/h
+				110 heading How to Live (2021), Value: 3
+					111 link Description: How to Live, Value: sive.rs/h
+					112 text (2021)
+				113 text My masterpiece. Best thing I’ve ever made. My soul in a book.
+			114 container
+				115 link Description: Hell Yeah or No book cover, Value: sive.rs/n
+				116 heading Hell Yeah or No (2020), Value: 3
+					117 link Description: Hell Yeah or No, Value: sive.rs/n
+					118 text (2020)
+				119 text Useful wisdom. Simple profound mental models to guide your decisions.
+			120 container
+				121 link Description: Your Music and People book cover, Value: sive.rs/m
+				122 heading Your Music and People (2020), Value: 3
+					123 link Description: Your Music and People, Value: sive.rs/m
+					124 text (2020)
+				125 text Get your work to the world by being creative, considerate, resourceful, and connected.
+			126 container
+				127 link Description: Anything You Want book cover, Value: sive.rs/a
+				128 heading Anything You Want (2011 → 2022), Value: 3
+					129 link Description: Anything You Want, Value: sive.rs/a
+					130 text (2011 → 2022)
+				131 text 40 lessons for a new kind of entrepreneur. My tales of starting, building, and selling CD Baby.
+			132 container
+				133 text See 
+				134 link Description: the foreign publishers, Value: sive.rs/fp
+				135 text  of my translated books.
+		136 container interviews
+			137 heading interviews, Value: 2
+				138 link Description: interviews, Value: sive.rs/i
+			139 container
+				140 text You can listen to over 
+				141 link Description: 250 interviews, Value: sive.rs/i
+				142 text , where I’m the guest.
+			143 text Each one has audio, sometimes video, and a full transcript.
+		144 container projects
+			145 heading projects, Value: 2
+				146 text projects
+			147 definition list
+				148 container Book Notes
+					149 link Description: Book Notes, Value: sive.rs/book
+				150 text detailed notes from the last 430+ books I’ve read
+				151 container Now Now Now
+					152 link Description: Now Now Now, Value: nownownow.com/
+				153 text a collection of sites that have a “what I’m doing now” page
+				154 container Tech Independence
+					155 link Description: Tech Independence, Value: sive.rs/ti
+				156 text step-by-step instructions to set up your own server and break dependency on the cloud
+				157 container Conversations in…
+					158 link Description: Conversations in…, Value: sive.rs/met
+				159 text when I travel, I meet with people who have emailed me
+				160 container Books that reference me
+					161 link Description: Books that reference me, Value: sive.rs/ref
+				162 text excerpts from books that have written about me
+				163 container MusicThoughts
+					164 link Description: MusicThoughts, Value: musicthoughts.com/
+				165 text inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本語, and 中文
+				166 container Presentations
+					167 link Description: Presentations, Value: sive.rs/presentations
+				168 text my TED talks and other stage talks
+		169 container tweets
+			170 heading tweets, Value: 2
+				171 link Description: tweets, Value: sive.rs/d
+			172 content list
+				173 container
+					174 text 2026-09-23 To understand Türkiye and Turkish worldviews a bit, this book is a good quick start: 
+					175 link sive.rs/book/TurkeyCS
+				176 container
+					177 text 2026-09-22 When walking a city, what do different experts notice that you don’t? Fun book on this: On Looking by Alexandra Horowitz. My notes: 
+					178 link sive.rs/book/OnLooking
+				179 container
+					180 text 2026-09-22 Very good China book, following four real women in current China: Private Revolutions by Yuan Yang. My notes: 
+					181 link sive.rs/book/ChinaFourWomen
+				182 container
+					183 text 2026-09-13 Best food I’ve ever eaten: When in Finland go to 
+					184 link liemi.fi/
+					185 text  and order SHANGHAI TACOS WITH HALLOUMI. I had them every day for four days.
+				186 container
+					187 text 2026-09-03 Bangalore India hospital flow: 
+					188 link sive.rs/inflow
+			189 container
+				190 text … and 
+				191 link Description: more here, Value: sive.rs/d
+				192 text .
+		193 container photos
+			194 heading photos, Value: 2
+				195 text photos
+			196 link Description: Derek Sivers, Value: m.sive.rs/images/DerekSivers-20141119-1450.jpg
+			197 link Description: Derek Sivers, Value: m.sive.rs/images/DerekSivers-20141209a-1853.jpg
+			198 link Description: Derek Sivers, Value: m.sive.rs/images/DerekSivers-20141209b-2333.jpg
+			199 link Description: Derek Sivers, Value: m.sive.rs/images/DerekSivers-20141209c-1556.jpg
+		200 container socials
+			201 heading You want more?!, Value: 2
+				202 text You want more?!
+			203 content list
+				204 container
+					205 text Try 
+					206 link Description: search, Value: sive.rs/search
+					207 text .
+				208 container
+					209 text Or 
+					210 link Description: my podcasts, Value: sive.rs/podcast
+					211 text .
+				212 container
+					213 text Or 
+					214 link Description: my feeds, Value: sive.rs/feeds
+					215 text .
+				216 container
+					217 text Or even 
+					218 link Description: a random page, Value: sive.rs/random
+					219 text .
+			220 text Everything I do is here on this site.
+			221 heading syndicated, Value: 2
+				222 text syndicated
+			223 container
+				224 text I also 
+				225 link Description: syndicate, Value: sive.rs/socials
+				226 text  to:
+			227 content list
+				228 link x.com/sivers
+				229 link Description: Fed @d@sive.rs, Value: sive.rs/d
+				230 link Description: Bluesky @sive.rs, Value: bsky.app/profile/sive.rs
+				231 link Description: Telegram @dereksivers, Value: t.me/dereksivers
+				232 link Description: Substack dereksivers.org, Value: dereksivers.org/
+				233 link Description: youtube.com/@dereksivers, Value: youtube.com/@dereksivers/posts
+				234 link tiktok.com/@dereksivers
+				235 link facebook.com/sivers
+				236 link Description: instagram.com/dereksivers, Value: instagram.com/dereksivers/
+
+The focused UI element is 1 AXWebArea Derek Sivers, URL: sive.rs/

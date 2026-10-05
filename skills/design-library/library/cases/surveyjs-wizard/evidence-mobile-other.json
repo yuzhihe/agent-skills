@@ -1,0 +1,163 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 24,
+        "width": 108.546875,
+        "x": 32,
+        "y": 220
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Open Sans\", Inter, system-ui, -apple-system, \"system-ui\", Roboto, \"Noto Sans\", \"Helvetica Neue\", Ubuntu, \"Segoe UI\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "LABEL",
+      "text": "Developer"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 161.53125,
+        "x": 32,
+        "y": 268
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Open Sans\", Inter, system-ui, -apple-system, \"system-ui\", Roboto, \"Noto Sans\", \"Helvetica Neue\", Ubuntu, \"Segoe UI\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "LABEL",
+      "text": "Product manager"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 98.28125,
+        "x": 32,
+        "y": 316
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Open Sans\", Inter, system-ui, -apple-system, \"system-ui\", Roboto, \"Noto Sans\", \"Helvetica Neue\", Ubuntu, \"Segoe UI\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "LABEL",
+      "text": "Designer"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 193.046875,
+        "x": 32,
+        "y": 364
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Open Sans\", Inter, system-ui, -apple-system, \"system-ui\", Roboto, \"Noto Sans\", \"Helvetica Neue\", Ubuntu, \"Segoe UI\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "LABEL",
+      "text": "Other (please specify)"
+    },
+    {
+      "rect": {
+        "height": 64,
+        "width": 318,
+        "x": 36,
+        "y": 404
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(28, 27, 32)",
+        "fontFamily": "\"Open Sans\", Inter, system-ui, -apple-system, \"system-ui\", Roboto, \"Noto Sans\", \"Helvetica Neue\", Ubuntu, \"Segoe UI\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "8px 12px"
+      },
+      "tag": "TEXTAREA",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 187.8984375,
+        "x": 16,
+        "y": 528
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "0px",
+        "lineHeight": "normal",
+        "padding": "16px 32px"
+      },
+      "tag": "BUTTON",
+      "text": "Previous"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 158.1015625,
+        "x": 215.8984375,
+        "y": 528
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "0px",
+        "lineHeight": "normal",
+        "padding": "16px 32px"
+      },
+      "tag": "BUTTON",
+      "text": "Next"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "",
+  "url": "https://surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-05T11:52:17.967Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

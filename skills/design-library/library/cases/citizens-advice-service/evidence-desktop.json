@@ -1,0 +1,877 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 100,
+        "width": 100,
+        "x": 127,
+        "y": 16
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 26,
+        "width": 66.0078125,
+        "x": 1017.5078125,
+        "y": 16
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Cymraeg"
+    },
+    {
+      "rect": {
+        "height": 21.5,
+        "width": 49.3203125,
+        "x": 1103.671875,
+        "y": 17
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Sign in"
+    },
+    {
+      "rect": {
+        "height": 39.6953125,
+        "width": 93.625,
+        "x": 576.0546875,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(1, 129, 118)",
+        "borderRadius": "1px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "20.7px",
+        "padding": "8px 12px 9px"
+      },
+      "tag": "A",
+      "text": "Donate"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 378.6328125,
+        "x": 685.6796875,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "1px",
+        "color": "rgb(22, 22, 22)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.4px",
+        "padding": "8px"
+      },
+      "tag": "INPUT",
+      "text": "Search through site content"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 88.6796875,
+        "x": 1064.3125,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(1, 129, 118)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "20.7px",
+        "padding": "10px 12px"
+      },
+      "tag": "BUTTON",
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 1090,
+        "x": 95,
+        "y": 132
+      },
+      "style": {
+        "background": "rgb(0, 75, 136)",
+        "borderRadius": "0px",
+        "color": "rgb(22, 22, 22)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "0px",
+        "padding": "0px 0px 0px 24px"
+      },
+      "tag": "NAV",
+      "text": "Benefits Work Debt and money Consumer Housing Family Law and courts Immigration Health More from us"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 82.140625,
+        "x": 119,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Benefits"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 58.5625,
+        "x": 201.140625,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Work"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 147.671875,
+        "x": 259.703125,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Debt and money"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 97.515625,
+        "x": 407.375,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Consumer"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 81.0546875,
+        "x": 504.890625,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Housing"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 69.0234375,
+        "x": 585.9453125,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Family"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 137.828125,
+        "x": 654.96875,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Law and courts"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 115.8203125,
+        "x": 792.796875,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Immigration"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 69.703125,
+        "x": 908.6171875,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "Health"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 123.5703125,
+        "x": 978.3203125,
+        "y": 132
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "12px 6px"
+      },
+      "tag": "A",
+      "text": "More from us"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 1090,
+        "x": 95,
+        "y": 176
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(22, 22, 22)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.4px",
+        "padding": "12px 32px"
+      },
+      "tag": "NAV",
+      "text": "Home\nMore from us\nContact us"
+    },
+    {
+      "rect": {
+        "height": 21.5,
+        "width": 45.21875,
+        "x": 127,
+        "y": 191
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Home"
+    },
+    {
+      "rect": {
+        "height": 21.5,
+        "width": 101.6484375,
+        "x": 196.21875,
+        "y": 191
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "More from us"
+    },
+    {
+      "rect": {
+        "height": 2686,
+        "width": 705.328125,
+        "x": 111,
+        "y": 253
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(22, 22, 22)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.4px",
+        "padding": "0px 16px"
+      },
+      "tag": "MAIN",
+      "text": "Contact us\n\nThere are lots of ways to contact us if you can’t find the advice you need on this website.\n\nIf yo"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 673.328125,
+        "x": 127,
+        "y": 277
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(22, 22, 22)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "52px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Contact us"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 673.328125,
+        "x": 127,
+        "y": 369
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(22, 22, 22)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "There are lots of ways to contact us if you can’t find the advice you need on this website."
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 673.328125,
+        "x": 127,
+        "y": 449
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "If you’re applying for Universal Credit"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 673.328125,
+        "x": 127,
+        "y": 449
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "If you’re applying for Universal Credit"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 673.328125,
+        "x": 127,
+        "y": 525
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "If you need help with money or debt"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 673.328125,
+        "x": 127,
+        "y": 525
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "If you need help with money or debt"
+    },
+    {
+      "rect": {
+        "height": 78,
+        "width": 673.328125,
+        "x": 127,
+        "y": 601
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "If you have a problem with something you’ve bought or a service you've received"
+    },
+    {
+      "rect": {
+        "height": 78,
+        "width": 673.328125,
+        "x": 127,
+        "y": 601
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "If you have a problem with something you’ve bought or a service you've received"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 673.328125,
+        "x": 127,
+        "y": 719
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(22, 22, 22)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "44px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Find your nearest Citizens Advice"
+    },
+    {
+      "rect": {
+        "height": 18.3984375,
+        "width": 304.6640625,
+        "x": 848.328125,
+        "y": 269
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(74, 78, 79)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "In this section"
+    },
+    {
+      "rect": {
+        "height": 424,
+        "width": 304.6640625,
+        "x": 848.328125,
+        "y": 303.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(22, 22, 22)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Contact us\nChat with us online about debt\nContact us about a Universal Credit application\nContact the consumer"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 304.6640625,
+        "x": 848.328125,
+        "y": 303.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(74, 78, 79)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Contact us"
+    },
+    {
+      "rect": {
+        "height": 32.5,
+        "width": 124.5390625,
+        "x": 848.328125,
+        "y": 302.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Contact us"
+    },
+    {
+      "rect": {
+        "height": 24.5,
+        "width": 257.6875,
+        "x": 848.328125,
+        "y": 352.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Chat with us online about debt"
+    },
+    {
+      "rect": {
+        "height": 52.5,
+        "width": 296.015625,
+        "x": 848.328125,
+        "y": 396.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Contact us about a Universal Credit application"
+    },
+    {
+      "rect": {
+        "height": 24.5,
+        "width": 248.796875,
+        "x": 848.328125,
+        "y": 468.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Contact the consumer service"
+    },
+    {
+      "rect": {
+        "height": 24.5,
+        "width": 227.1796875,
+        "x": 848.328125,
+        "y": 512.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Chat with an adviser online"
+    },
+    {
+      "rect": {
+        "height": 24.5,
+        "width": 213.2734375,
+        "x": 848.328125,
+        "y": 556.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Feedback and complaints"
+    },
+    {
+      "rect": {
+        "height": 52.5,
+        "width": 296.7578125,
+        "x": 848.328125,
+        "y": 600.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "What to bring on your local Citizens Advice visit"
+    },
+    {
+      "rect": {
+        "height": 52.5,
+        "width": 246.40625,
+        "x": 848.328125,
+        "y": 672.8984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 75, 136)",
+        "fontFamily": "\"Open Sans\", helvetica, \"helvetica neue\", arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "How we handle unacceptable behaviour"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Contact us - Citizens Advice",
+  "url": "https://www.citizensadvice.org.uk/about-us/contact-us/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:57:09.848Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

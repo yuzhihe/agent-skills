@@ -1,0 +1,64 @@
+Browser tab: 3, Title: "Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta", URL: "https://meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 12-15, 17, 54-55
++				166 heading Dark/light mode toggle now available in core, Value: 1
++					167 link Description: Dark/light mode toggle now available in core, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991
++				168 link Description: News and Events, Value: meta.discourse.org/c/news-and-events/207
++				169 link Description: megaphone Announcements, Value: meta.discourse.org/c/news-and-events/announcements/67
++						170 pop up button Description: Search, ID: search-button
++								171 container post by Kevin7 on Feb 7, 2025, ID: post_2
++									172 container
++										173 link Description: Kevin7's profile, Value: meta.discourse.org/u/kevin7
++										174 link Description: Feb 7, 2025, Help: Post date, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991/2
++										175 text Hello, thank you for this new feature, but I wonder why the buttons still have black text and icons when switching to dark mode instead of simply turning white. How can I make the text and icons on the buttons turn white when dark mode is active? Thank you.
++										176 container Post actions
++											177 pop up button (collapsed) Description: 3 reactions, ID: discourse-reactions-counter-1705200-left, Secondary Actions: Expand
++												178 image heart
++											179 button Please sign up or log in to like this post
++											180 button copy a link to this post to clipboard
++											181 button show more
++								182 container post by Osama on Feb 7, 2025, ID: post_3
++									183 container
++										184 link Description: Osama's profile, Value: meta.discourse.org/u/osama
++										185 link Description: team, Value: meta.discourse.org/g/team
++										186 link Description: Feb 7, 2025, Help: Post date, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991/3
++										187 container
++											188 text Kévin .:
++											189 button (collapsed) Expand
++											190 link Description: go to the quoted post, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991/2
++										191 text I wonder why the buttons still have black text and icons when switching to dark mode instead of simply turning white. How can I make the text and icons on the buttons turn white when dark mode is active?
++										192 text Can you share a screenshot of the issue you’re seeing?
++										193 container Post actions
++											194 pop up button (collapsed) Description: 5 reactions, ID: discourse-reactions-counter-1705226-left, Secondary Actions: Expand
++												195 image heart
++											196 button Please sign up or log in to like this post
++											197 button copy a link to this post to clipboard
++											198 button show more
++								199 container post by Kevin7 on Feb 7, 2025, ID: post_4
++									200 container
++										201 link Description: Kevin7's profile, Value: meta.discourse.org/u/kevin7
++										202 link Description: Feb 7, 2025, Help: Post date, Value: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991/4
++										203 container
++											204 text Here’s an example: when I switch Discourse to Dark Mode, some button texts remain black. I believe it would make more sense for the text to be white. However, I found a solution using CSS that I think works well to fix this issue.
++											205 link Description: Brave Browser 2025-02-07 14.59.24 Brave Browser 2025-02-07 14.59.24 1669×358 32.5 KB, Help: Brave Browser 2025-02-07 14.59.24, Value: global.discourse-cdn.com/meta/original/4X/8/a/1/8a1816b52a9bb873dc874bf605cfa12b399ac6b1.png
++											206 text $button-text-color: dark-light-choose(#ffffff, $primary);
+
+:root {
+  --button-text-color: #{$button-text-color};
+}
+
+.btn-primary {
+  color: var(--button-text-color) !important;
+  
+  .d-icon {
+    color: var(--button-text-color) !important;
+  }
+}
+
++										207 container Post actions
++											208 pop up button (collapsed) Description: 3 reactions, ID: discourse-reactions-counter-1705272-left, Secondary Actions: Expand
++												209 image heart
++											210 button Please sign up or log in to like this post
++											211 button copy a link to this post to clipboard
++											212 button show more
+The focused UI element is 1 AXWebArea Dark/light mode toggle now available in core - News and Events / Announcements - Discourse Meta, URL: meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991?tl=en

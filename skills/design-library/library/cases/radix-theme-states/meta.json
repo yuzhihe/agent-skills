@@ -1,0 +1,28 @@
+{
+  "order": 45,
+  "id": "radix-theme-states",
+  "name": "Radix Themes · 主题与按钮状态",
+  "source": "https://www.radix-ui.com/themes/playground#button",
+  "studied": "2026-10-05",
+  "tasks": [
+    "states",
+    "utility"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "none"
+  ],
+  "tone": [
+    "neutral",
+    "structured",
+    "dark"
+  ],
+  "lang": "en",
+  "summary": "把按钮变体、禁用和加载状态排列成矩阵，并切换浅色与深色主题比较。",
+  "usage": "适合补充组件状态和主题映射；这是设计系统示例，不能单独当作完整网站布局。",
+  "caveat": "仅组件状态；加载为预置示例，窄屏矩阵有裁切。",
+  "patterns": [
+    "theme-switch",
+    "button-states"
+  ]
+}

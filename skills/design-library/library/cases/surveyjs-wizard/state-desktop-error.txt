@@ -1,0 +1,18 @@
+Browser tab: 2, Title: "surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default", URL: "https://surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default".
+0 AXWebArea surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default
+	1 container
+		2 container
+			3 progress indicator Progress bar
+			4 text Answered 1/4 questions
+			5 container sp_0
+				6 container
+					7 text About you
+					8 container sq_1
+						14 text Please enter a valid e-mail address.
+						9 text Email address
+						10 text field (settable) Email address, Value: <redacted>
+				11 container
+					12 button Previous
+					13 button Next
+
+The focused UI element is 13 button Next

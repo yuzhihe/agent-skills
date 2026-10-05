@@ -1,0 +1,247 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 48,
+        "width": 350,
+        "x": 20,
+        "y": 26.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Derek Sivers"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 350,
+        "x": 20,
+        "y": 26.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "v",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "lineHeight": "48px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Derek Sivers"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 279.203125,
+        "x": 20,
+        "y": 26.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "v",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "48px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Derek Sivers"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 40,
+        "x": 309.203125,
+        "y": 40.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "v",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "48px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 22036.2734375,
+        "width": 350,
+        "x": 20,
+        "y": 154.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "About:\n\nThis is just one big page where I can write all about myself, without feeling the need for it to be us"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 350,
+        "x": 20,
+        "y": 154.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "v",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "48px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "About:"
+    },
+    {
+      "rect": {
+        "height": 96,
+        "width": 350,
+        "x": 20,
+        "y": 229.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "This is just one big page where I can write all about myself, without feeling the need for it to be useful."
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 53.546875,
+        "x": 196.59375,
+        "y": 298.09375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "useful"
+    },
+    {
+      "rect": {
+        "height": 96,
+        "width": 350,
+        "x": 20,
+        "y": 345.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "And some day this site will be all that’s left of me, so I might as well write my own mini autobiography."
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 350,
+        "x": 20,
+        "y": 461.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Last updated: 2026-05-13"
+    },
+    {
+      "rect": {
+        "height": 72,
+        "width": 350,
+        "x": 20,
+        "y": 613.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "v",
+        "fontSize": "30px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Time line for context:"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "about Derek Sivers",
+  "url": "https://sive.rs/about",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-05T11:56:31.285Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

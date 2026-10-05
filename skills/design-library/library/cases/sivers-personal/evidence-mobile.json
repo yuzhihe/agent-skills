@@ -1,0 +1,625 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 48,
+        "width": 350,
+        "x": 20,
+        "y": 26.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Derek Sivers"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 350,
+        "x": 20,
+        "y": 26.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "v",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "lineHeight": "48px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Derek Sivers"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 279.203125,
+        "x": 20,
+        "y": 26.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "v",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "48px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Derek Sivers"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 40,
+        "x": 309.203125,
+        "y": 40.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "v",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "48px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 8765.90625,
+        "width": 350,
+        "x": 20,
+        "y": 114.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "(Everything here is 100% me, no AI.)\n\nme in 10 seconds\n\nXenophile, programmer, netizen, and conversationalist."
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 350,
+        "x": 20,
+        "y": 114.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "(Everything here is 100% me, no AI.)"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 48.578125,
+        "x": 288.515625,
+        "y": 119.296875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "no AI"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 350,
+        "x": 20,
+        "y": 226.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "v",
+        "fontSize": "30px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "me in 10 seconds"
+    },
+    {
+      "rect": {
+        "height": 64,
+        "width": 350,
+        "x": 20,
+        "y": 287.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Xenophile, programmer, netizen, and conversationalist."
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 90.796875,
+        "x": 20,
+        "y": 292.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Xenophile"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 111.953125,
+        "x": 121.015625,
+        "y": 292.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "programmer"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 64.609375,
+        "x": 243.1875,
+        "y": 292.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "netizen"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 150.765625,
+        "x": 20,
+        "y": 324.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "conversationalist"
+    },
+    {
+      "rect": {
+        "height": 128,
+        "width": 350,
+        "x": 20,
+        "y": 371.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "(1984-1997): Musician. Berklee grad, played 1000+ shows, guitarist for Ryuichi Sakamoto, wrote and recorded 12"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 81.390625,
+        "x": 100.1484375,
+        "y": 376.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Musician"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 66.7109375,
+        "x": 191.7578125,
+        "y": 376.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Berklee"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 160.8203125,
+        "x": 20,
+        "y": 440.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Ryuichi Sakamoto"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 50.0703125,
+        "x": 69.7265625,
+        "y": 472.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "songs"
+    },
+    {
+      "rect": {
+        "height": 64,
+        "width": 350,
+        "x": 20,
+        "y": 519.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "(1998-2008): Entrepreneur. Started and sold CD Baby. Paid $83M to musicians."
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 120.1171875,
+        "x": 103.375,
+        "y": 524.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Entrepreneur"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 76.8515625,
+        "x": 61.4609375,
+        "y": 556.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "CD Baby"
+    },
+    {
+      "rect": {
+        "height": 96,
+        "width": 350,
+        "x": 20,
+        "y": 603.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "(2009-2025): Author, speaker. 5 books, 550+ articles, some TED talks, guest on 250+ podcasts."
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 62.4453125,
+        "x": 105.921875,
+        "y": 608.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Author"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 68.390625,
+        "x": 178.5859375,
+        "y": 608.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "speaker"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 52.125,
+        "x": 272.5859375,
+        "y": 608.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "books"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 64.15625,
+        "x": 71.09375,
+        "y": 640.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "articles"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 42.0625,
+        "x": 242.2421875,
+        "y": 640.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "talks"
+    },
+    {
+      "rect": {
+        "height": 23,
+        "width": 77.046875,
+        "x": 71.703125,
+        "y": 672.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 153)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "podcasts"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 350,
+        "x": 20,
+        "y": 719.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "(2026+): ?"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Derek Sivers",
+  "url": "https://sive.rs/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-05T11:56:30.505Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

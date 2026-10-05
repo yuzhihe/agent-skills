@@ -1,0 +1,122 @@
+Browser tab: 2, Title: "Playground – Radix Themes", URL: "https://www.radix-ui.com/themes/playground#button".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 4-14, 16-103, 2271-2302
+~1 AXWebArea Playground – Radix Themes, URL: radix-ui.com/themes/playground#button
++			2271 link Description: Radix Homepage, Value: radix-ui.com/
++			2272 link Description: Made by WorkOS, Value: workos.com/
++			2273 button Toggle theme
++				2274 image
++			2275 button
++				2276 image
+~				106 link Description: Alert Dialog, Value: radix-ui.com/themes/playground#alert-dialog
+~				113 link Description: Aspect Ratio, Value: radix-ui.com/themes/playground#aspect-ratio
+~				122 link Description: Avatar, Value: radix-ui.com/themes/playground#avatar
+~				158 link Description: Badge, Value: radix-ui.com/themes/playground#badge
+~				200 link Description: Blockquote, Value: radix-ui.com/themes/playground#blockquote
+~				229 link Description: Button, Value: radix-ui.com/themes/playground#button
+~				409 link Description: Callout, Value: radix-ui.com/themes/playground#callout
+~								429 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								434 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								440 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								445 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								454 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								459 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								465 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								470 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								479 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								484 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								490 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~								495 link Description: upgrade, Value: radix-ui.com/themes/playground#
+~				498 link Description: Card, Value: radix-ui.com/themes/playground#card
+~				507 link Description: Forgot password?, Value: radix-ui.com/themes/playground#
+~						523 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~						525 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~						527 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~						532 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~						534 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~						536 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~						541 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~						543 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~						545 link Description: Emily Adams emily.adams@example.com, Value: radix-ui.com/themes/playground#card
+~				547 link Description: Checkbox, Value: radix-ui.com/themes/playground#checkbox
+~				626 link Description: Checkbox Group, Value: radix-ui.com/themes/playground#checkbox-group
+~				650 link Description: Checkbox Cards, Value: radix-ui.com/themes/playground#checkbox-cards
+~				722 link Description: Code, Value: radix-ui.com/themes/playground#code
+~				781 link Description: Context Menu, Value: radix-ui.com/themes/playground#context-menu
+~				817 link Description: Data List, Value: radix-ui.com/themes/playground#data-list
++						2277 text ‍
++						2278 text ‍ Active
++						2279 text ‍
++						2280 text ‍ Vlad Moroz
++						2281 text ‍
++						2282 text ‍
++						2283 text ‍
++						2284 text ‍
++						2285 text ‍
++						2286 text ‍ Product Designer
++						2287 text ‍
++						2288 text ‍ Active
++						2289 text ‍
++						2290 text ‍ Vlad Moroz
++						2291 text ‍
++						2292 text ‍
++						2293 text ‍
++						2294 text ‍
++						2295 text ‍
++						2296 text ‍ Product Designer
++						2297 text ‍
++						2298 text ‍ Active
++						2299 text ‍
++						2300 text ‍ Vlad Moroz
++						2301 text ‍
++						2302 text ‍
++						2303 text ‍
++						2304 text ‍
++						2305 text ‍
++						2306 text ‍ Product Designer
+~				914 link Description: Dialog, Value: radix-ui.com/themes/playground#dialog
+~				921 link Description: Dropdown Menu, Value: radix-ui.com/themes/playground#dropdown-menu
+~				973 link Description: Em, Value: radix-ui.com/themes/playground#em
+~				981 link Description: Heading, Value: radix-ui.com/themes/playground#heading
+~				1004 link Description: Hover Card, Value: radix-ui.com/themes/playground#hover-card
+~				1014 link Description: Icon Button, Value: radix-ui.com/themes/playground#icon-button
+~				1122 link Description: Inset, Value: radix-ui.com/themes/playground#inset
+~				1137 link Description: Kbd, Value: radix-ui.com/themes/playground#kbd
+~				1152 link Description: Link, Value: radix-ui.com/themes/playground#link
+~					1163 link Description: graphic designer, Value: radix-ui.com/themes/playground#link
+~					1165 link Description: interface, Value: radix-ui.com/themes/playground#link
+~					1167 link Description: typefaces, Value: radix-ui.com/themes/playground#link
+~					1169 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground#link
+~					1173 link Description: graphic designer, Value: radix-ui.com/themes/playground#link
+~					1175 link Description: interface, Value: radix-ui.com/themes/playground#link
+~					1177 link Description: typefaces, Value: radix-ui.com/themes/playground#link
+~					1179 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground#link
+~					1183 link Description: graphic designer, Value: radix-ui.com/themes/playground#link
+~					1185 link Description: interface, Value: radix-ui.com/themes/playground#link
+~					1187 link Description: typefaces, Value: radix-ui.com/themes/playground#link
+~					1189 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground#link
+~					1194 link Description: graphic designer, Value: radix-ui.com/themes/playground#link
+~					1196 link Description: interface, Value: radix-ui.com/themes/playground#link
+~					1198 link Description: typefaces, Value: radix-ui.com/themes/playground#link
+~					1200 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground#link
+~					1204 link Description: graphic designer, Value: radix-ui.com/themes/playground#link
+~					1206 link Description: interface, Value: radix-ui.com/themes/playground#link
+~					1208 link Description: typefaces, Value: radix-ui.com/themes/playground#link
+~					1210 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground#link
+~					1214 link Description: graphic designer, Value: radix-ui.com/themes/playground#link
+~					1216 link Description: interface, Value: radix-ui.com/themes/playground#link
+~					1218 link Description: typefaces, Value: radix-ui.com/themes/playground#link
+~					1220 link Description: Apple Macintosh, Value: radix-ui.com/themes/playground#link
+~				1223 link Description: Popover, Value: radix-ui.com/themes/playground#popover
+~				1238 link Description: Progress, Value: radix-ui.com/themes/playground#progress
+~				1285 link Description: Quote, Value: radix-ui.com/themes/playground#quote
++			2307 text “ A man who would letterspace lower case would steal sheep , ” Frederic Goudy liked to say. The reason for not letterspacing lower case is that it hampers legibility. But there are some lowercase alphabets to which this principle doesn’t apply. Moderate letterspacing can make a face such as lowercase Univers bold condensed more legible rather than less
+~				1289 link Description: Radio, Value: radix-ui.com/themes/playground#radio
+~			1290 link Description: View in docs, Value: …
+~				1347 link Description: Radio Group, Value: …
+~			1348 link Description: View in docs, Value: …
+~				1368 link Description: Radio Cards, Value: …
+~			1369 link Description: View in docs, Value: …
+~				1440 link Description: Scroll Area, Value: …
+~				1447 link Description: Select, Value: …
+The focused UI element is 1 AXWebArea Playground – Radix Themes, URL: radix-ui.com/themes/playground#button

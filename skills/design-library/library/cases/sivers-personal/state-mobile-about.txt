@@ -1,0 +1,334 @@
+Browser tab: 3, Title: "about Derek Sivers", URL: "https://sive.rs/about".
+1 AXWebArea about Derek Sivers, URL: sive.rs/about
+	2 heading Derek Sivers Search, Value: 1
+		3 link Description: Derek Sivers, Value: sive.rs/
+		4 link Description: Search, Value: sive.rs/search
+	5 container
+		6 heading About:, Value: 1
+			7 text About:
+		8 container
+			9 text This is just one big page where I can write all about myself, without feeling the need for it to be 
+			10 link Description: useful, Value: sive.rs/useless
+			11 text .
+		12 text And some day this site will be all that’s left of me, so I might as well write my own mini autobiography.
+		13 text Last updated: 2026-05-13
+		14 heading Time line for context:, Value: 2
+			15 text Time line for context:
+		16 content list
+			17 container
+				18 AXListMarker • 
+				19 text 1969: born in Berkeley, California
+			20 container
+				21 AXListMarker • 
+				22 text 1971: moved to Chicago
+			23 container
+				24 AXListMarker • 
+				25 text 1973: moved to Menlo Park, California
+			26 container
+				27 AXListMarker • 
+				28 text 1975: moved to Abingdon, England
+			29 container
+				30 AXListMarker • 
+				31 text 1976: moved to Hinsdale, Illinois
+			32 container
+				33 AXListMarker • 
+				34 text 1977: started playing piano, viola, and clarinet
+			35 container
+				36 AXListMarker • 
+				37 text 1979: got a 
+				38 link Description: TRS-80, Value: en.wikipedia.org/wiki/TRS-80
+				39 text  computer and dove deep into programming in 
+				40 link Description: BASIC, Value: en.wikipedia.org/wiki/BASIC
+			41 container
+				42 AXListMarker • 
+				43 text 1983: started playing guitar, decided I wanted to be a successful musician
+			44 container
+				45 AXListMarker • 
+				46 text 1987: moved to Boston for Berklee College of Music
+			47 container
+				48 AXListMarker • 
+				49 text 1988: joined a circus, as ringleader/MC musician
+			50 container
+				51 AXListMarker • 
+				52 text 1990: graduated college, moved to New York City, got a job at Warner/Chappell Music
+			53 container
+				54 AXListMarker • 
+				55 text 1992: quit my job, and toured Japan as 
+				56 link Description: Ryuichi Sakamoto’s guitarist, Value: sive.rs/sakamoto
+			57 container
+				58 AXListMarker • 
+				59 text 1993: lived alone on the 
+				60 link Description: Oregon coast, Value: sive.rs/232
+				61 text  for 7 months, writing and recording music full-time, in a town with a population of 2
+			62 container
+				63 AXListMarker • 
+				64 text 1994: played around New York and universities with my band “
+				65 link Description: Hit Me, Value: sive.rs/music
+				66 text ”, and 
+				67 link Description: the Professional Pests, Value: professionalpests.com/
+			68 container
+				69 AXListMarker • 
+				70 text 1995: started a record label, booking agency, and recording studio
+			71 container
+				72 AXListMarker • 
+				73 text 1996: recorded and released 
+				74 link Description: my album, Value: sive.rs/music
+			75 container
+				76 AXListMarker • 
+				77 text 1997: moved to Woodstock NY, started 
+				78 link Description: CD Baby, Value: cdbaby.com/
+			79 container
+				80 AXListMarker • 
+				81 text 1998: quit the circus, after 10 years and about 1000 shows
+			82 container
+				83 AXListMarker • 
+				84 text 1999: started 
+				85 link Description: HostBaby, Value: hostbaby.com/
+			86 container
+				87 AXListMarker • 
+				88 text 2000: moved to Portland, Oregon
+			89 container
+				90 AXListMarker • 
+				91 text 2002: moved to Santa Monica, California, focused 100% on CD Baby and HostBaby
+			92 container
+				93 AXListMarker • 
+				94 text 2007: 
+				95 link Description: rough year, Value: sive.rs/loss
+				96 text , moved to London, decided to quit my company
+			97 container
+				98 AXListMarker • 
+				99 text 2008: moved to San Francisco, 
+				100 link Description: sold CD Baby and HostBaby, Value: sive.rs/done
+			101 container
+				102 AXListMarker • 
+				103 text 2009: moved to New York City, started 
+				104 link Description: writing, Value: sive.rs/blog
+				105 text  and 
+				106 link Description: speaking, Value: sive.rs/presentations
+				107 text  more
+			108 container
+				109 AXListMarker • 
+				110 text 2010: 
+				111 link Description: spoke at TED, Value: ted.com/speakers/derek_sivers
+				112 text  three times in a year, moved to Singapore
+			113 container
+				114 AXListMarker • 
+				115 text 2011: published “
+				116 link Description: Anything You Want, Value: sive.rs/a
+				117 text ” book about my CD Baby days, started 
+				118 link Description: Wood Egg, Value: woodegg.com/
+			119 container
+				120 AXListMarker • 
+				121 text 2012: had a baby
+			122 container
+				123 AXListMarker • 
+				124 text 2013: moved to New Zealand to 
+				125 link Description: raise him in nature, Value: sive.rs/pa
+				126 text  and be a mostly-full-time dad
+			127 container
+				128 AXListMarker • 
+				129 text 2014 to 2018: sabbatical, but 
+				130 link Description: answered 92,354 emails from 33,776 people, Value: sive.rs/faq
+			131 container
+				132 AXListMarker • 
+				133 text 2017: started writing “
+				134 link Description: How to Live, Value: sive.rs/h
+				135 text ”
+			136 container
+				137 AXListMarker • 
+				138 text 2019: moved to Oxford, England
+			139 container
+				140 AXListMarker • 
+				141 text 2020: moved back to New Zealand, released “
+				142 link Description: Your Music and People, Value: sive.rs/m
+				143 text ” and “
+				144 link Description: Hell Yeah or No, Value: sive.rs/n
+				145 text ”
+			146 container
+				147 AXListMarker • 
+				148 text 2021: finished and released my masterpiece: “
+				149 link Description: How to Live, Value: sive.rs/h
+				150 text ”
+			151 container
+				152 AXListMarker • 
+				153 text 2023: writing, travelling, 
+				154 link Description: meeting people, Value: sive.rs/met
+			155 container
+				156 AXListMarker • 
+				157 text 2024: published “
+				158 link Description: Useful Not True, Value: sive.rs/u
+				159 text ”
+			160 container
+				161 AXListMarker • 
+				162 text 2025: China travels, 
+				163 link Description: meeting people, Value: sive.rs/met
+				164 text , moved into a cabin (I designed) in the woods in New Zealand
+		165 heading I’m ambitiously focused on creating, Value: 2
+			166 text I’m ambitiously focused on creating
+		167 text More than anything, I want to make articles, books, websites, music, companies, systems, apps, and especially new ideas. This shapes most of my life decisions. Saying no to almost everything, so I can have lots of time for making. At the age of 14, I decided I wanted to be a successful musician. Knowing it’s something that millions want, but only one-in-a-million achieve, I knew I’d have to be fiercely focused, persistent, savvy, and work like an Olympic athlete in training. In other words: 
+		168 text intense, not casual
+		169 text . I was single-focused obsessed with being a successful musician from age 14 to 29 — crucial years when many of my friends were feeling lost. It had me waking up early to practice, staying up late to write, saying no to all distractions, and reading whatever I could to improve. Then, at age 29, I 
+		170 link Description: accidentally started a company, Value: sive.rs/a
+		171 text , so I was narrow-focused on creating that for 10 years, through the age of 39. I also want to 
+		172 text learn
+		173 text  lots of stuff, especially different approaches to thinking and living. That’s why I read so much non-fiction, and want to keep moving around the world. I connect with those who stretch, strive, and grow. I can’t relate to those who chill, hang out, watch TV, party, etc.
+		174 text I’ve optimized my life for creating and learning. 
+		175 text I’ve cut out most things from my life that most normal people do — (like hanging out or media consumption) — in pursuit of my bigger goal.
+		176 heading My life philosophy, Value: 2
+			177 text My life philosophy
+		178 text I’ve always had an uncommon approach to life, mostly shaped by my ambition. But when I read 
+		179 link Description: a book on Stoicism, Value: sive.rs/book/StoicJoy
+		180 text  I realized I wasn’t so unique. My own self-created philosophy lined up almost exactly with this ancient philosophy. Especially the point about strengthening yourself for a more difficult future. But I’m also very skeptical, and was surprised to find 
+		181 link Description: that’s also a philosophy, Value: en.wikipedia.org/wiki/Skepticism
+		182 text . Meaning: 
+		183 container
+			184 text for almost anything on this page, the 
+			185 link Description: opposite may also be true, Value: sive.rs/opposite
+			186 text . I don’t trust what I tell myself.
+		187 text  It’s not a lie — it’s my truth at the time. But an opposite point of view can replace it when I shift my perspective. (I sometimes do this intentionally: do the opposite of my beliefs, just for a different perspective.) So, actually, the book that best contains my life philosophy is “
+		188 link Description: How to Live, Value: sive.rs/h
+		189 text ”. The title is ironic. It doesn’t tell you how to live. 
+		190 link Description: Buy one from me and you’ll see, Value: sivers.com/
+		191 text .
+		192 heading I love to work alone 12+ hours a day, Value: 2
+			193 text I love to work alone 12+ hours a day
+		194 text I 
+		195 text love
+		196 text  days where I just work uninterrupted from 6am to 10pm, stopping just for a little exercise. These are my favorite days, and always have been. The more of these 16-hour workdays I have, the happier I am. I use the term “work”, because it’s more understood, but really it’s “me time” — doing what I love. 
+		197 text Writing, learning, improving, and creating. 
+		198 text Whether it’s creating music, websites, books, or companies, it’s all just creating. The word “workaholic” would apply, except it’s play, not work. It’s completely intrinsic — just following my own interests. I’ve found what I love, and do it as much as possible. I prefer this as a solo pursuit. Being around other people drains me, and I don’t want to compromise this side of my life. It’s a very personal pursuit. It’s not business — it’s more like art. The rewards are internal. Nobody gives a novelist shit for writing alone. But an entrepreneur, programmer, or musician is expected to collaborate. I disagree, for me. I prefer the life of a novelist, whether I’m writing code, music, or systems. Long-term, 12 hours a day works best for me, about 6 days a week. It’s good to break the gravity one day a week, and force myself to do something else. I resist it at first, but appreciate it afterwards. Besides my “work”, I write in my journal up to three hours a day. Reflecting, daydreaming, planning. Asking myself questions, and trying different answers. It feels like all my learning happens here.
+		199 heading I don’t work for money, Value: 2
+			200 text I don’t work for money
+		201 text Some might say I’m retired, because I haven’t earned (hardly) any money since 2008. And in some sense it’s true: I don’t want any more money than I’ve already got. And I don’t want more fame, recognition, or anything external. So in that sense, I’m done. Retired. No longer working for money. Now my ambitions are entirely intrinsic and intellectual. I work as hard as ever, but just for my own learning, creating, and giving.
+		202 heading California forged me, Value: 2
+			203 text California forged me
+		204 text I left America in 2010, at age 40, and will probably never come back. I feel very disconnected from America. But in the worldwide spectrum of cultural norms, I’m still somewhat Californian. Meaning:
+		205 content list
+			206 container
+				207 AXListMarker • 
+				208 text very individualist
+			209 container
+				210 AXListMarker • 
+				211 text live-to-work
+			212 container
+				213 AXListMarker • 
+				214 text nomadic with weak family ties
+			215 container
+				216 AXListMarker • 
+				217 text averse to traditions
+			218 container
+				219 AXListMarker • 
+				220 text my meals usually last just a few minutes
+			221 container
+				222 AXListMarker • 
+				223 text quick to open up emotionally
+			224 container
+				225 AXListMarker • 
+				226 text seeking new ideas and people
+			227 container
+				228 AXListMarker • 
+				229 text always smiling and finding the bright side ☺
+		230 heading I’m an expat / world citizen, Value: 2
+			231 text I’m an expat / world citizen
+		232 text The first six years of my life, we moved to a new distant place every year. (It was for my dad’s work.) This felt normal to me, so I remember how sad it was when it stopped. When I was six, we moved to Chicago, and I asked my mom how long we would stay. She said, “Maybe 5-10 years. Maybe the rest of your life.” I started sobbing. That was the saddest thought to me: to stop moving. Still is. I bounced around America for my first 40 years, moving every year or two. Berkeley, Chicago, Boston, New York, Woodstock, Portland, Santa Monica, San Francisco. Then I realized I was like a fly in a jar. It was time to open the lid, and explore the rest of the world. I had spent the first 40 years of my life in America, so I wanted to spend the next 40 out. My original mission was to live all around the world, everywhere for 6-12 months each, for the next 40 years. I wanted to get embedded into each place until it felt like home, then move and do it again. But as soon as it began, I had a kid with someone who didn’t like that plan, so plans changed. Instead, I’ve been spending a few years in places — becoming a legal resident or citizen of Singapore, India, Belgium, New Zealand, England, and Portugal. Each one feels like home, in a way. I’d love to slowly expand my sense of home until it covers the corners of all continents. My kid feels this is normal, as I did. No matter how much I feel “I love it here! I want to stay forever!”, 
+		233 link Description: my actions prove, Value: sive.rs/arv
+		234 text  that 
+		235 text I love moving every year or two
+		236 text . I should never buy a house.
+		237 heading I prefer talking on the phone to hanging in person, Value: 2
+			238 text I prefer talking on the phone to hanging in person
+		239 text I might sound like a total recluse by now, but I’m not. Most people who meet me think I’m a total extrovert, because I’m a real conversationalist, and absolutely love talking one-on-one. But I have a social window of about 2-3 hours. After that I’m drained, and want to be alone again. Because of this, I’m not into hanging out all day or night, just passing time. Phone calls seem to be more focused. More ideas per hour. A better use of time. You’re undistracted by surroundings, and focus on the quality of the conversation. And when the conversation dwindles, you say goodbye and talk again another day. Also, I love voices. Some people need to look into someone’s eyes to know them well. Not me. For me, it’s all about the voice. Two of my best friends right now, I’ve never seen in-person. One lives in Hong Kong. One lives in Lithuania. We’ve been talking on the phone for years, but never met in-person. We don’t even video-chat. Just voice. That’s all I need. (Because of this, I loved the movie “
+		240 link Description: Her, Value: imdb.com/title/tt1798709/
+		241 text ”.) As usual, 
+		242 link Description: my kid, Value: sive.rs/pa
+		243 text  is the exception to this rule. He and I hang out about 30 hours a week, and will putter in one place for six hours at a time. But that’s a different thing.
+		244 heading I’m a minimalist, Value: 2
+			245 text I’m a minimalist
+		246 text I hate waste. I don’t like the feeling of having more than I need. It feels like clutter. People who visit my home are shocked by what it doesn’t have. It also applies to tech: removing every line of website code that isn’t necessary, and hand-writing a site with no framework or libraries. And it applies to my writing: spending 12 hours writing an article, saying everything on my mind, then editing it down to the few words that are really needed.
+		247 heading I’m tech-independent, Value: 2
+			248 text I’m 
+			249 link Description: tech-independent, Value: sive.rs/ti
+		250 text I got online in 1994, so I watched many companies — companies that people were completely dependent on — go out of business, and watched everyone’s uploaded stuff just disappear. So I don’t trust companies, I avoid the cloud, and run everything myself on my own server. I don’t depend on tech that’s not truly open source and non-profit, because otherwise I don’t trust that their long-term incentives are aligned with mine. My main tools are the 
+		251 link Description: Vim, Value: vim.org/
+		252 text  text editor, 
+		253 link Description: OpenBSD, Value: sive.rs/openbsd
+		254 text  operating system, 
+		255 link Description: PostgreSQL, Value: sive.rs/pg
+		256 text  database, 
+		257 link Description: Ruby, Value: ruby-lang.org/en/
+		258 text  language, and 
+		259 link Description: Firefox, Value: mozilla.org/
+		260 text  browser. I tend to avoid my phone, in general. I just use it for calling friends, or for GPS. No email. No social media. It sits in airplane mode much of the time, then I completely power it off an hour before bed, and turn it back on after I’m done writing in the morning. All of my current creative and learning goals can be achieved with these existing tools, so I avoid that time-sinking habit of looking for new ones.
+		261 heading Friends and family, Value: 2
+			262 text Friends and family
+		263 text I don’t hate but don’t love my family. They’re fine. I just never felt that close to them, even as a little kid. I don’t subscribe to that “blood is thicker than water” metaphor. I feel pretty equally connected to everyone. (
+		264 link Description: We’re all cousins, Value: waitbutwhy.com/2014/01/your-family-past-present-and-future.html
+		265 text , anyway.) I don’t feel more bound or obligated to my immediate family than I do to strangers. In fact, because of my ambitious exploring nature, I’d rather focus on the unknown, and push further out into the world. I make friends easily. They come and go based on life circumstances. Proximity and interests spark friendships, but proximity and interests change. Best friends become old distant friends. New friends become best friends. Some people get married and stop calling. Some people get divorced and re-appear. I still 
+		266 link Description: love them all, Value: sive.rs/friends
+		267 text , whether we talk or not. I’m 
+		268 link Description: very attached to my kid, Value: sive.rs/pa
+		269 text , but I don’t expect him to be attached to me. I don’t want him to feel more tied to some people than others. I hope he ventures out into the world, makes new bonds, and feels no obligation to me. He doesn’t owe me anything. His life is his own. He didn’t ask to be born, and has no debts.
+		270 heading 30+ hours a week with my boy, Value: 2
+			271 text 30+ hours a week with my boy
+		272 text Since he was born, 14 years ago, I’ve spent at least 30 hours per week giving my son my full undivided attention. That means over 21,000 hours so far. No devices. No other people. Just me and him, with him leading the way. My friend pointed out this is very unusual, so I guess it’s a defining thing worth mentioning here. It’s the circumstances of him being an only child, me being a single parent and technically retired. I’ve never been this close with anyone, or spent this much time with any other person in my life. We talk talk talk so openly about everything, and do everything together. He’s definitely the love of my life.
+		273 heading Music, Value: 2
+			274 text Music
+		275 text I don’t like live music. (I know that is a very despicable opinion.) I love great recordings. Like my preference for one-on-one conversations, my relationship to a piece of music is personal — it’s between me and the music. I don’t want to have a bunch of other people around, and don’t want to be distracted with other things when listening. Ideally, instead of a one-to-one relationship between listener and musician, it would be one-to-zero, where I can’t even know who the musician is. Then I could focus just on the music itself, and not be distracted by any personal information about the musician. Most of my interest in music has been as a music-maker. I’m fluent in that language. I graduated from Berklee College of Music. I know almost too much music theory. I ran a recording studio for 12 years, and produced and engineered hundreds of recordings, often playing all the instruments myself. When listening to a piece of music, I’m usually too analytical. If you play something for me and ask, “What do you think?”, I’m almost always thinking about what I would have done differently if I had written it. I’m not bragging about this. It kinda sucks. It makes me incompatible with most music situations.
+		276 container
+			277 text So what  do  I like?
+		278 content list
+			279 container
+				280 AXListMarker • 
+				281 text Innovative arrangements.  I love a unique combination and intersection of instruments. New sounds I’ve never heard before. It’s hard to listen to yet another guitar-bass-drums rock band. I need more creativity than that.
+			282 container
+				283 AXListMarker • 
+				284 text Song craft.  I admire it like a carpenter admires a well-made table. I worked hard for 
+				285 link Description: 15 years, Value: sive.rs/music
+				286 text  to write the best songs I could, trying to learn everything about that craft, and so appreciate a good one.
+			287 container
+				288 AXListMarker • 
+				289 text Great recordings,  for the same reason. After years recording music, I so appreciate something well-produced and well-engineered.
+			290 container
+				291 AXListMarker • 
+				292 text New ideas.  I’m unimpressed by emoting, because emotions are not impressive. I’ve heard all the regular wailing with the same-old palette of sounds and words. I have to be hit with a new idea, a new angle, to be interested.
+		293 heading More about me:, Value: 2
+			294 text More about me:
+		295 content list
+			296 container
+				297 AXListMarker • 
+				298 text I single-task.  I’m into only one thing at a time, focusing on it to completion, whether that takes hours, months, or even years. I’ve always been like this, even as a little kid.
+			299 container
+				300 AXListMarker • 
+				301 text I think very long-term and future-focused.  Even as a teenager, when friends would tease me for not having tattoos or piercings, I never got them because my first thought is, “Will I want that when I’m 80?” If not, then why do it? My present life is in service of my future self. I tend to do things for my future, not my present.
+			302 container
+				303 AXListMarker • 
+				304 text I like women.  Almost all of my best friends are women. 
+				305 link Description: Gender stereotypes, Value: sive.rs/mw
+				306 text  bristle me.
+			307 container
+				308 AXListMarker • 
+				309 text I’m wary of anything that feels like addiction.  Whether drinking, phone/internet use, playing games, or whatever — if people tend to get an unhealthy addiction to it, I avoid it.
+			310 container
+				311 AXListMarker • 
+				312 text I care deeply about very little.  I’m committed to just a few people and a few interests. Everything else, I keep away. (See “
+				313 link Description: hell yeah or no, Value: sive.rs/hellyeah
+				314 text ”.) It’s a simple and sincere life.
+			315 container
+				316 AXListMarker • 
+				317 text I walk away — to a fault.  I’m not a fighter. When something’s not to my liking — or if something gets too confrontational or antagonistic — I just leave. Since I’m happy being alone, the bar is set really high to make me engage with a person or situation that I’m not enjoying.
+			318 container
+				319 AXListMarker • 
+				320 text I’m deliberate.  I don’t believe in the “I can’t help the way I am” approach to life. Only dead fish go with the flow. I change who I am to get what I want, instead of the other way around.
+			321 container
+				322 AXListMarker • 
+				323 text I hate noise.  I’m always seeking silence. I don’t like crowds, cities, bars, parties, streets, etc. I damaged my hearing at a concert when I was 13, with a loud ringing ever since, so I don’t know if it’s due to that or not, but in a crowd I can’t pick out one voice from another. So meeting people in noisy places is pointless, since I can’t understand what anyone is saying. It’s another reason I prefer quiet one-on-one conversations. And I prefer to go to the gym late at night, after they close, so I can work out in silence.
+			324 container
+				325 AXListMarker • 
+				326 text I hate to waste a single hour.  I feel the precious value of time, most of the time. I imagine my time as worth $1000 an hour, and ask myself what’s worth $1000. Watching a TV show? Absolutely not. (“Game of Thrones” was 70 hours, so would have cost $70,000 to watch.) Social media? Absolutely not. Focused learning or creating? Yep! Being with my kid? Always.
+		327 heading Questions? Thoughts?, Value: 2
+			328 text Questions? Thoughts?
+		329 text No comments here. That would be too weird. This is too personal. Just 
+		330 link Description: email me, Value: sive.rs/contact
+		331 text .
+
+The focused UI element is 1 AXWebArea about Derek Sivers, URL: sive.rs/about

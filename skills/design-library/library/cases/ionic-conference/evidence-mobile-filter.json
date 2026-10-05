@@ -1,0 +1,499 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 42,
+        "width": 376,
+        "x": 7,
+        "y": 57
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "2px",
+        "color": "rgb(38, 38, 38)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "6px 55px"
+      },
+      "tag": "INPUT",
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 168
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Breakfast"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 187
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "8:05 am — 9:05 am: Main hallway"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 274
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Introduction to Appcamp.io"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 293
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "9:05 am — 9:05 am: Room 2203"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 339
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Getting started with Ionic"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 358
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "9:05 am — 9:05 am: Room 2202"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 404
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Tooling for Ionic"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 423
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "9:05 am — 10:05 am: Room 2201"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 510
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Migrating to Ionic2"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 529
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "10:05 am — 10:05 am: Room 2201"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 575
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "The evolution of Ionicons"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 594
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "10:05 am — 10:05 am: Room 2202"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 640
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Ionic.io Services"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 659
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "10:05 am — 11:05 am: Room 2202"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 746
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Ionic Workshop"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 765
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "11:05 am — 11:05 am: Room 2201"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 346,
+        "x": 28,
+        "y": 811
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Community Interaction"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 346,
+        "x": 28,
+        "y": 830
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "11:05 am — 11:05 am: Room 2203"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 97.5,
+        "x": 0,
+        "y": 788
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(56, 128, 255)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "ION-TAB-BUTTON",
+      "text": "Schedule"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 97.5,
+        "x": 97.5,
+        "y": 788
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "ION-TAB-BUTTON",
+      "text": "Speakers"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 97.5,
+        "x": 195,
+        "y": 788
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "ION-TAB-BUTTON",
+      "text": "Map"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 97.5,
+        "x": 292.5,
+        "y": 788
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(102, 102, 102)",
+        "fontFamily": "Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "ION-TAB-BUTTON",
+      "text": "About"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Ionic Stencil Conference App",
+  "url": "https://ionic-react-conference-app.firebaseapp.com/schedule",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-05T11:53:01.838Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

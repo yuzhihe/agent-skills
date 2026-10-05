@@ -1,0 +1,457 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 36.5625,
+        "width": 90,
+        "x": 140,
+        "y": 53.71875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 105.6953125,
+        "x": 586.3046875,
+        "y": 62
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(35.6337 -1.58697 -10.8425)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Back to store"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 552,
+        "x": 140,
+        "y": 136
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Express checkout"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 165.1953125,
+        "x": 333.3984375,
+        "y": 234
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Finalizing your payment..."
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 177.15625,
+        "x": 140,
+        "y": 272
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Contact Information"
+    },
+    {
+      "rect": {
+        "height": 19.5,
+        "width": 40.8515625,
+        "x": 651.1484375,
+        "y": 278
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.5px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Sign in"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 552,
+        "x": 140,
+        "y": 312
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "Email address"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 155.7734375,
+        "x": 140,
+        "y": 380
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Shipping Address"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 552,
+        "x": 140,
+        "y": 420
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 32px 4px 10px"
+      },
+      "tag": "SELECT",
+      "text": "Select a country\nUnited States"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 270,
+        "x": 140,
+        "y": 476
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "First name"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 270,
+        "x": 422,
+        "y": 476
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "Last name"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 552,
+        "x": 140,
+        "y": 532
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "Company (optional)"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 552,
+        "x": 140,
+        "y": 588
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "Address"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 552,
+        "x": 140,
+        "y": 644
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "Apartment, suite, etc. (optional)"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 176,
+        "x": 140,
+        "y": 700
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "City"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 176,
+        "x": 328,
+        "y": 700
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 32px 4px 10px"
+      },
+      "tag": "SELECT",
+      "text": "Select a state\nAlabama\nAlaska\nArizona\nArkansas\nArmed Forces Africa, Canada, Europe, Middle East\nArmed Forces A"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 176,
+        "x": 516,
+        "y": 700
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "ZIP / Postal code"
+    },
+    {
+      "rect": {
+        "height": 19.25,
+        "width": 214.0390625,
+        "x": 861,
+        "y": 53.375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19.25px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Digital Air Fryer 6.2L"
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 214.0390625,
+        "x": 861,
+        "y": 74.625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(47.7841 -0.393182 -10.0268)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Color: Matte Black"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 291.5078125,
+        "x": 781,
+        "y": 291
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px"
+      },
+      "tag": "INPUT",
+      "text": "Gift card or discount code"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 59.4921875,
+        "x": 1080.5078125,
+        "y": 291
+      },
+      "style": {
+        "background": "lab(7.78201 -0.0000149012 0)",
+        "borderRadius": "8px",
+        "color": "lab(98.26 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "6px",
+        "lineHeight": "20px",
+        "padding": "0px 10px"
+      },
+      "tag": "BUTTON",
+      "text": "Apply"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Spree Commerce Demo | Next.js Ecommerce Storefront",
+  "url": "https://demo.spreecommerce.org/us/en/checkout/cart_QVquA48cIW",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:49:41.018Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

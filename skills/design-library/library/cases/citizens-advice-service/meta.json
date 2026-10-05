@@ -1,0 +1,26 @@
+{
+  "order": 48,
+  "id": "citizens-advice-service",
+  "name": "Citizens Advice · 服务分流指南",
+  "source": "https://www.citizensadvice.org.uk/about-us/contact-us/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "service",
+    "utility"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "none"
+  ],
+  "tone": [
+    "practical",
+    "restrained"
+  ],
+  "lang": "en",
+  "summary": "用用户问题命名可展开分类，按需求分流服务渠道，桌面旁栏辅助定位。",
+  "usage": "适合机构服务、专业咨询和帮助中心；参考信息组织，不作为法律或福利建议来源。",
+  "caveat": "已展开一个服务分类；未发起联系或提交资料。",
+  "patterns": [
+    "accordion"
+  ]
+}

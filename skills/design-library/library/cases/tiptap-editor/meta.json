@@ -1,0 +1,29 @@
+{
+  "order": 50,
+  "id": "tiptap-editor",
+  "name": "Tiptap · 富文本编辑工作区",
+  "source": "https://template.tiptap.dev/preview/templates/simple",
+  "studied": "2026-10-05",
+  "tasks": [
+    "editing",
+    "utility",
+    "mobile"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "none"
+  ],
+  "tone": [
+    "minimal",
+    "clean",
+    "dark"
+  ],
+  "lang": "en",
+  "summary": "固定格式工具条配合窄阅读列，手机工具移至底部，弹层紧邻触发位置。",
+  "usage": "适合文档、笔记和内容编辑工作区；格式 UI 不等于保存、协作和权限已实现。",
+  "caveat": "已看工具与主题；未验证保存、协作、软键盘和替换结果。",
+  "patterns": [
+    "editor-toolbar",
+    "theme-switch"
+  ]
+}

@@ -1,0 +1,8 @@
+Browser tab: 3, Title: "Tiptap Simple Editor template", URL: "https://template.tiptap.dev/preview/templates/simple".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 31-34
++				110 button Highlight text
++					111 image
++				112 button Link
++					113 image
+The focused UI element is 55 button Switch to light mode

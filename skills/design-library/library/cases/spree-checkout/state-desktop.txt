@@ -1,0 +1,672 @@
+Browser tab: 1, Title: "Spree Commerce Demo | Next.js Ecommerce Storefront", URL: "https://demo.spreecommerce.org/us/en/checkout/cart_QVquA48cIW".
+1 AXWebArea Spree Commerce Demo | Next.js Ecommerce Storefront, URL: demo.spreecommerce.org/us/en/checkout/cart_QVquA48cIW
+	2 container
+		41 link Description: Spree, Value: demo.spreecommerce.org/us/en
+		42 link Description: Back to store, Value: demo.spreecommerce.org/us/en
+		49 heading Express checkout, Value: 2
+			50 text Express checkout
+		51 text Finalizing your payment...
+		52 container
+			53 container Secure express checkout frame
+				54 AXWebArea js.stripe.com/ [embedded payment UI]
+					55 button Pay securely with Link
+						56 text Pay securely with
+						57 image
+						58 text Pay with
+						59 image
+						60 image
+						61 text 0000
+			62 text or
+		63 container checkout-section-address
+			64 heading Contact Information, Value: 2
+				65 text Contact Information
+			66 link Description: Sign in, Value: demo.spreecommerce.org/us/en/account?redirect=%2Fus%2Fen%2Fcheckout%2Fcart_QVquA48cIW
+			67 text field (settable)
+			68 heading Shipping Address, Value: 2
+				69 text Shipping Address
+			70 pop up button (collapsed, settable) Description: Country, Value: United States, ID: ship-country, Secondary Actions: Expand
+				71 menu
+					72 (disabled) Select a country
+					73 (selected) United States
+			74 text field (settable) Description: First name, ID: ship-first_name
+			75 text field (settable) Description: Last name, ID: ship-last_name
+			76 text field (settable) Description: Company (optional), ID: ship-company
+			77 text field (settable) Description: Address, ID: ship-address1
+			78 text field (settable) Description: Apartment, suite, etc. (optional), ID: ship-address2
+			79 text field (settable) Description: City, ID: ship-city
+			80 pop up button (collapsed, settable) Description: State / Province, Value: Select a state, ID: ship-state, Secondary Actions: Expand
+				81 menu
+					82 (disabled) Select a state
+					83 Alabama
+					84 Alaska
+					85 Arizona
+					86 Arkansas
+					87 Armed Forces Africa, Canada, Europe, Middle East
+					88 Armed Forces Americas (except Canada)
+					89 Armed Forces Pacific
+					90 California
+					91 Colorado
+					92 Connecticut
+					93 Delaware
+					94 District of Columbia
+					95 Florida
+					96 Georgia
+					97 Hawaii
+					98 Idaho
+					99 Illinois
+					100 Indiana
+					101 Iowa
+					102 Kansas
+					103 Kentucky
+					104 Louisiana
+					105 Maine
+					106 Maryland
+					107 Massachusetts
+					108 Michigan
+					109 Minnesota
+					110 Mississippi
+					111 Missouri
+					112 Montana
+					113 Nebraska
+					114 Nevada
+					115 New Hampshire
+					116 New Jersey
+					117 New Mexico
+					118 New York
+					119 North Carolina
+					120 North Dakota
+					121 Ohio
+					122 Oklahoma
+					123 Oregon
+					124 Pennsylvania
+					125 Rhode Island
+					126 South Carolina
+					127 South Dakota
+					128 Tennessee
+					129 Texas
+					130 Utah
+					131 Vermont
+					132 Virginia
+					133 Washington
+					134 West Virginia
+					135 Wisconsin
+					136 Wyoming
+			137 text field (settable) Description: ZIP / Postal code, ID: ship-postal_code
+			138 text field (settable) Phone (optional)
+		139 container checkout-section-shipping
+			140 heading Shipping Method, Value: 2
+				141 text Shipping Method
+			142 text Enter your shipping address to view available shipping methods.
+		143 container checkout-section-payment
+			144 heading Payment Method, Value: 2
+				145 text Payment Method
+			146 text All transactions are secure and encrypted.
+			147 container
+				148 radio button Description: Stripe, Value: 1
+				149 text Stripe
+			150 text Test card: 4242 4242 4242 4242 (any future expiry, any CVC)
+			151 container Secure payment input frame
+				152 AXWebArea Secure payment input frame, URL: js.stripe.com/v3/elements-inner-accessory-target-6c3dacc5db47c40a3c6e1d7efec76c74.html#__shared_params__%5Bversion%5D=clover&__shared_params__%5Blight_experiment_assignments%5D=%257B%2522token%2522%253A%252291b4f349-3393-4109-bcea-be42c0b424f7%2522%252C%2522assignments%2522%253A%257B%257D%252C%2522unqualifiedExperiments%2522%253A%257B%2522react_version_18_v3%2522%253A0.1%257D%257D&wait=false&rtl=false&publicOptions%5Blayout%5D=tabs&elementsInitSource=stripe.elements&elementId=payment-842bcfda-b2ac-4f9d-a5f3-532ca3f27436&componentName=payment&keyMode=test&apiKey=pk_test_51TH2pIEzlXlQBFt1XQZDPOBB0KBpRkzdfYMxXO4lQ08mQvaSZkWNvBF2Fh13QUrzQh28C86moZOaHoLfPlNWnJpy001wev91lE&frameMessagingStrategy=direct&cryptoWalletDetected=false&accessoryCssUrl=[embedded test payment URL omitted]
+					153 container
+						154 tab group Payment Methods
+							155 tab (selected, settable, boolean) Card, ID: card-tab, Value: 1
+Card
+							156 tab (selectable, settable, boolean) $5 back Bank, ID: link-tab, Value: 0
+$5 back
+Bank
+							157 tab (selectable, settable, boolean) Affirm, ID: affirm-tab, Value: 0
+Affirm
+							158 tab (selectable, settable, boolean) Cash App Pay, ID: cashapp-tab, Value: 0
+Cash App Pay
+							159 pop up button (collapsed, settable) Description: Additional Payment Methods, Value: Card, Secondary Actions: Expand
+								160 menu
+									161 (disabled) Card
+									162 Afterpay
+									163 Klarna
+						164 container Description: Card, ID: card-panel
+							165 container
+								166 button Secure, fast checkout with Link
+									167 image
+								168 container
+									169 text field (settable) Description: Card number, ID: payment-numberInput
+									170 container
+										171 content list Supported cards include Visa, Mastercard, American Express, and Discover.
+											172 text Visa
+											173 text Mastercard
+											174 text American Express
+											175 text Discover
+								176 container
+									177 text field (settable) Description: Expiration date, ID: payment-expiryInput
+								178 container
+									179 text field (settable) Description: Security code, ID: payment-cvcInput
+								180 container
+									181 container
+										182 pop up button (collapsed, settable) Description: Country, Value: United States, ID: payment-countryInput, Secondary Actions: Expand
+											183 menu
+												184 (disabled) Select
+												185 Afghanistan
+												186 Åland Islands
+												187 Albania
+												188 Algeria
+												189 Andorra
+												190 Angola
+												191 Anguilla
+												192 Antarctica
+												193 Antigua & Barbuda
+												194 Argentina
+												195 Armenia
+												196 Aruba
+												197 Ascension Island
+												198 Australia
+												199 Austria
+												200 Azerbaijan
+												201 Bahamas
+												202 Bahrain
+												203 Bangladesh
+												204 Barbados
+												205 Belarus
+												206 Belgium
+												207 Belize
+												208 Benin
+												209 Bermuda
+												210 Bhutan
+												211 Bolivia
+												212 Bosnia & Herzegovina
+												213 Botswana
+												214 Bouvet Island
+												215 Brazil
+												216 British Indian Ocean Territory
+												217 British Virgin Islands
+												218 Brunei
+												219 Bulgaria
+												220 Burkina Faso
+												221 Burundi
+												222 Cambodia
+												223 Cameroon
+												224 Canada
+												225 Cape Verde
+												226 Caribbean Netherlands
+												227 Cayman Islands
+												228 Central African Republic
+												229 Chad
+												230 Chile
+												231 China
+												232 Colombia
+												233 Comoros
+												234 Congo - Brazzaville
+												235 Congo - Kinshasa
+												236 Cook Islands
+												237 Costa Rica
+												238 Côte d’Ivoire
+												239 Croatia
+												240 Curaçao
+												241 Cyprus
+												242 Czechia
+												243 Denmark
+												244 Djibouti
+												245 Dominica
+												246 Dominican Republic
+												247 Ecuador
+												248 Egypt
+												249 El Salvador
+												250 Equatorial Guinea
+												251 Eritrea
+												252 Estonia
+												253 Eswatini
+												254 Ethiopia
+												255 Falkland Islands
+												256 Faroe Islands
+												257 Fiji
+												258 Finland
+												259 France
+												260 French Guiana
+												261 French Polynesia
+												262 French Southern Territories
+												263 Gabon
+												264 Gambia
+												265 Georgia
+												266 Germany
+												267 Ghana
+												268 Gibraltar
+												269 Greece
+												270 Greenland
+												271 Grenada
+												272 Guadeloupe
+												273 Guam
+												274 Guatemala
+												275 Guernsey
+												276 Guinea
+												277 Guinea-Bissau
+												278 Guyana
+												279 Haiti
+												280 Honduras
+												281 Hong Kong SAR China
+												282 Hungary
+												283 Iceland
+												284 India
+												285 Indonesia
+												286 Iraq
+												287 Ireland
+												288 Isle of Man
+												289 Israel
+												290 Italy
+												291 Jamaica
+												292 Japan
+												293 Jersey
+												294 Jordan
+												295 Kazakhstan
+												296 Kenya
+												297 Kiribati
+												298 Kosovo
+												299 Kuwait
+												300 Kyrgyzstan
+												301 Laos
+												302 Latvia
+												303 Lebanon
+												304 Lesotho
+												305 Liberia
+												306 Libya
+												307 Liechtenstein
+												308 Lithuania
+												309 Luxembourg
+												310 Macao SAR China
+												311 Madagascar
+												312 Malawi
+												313 Malaysia
+												314 Maldives
+												315 Mali
+												316 Malta
+												317 Martinique
+												318 Mauritania
+												319 Mauritius
+												320 Mayotte
+												321 Mexico
+												322 Moldova
+												323 Monaco
+												324 Mongolia
+												325 Montenegro
+												326 Montserrat
+												327 Morocco
+												328 Mozambique
+												329 Myanmar (Burma)
+												330 Namibia
+												331 Nauru
+												332 Nepal
+												333 Netherlands
+												334 New Caledonia
+												335 New Zealand
+												336 Nicaragua
+												337 Niger
+												338 Nigeria
+												339 Niue
+												340 North Macedonia
+												341 Norway
+												342 Oman
+												343 Pakistan
+												344 Palestinian Territories
+												345 Panama
+												346 Papua New Guinea
+												347 Paraguay
+												348 Peru
+												349 Philippines
+												350 Pitcairn Islands
+												351 Poland
+												352 Portugal
+												353 Puerto Rico
+												354 Qatar
+												355 Réunion
+												356 Romania
+												357 Russia
+												358 Rwanda
+												359 Samoa
+												360 San Marino
+												361 São Tomé & Príncipe
+												362 Saudi Arabia
+												363 Senegal
+												364 Serbia
+												365 Seychelles
+												366 Sierra Leone
+												367 Singapore
+												368 Sint Maarten
+												369 Slovakia
+												370 Slovenia
+												371 Solomon Islands
+												372 Somalia
+												373 South Africa
+												374 South Georgia & South Sandwich Islands
+												375 South Korea
+												376 South Sudan
+												377 Spain
+												378 Sri Lanka
+												379 St. Barthélemy
+												380 St. Helena
+												381 St. Kitts & Nevis
+												382 St. Lucia
+												383 St. Martin
+												384 St. Pierre & Miquelon
+												385 St. Vincent & Grenadines
+												386 Sudan
+												387 Suriname
+												388 Svalbard & Jan Mayen
+												389 Sweden
+												390 Switzerland
+												391 Taiwan
+												392 Tajikistan
+												393 Tanzania
+												394 Thailand
+												395 Timor-Leste
+												396 Togo
+												397 Tokelau
+												398 Tonga
+												399 Trinidad & Tobago
+												400 Tristan da Cunha
+												401 Tunisia
+												402 Türkiye
+												403 Turkmenistan
+												404 Turks & Caicos Islands
+												405 Tuvalu
+												406 Uganda
+												407 Ukraine
+												408 United Arab Emirates
+												409 United Kingdom
+												410 (selected) United States
+												411 Uruguay
+												412 Uzbekistan
+												413 Vanuatu
+												414 Vatican City
+												415 Venezuela
+												416 Vietnam
+												417 Wallis & Futuna
+												418 Western Sahara
+												419 Yemen
+												420 Zambia
+												421 Zimbabwe
+									422 text field (settable) Description: ZIP code, ID: payment-postalCodeInput
+								423 text By providing your card information, you allow demo.spreecommerce.org to charge your card for future payments in accordance with their terms.
+								424 text Optional
+								425 text Save my information for faster checkout
+								426 container
+									427 container consolidatedOptInCollection
+										428 container
+											429 text field (settable) Email
+										430 container
+											431 pop up button (collapsed, settable) Description: Country or region for phone number, Value: United States (+1), ID: payment-linkMobilePhoneCountryInput, Secondary Actions: Expand
+												432 menu
+													433 Afghanistan (+93)
+													434 Åland Islands (+358)
+													435 Albania (+355)
+													436 Algeria (+213)
+													437 Andorra (+376)
+													438 Angola (+244)
+													439 Anguilla (+1)
+													440 Antigua & Barbuda (+1)
+													441 Argentina (+54)
+													442 Armenia (+374)
+													443 Aruba (+297)
+													444 Ascension Island (+247)
+													445 Australia (+61)
+													446 Austria (+43)
+													447 Azerbaijan (+994)
+													448 Bahamas (+1)
+													449 Bahrain (+973)
+													450 Bangladesh (+880)
+													451 Barbados (+1)
+													452 Belarus (+375)
+													453 Belgium (+32)
+													454 Belize (+501)
+													455 Benin (+229)
+													456 Bermuda (+1)
+													457 Bhutan (+975)
+													458 Bolivia (+591)
+													459 Bosnia & Herzegovina (+387)
+													460 Botswana (+267)
+													461 Brazil (+55)
+													462 British Indian Ocean Territory (+246)
+													463 British Virgin Islands (+1)
+													464 Brunei (+673)
+													465 Bulgaria (+359)
+													466 Burkina Faso (+226)
+													467 Burundi (+257)
+													468 Cambodia (+855)
+													469 Cameroon (+237)
+													470 Canada (+1)
+													471 Cape Verde (+238)
+													472 Caribbean Netherlands (+599)
+													473 Cayman Islands (+1)
+													474 Central African Republic (+236)
+													475 Chad (+235)
+													476 Chile (+56)
+													477 China (+86)
+													478 Colombia (+57)
+													479 Comoros (+269)
+													480 Congo - Brazzaville (+242)
+													481 Congo - Kinshasa (+243)
+													482 Cook Islands (+682)
+													483 Costa Rica (+506)
+													484 Côte d’Ivoire (+225)
+													485 Croatia (+385)
+													486 Curaçao (+599)
+													487 Cyprus (+357)
+													488 Czechia (+420)
+													489 Denmark (+45)
+													490 Djibouti (+253)
+													491 Dominica (+1)
+													492 Dominican Republic (+1)
+													493 Ecuador (+593)
+													494 Egypt (+20)
+													495 El Salvador (+503)
+													496 Equatorial Guinea (+240)
+													497 Eritrea (+291)
+													498 Estonia (+372)
+													499 Eswatini (+268)
+													500 Ethiopia (+251)
+													501 Falkland Islands (+500)
+													502 Faroe Islands (+298)
+													503 Fiji (+679)
+													504 Finland (+358)
+													505 France (+33)
+													506 French Guiana (+594)
+													507 French Polynesia (+689)
+													508 Gabon (+241)
+													509 Gambia (+220)
+													510 Georgia (+995)
+													511 Germany (+49)
+													512 Ghana (+233)
+													513 Gibraltar (+350)
+													514 Greece (+30)
+													515 Greenland (+299)
+													516 Grenada (+1)
+													517 Guadeloupe (+590)
+													518 Guam (+1)
+													519 Guatemala (+502)
+													520 Guernsey (+44)
+													521 Guinea (+224)
+													522 Guinea-Bissau (+245)
+													523 Guyana (+592)
+													524 Haiti (+509)
+													525 Honduras (+504)
+													526 Hong Kong SAR China (+852)
+													527 Hungary (+36)
+													528 Iceland (+354)
+													529 India (+91)
+													530 Indonesia (+62)
+													531 Iraq (+964)
+													532 Ireland (+353)
+													533 Isle of Man (+44)
+													534 Israel (+972)
+													535 Italy (+39)
+													536 Jamaica (+1)
+													537 Japan (+81)
+													538 Jersey (+44)
+													539 Jordan (+962)
+													540 Kazakhstan (+7)
+													541 Kenya (+254)
+													542 Kiribati (+686)
+													543 Kosovo (+383)
+													544 Kuwait (+965)
+													545 Kyrgyzstan (+996)
+													546 Laos (+856)
+													547 Latvia (+371)
+													548 Lebanon (+961)
+													549 Lesotho (+266)
+													550 Liberia (+231)
+													551 Libya (+218)
+													552 Liechtenstein (+423)
+													553 Lithuania (+370)
+													554 Luxembourg (+352)
+													555 Macao SAR China (+853)
+													556 Madagascar (+261)
+													557 Malawi (+265)
+													558 Malaysia (+60)
+													559 Maldives (+960)
+													560 Mali (+223)
+													561 Malta (+356)
+													562 Martinique (+596)
+													563 Mauritania (+222)
+													564 Mauritius (+230)
+													565 Mayotte (+262)
+													566 Mexico (+52)
+													567 Moldova (+373)
+													568 Monaco (+377)
+													569 Mongolia (+976)
+													570 Montenegro (+382)
+													571 Montserrat (+1)
+													572 Morocco (+212)
+													573 Mozambique (+258)
+													574 Myanmar (Burma) (+95)
+													575 Namibia (+264)
+													576 Nauru (+674)
+													577 Nepal (+977)
+													578 Netherlands (+31)
+													579 New Caledonia (+687)
+													580 New Zealand (+64)
+													581 Nicaragua (+505)
+													582 Niger (+227)
+													583 Nigeria (+234)
+													584 Niue (+683)
+													585 North Macedonia (+389)
+													586 Norway (+47)
+													587 Oman (+968)
+													588 Pakistan (+92)
+													589 Palestinian Territories (+970)
+													590 Panama (+507)
+													591 Papua New Guinea (+675)
+													592 Paraguay (+595)
+													593 Peru (+51)
+													594 Philippines (+63)
+													595 Poland (+48)
+													596 Portugal (+351)
+													597 Puerto Rico (+1)
+													598 Qatar (+974)
+													599 Réunion (+262)
+													600 Romania (+40)
+													601 Russia (+7)
+													602 Rwanda (+250)
+													603 Samoa (+685)
+													604 San Marino (+378)
+													605 São Tomé & Príncipe (+239)
+													606 Saudi Arabia (+966)
+													607 Senegal (+221)
+													608 Serbia (+381)
+													609 Seychelles (+248)
+													610 Sierra Leone (+232)
+													611 Singapore (+65)
+													612 Sint Maarten (+1)
+													613 Slovakia (+421)
+													614 Slovenia (+386)
+													615 Solomon Islands (+677)
+													616 Somalia (+252)
+													617 South Africa (+27)
+													618 South Korea (+82)
+													619 South Sudan (+211)
+													620 Spain (+34)
+													621 Sri Lanka (+94)
+													622 St. Barthélemy (+590)
+													623 St. Helena (+290)
+													624 St. Kitts & Nevis (+1)
+													625 St. Lucia (+1)
+													626 St. Martin (+590)
+													627 St. Pierre & Miquelon (+508)
+													628 St. Vincent & Grenadines (+1)
+													629 Sudan (+249)
+													630 Suriname (+597)
+													631 Svalbard & Jan Mayen (+47)
+													632 Sweden (+46)
+													633 Switzerland (+41)
+													634 Taiwan (+886)
+													635 Tajikistan (+992)
+													636 Tanzania (+255)
+													637 Thailand (+66)
+													638 Timor-Leste (+670)
+													639 Togo (+228)
+													640 Tokelau (+690)
+													641 Tonga (+676)
+													642 Trinidad & Tobago (+1)
+													643 Tristan da Cunha (+290)
+													644 Tunisia (+216)
+													645 Türkiye (+90)
+													646 Turkmenistan (+993)
+													647 Turks & Caicos Islands (+1)
+													648 Tuvalu (+688)
+													649 Uganda (+256)
+													650 Ukraine (+380)
+													651 United Arab Emirates (+971)
+													652 United Kingdom (+44)
+													653 (selected) United States (+1)
+													654 Uruguay (+598)
+													655 Uzbekistan (+998)
+													656 Vanuatu (+678)
+													657 Vatican City (+39)
+													658 Venezuela (+58)
+													659 Vietnam (+84)
+													660 Wallis & Futuna (+681)
+													661 Western Sahara (+212)
+													662 Yemen (+967)
+													663 Zambia (+260)
+													664 Zimbabwe (+263)
+											665 text field (settable) Mobile number
+									666 button Link
+									667 text •
+									668 text By providing phone number and email, you agree to create an account subject to Link’s 
+									669 link Description: Terms, Value: link.com/terms
+									670 text  and 
+									671 link Description: Privacy Policy, Value: link.com/privacy
+									672 text .
+			673 container
+				674 radio button Description: Adyen, Value: 0
+				675 text Adyen
+			676 container
+				677 radio button Description: PayPal, Value: 0
+				678 text PayPal
+			679 container
+				680 checkbox Description: Same as shipping address, Value: 1
+				681 text Same as shipping address
+		682 checkbox Description: I agree to the Privacy Policy and Terms of Service, Value: 0, ID: policy-consent
+		683 container
+			684 text I agree to the
+			685 link Description: Privacy Policy, Value: demo.spreecommerce.org/us/en/policies/privacy-policy
+			686 text  and 
+			687 link Description: Terms of Service, Value: demo.spreecommerce.org/us/en/policies/terms-of-service
+		688 button Pay Now
+		43 text © 2026 Spree. All rights reserved.
+		44 link Description: Shipping Policy, Value: demo.spreecommerce.org/us/en/policies/shipping-policy
+		45 link Description: Privacy Policy, Value: demo.spreecommerce.org/us/en/policies/privacy-policy
+		46 link Description: Returns Policy, Value: demo.spreecommerce.org/us/en/policies/returns-policy
+		47 link Description: Terms of Service, Value: demo.spreecommerce.org/us/en/policies/terms-of-service
+		689 container
+			690 image Digital Air Fryer 6.2L
+			691 text 1
+		692 text Digital Air Fryer 6.2L
+		693 text Color: Matte Black
+		694 text $179.99
+		695 text Subtotal $179.99 Shipping Enter shipping address Total USD $179.99
+		696 container
+			697 text field (settable) Gift card or discount code
+			698 button (disabled) Apply
+		3 container Notifications alt+T
+		48 text Spree Commerce Demo | Next.js Ecommerce Storefront
+		699 container Stripe developer tools frame
+			700 AXWebArea js.stripe.com/ [embedded payment UI]
+				701 button Open Stripe Developer Tools
+
+The focused UI element is 1 AXWebArea Spree Commerce Demo | Next.js Ecommerce Storefront, URL: demo.spreecommerce.org/us/en/checkout/cart_QVquA48cIW

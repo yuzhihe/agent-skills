@@ -5,7 +5,8 @@
   "source": "https://tally.so/templates/contact-form-template/dnWe3O",
   "studied": "2026-10-05",
   "tasks": [
-    "forms"
+    "forms",
+    "states"
   ],
   "density": "medium",
   "assets_needed": [
@@ -17,5 +18,9 @@
   ],
   "lang": "en",
   "summary": "窄内容列承载说明和字段，桌面双列短字段、窄屏单列，错误紧贴对应输入。",
-  "usage": "适合联系、问询和简短信息收集；本例是模板预览，不是完整客户业务表单。"
+  "usage": "适合联系、问询和简短信息收集；本例是模板预览，不是完整客户业务表单。",
+  "caveat": "模板错误反馈；预览可跳过错误，未验证成功提交。",
+  "patterns": [
+    "form-validation"
+  ]
 }

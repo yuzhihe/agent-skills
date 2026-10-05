@@ -1,0 +1,111 @@
+Browser tab: 1, Title: "Posters Galore Admin - Orders", URL: "https://marmelab.com/react-admin-demo/#/orders".
+0 AXWebArea Posters Galore Admin - Orders, URL: marmelab.com/react-admin-demo/#/orders
+	1 container
+		428 button Skip to content
+		3 container
+			4 button Open menu
+			5 heading Orders, Value: 6, ID: react-admin-title
+				6 text Orders
+			9 pop up button ENGLISH
+			10 button Change Theme
+			11 button Toggle light/dark mode
+			12 button Refresh
+			429 pop up button Profile
+				430 image Jane Doe
+		39 container main-content
+			40 container
+				41 container
+					42 text field (settable) :rn:
+				431 pop up button Add filter
+				432 button Columns
+				433 button Export
+			46 container
+				47 tab group
+					48 tab (selected, settable, boolean) ORDERED (22), Value: 1
+ORDERED
+(
+22
+)
+					49 tab (selectable, settable, boolean) DELIVERED (520), Value: 0
+DELIVERED
+(
+520
+)
+					50 tab (selectable, settable, boolean) CANCELLED (58), Value: 0
+CANCELLED
+(
+58
+)
+				434 text Order  # KCSVDE
+				435 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/142
+				436 link Description: Shawn Oberbrunner Shawn Oberbrunner, Value: marmelab.com/react-admin-demo/#/customers/217
+				437 text Date :  2026/10/4 01:15:43 Total :  US$114.86 Status :  ordered Returned :  Order  # SK3SN3
+				438 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/139
+				439 link Description: Shawn Oberbrunner Shawn Oberbrunner, Value: marmelab.com/react-admin-demo/#/customers/217
+				440 text Date :  2026/10/3 22:39:55 Total :  US$21.76 Status :  ordered Returned :  Order  # AKPMLF
+				441 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/240
+				442 link Description: Dora Padberg Dora Padberg, Value: marmelab.com/react-admin-demo/#/customers/67
+				443 text Date :  2026/9/30 01:57:48 Total :  US$33.46 Status :  ordered Returned :  Order  # 43FM7O
+				444 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/483
+				445 link Description: Quinton Schultz Quinton Schultz, Value: marmelab.com/react-admin-demo/#/customers/356
+				446 text Date :  2026/9/30 01:34:10 Total :  US$43.76 Status :  ordered Returned :  Order  # KKXZP1
+				447 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/411
+				448 link Description: Kaela Reynolds Kaela Reynolds, Value: marmelab.com/react-admin-demo/#/customers/863
+				449 text Date :  2026/9/29 18:42:49 Total :  US$796.45 Status :  ordered Returned :  Order  # OGD261
+				450 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/528
+				451 link Description: Kaela Reynolds Kaela Reynolds, Value: marmelab.com/react-admin-demo/#/customers/863
+				452 text Date :  2026/9/29 17:20:52 Total :  US$636.29 Status :  ordered Returned :  Order  # QJJW51
+				453 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/62
+				454 link Description: Shawn Oberbrunner Shawn Oberbrunner, Value: marmelab.com/react-admin-demo/#/customers/217
+				455 text Date :  2026/9/28 19:29:10 Total :  US$59.86 Status :  ordered Returned :  Order  # 1LN9VB
+				456 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/242
+				457 link Description: Quinton Schultz Quinton Schultz, Value: marmelab.com/react-admin-demo/#/customers/356
+				458 text Date :  2026/9/27 10:41:25 Total :  US$94.74 Status :  ordered Returned :  Order  # 9P1ADR
+				459 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/163
+				460 link Description: Holly Hamill Holly Hamill, Value: marmelab.com/react-admin-demo/#/customers/899
+				461 text Date :  2026/9/27 08:35:42 Total :  US$458.70 Status :  ordered Returned :  Order  # S9DHYX
+				462 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/463
+				463 link Description: Sonia Wunsch Sonia Wunsch, Value: marmelab.com/react-admin-demo/#/customers/136
+				464 text Date :  2026/9/26 15:29:28 Total :  US$42.04 Status :  ordered Returned :  Order  # 0YA4XQ
+				465 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/89
+				466 link Description: Quinton Schultz Quinton Schultz, Value: marmelab.com/react-admin-demo/#/customers/356
+				467 text Date :  2026/9/25 16:31:54 Total :  US$125.89 Status :  ordered Returned :  Order  # 1Q8IYI
+				468 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/249
+				469 link Description: Randi Langosh Randi Langosh, Value: marmelab.com/react-admin-demo/#/customers/886
+				470 text Date :  2026/9/23 17:59:42 Total :  US$855.38 Status :  ordered Returned :  Order  # C3HDM4
+				471 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/174
+				472 link Description: Kaela Reynolds Kaela Reynolds, Value: marmelab.com/react-admin-demo/#/customers/863
+				473 text Date :  2026/9/23 10:41:36 Total :  US$178.20 Status :  ordered Returned :  Order  # VOG292
+				474 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/70
+				475 link Description: Kaela Reynolds Kaela Reynolds, Value: marmelab.com/react-admin-demo/#/customers/863
+				476 text Date :  2026/9/22 20:39:55 Total :  US$35.65 Status :  ordered Returned :  Order  # S1HR27
+				477 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/362
+				478 link Description: Randi Langosh Randi Langosh, Value: marmelab.com/react-admin-demo/#/customers/886
+				479 text Date :  2026/9/15 06:21:17 Total :  US$89.86 Status :  ordered Returned :  Order  # C6C3C7
+				480 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/328
+				481 link Description: Alice Jacobs Alice Jacobs, Value: marmelab.com/react-admin-demo/#/customers/210
+				482 text Date :  2026/9/14 13:38:27 Total :  US$40.31 Status :  ordered Returned :  Order  # 2LV8JK
+				483 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/205
+				484 link Description: Roel Anderson Roel Anderson, Value: marmelab.com/react-admin-demo/#/customers/613
+				485 text Date :  2026/9/14 08:39:23 Total :  US$65.05 Status :  ordered Returned :  Order  # NCAR5J
+				486 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/369
+				487 link Description: Aron Thiel Aron Thiel, Value: marmelab.com/react-admin-demo/#/customers/245
+				488 text Date :  2026/9/13 22:56:51 Total :  US$31.58 Status :  ordered Returned :  Order  # HYXYQB
+				489 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/291
+				490 link Description: Larry Renner Larry Renner, Value: marmelab.com/react-admin-demo/#/customers/510
+				491 text Date :  2026/9/13 15:14:34 Total :  US$29.87 Status :  ordered Returned :  Order  # EQC7RC
+				492 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/371
+				493 link Description: Sonia Wunsch Sonia Wunsch, Value: marmelab.com/react-admin-demo/#/customers/136
+				494 text Date :  2026/9/13 00:45:42 Total :  US$238.63 Status :  ordered Returned :  Order  # WA4ERH
+				495 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/208
+				496 link Description: Bradly Feeney Bradly Feeney, Value: marmelab.com/react-admin-demo/#/customers/190
+				497 text Date :  2026/9/12 05:12:21 Total :  US$798.47 Status :  ordered Returned :  Order  # 50813M
+				498 link Description: Edit, Value: marmelab.com/react-admin-demo/#/orders/274
+				499 link Description: Kayli Stanton Kayli Stanton, Value: marmelab.com/react-admin-demo/#/customers/128
+				500 text Date :  2026/9/8 08:26:29 Total :  US$27.37 Status :  ordered Returned : 
+			423 container
+				427 text 1-22 of 22
+				501 button (disabled) Go to previous page
+				502 button (disabled) Go to next page
+
+The focused UI element is 0 AXWebArea Posters Galore Admin - Orders, URL: marmelab.com/react-admin-demo/#/orders

@@ -1,0 +1,1297 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 32,
+        "y": 9.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Open menu"
+    },
+    {
+      "rect": {
+        "height": 39,
+        "width": 96,
+        "x": 592,
+        "y": 12
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 82.6328125,
+        "x": 961.3671875,
+        "y": 15.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(47.7841 -0.393182 -10.0268)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "6px 8px"
+      },
+      "tag": "A",
+      "text": "Wholesale"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 1048,
+        "y": 9.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Region and language"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 1100,
+        "y": 9.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Open search"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 1152,
+        "y": 9.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Account"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 1204,
+        "y": 9.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "1"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 1134,
+        "x": 57,
+        "y": -6.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 10px 4px 6px"
+      },
+      "tag": "INPUT",
+      "text": "Search..."
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 1204,
+        "y": -6.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Close search"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 50.40625,
+        "x": -1,
+        "y": -2
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Kettles"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 61.921875,
+        "x": -1,
+        "y": 22
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Toasters"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 121.6328125,
+        "x": -1,
+        "y": 46
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Food Processors"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 94.46875,
+        "x": -1,
+        "y": 70
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Air & Climate"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 84.2734375,
+        "x": -1,
+        "y": 94
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Air Purifiers"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 82.3046875,
+        "x": -1,
+        "y": 118
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Humidifiers"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 35.296875,
+        "x": -1,
+        "y": 142
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Fans"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 101.4921875,
+        "x": -1,
+        "y": 166
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Garment Care"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 132,
+        "x": -1,
+        "y": 190
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Steam Generators"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 144.0703125,
+        "x": -1,
+        "y": 214
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Handheld Steamers"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 36.2734375,
+        "x": -1,
+        "y": 238
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Irons"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 75.71875,
+        "x": -1,
+        "y": 262
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Floor Care"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 136.2109375,
+        "x": -1,
+        "y": 286
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Cordless Vacuums"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 115.71875,
+        "x": -1,
+        "y": 310
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Robot Vacuums"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 125.734375,
+        "x": -1,
+        "y": 334
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Upright Vacuums"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 101.765625,
+        "x": -1,
+        "y": 358
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Personal Care"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 81.5078125,
+        "x": -1,
+        "y": 382
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Hair Dryers"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 132.484375,
+        "x": -1,
+        "y": 406
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Hair Straighteners"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 67.734375,
+        "x": -1,
+        "y": 430
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Trimmers"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 118.0390625,
+        "x": -1,
+        "y": 454
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Electric Shavers"
+    },
+    {
+      "rect": {
+        "height": 1003.5,
+        "width": 1280,
+        "x": 0,
+        "y": -34.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "Home\nKitchen\nAir Fryers\nDigital Air Fryer 6.2L\nClick to zoom\nDigital Air Fryer 6.2L\n$179.99\nIn Stock\nColor\nMat"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 1216,
+        "x": 32,
+        "y": -10.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Home\nKitchen\nAir Fryers\nDigital Air Fryer 6.2L"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 37.6953125,
+        "x": 32,
+        "y": -10.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Home"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 48.265625,
+        "x": 109.6953125,
+        "y": -10.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Kitchen"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 61.0703125,
+        "x": 197.9609375,
+        "y": -10.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Air Fryers"
+    },
+    {
+      "rect": {
+        "height": 584,
+        "width": 584,
+        "x": 32,
+        "y": 65.5
+      },
+      "style": {
+        "background": "lab(96.1596 -0.0823438 -1.13575)",
+        "borderRadius": "14px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Click to zoom"
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 80,
+        "x": 32,
+        "y": 665.5
+      },
+      "style": {
+        "background": "lab(96.1596 -0.0823438 -1.13575)",
+        "borderRadius": "14px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 80,
+        "x": 120,
+        "y": 665.5
+      },
+      "style": {
+        "background": "lab(96.1596 -0.0823438 -1.13575)",
+        "borderRadius": "14px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 80,
+        "x": 208,
+        "y": 665.5
+      },
+      "style": {
+        "background": "lab(96.1596 -0.0823438 -1.13575)",
+        "borderRadius": "14px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 80,
+        "x": 296,
+        "y": 665.5
+      },
+      "style": {
+        "background": "lab(96.1596 -0.0823438 -1.13575)",
+        "borderRadius": "14px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 584,
+        "x": 664,
+        "y": 65.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Digital Air Fryer 6.2L"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 664,
+        "y": 262
+      },
+      "style": {
+        "background": "rgb(28, 28, 28)",
+        "borderRadius": "10px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 712,
+        "y": 262
+      },
+      "style": {
+        "background": "rgb(192, 192, 192)",
+        "borderRadius": "10px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 760,
+        "y": 262
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "10px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 667,
+        "y": 338
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Decrease quantity"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 48,
+        "x": 711,
+        "y": 348
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "INPUT",
+      "text": "Quantity"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 759,
+        "y": 338
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Increase quantity"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 157.9609375,
+        "x": 822,
+        "y": 334
+      },
+      "style": {
+        "background": "lab(7.78201 -0.0000149012 0)",
+        "borderRadius": "10px",
+        "color": "lab(98.26 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "6px",
+        "lineHeight": "24px",
+        "padding": "0px 24px"
+      },
+      "tag": "BUTTON",
+      "text": "Add to Cart"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 584,
+        "x": 664,
+        "y": 459
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Description"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 584,
+        "x": 664,
+        "y": 616
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Properties"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 125.1875,
+        "x": 849,
+        "y": 20
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "8px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Cart\n(1 item)"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 1232,
+        "y": 16
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Close cart"
+    },
+    {
+      "rect": {
+        "height": 96,
+        "width": 96,
+        "x": 849,
+        "y": 81
+      },
+      "style": {
+        "background": "lab(96.1596 -0.0823438 -1.13575)",
+        "borderRadius": "4px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 133.2265625,
+        "x": 961,
+        "y": 81
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Digital Air Fryer 6.2L"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 1240,
+        "y": 81
+      },
+      "style": {
+        "background": "oklab(0.580009 0.195996 0.0998873 / 0.1)",
+        "borderRadius": "8px",
+        "color": "lab(49.0747 69.3434 49.6251)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Remove Digital Air Fryer 6.2L"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 303,
+        "x": 961,
+        "y": 109
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(47.7841 -0.393182 -10.0268)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Color: Matte Black"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 964,
+        "y": 144
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Decrease quantity"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 40,
+        "x": 996,
+        "y": 142
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "8px 0px"
+      },
+      "tag": "INPUT",
+      "text": "Quantity"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 1036,
+        "y": 144
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "lab(2.75381 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Increase quantity"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 165.1953125,
+        "x": 973.8984375,
+        "y": 546
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Finalizing your payment..."
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 415,
+        "x": 849,
+        "y": 592
+      },
+      "style": {
+        "background": "lab(7.78201 -0.0000149012 0)",
+        "borderRadius": "10px",
+        "color": "lab(98.26 0 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "6px",
+        "lineHeight": "24px",
+        "padding": "0px 24px"
+      },
+      "tag": "A",
+      "text": "Checkout"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 415,
+        "x": 849,
+        "y": 652
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "fontFamily": "Geist, \"Geist Fallback\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "6px",
+        "lineHeight": "24px",
+        "padding": "0px 24px"
+      },
+      "tag": "A",
+      "text": "View Cart"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 98.5
+  },
+  "title": "Digital Air Fryer 6.2L | Spree Commerce Demo | Spree Commerce Demo | Next.js Ecommerce Storefront",
+  "url": "https://demo.spreecommerce.org/us/en/products/digital-air-fryer-6l",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:49:32.211Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

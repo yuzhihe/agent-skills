@@ -1,0 +1,28 @@
+{
+  "order": 49,
+  "id": "discourse-topic",
+  "name": "Discourse Meta · 社区主题阅读",
+  "source": "https://meta.discourse.org/t/dark-light-mode-toggle-now-available-in-core/350991",
+  "studied": "2026-10-05",
+  "tasks": [
+    "creator",
+    "editorial"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "structured-content",
+    "creator-data"
+  ],
+  "tone": [
+    "editorial",
+    "structured"
+  ],
+  "lang": "en",
+  "summary": "主题正文、回复和参与摘要顺序排列，桌面时间线在手机收为阅读位置面板。",
+  "usage": "适合论坛、问答和较长讨论串；这里研究公开主题阅读，不涵盖发帖编辑与审核。",
+  "caveat": "已看回复与阅读面板；跳转未执行，未研究发帖。",
+  "patterns": [
+    "discussion-thread",
+    "reading-progress"
+  ]
+}

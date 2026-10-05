@@ -1,0 +1,26 @@
+{
+  "order": 47,
+  "id": "sivers-personal",
+  "name": "Derek Sivers · 文字型个人网站",
+  "source": "https://sive.rs/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "portfolio",
+    "editorial"
+  ],
+  "density": "low",
+  "assets_needed": [
+    "none"
+  ],
+  "tone": [
+    "minimal",
+    "warm"
+  ],
+  "lang": "en",
+  "summary": "用个人摘要、时间线和内联链接构成窄列主页，无需巨幅作品图。",
+  "usage": "适合个人主页、研究者和文字创作者；需要真实经历及有意义的文章/项目链接。",
+  "caveat": "文字型主页；标题字体有加载差异，研究区无需图片。",
+  "patterns": [
+    "text-profile"
+  ]
+}

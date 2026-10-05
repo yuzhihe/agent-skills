@@ -1,0 +1,121 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 28.796875,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 135.671875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Webkit 内核的浏览器，必须加上-webkit前缀。"
+    },
+    {
+      "rect": {
+        "height": 28.796875,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 326.46875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "注意，设为 Flex 布局以后，子元素的float、clear和vertical-align属性将失效。"
+    },
+    {
+      "rect": {
+        "height": 45.640625,
+        "width": 795.3515625,
+        "x": 229.5234375,
+        "y": 398.4609375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "28.8px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "38.88px",
+        "padding": "0px 0px 5.76px"
+      },
+      "tag": "H2",
+      "text": "二、基本概念"
+    },
+    {
+      "rect": {
+        "height": 57.59375,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 460.1015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "采用 Flex 布局的元素，称为 Flex 容器（flex container），简称\"容器\"。它的所有子元素自动成为容器成员，称为 Flex 项目（flex item），简称\"项目\"。"
+    },
+    {
+      "rect": {
+        "height": 342,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 533.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": ""
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 2160
+  },
+  "title": "Flex 布局教程：语法篇 - 阮一峰的网络日志",
+  "url": "https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:55:43.593Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

@@ -23,5 +23,6 @@
   "recognition": {
     "label": "Awwwards Site of the Day：2025-06-02；当前页面内容已更新",
     "url": "https://www.awwwards.com/websites/web-design-agency/?page=31"
-  }
+  },
+  "caveat": "图墙与文字目录；隐藏 DOM 不能当可见参数。"
 }

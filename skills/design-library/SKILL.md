@@ -1,8 +1,8 @@
 ---
 name: design-library
-description: 使用内置网站设计案例、截图和实测样式，为网页选取并应用合适的视觉参考；也可按用户要求研究新网站、扩充个人设计库。适用于参考库驱动的网页设计、风格选择和网站设计拆解，不用于无关的后端开发或普通代码修复。
+description: 用内置设计案例、截图和实测样式指导网页视觉、布局和组件状态；适用于网页设计、风格选择及设计模式参考，也支持按用户要求研究网站、扩库。不用于纯后端或无视觉变化的代码修复。
 metadata:
-  version: "0.4.0"
+  version: "0.5.1"
 ---
 
 # 个人网页设计库
@@ -11,7 +11,7 @@ metadata:
 
 ## 根据请求选择模式
 
-- **设计 / 制作 / 调整页面**：读 [应用流程](references/apply.md)、[任务入口](library/index.md) 和 [已确认偏好](library/preferences.md)，只打开相关任务的子索引、少数案例正文及必要截图。随后用当前项目已有的技术栈完成工作。
+- **设计 / 制作 / 调整页面**：读 [应用流程](references/apply.md) 和 [已确认偏好](library/preferences.md)。整页布局从 [任务入口](library/index.md) 查；具体组件或交互从 [设计模式入口](library/patterns.md) 查。只打开相关索引、少数候选正文及必要截图，随后用当前项目已有技术栈完成工作。
 - **收录 / 分析 / 更新参考网站**：读 [研究流程](references/inspect.md) 和 [案例模板](references/case-template.md)。将成果保存在 `library/cases/`，用 `scripts/build_library.py` 校验并生成索引和浏览页。
 - **查看已有风格**：读任务入口，必要时展示 [本地案例浏览页](library/catalog.html)，不必加载全部案例。
 

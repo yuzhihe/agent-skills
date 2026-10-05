@@ -1,0 +1,1381 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 9,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Close menu"
+    },
+    {
+      "rect": {
+        "height": 36.5,
+        "width": 124.1171875,
+        "x": 917,
+        "y": 6.75
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24.5px",
+        "padding": "6px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "ENGLISH"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 1041.1171875,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Change Theme"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 1081.1171875,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Toggle light/dark mode"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 1121.1171875,
+        "y": 5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "Refresh"
+    },
+    {
+      "rect": {
+        "height": 36.5,
+        "width": 105.8828125,
+        "x": 1165.1171875,
+        "y": 6.75
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(128, 128, 128)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24.5px",
+        "padding": "6px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Jane Doe"
+    },
+    {
+      "rect": {
+        "height": 1393.6875,
+        "width": 1280,
+        "x": 0,
+        "y": 48
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "Dashboard\n\nSales\n\nOrders\n\nInvoices\n\nCatalog\n\nPosters\n\nCategories\n\nCustomers\n\nCustomers\n\nSegments\n\nReviews\n\n \nA"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 200,
+        "x": 0,
+        "y": 56
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px"
+      },
+      "tag": "A",
+      "text": "Dashboard"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 125,
+        "x": 59,
+        "y": 62
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Dashboard"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 39.59375,
+        "x": 52,
+        "y": 98
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Sales"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 200,
+        "x": 0,
+        "y": 128
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0.04)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px 6px 32px"
+      },
+      "tag": "A",
+      "text": "Orders"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 109,
+        "x": 75,
+        "y": 134
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Orders"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 200,
+        "x": 0,
+        "y": 164
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px 6px 32px"
+      },
+      "tag": "A",
+      "text": "Invoices"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 109,
+        "x": 75,
+        "y": 170
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Invoices"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 56.109375,
+        "x": 52,
+        "y": 206
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Catalog"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 200,
+        "x": 0,
+        "y": 236
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px 6px 32px"
+      },
+      "tag": "A",
+      "text": "Posters"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 109,
+        "x": 75,
+        "y": 242
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Posters"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 200,
+        "x": 0,
+        "y": 272
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px 6px 32px"
+      },
+      "tag": "A",
+      "text": "Categories"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 109,
+        "x": 75,
+        "y": 278
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Categories"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 79.2421875,
+        "x": 52,
+        "y": 314
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Customers"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 200,
+        "x": 0,
+        "y": 344
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px 6px 32px"
+      },
+      "tag": "A",
+      "text": "Customers"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 109,
+        "x": 75,
+        "y": 350
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Customers"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 200,
+        "x": 0,
+        "y": 380
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px 6px 32px"
+      },
+      "tag": "A",
+      "text": "Segments"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 109,
+        "x": 75,
+        "y": 386
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Segments"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 200,
+        "x": 0,
+        "y": 416
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px"
+      },
+      "tag": "A",
+      "text": "Reviews"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 125,
+        "x": 59,
+        "y": 422
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Reviews"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 180.0078125,
+        "x": 208,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "23px",
+        "padding": "8px 0px 9px 12px"
+      },
+      "tag": "INPUT",
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 27.5,
+        "width": 106.265625,
+        "x": 963.2734375,
+        "y": 76.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19.5px",
+        "padding": "4px 5px"
+      },
+      "tag": "BUTTON",
+      "text": "ADD FILTER"
+    },
+    {
+      "rect": {
+        "height": 27.5,
+        "width": 97.7578125,
+        "x": 1077.5390625,
+        "y": 76.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19.5px",
+        "padding": "4px 5px"
+      },
+      "tag": "BUTTON",
+      "text": "COLUMNS"
+    },
+    {
+      "rect": {
+        "height": 27.5,
+        "width": 84.703125,
+        "x": 1183.296875,
+        "y": 76.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19.5px",
+        "padding": "4px 5px"
+      },
+      "tag": "BUTTON",
+      "text": "EXPORT"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 354,
+        "x": 209,
+        "y": 113
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "17.5px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "ORDERED (22)"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 354,
+        "x": 563,
+        "y": 113
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "17.5px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "DELIVERED (520)"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 354,
+        "x": 917,
+        "y": 113
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.6)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "17.5px",
+        "padding": "12px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "CANCELLED (58)"
+    },
+    {
+      "rect": {
+        "height": 30,
+        "width": 30,
+        "x": 224,
+        "y": 147
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Arial",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "5px"
+      },
+      "tag": "BUTTON",
+      "text": "Unselect"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 119.46875,
+        "x": 262,
+        "y": 150
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "0 items selected"
+    },
+    {
+      "rect": {
+        "height": 27.5,
+        "width": 81.8203125,
+        "x": 1169.1796875,
+        "y": 148.25
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(211, 47, 47)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19.5px",
+        "padding": "4px 5px"
+      },
+      "tag": "BUTTON",
+      "text": "DELETE"
+    },
+    {
+      "rect": {
+        "height": 60.5,
+        "width": 40,
+        "x": 209,
+        "y": 162
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "10px 0px 0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 8px"
+      },
+      "tag": "TH",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 217,
+        "y": 180.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "INPUT",
+      "text": "Select all"
+    },
+    {
+      "rect": {
+        "height": 60.5,
+        "width": 148.21875,
+        "x": 249,
+        "y": 162
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px"
+      },
+      "tag": "TH",
+      "text": "Date"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 55.4609375,
+        "x": 265,
+        "y": 180.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Date"
+    },
+    {
+      "rect": {
+        "height": 60.5,
+        "width": 122.8671875,
+        "x": 397.21875,
+        "y": 162
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px"
+      },
+      "tag": "TH",
+      "text": "Reference"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 90.8671875,
+        "x": 413.21875,
+        "y": 180.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Reference"
+    },
+    {
+      "rect": {
+        "height": 60.5,
+        "width": 182.2109375,
+        "x": 520.0859375,
+        "y": 162
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px"
+      },
+      "tag": "TH",
+      "text": "Customer"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 88.4296875,
+        "x": 536.0859375,
+        "y": 180.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Customer"
+    },
+    {
+      "rect": {
+        "height": 60.5,
+        "width": 354.9453125,
+        "x": 702.296875,
+        "y": 162
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px"
+      },
+      "tag": "TH",
+      "text": "Address"
+    },
+    {
+      "rect": {
+        "height": 60.5,
+        "width": 112.109375,
+        "x": 1057.2421875,
+        "y": 162
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px"
+      },
+      "tag": "TH",
+      "text": "Nb Items"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 80.109375,
+        "x": 1073.2421875,
+        "y": 168
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Nb Items"
+    },
+    {
+      "rect": {
+        "height": 60.5,
+        "width": 101.6484375,
+        "x": 1169.3515625,
+        "y": 162
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px 10px 0px 0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "6px 16px"
+      },
+      "tag": "TH",
+      "text": "Total"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 58.09375,
+        "x": 1196.90625,
+        "y": 180.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Total"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 40,
+        "x": 209,
+        "y": 222.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px 8px"
+      },
+      "tag": "TD",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 217,
+        "y": 237.015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "INPUT",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 148.21875,
+        "x": 249,
+        "y": 222.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "2026/10/4 01:15:43"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 122.8671875,
+        "x": 397.21875,
+        "y": 222.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "KCSVDE"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 182.2109375,
+        "x": 520.0859375,
+        "y": 222.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "Shawn Oberbrunner"
+    },
+    {
+      "rect": {
+        "height": 40.03125,
+        "width": 150.2109375,
+        "x": 536.0859375,
+        "y": 229
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Shawn Oberbrunner"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 354.9453125,
+        "x": 702.296875,
+        "y": 222.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "03119 Rodriguez Meadows, Ryleeborough, LA 11063-9777"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 112.109375,
+        "x": 1057.2421875,
+        "y": 222.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "2"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 101.6484375,
+        "x": 1169.3515625,
+        "y": 222.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "US$114.86"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 40,
+        "x": 209,
+        "y": 275.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "0px 8px"
+      },
+      "tag": "TD",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 217,
+        "y": 290.046875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "INPUT",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 148.21875,
+        "x": 249,
+        "y": 275.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "2026/10/3 22:39:55"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 122.8671875,
+        "x": 397.21875,
+        "y": 275.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "SK3SN3"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 182.2109375,
+        "x": 520.0859375,
+        "y": 275.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "Shawn Oberbrunner"
+    },
+    {
+      "rect": {
+        "height": 40.03125,
+        "width": 150.2109375,
+        "x": 536.0859375,
+        "y": 282.03125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(79, 60, 201)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Shawn Oberbrunner"
+    },
+    {
+      "rect": {
+        "height": 53.03125,
+        "width": 354.9453125,
+        "x": 702.296875,
+        "y": 275.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.02px",
+        "padding": "6px 16px"
+      },
+      "tag": "TD",
+      "text": "03119 Rodriguez Meadows, Ryleeborough, LA 11063-9777"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Posters Galore Admin - Orders",
+  "url": "https://marmelab.com/react-admin-demo/#/orders",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:46:52.591Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

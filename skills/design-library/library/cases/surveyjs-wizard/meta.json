@@ -1,0 +1,28 @@
+{
+  "order": 43,
+  "id": "surveyjs-wizard",
+  "name": "SurveyJS · 分步与条件表单",
+  "source": "https://surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default",
+  "studied": "2026-10-05",
+  "tasks": [
+    "forms",
+    "states"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "none"
+  ],
+  "tone": [
+    "friendly",
+    "structured"
+  ],
+  "lang": "en",
+  "summary": "一次展示一个问题，错误紧贴输入，选择 Other 后就地展开补充字段。",
+  "usage": "适合问卷、分步资料收集与条件问题；不是保存进度和注册流程的完整范本。",
+  "caveat": "已验证分页、条件追问与格式错误；未最终提交或保存草稿。",
+  "patterns": [
+    "step-form",
+    "conditional-form",
+    "form-validation"
+  ]
+}

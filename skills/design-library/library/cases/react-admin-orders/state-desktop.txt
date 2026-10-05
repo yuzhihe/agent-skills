@@ -1,0 +1,443 @@
+Browser tab: 1, Title: "Posters Galore Admin - Orders", URL: "https://marmelab.com/react-admin-demo/#/orders".
+0 AXWebArea Posters Galore Admin - Orders, URL: marmelab.com/react-admin-demo/#/orders
+	1 container
+		2 button Skip to content
+		3 container
+			4 button Close menu
+			5 heading Orders, Value: 6, ID: react-admin-title
+				39 text Orders
+			6 image
+				7 container ~Posters Galore~
+			8 pop up button ENGLISH
+			9 button Change Theme
+			10 button Toggle light/dark mode
+			11 button Refresh
+			12 button Profile
+				13 image Jane Doe
+				14 text Jane Doe
+		15 container
+			16 Dashboard
+				17 text Dashboard
+			18 Sales
+				19 text Sales
+			20 Orders
+				21 text Orders
+			22 Invoices
+				23 text Invoices
+			24 Catalog
+				25 text Catalog
+			26 Posters
+				27 text Posters
+			28 Categories
+				29 text Categories
+			30 Customers
+				31 text Customers
+			32 Customers
+				33 text Customers
+			34 Segments
+				35 text Segments
+			36 Reviews
+				37 text Reviews
+		38 container main-content
+			40 container
+				41 container
+					42 text field (settable) :rn:
+				43 pop up button Add filter
+				44 button COLUMNS
+				45 button Export
+			46 container
+				47 tab group
+					48 tab (selected, settable, boolean) ORDERED (22), Value: 1
+ORDERED
+(
+22
+)
+					49 tab (selectable, settable, boolean) DELIVERED (520), Value: 0
+DELIVERED
+(
+520
+)
+					50 tab (selectable, settable, boolean) CANCELLED (58), Value: 0
+CANCELLED
+(
+58
+)
+				51 container
+					52 button Unselect
+					53 text 0 items selected
+					54 button Delete
+				55 table
+					56 row
+						57 cell
+							58 checkbox (settable, integer) Description: Select all, Value: 0
+						59 cell
+							60 button Sort by date ascending
+						61 cell
+							62 button Sort by reference ascending
+						63 cell
+							64 button Sort by customer ascending
+						65 cell
+							66 text Address
+						67 cell
+							68 button Sort by nb Items ascending
+						69 cell
+							70 button Sort by total ascending
+					71 row
+						72 cell
+							73 container Select this row
+								74 checkbox (settable, integer) 0
+						75 cell
+							76 text 2026/10/4 01:15:43
+						77 cell
+							78 text KCSVDE
+						79 cell
+							80 link Description: Shawn Oberbrunner Shawn Oberbrunner, Value: marmelab.com/react-admin-demo/#/customers/217
+						81 cell
+							82 text 03119 Rodriguez Meadows ,  Ryleeborough ,  LA 11063-9777
+						83 cell
+							84 text 2
+						85 cell
+							86 text US$114.86
+					87 row
+						88 cell
+							89 container Select this row
+								90 checkbox (settable, integer) 0
+						91 cell
+							92 text 2026/10/3 22:39:55
+						93 cell
+							94 text SK3SN3
+						95 cell
+							96 link Description: Shawn Oberbrunner Shawn Oberbrunner, Value: marmelab.com/react-admin-demo/#/customers/217
+						97 cell
+							98 text 03119 Rodriguez Meadows ,  Ryleeborough ,  LA 11063-9777
+						99 cell
+							100 text 1
+						101 cell
+							102 text US$21.76
+					103 row
+						104 cell
+							105 container Select this row
+								106 checkbox (settable, integer) 0
+						107 cell
+							108 text 2026/9/30 01:57:48
+						109 cell
+							110 text AKPMLF
+						111 cell
+							112 link Description: Dora Padberg Dora Padberg, Value: marmelab.com/react-admin-demo/#/customers/67
+						113 cell
+							114 text 7821 Bode Parkway ,  Harriston ,  KS 87294-5081
+						115 cell
+							116 text 1
+						117 cell
+							118 text US$33.46
+					119 row
+						120 cell
+							121 container Select this row
+								122 checkbox (settable, integer) 0
+						123 cell
+							124 text 2026/9/30 01:34:10
+						125 cell
+							126 text 43FM7O
+						127 cell
+							128 link Description: Quinton Schultz Quinton Schultz, Value: marmelab.com/react-admin-demo/#/customers/356
+						129 cell
+							130 text 420 Joe Forest ,  Auerborough ,  HI 60712-7643
+						131 cell
+							132 text 1
+						133 cell
+							134 text US$43.76
+					135 row
+						136 cell
+							137 container Select this row
+								138 checkbox (settable, integer) 0
+						139 cell
+							140 text 2026/9/29 18:42:49
+						141 cell
+							142 text KKXZP1
+						143 cell
+							144 link Description: Kaela Reynolds Kaela Reynolds, Value: marmelab.com/react-admin-demo/#/customers/863
+						145 cell
+							146 text 65223 Elinor Fields ,  Breitenbergview ,  PA 38166
+						147 cell
+							148 text 10
+						149 cell
+							150 text US$796.45
+					151 row
+						152 cell
+							153 container Select this row
+								154 checkbox (settable, integer) 0
+						155 cell
+							156 text 2026/9/29 17:20:52
+						157 cell
+							158 text OGD261
+						159 cell
+							160 link Description: Kaela Reynolds Kaela Reynolds, Value: marmelab.com/react-admin-demo/#/customers/863
+						161 cell
+							162 text 65223 Elinor Fields ,  Breitenbergview ,  PA 38166
+						163 cell
+							164 text 6
+						165 cell
+							166 text US$636.29
+					167 row
+						168 cell
+							169 container Select this row
+								170 checkbox (settable, integer) 0
+						171 cell
+							172 text 2026/9/28 19:29:10
+						173 cell
+							174 text QJJW51
+						175 cell
+							176 link Description: Shawn Oberbrunner Shawn Oberbrunner, Value: marmelab.com/react-admin-demo/#/customers/217
+						177 cell
+							178 text 03119 Rodriguez Meadows ,  Ryleeborough ,  LA 11063-9777
+						179 cell
+							180 text 1
+						181 cell
+							182 text US$59.86
+					183 row
+						184 cell
+							185 container Select this row
+								186 checkbox (settable, integer) 0
+						187 cell
+							188 text 2026/9/27 10:41:25
+						189 cell
+							190 text 1LN9VB
+						191 cell
+							192 link Description: Quinton Schultz Quinton Schultz, Value: marmelab.com/react-admin-demo/#/customers/356
+						193 cell
+							194 text 420 Joe Forest ,  Auerborough ,  HI 60712-7643
+						195 cell
+							196 text 2
+						197 cell
+							198 text US$94.74
+					199 row
+						200 cell
+							201 container Select this row
+								202 checkbox (settable, integer) 0
+						203 cell
+							204 text 2026/9/27 08:35:42
+						205 cell
+							206 text 9P1ADR
+						207 cell
+							208 link Description: Holly Hamill Holly Hamill, Value: marmelab.com/react-admin-demo/#/customers/899
+						209 cell
+							210 text 181 Douglas Mall ,  Connellymouth ,  SC 39286
+						211 cell
+							212 text 2
+						213 cell
+							214 text US$458.70
+					215 row
+						216 cell
+							217 container Select this row
+								218 checkbox (settable, integer) 0
+						219 cell
+							220 text 2026/9/26 15:29:28
+						221 cell
+							222 text S9DHYX
+						223 cell
+							224 link Description: Sonia Wunsch Sonia Wunsch, Value: marmelab.com/react-admin-demo/#/customers/136
+						225 cell
+							226 text 108 Ervin Cove ,  East Kiarrabury ,  AK 96884-5984
+						227 cell
+							228 text 1
+						229 cell
+							230 text US$42.04
+					231 row
+						232 cell
+							233 container Select this row
+								234 checkbox (settable, integer) 0
+						235 cell
+							236 text 2026/9/25 16:31:54
+						237 cell
+							238 text 0YA4XQ
+						239 cell
+							240 link Description: Quinton Schultz Quinton Schultz, Value: marmelab.com/react-admin-demo/#/customers/356
+						241 cell
+							242 text 420 Joe Forest ,  Auerborough ,  HI 60712-7643
+						243 cell
+							244 text 2
+						245 cell
+							246 text US$125.89
+					247 row
+						248 cell
+							249 container Select this row
+								250 checkbox (settable, integer) 0
+						251 cell
+							252 text 2026/9/23 17:59:42
+						253 cell
+							254 text 1Q8IYI
+						255 cell
+							256 link Description: Randi Langosh Randi Langosh, Value: marmelab.com/react-admin-demo/#/customers/886
+						257 cell
+							258 text 4724 Makayla Stream ,  New Marioland ,  ID 73774-2392
+						259 cell
+							260 text 9
+						261 cell
+							262 text US$855.38
+					263 row
+						264 cell
+							265 container Select this row
+								266 checkbox (settable, integer) 0
+						267 cell
+							268 text 2026/9/23 10:41:36
+						269 cell
+							270 text C3HDM4
+						271 cell
+							272 link Description: Kaela Reynolds Kaela Reynolds, Value: marmelab.com/react-admin-demo/#/customers/863
+						273 cell
+							274 text 65223 Elinor Fields ,  Breitenbergview ,  PA 38166
+						275 cell
+							276 text 2
+						277 cell
+							278 text US$178.20
+					279 row
+						280 cell
+							281 container Select this row
+								282 checkbox (settable, integer) 0
+						283 cell
+							284 text 2026/9/22 20:39:55
+						285 cell
+							286 text VOG292
+						287 cell
+							288 link Description: Kaela Reynolds Kaela Reynolds, Value: marmelab.com/react-admin-demo/#/customers/863
+						289 cell
+							290 text 65223 Elinor Fields ,  Breitenbergview ,  PA 38166
+						291 cell
+							292 text 1
+						293 cell
+							294 text US$35.65
+					295 row
+						296 cell
+							297 container Select this row
+								298 checkbox (settable, integer) 0
+						299 cell
+							300 text 2026/9/15 06:21:17
+						301 cell
+							302 text S1HR27
+						303 cell
+							304 link Description: Randi Langosh Randi Langosh, Value: marmelab.com/react-admin-demo/#/customers/886
+						305 cell
+							306 text 4724 Makayla Stream ,  New Marioland ,  ID 73774-2392
+						307 cell
+							308 text 2
+						309 cell
+							310 text US$89.86
+					311 row
+						312 cell
+							313 container Select this row
+								314 checkbox (settable, integer) 0
+						315 cell
+							316 text 2026/9/14 13:38:27
+						317 cell
+							318 text C6C3C7
+						319 cell
+							320 link Description: Alice Jacobs Alice Jacobs, Value: marmelab.com/react-admin-demo/#/customers/210
+						321 cell
+							322 text 636 Phoebe Harbor ,  Alizamouth ,  AL 71776
+						323 cell
+							324 text 1
+						325 cell
+							326 text US$40.31
+					327 row
+						328 cell
+							329 container Select this row
+								330 checkbox (settable, integer) 0
+						331 cell
+							332 text 2026/9/14 08:39:23
+						333 cell
+							334 text 2LV8JK
+						335 cell
+							336 link Description: Roel Anderson Roel Anderson, Value: marmelab.com/react-admin-demo/#/customers/613
+						337 cell
+							338 text 766 Wisozk Lake ,  Nicolasfort ,  MD 83222
+						339 cell
+							340 text 2
+						341 cell
+							342 text US$65.05
+					343 row
+						344 cell
+							345 container Select this row
+								346 checkbox (settable, integer) 0
+						347 cell
+							348 text 2026/9/13 22:56:51
+						349 cell
+							350 text NCAR5J
+						351 cell
+							352 link Description: Aron Thiel Aron Thiel, Value: marmelab.com/react-admin-demo/#/customers/245
+						353 cell
+							354 text 91901 Leannon Mountains ,  South Emmet ,  WV 56369-8006
+						355 cell
+							356 text 1
+						357 cell
+							358 text US$31.58
+					359 row
+						360 cell
+							361 container Select this row
+								362 checkbox (settable, integer) 0
+						363 cell
+							364 text 2026/9/13 15:14:34
+						365 cell
+							366 text HYXYQB
+						367 cell
+							368 link Description: Larry Renner Larry Renner, Value: marmelab.com/react-admin-demo/#/customers/510
+						369 cell
+							370 text 65730 Goyette Hollow ,  Nelsonbury ,  CA 69199-4796
+						371 cell
+							372 text 1
+						373 cell
+							374 text US$29.87
+					375 row
+						376 cell
+							377 container Select this row
+								378 checkbox (settable, integer) 0
+						379 cell
+							380 text 2026/9/13 00:45:42
+						381 cell
+							382 text EQC7RC
+						383 cell
+							384 link Description: Sonia Wunsch Sonia Wunsch, Value: marmelab.com/react-admin-demo/#/customers/136
+						385 cell
+							386 text 108 Ervin Cove ,  East Kiarrabury ,  AK 96884-5984
+						387 cell
+							388 text 2
+						389 cell
+							390 text US$238.63
+					391 row
+						392 cell
+							393 container Select this row
+								394 checkbox (settable, integer) 0
+						395 cell
+							396 text 2026/9/12 05:12:21
+						397 cell
+							398 text WA4ERH
+						399 cell
+							400 link Description: Bradly Feeney Bradly Feeney, Value: marmelab.com/react-admin-demo/#/customers/190
+						401 cell
+							402 text 4764 Rosenbaum Valleys ,  East Libbieland ,  MT 06796-0540
+						403 cell
+							404 text 10
+						405 cell
+							406 text US$798.47
+					407 row
+						408 cell
+							409 container Select this row
+								410 checkbox (settable, integer) 0
+						411 cell
+							412 text 2026/9/8 08:26:29
+						413 cell
+							414 text 50813M
+						415 cell
+							416 link Description: Kayli Stanton Kayli Stanton, Value: marmelab.com/react-admin-demo/#/customers/128
+						417 cell
+							418 text 42406 Torrance Dale ,  Titomouth ,  VA 97381
+						419 cell
+							420 text 1
+						421 cell
+							422 text US$27.37
+			423 container
+				424 text Rows per page:
+				425 combo box (collapsed) Rows per page: 25, Value: 25, ID: :r17:, Secondary Actions: Expand
+					426 text 25
+				427 text 1-22 of 22
+
+The focused UI element is 20 Orders

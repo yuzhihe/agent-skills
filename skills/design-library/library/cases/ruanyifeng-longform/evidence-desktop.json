@@ -1,0 +1,352 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 35.8046875,
+        "x": 395.5703125,
+        "y": 34.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 165, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "首页"
+    },
+    {
+      "rect": {
+        "height": 20.5,
+        "width": 35.8046875,
+        "x": 454.21875,
+        "y": 34.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 165, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "档案"
+    },
+    {
+      "rect": {
+        "height": 26,
+        "width": 184,
+        "x": 834.875,
+        "y": 33
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "1px 2px"
+      },
+      "tag": "INPUT",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 25,
+        "width": 29,
+        "x": 1009.875,
+        "y": 33
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Arial",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "INPUT",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16.237613677978516,
+        "width": 33.05487060546875,
+        "x": 782.175048828125,
+        "y": 48.586483001708984
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 165, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 17.5,
+        "width": 128.5,
+        "x": 882.4765625,
+        "y": 99
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(85, 102, 119)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "15.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "35.2px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "ES6 的功能侦测库"
+    },
+    {
+      "rect": {
+        "height": 17.5,
+        "width": 124.25,
+        "x": 882.4765625,
+        "y": 134.703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(85, 102, 119)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "15.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "35.2px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Flex 布局教程：实"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 47.7109375,
+        "x": 248.3203125,
+        "y": 98.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "分类："
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 79.5078125,
+        "x": 300.828125,
+        "y": 98.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 128, 0)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "35.2px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "开发者手册"
+    },
+    {
+      "rect": {
+        "height": 78.7578125,
+        "width": 795.3515625,
+        "x": 229.5234375,
+        "y": 176.921875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Trebuchet MS\", Arial, \"Lucida Grande\", Verdana, Lucida, Helvetica, sans-serif",
+        "fontSize": "28.8px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "72px",
+        "padding": "0px 0px 5.76px"
+      },
+      "tag": "H1",
+      "text": "Flex 布局教程：语法篇"
+    },
+    {
+      "rect": {
+        "height": 28.796875,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 271.6796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(85, 102, 119)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "作者： 阮一峰"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 47.703125,
+        "x": 295.78125,
+        "y": 276.6796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(85, 102, 119)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "阮一峰"
+    },
+    {
+      "rect": {
+        "height": 28.796875,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 316.4765625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(85, 102, 119)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "日期： 2015年7月10日"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 105.828125,
+        "x": 295.78125,
+        "y": 321.4765625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(85, 102, 119)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "2015年7月10日"
+    },
+    {
+      "rect": {
+        "height": 28.796875,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 365.2734375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "网页布局（layout）是 CSS 的一个重点应用。"
+    },
+    {
+      "rect": {
+        "height": 361,
+        "width": 782.5546875,
+        "x": 242.3203125,
+        "y": 410.0703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "Georgia, serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": ""
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Flex 布局教程：语法篇 - 阮一峰的网络日志",
+  "url": "https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-05T11:55:33.272Z",
+  "scope": "Visible DOM sample; ancestor clipping and occlusion require screenshot comparison. No inferred CSS breakpoint."
+}

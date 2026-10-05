@@ -1,0 +1,28 @@
+{
+  "order": 41,
+  "id": "react-admin-orders",
+  "name": "React-admin · 订单操作后台",
+  "source": "https://marmelab.com/react-admin-demo/#/orders",
+  "studied": "2026-10-05",
+  "tasks": [
+    "workflow",
+    "dashboard"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "structured-data"
+  ],
+  "tone": [
+    "practical",
+    "structured"
+  ],
+  "lang": "en",
+  "summary": "筛选工具、订单状态和数据表分层，选中后切换批量操作，手机用摘要卡替代表格。",
+  "usage": "适合订单、客户、工单等高频业务列表；需要一致的数据字段，不适合纯展示网站。",
+  "caveat": "已验证行选择；未执行批量动作，空结果缺少说明。",
+  "patterns": [
+    "data-table",
+    "batch-actions",
+    "filter-panel"
+  ]
+}

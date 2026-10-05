@@ -1,0 +1,156 @@
+Browser tab: 2, Title: "Ionic Stencil Conference App", URL: "https://ionic-react-conference-app.firebaseapp.com/schedule".
+1 AXWebArea Ionic Stencil Conference App, URL: ionic-react-conference-app.firebaseapp.com/schedule
+	2 container
+		3 container
+			4 container
+				5 button menu
+					6 container menu
+				7 checkbox ALL, Value: 1
+				8 button FAVORITES
+				9 button options
+					10 container options
+			11 container
+				12 container
+					13 search text field (settable)
+					14 container search
+			15 container
+				16 text 8:05 am
+				17 container
+					18 button Breakfast 8:05 am — 9:05 am: Main hallway
+						19 heading Breakfast, Value: 3
+							20 text Breakfast
+						21 container
+							22 text 8:05 am  —  9:05 am :  Main hallway
+				23 text 9:05 am
+				24 container
+					25 button Introduction to Appcamp.io 9:05 am — 9:05 am: Room 2203
+						26 heading Introduction to Appcamp.io, Value: 3
+							27 text Introduction to Appcamp.io
+						28 container
+							29 text 9:05 am  —  9:05 am :  Room 2203
+				30 container
+					31 button Getting started with Ionic 9:05 am — 9:05 am: Room 2202
+						32 heading Getting started with Ionic, Value: 3
+							33 text Getting started with Ionic
+						34 container
+							35 text 9:05 am  —  9:05 am :  Room 2202
+				36 container
+					37 button Tooling for Ionic 9:05 am — 10:05 am: Room 2201
+						38 heading Tooling for Ionic, Value: 3
+							39 text Tooling for Ionic
+						40 container
+							41 text 9:05 am  —  10:05 am :  Room 2201
+				42 text 10:05 am
+				43 container
+					44 button Migrating to Ionic2 10:05 am — 10:05 am: Room 2201
+						45 heading Migrating to Ionic2, Value: 3
+							46 text Migrating to Ionic2
+						47 container
+							48 text 10:05 am  —  10:05 am :  Room 2201
+				49 container
+					50 button The evolution of Ionicons 10:05 am — 10:05 am: Room 2202
+						51 heading The evolution of Ionicons, Value: 3
+							52 text The evolution of Ionicons
+						53 container
+							54 text 10:05 am  —  10:05 am :  Room 2202
+				55 container
+					56 button Ionic.io Services 10:05 am — 11:05 am: Room 2202
+						57 heading Ionic.io Services, Value: 3
+							58 text Ionic.io Services
+						59 container
+							60 text 10:05 am  —  11:05 am :  Room 2202
+				61 text 11:05 am
+				62 container
+					63 button Ionic Workshop 11:05 am — 11:05 am: Room 2201
+						64 heading Ionic Workshop, Value: 3
+							65 text Ionic Workshop
+						66 container
+							67 text 11:05 am  —  11:05 am :  Room 2201
+				68 container
+					69 button Community Interaction 11:05 am — 11:05 am: Room 2203
+						70 heading Community Interaction, Value: 3
+							71 text Community Interaction
+						72 container
+							73 text 11:05 am  —  11:05 am :  Room 2203
+				74 container
+					75 button Navigation in Ionic 11:05 am — 12:05 pm: Room 2203
+						76 heading Navigation in Ionic, Value: 3
+							77 text Navigation in Ionic
+						78 container
+							79 text 11:05 am  —  12:05 pm :  Room 2203
+				80 text 12:05 pm
+				81 container
+					82 button Lunch 12:05 pm — 1:05 pm: Auditorium
+						83 heading Lunch, Value: 3
+							84 text Lunch
+						85 container
+							86 text 12:05 pm  —  1:05 pm :  Auditorium
+				87 text 1:05 pm
+				88 container
+					89 button Ionic in the Enterprise 1:05 pm — 1:05 pm: Room 2201
+						90 heading Ionic in the Enterprise, Value: 3
+							91 text Ionic in the Enterprise
+						92 container
+							93 text 1:05 pm  —  1:05 pm :  Room 2201
+				94 container
+					95 button Ionic Worldwide 1:05 pm — 1:05 pm: Room 2201
+						96 heading Ionic Worldwide, Value: 3
+							97 text Ionic Worldwide
+						98 container
+							99 text 1:05 pm  —  1:05 pm :  Room 2201
+				100 container
+					101 button The Ionic package service 1:05 pm — 2:05 pm: Room 2203
+						102 heading The Ionic package service, Value: 3
+							103 text The Ionic package service
+						104 container
+							105 text 1:05 pm  —  2:05 pm :  Room 2203
+				106 text 2:05 pm
+				107 container
+					108 button Push Notifications in Ionic 2:05 pm — 2:05 pm: Room 2202
+						109 heading Push Notifications in Ionic, Value: 3
+							110 text Push Notifications in Ionic
+						111 container
+							112 text 2:05 pm  —  2:05 pm :  Room 2202
+				113 container
+					114 button Ionic Documentation 2:05 pm — 2:05 pm: Room 2202
+						115 heading Ionic Documentation, Value: 3
+							116 text Ionic Documentation
+						117 container
+							118 text 2:05 pm  —  2:05 pm :  Room 2202
+				119 container
+					120 button UX planning in Ionic 2:05 pm — 3:05 pm: Room 2203
+						121 heading UX planning in Ionic, Value: 3
+							122 text UX planning in Ionic
+						123 container
+							124 text 2:05 pm  —  3:05 pm :  Room 2203
+				125 text 3:05 pm
+				126 container
+					127 button Directives in Ionic 3:05 pm — 3:05 pm: Room 2201
+						128 heading Directives in Ionic, Value: 3
+							129 text Directives in Ionic
+						130 container
+							131 text 3:05 pm  —  3:05 pm :  Room 2201
+				132 container
+					133 button Mobile States 3:05 pm — 3:05 pm: Room 2202
+						134 heading Mobile States, Value: 3
+							135 text Mobile States
+						136 container
+							137 text 3:05 pm  —  3:05 pm :  Room 2202
+			138 button close share
+				139 container close
+				140 container share
+		141 tab group
+			142 tab (selected, settable, boolean) calendar Schedule, ID: tab-button-schedule, Description: calendar Schedule
+calendar, Value: 1
+Schedule
+			143 tab (selectable, settable, boolean) contacts Speakers, ID: tab-button-speakers, Description: contacts Speakers
+contacts, Value: 0
+Speakers
+			144 tab (selectable, settable, boolean) map Map, ID: tab-button-map, Description: map Map
+map, Value: 0
+Map
+			145 tab (selectable, settable, boolean) information circle About, ID: tab-button-about, Description: information circle About
+information circle, Value: 0
+About
+
+The focused UI element is 1 AXWebArea Ionic Stencil Conference App, URL: ionic-react-conference-app.firebaseapp.com/schedule

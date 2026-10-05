@@ -1,0 +1,21 @@
+Browser tab: 2, Title: "surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default", URL: "https://surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default".
+0 AXWebArea surveyjs.io/form-library/examples/s/multi-step-form-wizard/reactjs/default
+	1 container
+		2 progress indicator Progress bar
+		3 text Answered 0/4 questions
+		4 container sp_1
+			5 container
+				6 text Preferences
+				7 container sq_2
+					8 container sq_2_ariaTitle
+						9 text Which option best describes you?
+					10 Which option best describes you?
+						11 radio button (settable, integer) Description: Developer, Value: 0, ID: sq_2i_0
+						12 radio button (settable, integer) Description: Product manager, Value: 0, ID: sq_2i_1
+						13 radio button (settable, integer) Description: Designer, Value: 0, ID: sq_2i_2
+						14 radio button (settable, integer) Description: Other (please specify), Value: 0, ID: sq_2i_3
+			15 container
+				16 button Previous
+				17 button Next
+
+The focused UI element is 17 button Next

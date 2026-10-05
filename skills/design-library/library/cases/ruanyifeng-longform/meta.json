@@ -1,0 +1,23 @@
+{
+  "order": 46,
+  "id": "ruanyifeng-longform",
+  "name": "阮一峰博客 · 中文教程长文",
+  "source": "https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html",
+  "studied": "2026-10-05",
+  "tasks": [
+    "editorial"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "structured-content",
+    "illustration"
+  ],
+  "tone": [
+    "editorial",
+    "warm"
+  ],
+  "lang": "zh",
+  "summary": "中文正文、示意图与代码块顺序展开，目录与文章元信息保持朴素阅读层级。",
+  "usage": "适合中文教程、技术笔记和长篇说明；研究布局，不把旧文当最新技术资料。",
+  "caveat": "中文长文布局；手机边距窄，不推荐旧文技术做法。"
+}
