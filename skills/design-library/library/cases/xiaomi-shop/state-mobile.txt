@@ -1,0 +1,3 @@
+Browser tab: 30, Title: "Xiaomi官方网站 | 以人为中心，构建“人车家全生态”", URL: "https://www.mi.com/shop".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea Xiaomi官方网站 | 以人为中心，构建“人车家全生态”, URL: mi.com/shop

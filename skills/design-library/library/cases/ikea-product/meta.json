@@ -1,0 +1,21 @@
+{
+  "order": 8,
+  "id": "ikea-product",
+  "name": "IKEA",
+  "source": "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-90301555/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "commerce"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "product-photos",
+    "commerce-data"
+  ],
+  "tone": [
+    "practical"
+  ],
+  "lang": "en",
+  "summary": "桌面左侧为产品图，右侧为价格、规格和购买/履约信息；手机先看大图，再往下阅读购买信息。",
+  "usage": "电商商品详情、规格选择、履约说明；没有真实商品照片或无法提供价格/库存信息的页面。"
+}

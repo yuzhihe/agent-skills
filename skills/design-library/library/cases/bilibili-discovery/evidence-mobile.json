@@ -1,0 +1,1285 @@
+{
+  "body": {
+    "background": "rgb(241, 242, 243)",
+    "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 52,
+        "x": 24,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "首页"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 28,
+        "x": 86,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "番剧"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 28,
+        "x": 124,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "直播"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 56,
+        "x": 162,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "游戏中心"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 42,
+        "x": 228,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "会员购"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 28,
+        "x": 280,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "漫画"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 28,
+        "x": 318,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "赛事"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 90,
+        "x": 356,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "下载客户端"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 77.5,
+        "width": 180,
+        "x": 56,
+        "y": 67.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 40,
+        "x": 40,
+        "y": 173
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "动态"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 40,
+        "x": 90,
+        "y": 173
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "热门"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 72.4375,
+        "x": 140,
+        "y": 172
+      },
+      "style": {
+        "background": "rgb(246, 247, 248)",
+        "borderRadius": "6px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px 2px"
+      },
+      "tag": "A",
+      "text": "番剧"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 72.4375,
+        "x": 140,
+        "y": 210
+      },
+      "style": {
+        "background": "rgb(246, 247, 248)",
+        "borderRadius": "6px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px 2px"
+      },
+      "tag": "A",
+      "text": "电影"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 72.4453125,
+        "x": 222.4375,
+        "y": 172
+      },
+      "style": {
+        "background": "rgb(246, 247, 248)",
+        "borderRadius": "6px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px 2px"
+      },
+      "tag": "A",
+      "text": "国创"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 72.4453125,
+        "x": 222.4375,
+        "y": 210
+      },
+      "style": {
+        "background": "rgb(246, 247, 248)",
+        "borderRadius": "6px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px 2px"
+      },
+      "tag": "A",
+      "text": "电视剧"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 72.4453125,
+        "x": 304.8828125,
+        "y": 172
+      },
+      "style": {
+        "background": "rgb(246, 247, 248)",
+        "borderRadius": "6px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px 2px"
+      },
+      "tag": "A",
+      "text": "综艺"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 72.4453125,
+        "x": 304.8828125,
+        "y": 210
+      },
+      "style": {
+        "background": "rgb(246, 247, 248)",
+        "borderRadius": "6px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px 2px"
+      },
+      "tag": "A",
+      "text": "纪录片"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 72.4453125,
+        "x": 387.328125,
+        "y": 172
+      },
+      "style": {
+        "background": "rgb(246, 247, 248)",
+        "borderRadius": "6px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px 2px"
+      },
+      "tag": "A",
+      "text": "动画"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 72.4453125,
+        "x": 387.328125,
+        "y": 210
+      },
+      "style": {
+        "background": "rgb(246, 247, 248)",
+        "borderRadius": "6px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px 2px"
+      },
+      "tag": "A",
+      "text": "游戏"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 2377.125,
+        "width": 1020,
+        "x": 20,
+        "y": 255
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "RE0Bonly创作挑战限时开启\n20万\n357\n19:40\n【边狱公司】今天，镜牢死了，也许是昨天... 杀死镜牢的完美刷牢法：兔子洞（均时约11分）\n绅士丶蚂蚱\n· 21小时前\n161.5万\n9984\n34:56\n时隔两年四川妈妈终于来"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 284.75,
+        "width": 500,
+        "x": -480,
+        "y": 255
+      },
+      "style": {
+        "background": "rgb(241, 242, 243)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 284.75,
+        "width": 500,
+        "x": 20,
+        "y": 255
+      },
+      "style": {
+        "background": "rgb(241, 242, 243)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 25,
+        "width": 400,
+        "x": 35,
+        "y": 551
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "RE0Bonly创作挑战限时开启"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 135,
+        "width": 240,
+        "x": 20,
+        "y": 751
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "38.1万\n1223\n11:34"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 135,
+        "width": 240,
+        "x": 280,
+        "y": 751
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "132.8万\n3957\n06:52"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 422,
+        "x": 24,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "首页\n番剧\n直播\n游戏中心\n会员购\n漫画\n赛事\n下载客户端"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 52,
+        "x": 24,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "首页"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.3984375,
+        "width": 28,
+        "x": 48,
+        "y": 20.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "首页"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 28,
+        "x": 86,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "番剧"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.3984375,
+        "width": 28,
+        "x": 86,
+        "y": 20.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "番剧"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 28,
+        "x": 124,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "直播"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.3984375,
+        "width": 28,
+        "x": 124,
+        "y": 20.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "直播"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 56,
+        "x": 162,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "游戏中心"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 56,
+        "x": 162,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "游戏中心"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.3984375,
+        "width": 56,
+        "x": 162,
+        "y": 20.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "游戏中心"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 42,
+        "x": 228,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "会员购"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.3984375,
+        "width": 42,
+        "x": 228,
+        "y": 20.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "会员购"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 28,
+        "x": 280,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "漫画"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.3984375,
+        "width": 28,
+        "x": 280,
+        "y": 20.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "漫画"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 28,
+        "x": 318,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "赛事"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.3984375,
+        "width": 28,
+        "x": 318,
+        "y": 20.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "赛事"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 90,
+        "x": 356,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "下载客户端"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.3984375,
+        "width": 70,
+        "x": 376,
+        "y": 20.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "下载客户端"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 100,
+        "width": 1020,
+        "x": 40,
+        "y": 155
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "动态\n热门\n番剧\n电影\n国创\n电视剧\n综艺\n纪录片\n动画\n游戏\n鬼畜\n音乐\n舞蹈\n影视\n娱乐\n知识\n科技数码\n资讯\n美食\n更多\n专栏\n直播\n活动\n课堂\n社区中心\n新歌热榜"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 64,
+        "width": 100,
+        "x": 40,
+        "y": 173
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "动态\n热门"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 26,
+        "x": 47,
+        "y": 219
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "flow-root",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "动态"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 26,
+        "x": 97,
+        "y": 219
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "flow-root",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "热门"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 66,
+        "width": 920,
+        "x": 140,
+        "y": 172
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "flex",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "番剧\n电影\n国创\n电视剧\n综艺\n纪录片\n动画\n游戏\n鬼畜\n音乐\n舞蹈\n影视\n娱乐\n知识\n科技数码\n资讯\n美食\n更多\n专栏\n直播\n活动\n课堂\n社区中心\n新歌热榜"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.796875,
+        "width": 30,
+        "x": 161.21875,
+        "y": 175.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flow-root",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "番剧"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.796875,
+        "width": 30,
+        "x": 161.21875,
+        "y": 213.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flow-root",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "电影"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.796875,
+        "width": 30,
+        "x": 243.65625,
+        "y": 175.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flow-root",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "国创"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.796875,
+        "width": 45,
+        "x": 236.15625,
+        "y": 213.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flow-root",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "电视剧"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.796875,
+        "width": 30,
+        "x": 326.1015625,
+        "y": 175.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flow-root",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "综艺"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.796875,
+        "width": 45,
+        "x": 318.6015625,
+        "y": 213.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(97, 102, 109)",
+        "display": "flow-root",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "纪录片"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 436,
+        "width": 500,
+        "x": 20,
+        "y": 255
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 25, 28)",
+        "display": "block",
+        "fontFamily": "-apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "RE0Bonly创作挑战限时开启"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+  "url": "https://www.bilibili.com/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-04T23:45:02.623Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

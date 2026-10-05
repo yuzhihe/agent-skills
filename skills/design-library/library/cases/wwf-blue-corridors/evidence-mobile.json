@@ -1,0 +1,365 @@
+{
+  "body": {
+    "background": "rgb(1, 41, 93)",
+    "fontFamily": "Inter, \"Inter Fallback\", Helvetica, ui-sans-serif"
+  },
+  "elements": [
+    {
+      "id": "nav-toggle",
+      "rect": {
+        "height": 79.0390625,
+        "width": 72.796875,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Toggle Navigation"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.71875,
+        "width": 108.7109375,
+        "x": 271.9296875,
+        "y": 50.9609375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(233, 242, 247)",
+        "display": "flex",
+        "fontFamily": "\"League Gothic\", \"League Gothic Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "24.96px",
+        "fontWeight": "400",
+        "gap": "8.32px",
+        "lineHeight": "18.72px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "EXPLORE MAP"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 79.0390625,
+        "width": 138.71875,
+        "x": 72.796875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "16.64px",
+        "fontWeight": "300",
+        "gap": "normal",
+        "lineHeight": "19.76px",
+        "padding": "9.36px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 66.5625,
+        "width": 104,
+        "x": 19.9609375,
+        "y": 682.765625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "\"League Gothic\", \"League Gothic Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "41.6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "33.28px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "BLUE WHALE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.71875,
+        "width": 32.4453125,
+        "x": 8.3125,
+        "y": 599.5625
+      },
+      "style": {
+        "background": "rgb(33, 85, 141)",
+        "borderRadius": "48.672px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Toggle"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 66.5625,
+        "width": 104,
+        "x": 373.5546875,
+        "y": 619.609375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "\"League Gothic\", \"League Gothic Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "41.6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "33.28px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "BOWHEAD WHALE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.71875,
+        "width": 32.4453125,
+        "x": 361.90625,
+        "y": 546.8203125
+      },
+      "style": {
+        "background": "rgb(33, 85, 141)",
+        "borderRadius": "48.672px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Toggle"
+    },
+    {
+      "id": "main-map",
+      "rect": {
+        "height": 507.046875,
+        "width": 390,
+        "x": 0,
+        "y": 79.0390625
+      },
+      "style": {
+        "background": "rgb(4, 31, 63)",
+        "borderRadius": "0px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "16.64px",
+        "fontWeight": "300",
+        "gap": "normal",
+        "lineHeight": "19.76px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "MOBILE VIEW - LIMITED FUNCTIONALITY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24.953125,
+        "width": 24.953125,
+        "x": 349.453125,
+        "y": 94.6328125
+      },
+      "style": {
+        "background": "rgb(229, 239, 247)",
+        "borderRadius": "2.08px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "mobile info button"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 344.1640625,
+        "y": 552.0390625
+      },
+      "style": {
+        "background": "rgba(255, 255, 255, 0.5)",
+        "borderRadius": "12px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Toggle attribution"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.71875,
+        "width": 85.84375,
+        "x": 271.9296875,
+        "y": 50.9609375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(233, 242, 247)",
+        "display": "block",
+        "fontFamily": "\"League Gothic\", \"League Gothic Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "24.96px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.72px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "EXPLORE MAP"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.671875,
+        "width": 111.203125,
+        "x": 139.3984375,
+        "y": 552.8140869140625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(1, 41, 93)",
+        "display": "flex",
+        "fontFamily": "caps, \"caps Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "11.44px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "11.44px",
+        "padding": "3.12px 4.68px"
+      },
+      "tag": "SPAN",
+      "text": "SHOW ALL SPECIES"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 268.796875,
+        "width": 352.59375,
+        "x": 0,
+        "y": 670.2890625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(157, 191, 230)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "16.64px",
+        "fontWeight": "300",
+        "gap": "normal",
+        "lineHeight": "19.76px",
+        "padding": "12.48px 12.48px 12.48px 19.968px"
+      },
+      "tag": "DIV",
+      "text": "BLUE WHALE\n\nBALAENOPTERA MUSCULUS\n\nIUCN STATUS\tLENGTH\tPOPULATION\nENDANGERED\t24-36M\t\n~\n5K-15K"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24.953125,
+        "width": 352.59375,
+        "x": 353.59375,
+        "y": 607.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(157, 191, 230)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "16.64px",
+        "fontWeight": "300",
+        "gap": "normal",
+        "lineHeight": "19.76px",
+        "padding": "12.48px 12.48px 12.48px 19.968px"
+      },
+      "tag": "DIV",
+      "text": "BOWHEAD WHALE\n\nBALAENA MYSTICETUS\n\nIUCN STATUS\tLENGTH\tPOPULATION\nLEAST CONCERN\t13-15M\t\n~\n10,000"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24.953125,
+        "width": 285.1484375,
+        "x": 89.2578125,
+        "y": 94.6328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(233, 242, 247)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\", Helvetica, ui-sans-serif",
+        "fontSize": "16.64px",
+        "fontWeight": "300",
+        "gap": "1.04px",
+        "lineHeight": "19.76px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "MOBILE VIEW - LIMITED FUNCTIONALITY"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Protecting Blue Corridors — Explore",
+  "url": "https://bluecorridors.org/explore/species",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-04T23:41:01.552Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

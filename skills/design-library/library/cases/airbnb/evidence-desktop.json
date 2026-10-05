@@ -1,0 +1,493 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 2229,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Skip to content\nAirbnb homepage\nTurn on AI search. Find what you want, in your own words\nOn\nOff\nAll\n"
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 1280,
+        "x": 0,
+        "y": 76
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px 32px"
+      },
+      "text": "All\nAll\nHomes\nHomes\nExperiences\nExperiences\nServices\nServices\nWhere\nWhen\nAdd dates\nWho\nAdd guests\nBe"
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 225,
+        "x": 1023,
+        "y": 76
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Become a host"
+    },
+    {
+      "rect": {
+        "height": 992,
+        "width": 1280,
+        "x": 0,
+        "y": 276
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Popular homes in Lake Tahoe\n6 of 9 items showing\n_\n_\nGuest favorite\nGuest favorite\nCabin in South La"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 268,
+        "x": 34,
+        "y": 331
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Popular homes in Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 277,
+        "x": 34,
+        "y": 640
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Great hotels for your next trip"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 409,
+        "x": 34,
+        "y": 985
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Available in South Lake Tahoe next weekend"
+    },
+    {
+      "rect": {
+        "height": 35,
+        "width": 91,
+        "x": 837,
+        "y": 21
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(255, 255, 255, 0.3)",
+        "borderRadius": "100px",
+        "boxShadow": "rgba(218, 218, 218, 0.6) 0px 0.5px 1px 0px, rgba(0, 0, 0, 0.12) 0px -0.502px 1.004px 0px, rgba(0, 0, 0, 0.04) 0px -1.5px 3.5px 0px, rgba(0, 0, 0, 0.05) 0px 3px 5px 0px, rgba(0, 0, 0, 0.2) 0px 0.75px 1px 0px inset, rgba(34, 34, 34, 0.6) 0px -0.5px 5px 1px inset, rgba(0, 0, 0, 0.16) 0.502px 0.5px 2px 0px inset, rgba(0, 0, 0, 0.12) 0px -3px 7px 0px inset, rgba(0, 0, 0, 0.05) 0.502px 2px 4px 0px inset, rgba(0, 0, 0, 0.04) 1.004px 4px 4px 0px inset, rgba(184, 72, 155, 0.2) 0px -3px 7px 0px inset",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "On\nOff"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 1007,
+        "y": 179
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 121,
+        "x": 1023,
+        "y": 96
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "20px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "18px",
+        "padding": "11px 12px"
+      },
+      "text": "Become a host"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 1156,
+        "y": 96
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgb(242, 242, 242)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "Log in or sign up"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 1208,
+        "y": 96
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgb(242, 242, 242)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "Main navigation menu"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 28,
+        "x": 1188,
+        "y": 329
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgb(242, 242, 242)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(193, 193, 193)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "_"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 28,
+        "x": 1220,
+        "y": 329
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgb(242, 242, 242)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "_"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 185,
+        "y": 381
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "2px 0px 0px"
+      },
+      "text": "Add to wishlist: Cabin in South Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 102,
+        "x": 32,
+        "y": 76
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 56, 92)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Airbnb homepage"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 66,
+        "x": 389,
+        "y": 98
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px 5px 0px 0px"
+      },
+      "text": "All\nAll"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 104,
+        "x": 490,
+        "y": 98
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px 0px 0px 5px"
+      },
+      "text": "Homes\nHomes"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 125,
+        "x": 628,
+        "y": 98
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Experiences\nExperiences"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 106,
+        "x": 786,
+        "y": 98
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px 0px 0px 2px"
+      },
+      "text": "Services\nServices"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 304,
+        "x": 32,
+        "y": 329
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Popular homes in Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 225,
+        "width": 193,
+        "x": 32,
+        "y": 373
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "20px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 247,
+        "y": 203
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "text": "Where"
+    }
+  ],
+  "title": "Airbnb | Vacation rentals, cabins, beach houses, & more",
+  "url": "https://www.airbnb.com/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

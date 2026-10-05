@@ -1,0 +1,3 @@
+Browser tab: 29, Title: "Protecting Blue Corridors — Explore", URL: "https://bluecorridors.org/explore/species".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea Protecting Blue Corridors — Explore, URL: bluecorridors.org/explore/species

@@ -1,0 +1,27 @@
+{
+  "order": 24,
+  "id": "shopify-editions",
+  "name": "Shopify Editions · 主题发布",
+  "source": "https://www.shopify.com/editions/winter2026",
+  "studied": "2026-10-05",
+  "tasks": [
+    "product",
+    "brand"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "illustration",
+    "product-screenshots"
+  ],
+  "tone": [
+    "editorial",
+    "bold"
+  ],
+  "lang": "en",
+  "summary": "主题插画建立发布季身份，紧凑章节目录把大量产品更新组织为可跳转长页。",
+  "usage": "适合多模块产品发布与年度报告；需要成体系的主题视觉和真实更新内容。",
+  "recognition": {
+    "label": "2026 Webby Winner：Best Home Page；People’s Voice：Best Visual Design–Aesthetic",
+    "url": "https://winners.webbyawards.com/2026/websites-and-mobile-sites/features-design/best-home-page/372642/the-renaissance-edition"
+  }
+}

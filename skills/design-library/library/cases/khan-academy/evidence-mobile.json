@@ -1,0 +1,178 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(21, 21, 33)",
+        "fontFamily": "\"Plus Jakarta Sans\", \"Noto Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "padding": "0px"
+      },
+      "text": "Skip to main content\nMore for teachers: Sign up free to assign practice, track progress, and more.\nS"
+    },
+    {
+      "rect": {
+        "height": 60,
+        "width": 390,
+        "x": 0,
+        "y": 105
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(21, 21, 33)",
+        "fontFamily": "\"Plus Jakarta Sans\", \"Noto Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "padding": "0px"
+      },
+      "text": "Search for courses, skills, and videos"
+    },
+    {
+      "rect": {
+        "height": 8083,
+        "width": 390,
+        "x": 0,
+        "y": 166
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(21, 21, 33)",
+        "fontFamily": "\"Plus Jakarta Sans\", \"Noto Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "padding": "0px"
+      },
+      "text": "Turn big learning goals into real results.\n\nKhan Academy helps schools personalize learning, strengt"
+    },
+    {
+      "rect": {
+        "height": 64,
+        "width": 358,
+        "x": 16,
+        "y": 214
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(21, 21, 33)",
+        "fontFamily": "\"Plus Jakarta Sans\", \"Noto Sans\", sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "text": "Turn big learning goals into real results."
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 358,
+        "x": 16,
+        "y": 531
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(21, 21, 33)",
+        "fontFamily": "\"Plus Jakarta Sans\", \"Noto Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Get started"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 341,
+        "y": 22
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "boxShadow": "none",
+        "color": "rgb(74, 76, 83)",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "Dismiss banner."
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 57,
+        "x": 199,
+        "y": 24
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(87, 83, 250)",
+        "fontFamily": "\"Plus Jakarta Sans\", \"Noto Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "text": "Sign up"
+    },
+    {
+      "rect": {
+        "height": 60,
+        "width": 191,
+        "x": 0,
+        "y": 105
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(21, 21, 33)",
+        "fontFamily": "\"Plus Jakarta Sans\", \"Noto Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "normal",
+        "padding": "0px 0px 0px 16px"
+      },
+      "text": "Khan Academy"
+    }
+  ],
+  "title": "Khan Academy | Free Online Courses, Lessons & Practice",
+  "url": "https://www.khanacademy.org/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

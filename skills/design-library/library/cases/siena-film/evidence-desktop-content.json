@@ -1,0 +1,1492 @@
+{
+  "body": {
+    "background": "rgb(0, 0, 0)",
+    "fontFamily": "\"NB International\", Arial, sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 103,
+        "width": 98.3984375,
+        "x": 33.59375,
+        "y": 32
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 237,
+        "x": 905.40625,
+        "y": 247.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "8px",
+        "fontWeight": "400",
+        "gap": "6.4px",
+        "lineHeight": "15.6px",
+        "padding": "0px 14px"
+      },
+      "tag": "A",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 237,
+        "x": 905.40625,
+        "y": 247.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "8px",
+        "fontWeight": "400",
+        "gap": "6.4px",
+        "lineHeight": "15.6px",
+        "padding": "0px 14px"
+      },
+      "tag": "A",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 237,
+        "x": 905.40625,
+        "y": 247.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "8px",
+        "fontWeight": "400",
+        "gap": "6.4px",
+        "lineHeight": "15.6px",
+        "padding": "0px 14px"
+      },
+      "tag": "A",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 237,
+        "x": 905.40625,
+        "y": 247.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "8px",
+        "fontWeight": "400",
+        "gap": "6.4px",
+        "lineHeight": "15.6px",
+        "padding": "0px 14px"
+      },
+      "tag": "A",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 237,
+        "x": 905.40625,
+        "y": 247.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "8px",
+        "fontWeight": "400",
+        "gap": "6.4px",
+        "lineHeight": "15.6px",
+        "padding": "0px 14px"
+      },
+      "tag": "A",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 237,
+        "x": 905.40625,
+        "y": 247.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "8px",
+        "fontWeight": "400",
+        "gap": "6.4px",
+        "lineHeight": "15.6px",
+        "padding": "0px 14px"
+      },
+      "tag": "A",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 237,
+        "x": 905.40625,
+        "y": 247.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "8px",
+        "fontWeight": "400",
+        "gap": "6.4px",
+        "lineHeight": "15.6px",
+        "padding": "0px 14px"
+      },
+      "tag": "A",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42.390625,
+        "width": 237,
+        "x": 905.40625,
+        "y": 136
+      },
+      "style": {
+        "background": "rgba(239, 239, 239, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12.8px"
+      },
+      "tag": "BUTTON",
+      "text": "SAVOY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42.390625,
+        "width": 237,
+        "x": 905.40625,
+        "y": 179.390625
+      },
+      "style": {
+        "background": "rgba(239, 239, 239, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12.8px"
+      },
+      "tag": "BUTTON",
+      "text": "MOON IN THE 12TH HOUSE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42.390625,
+        "width": 237,
+        "x": 905.40625,
+        "y": 222.78125
+      },
+      "style": {
+        "background": "rgba(239, 239, 239, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12.8px"
+      },
+      "tag": "BUTTON",
+      "text": "TABOO"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42.390625,
+        "width": 237,
+        "x": 905.40625,
+        "y": 266.171875
+      },
+      "style": {
+        "background": "rgba(239, 239, 239, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12.8px"
+      },
+      "tag": "BUTTON",
+      "text": "KAFKA'S LAST TRIAL"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42.390625,
+        "width": 237,
+        "x": 905.40625,
+        "y": 309.5625
+      },
+      "style": {
+        "background": "rgba(239, 239, 239, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12.8px"
+      },
+      "tag": "BUTTON",
+      "text": "MY PROJECT X"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42.390625,
+        "width": 237,
+        "x": 905.40625,
+        "y": 352.953125
+      },
+      "style": {
+        "background": "rgba(239, 239, 239, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12.8px"
+      },
+      "tag": "BUTTON",
+      "text": "ANA MAXIM"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42.390625,
+        "width": 237,
+        "x": 905.40625,
+        "y": 396.34375
+      },
+      "style": {
+        "background": "rgba(239, 239, 239, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12.8px"
+      },
+      "tag": "BUTTON",
+      "text": "OUTSIDER FREUD"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42.390625,
+        "width": 237,
+        "x": 905.40625,
+        "y": 439.734375
+      },
+      "style": {
+        "background": "rgba(239, 239, 239, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "12.8px"
+      },
+      "tag": "BUTTON",
+      "text": "BY ANY MEANS"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 41.2890625,
+        "width": 341,
+        "x": 905.40625,
+        "y": 114.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "6.4px 0px 1.6px 21.6px"
+      },
+      "tag": "A",
+      "text": "WORK"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 41.2890625,
+        "width": 341,
+        "x": 905.40625,
+        "y": 155.484375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "6.4px 0px 1.6px 21.6px"
+      },
+      "tag": "A",
+      "text": "ABOUT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 41.2890625,
+        "width": 341,
+        "x": 905.40625,
+        "y": 196.7734375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28.8px",
+        "padding": "6.4px 0px 1.6px 21.6px"
+      },
+      "tag": "A",
+      "text": "CONTACT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 26,
+        "width": 46.0625,
+        "x": 930.328125,
+        "y": 277.453125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "COOKIE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 26,
+        "width": 41.5234375,
+        "x": 1018.9140625,
+        "y": 277.453125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "TERMS"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 26,
+        "width": 51.8828125,
+        "x": 1100.0546875,
+        "y": 277.453125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "PRIVACY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40.5625,
+        "width": 40.78125,
+        "x": 918.203125,
+        "y": 336.4453125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "9.6px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38.390625,
+        "width": 38.390625,
+        "x": 958.984375,
+        "y": 337.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "6.4px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38.0703125,
+        "width": 38.390625,
+        "x": 997.375,
+        "y": 337.6875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "3.2px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.375030517578125,
+        "width": 334.1953125,
+        "x": 105.4375,
+        "y": 469.9096374511719
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "57.6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "44.352px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "M\nM\nY\nY\n \nP\nP\nR\nR\nO\nO\nJ\nJ\nE\nE\nC\nC\nT\nT\n \nX\nX"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 9.6015625,
+        "width": 149.78125,
+        "x": 1047.4140625,
+        "y": 128.0702667236328
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "block",
+        "fontFamily": "\"P22 Parrish Roman\", Arial, sans-serif",
+        "fontSize": "9.6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "9.6px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "CRITICAL ACCLAIM"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 25.921890258789062,
+        "width": 129.1640625,
+        "x": 1057.71875,
+        "y": 155.2655792236328
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "12.96px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "“A FASCINATING VOYAGE”"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 9.6015625,
+        "width": 149.78125,
+        "x": 1047.4140625,
+        "y": 232.7982482910156
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "block",
+        "fontFamily": "\"P22 Parrish Roman\", Arial, sans-serif",
+        "fontSize": "9.6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "9.6px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "CRITICAL ACCLAIM"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 25.921875,
+        "width": 129.1640625,
+        "x": 1057.71875,
+        "y": 259.9935607910156
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "12.96px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "\"A FILM BASED ON A TRUE STORY\""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 9.6015625,
+        "width": 149.78125,
+        "x": 1047.4140625,
+        "y": 337.52618408203125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "block",
+        "fontFamily": "\"P22 Parrish Roman\", Arial, sans-serif",
+        "fontSize": "9.6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "9.6px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "CRITICAL ACCLAIM"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 25.921875,
+        "width": 129.1640625,
+        "x": 1057.71875,
+        "y": 364.7214965820313
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "12.96px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "“RIVETING SOUNDTRACK”"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 165,
+        "x": 1039.8046875,
+        "y": 556.7931518554688
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "EXPLORE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 165,
+        "x": 1039.8046875,
+        "y": 555.31494140625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 247, 239)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "1px 6px"
+      },
+      "tag": "BUTTON",
+      "text": "EXPLORE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 103,
+        "width": 237,
+        "x": 905.40625,
+        "y": 32
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "MY PROJECT X\nDOCUMENTARY\n2024\nMIN.88"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 103,
+        "width": 237,
+        "x": 905.40625,
+        "y": 32
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "MY PROJECT X\nDOCUMENTARY\n2024\nMIN.88"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 103,
+        "width": 237,
+        "x": 905.40625,
+        "y": 32
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "MY PROJECT X\nDOCUMENTARY\n2024\nMIN.88"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 77.25,
+        "width": 189.59375,
+        "x": 905.40625,
+        "y": 32
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "9.6px",
+        "lineHeight": "26px",
+        "padding": "16px 0px 0px 12px"
+      },
+      "tag": "DIV",
+      "text": "MY PROJECT X"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 61.25,
+        "width": 121.0625,
+        "x": 965.3984375,
+        "y": 48
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "MY PROJECT X"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 25.75,
+        "width": 237,
+        "x": 905.40625,
+        "y": 109.25
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "7.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "7.2px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "DOCUMENTARY\n2024\nMIN.88"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 25.75,
+        "width": 237,
+        "x": 905.40625,
+        "y": 110.25
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "7.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "7.2px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "DOCUMENTARY\n2024\nMIN.88"
+    },
+    {
+      "id": "w-node-_5f7cb390-63c3-52da-5bb7-2905d4a63826-d4a6380e",
+      "rect": {
+        "height": 24.703125,
+        "width": 102.0234375,
+        "x": 905.40625,
+        "y": 110.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "7.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "7.2px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "DOCUMENTARY"
+    },
+    {
+      "id": "w-node-_5f7cb390-63c3-52da-5bb7-2905d4a63829-d4a6380e",
+      "rect": {
+        "height": 24.703125,
+        "width": 58.09375,
+        "x": 1007.4296875,
+        "y": 110.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "7.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "7.2px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "2024"
+    },
+    {
+      "id": "w-node-_5f7cb390-63c3-52da-5bb7-2905d4a6382c-d4a6380e",
+      "rect": {
+        "height": 24.703125,
+        "width": 76.8828125,
+        "x": 1065.5234375,
+        "y": 110.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "7.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "7.2px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "MIN.88"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 111.1796875,
+        "width": 237,
+        "x": 905.40625,
+        "y": 136
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "grid",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "HEADLINE\n\"A FILM BASED ON A TRUE STORY\"\nDIRECTOR\nDORIT HAKIM KRAMER\nPRODUCERS\nLEELU DORIT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.390625,
+        "width": 42.578125,
+        "x": 943.3671875,
+        "y": 162.8125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "6.6px",
+        "padding": "9.6px 0px 3.2px"
+      },
+      "tag": "DIV",
+      "text": "HEADLINE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.8046875,
+        "width": 90.5,
+        "x": 919.40625,
+        "y": 182.203125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "\"A FILM BASED ON A TRUE STORY\""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.390625,
+        "width": 42.0234375,
+        "x": 1038.90625,
+        "y": 148.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "6.6px",
+        "padding": "9.6px 0px 3.2px"
+      },
+      "tag": "DIV",
+      "text": "DIRECTOR"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 31.203125,
+        "width": 89.5,
+        "x": 1038.90625,
+        "y": 168.1875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "DORIT HAKIM KRAMER"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.390625,
+        "width": 50.3359375,
+        "x": 1038.90625,
+        "y": 199.390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "6.6px",
+        "padding": "9.6px 0px 3.2px"
+      },
+      "tag": "DIV",
+      "text": "PRODUCERS"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 15.6015625,
+        "width": 71.1171875,
+        "x": 1038.90625,
+        "y": 218.78125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "LEELU DORIT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 9,
+        "width": 92.3359375,
+        "x": 919.40625,
+        "y": 263.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "9px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 111.1796875,
+        "width": 237,
+        "x": 905.40625,
+        "y": 136
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "grid",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "HEADLINE\n\"A FILM BASED ON A TRUE STORY\"\nDIRECTOR\nSHAULY MELAMED\nPRODUCERS\nLEELU DORIT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.390625,
+        "width": 42.578125,
+        "x": 943.3671875,
+        "y": 162.8125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "6.6px",
+        "padding": "9.6px 0px 3.2px"
+      },
+      "tag": "DIV",
+      "text": "HEADLINE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.8046875,
+        "width": 90.5,
+        "x": 919.40625,
+        "y": 182.203125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "\"A FILM BASED ON A TRUE STORY\""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.390625,
+        "width": 42.0234375,
+        "x": 1038.90625,
+        "y": 148.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "6.6px",
+        "padding": "9.6px 0px 3.2px"
+      },
+      "tag": "DIV",
+      "text": "DIRECTOR"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 31.203125,
+        "width": 89.5,
+        "x": 1038.90625,
+        "y": 168.1875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "SHAULY MELAMED"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.390625,
+        "width": 50.3359375,
+        "x": 1038.90625,
+        "y": 199.390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "6.6px",
+        "padding": "9.6px 0px 3.2px"
+      },
+      "tag": "DIV",
+      "text": "PRODUCERS"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 15.6015625,
+        "width": 71.1171875,
+        "x": 1038.90625,
+        "y": 218.78125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "LEELU DORIT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 9,
+        "width": 92.3359375,
+        "x": 919.40625,
+        "y": 263.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "9px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "SEE CASE STUDY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 111.1796875,
+        "width": 237,
+        "x": 905.40625,
+        "y": 136
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "grid",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "HEADLINE\n\"A FILM BASED ON A TRUE STORY\"\nDIRECTOR\nELIRAN PELED\nPRODUCERS\nLEELU DORIT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.390625,
+        "width": 42.578125,
+        "x": 943.3671875,
+        "y": 160.125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "6.6px",
+        "padding": "9.6px 0px 3.2px"
+      },
+      "tag": "DIV",
+      "text": "HEADLINE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.8046875,
+        "width": 90.5,
+        "x": 919.40625,
+        "y": 179.515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Neue Brucke\", Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "\"A FILM BASED ON A TRUE STORY\""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.390625,
+        "width": 42.0234375,
+        "x": 1038.90625,
+        "y": 159.0234375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"NB International\", Arial, sans-serif",
+        "fontSize": "6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "6.6px",
+        "padding": "9.6px 0px 3.2px"
+      },
+      "tag": "DIV",
+      "text": "DIRECTOR"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Siena Film Foundation",
+  "url": "https://siena.film/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:38:19.687Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

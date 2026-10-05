@@ -1,0 +1,5 @@
+Browser tab: 29, Title: "Protecting Blue Corridors — Explore", URL: "https://bluecorridors.org/explore/species".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~					557 button 1 131.667 365
+~							560 slider Description: Accessibility label, Value: 131.6666717529297
+The focused UI element is 111 button toggle expand

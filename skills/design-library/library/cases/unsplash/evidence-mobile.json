@@ -1,0 +1,283 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 14743,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Photos\nFeatured\nAnimals\nArchitecture\nExperimental\nFashion & Beauty\nFilm\nNature\nPeople\nTravel\n3D Rend"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "8px 12px"
+      },
+      "text": "Photos"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 390,
+        "x": 0,
+        "y": 48
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "8px 12px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 269,
+        "x": 42,
+        "y": 258
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "23.9999px",
+        "padding": "0px"
+      },
+      "text": "Unsplash Awards 2026"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 187,
+        "x": 373,
+        "y": 196
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Crop. Resize.\nRemove backgrounds."
+    },
+    {
+      "rect": {
+        "height": 41,
+        "width": 86,
+        "x": 44,
+        "y": 8
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "22.4px",
+        "padding": "8px"
+      },
+      "text": "Photos"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 306,
+        "y": 8
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": "Language"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 346,
+        "y": 8
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": "Menu"
+    },
+    {
+      "rect": {
+        "height": 38,
+        "width": 32,
+        "x": 13,
+        "y": 57
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 12,
+        "y": 16
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 266,
+        "y": 8
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "boxShadow": "none",
+        "color": "rgb(118, 118, 118)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": "Log in / Sign up"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 59,
+        "x": 12,
+        "y": 96
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "rgb(17, 17, 17) 0px -2px 0px 0px inset",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "22.4px",
+        "padding": "0px"
+      },
+      "text": "Featured"
+    },
+    {
+      "rect": {
+        "height": 38,
+        "width": 332,
+        "x": 45,
+        "y": 57
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "padding": "1px 2px 2px 10px"
+      },
+      "text": ""
+    }
+  ],
+  "title": "Beautiful Free Images & Pictures | Unsplash",
+  "url": "https://unsplash.com/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

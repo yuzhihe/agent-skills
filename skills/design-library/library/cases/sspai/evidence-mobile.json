@@ -1,0 +1,241 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 4803,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "推荐\n派早报\n今日休刊\n周一\n5\n\n会员文章\n\nExcel AI 辅助工作流横评\n\nHomeLab 系列（一）\n\n入门指南与硬件\n\n当我怀念旧版 Edge 浏览器……\n\n我在怀念什么？\n\n聊聊你用开源"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "推荐"
+    },
+    {
+      "rect": {
+        "height": 161,
+        "width": 358,
+        "x": 16,
+        "y": 639
+      },
+      "selector": "article",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验\n\nKingTsui\n前天 15:00"
+    },
+    {
+      "rect": {
+        "height": 465,
+        "width": 358,
+        "x": 16,
+        "y": 800
+      },
+      "selector": "article",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "32px 0px"
+      },
+      "text": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验\n\niPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。\n\nwaychane\n昨天 15:58"
+    },
+    {
+      "rect": {
+        "height": 161,
+        "width": 358,
+        "x": 16,
+        "y": 1265
+      },
+      "selector": "article",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "本周看什么 | 最近值得一看的 8 部作品\n\n少数派编辑部\n10/02"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 64,
+        "x": 56,
+        "y": 14
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "推荐"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 302,
+        "y": 12
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 342,
+        "y": 12
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 16,
+        "y": 12
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 356,
+        "width": 356,
+        "x": -695,
+        "y": 73
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 356,
+        "width": 356,
+        "x": -339,
+        "y": 73
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "-apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", 微软雅黑, \"helvetica neue\", helvetica, ubuntu, roboto, noto, \"segoe ui\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "会员文章\n\nExcel AI 辅助工作流横评"
+    }
+  ],
+  "title": "少数派 - 高效工作，品质生活",
+  "url": "https://sspai.com/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

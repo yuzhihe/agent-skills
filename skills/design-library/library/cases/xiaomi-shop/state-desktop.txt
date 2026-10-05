@@ -1,0 +1,9 @@
+Browser tab: 30, Title: "Xiaomi官方网站 | 以人为中心，构建“人车家全生态”", URL: "https://www.mi.com/shop".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~				233 link Description: 满69包邮, Value: mi.com/service/buy/Postal%20policy
+~				315 link Description: 小米公司儿童信息保护规则, Value: cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5…
+~				333 link Description: 京公网安备11010802020134号, Value: beian.gov.cn/portal/registerSystemInfo
+~				339 link Description: 增值电信业务经营许可证编号：京B2-20180851, Value: cdn.cnbj1.fds.api.mi-img.com/staticsfil…
+~				341 link Description: 食品经营许可证, Value: mi.com/article/detail/972d1e084d35.html
+~				350 link Description: 诚信网站, Value: search.szfw.org/cert/l/CX20120926001783…
+The focused UI element is 1 AXWebArea Xiaomi官方网站 | 以人为中心，构建“人车家全生态”, URL: mi.com/shop

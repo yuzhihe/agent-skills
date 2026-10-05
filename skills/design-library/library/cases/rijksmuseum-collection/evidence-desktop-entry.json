@@ -1,0 +1,641 @@
+{
+  "body": {
+    "background": "rgb(239, 234, 231)",
+    "fontFamily": "RijksText, Arial, sans-serif"
+  },
+  "elements": [
+    {
+      "id": "overlay-menu",
+      "rect": {
+        "height": 50,
+        "width": 1209.609375,
+        "x": 35.1953125,
+        "y": 20
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px 35.2px"
+      },
+      "tag": "NAV",
+      "text": "Home\nDiscover\nArt Explorer\nLanguage\nLogin\nRijksmuseum tickets"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 50,
+        "width": 50,
+        "x": 55.390625,
+        "y": 20
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Open menu"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 50,
+        "width": 100.65625,
+        "x": 145.390625,
+        "y": 20
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0.25)",
+        "borderRadius": "2px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.2px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "17.2px",
+        "padding": "0px 20px"
+      },
+      "tag": "A",
+      "text": "Home"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 60.5546875,
+        "x": 286.046875,
+        "y": 23
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "10.043px 0px 0px"
+      },
+      "tag": "A",
+      "text": "Discover"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 85.40625,
+        "x": 386.6015625,
+        "y": 23
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "10.043px 0px 0px"
+      },
+      "tag": "A",
+      "text": "Art Explorer"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 70.015625,
+        "x": 829.1640625,
+        "y": 23
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "10.043px 0px 0px"
+      },
+      "tag": "BUTTON",
+      "text": "Language"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 934.1796875,
+        "y": 23
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "10.043px 0px 0px"
+      },
+      "tag": "BUTTON",
+      "text": "Login"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 50,
+        "width": 191.4296875,
+        "x": 1013.1796875,
+        "y": 20
+      },
+      "style": {
+        "background": "rgb(204, 76, 40)",
+        "borderRadius": "2px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.2px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.2px",
+        "padding": "0px 20px"
+      },
+      "tag": "A",
+      "text": "Rijksmuseum tickets"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 4955.3125,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(44, 41, 38)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "COLLECTION\nDISCOVER\n\nJOHANNES VERMEER\n\nINDEPENDENCE OF INDONESIA\n\nJUDITH LEYSTER\n\nKINKE KOOI\n\nDELFTWARE\n\nDiscover\nART WO"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 202.5,
+        "width": 1209.609375,
+        "x": 30.1875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "125.005px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "112.504px",
+        "padding": "90px 0px 0px 35.2px"
+      },
+      "tag": "H1",
+      "text": "COLLECTION"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 97.609375,
+        "x": 70.3984375,
+        "y": 588
+      },
+      "style": {
+        "background": "rgb(32, 35, 39)",
+        "borderRadius": "5px 0px 0px 5px",
+        "color": "rgba(255, 255, 255, 0.4)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "20.006px",
+        "padding": "8px 16px"
+      },
+      "tag": "A",
+      "text": "ARTWORKS"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 82.796875,
+        "x": 169.0078125,
+        "y": 588
+      },
+      "style": {
+        "background": "rgb(32, 35, 39)",
+        "borderRadius": "0px",
+        "color": "rgba(255, 255, 255, 0.4)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "20.006px",
+        "padding": "8px 16px"
+      },
+      "tag": "A",
+      "text": "LIBRARY"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 131.015625,
+        "x": 252.8046875,
+        "y": 588
+      },
+      "style": {
+        "background": "rgb(32, 35, 39)",
+        "borderRadius": "0px 5px 5px 0px",
+        "color": "rgba(255, 255, 255, 0.4)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "20.006px",
+        "padding": "8px 16px"
+      },
+      "tag": "A",
+      "text": "VISITOR STORIES"
+    },
+    {
+      "id": "search-input",
+      "rect": {
+        "height": 54,
+        "width": 1010.09375,
+        "x": 79.3984375,
+        "y": 637
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "16px 12px"
+      },
+      "tag": "INPUT",
+      "text": "Search the collection, library catalogue and visitor stories"
+    },
+    {
+      "id": "submit-search-button",
+      "rect": {
+        "height": 54,
+        "width": 48,
+        "x": 1089.4921875,
+        "y": 637
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "16px"
+      },
+      "tag": "BUTTON",
+      "text": "Search"
+    },
+    {
+      "id": "extensive-search-button-in-search-bar",
+      "rect": {
+        "height": 54,
+        "width": 55.1015625,
+        "x": 1146.4921875,
+        "y": 636
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0.25)",
+        "borderRadius": "2px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.2px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "17.2px",
+        "padding": "0px 20px"
+      },
+      "tag": "BUTTON",
+      "text": "Filter"
+    },
+    {
+      "id": "navigation-header",
+      "rect": {
+        "height": 90,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(44, 41, 38)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Home\nDiscover\nArt Explorer\nLanguage\nLogin\nRijksmuseum tickets"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.203125,
+        "width": 42.65625,
+        "x": 183.390625,
+        "y": 36.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Home"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24.5546875,
+        "width": 60.5546875,
+        "x": 286.046875,
+        "y": 33.0390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Discover"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24.5546875,
+        "width": 85.40625,
+        "x": 386.6015625,
+        "y": 33.0390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Art Explorer"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24.5546875,
+        "width": 70.015625,
+        "x": 829.1640625,
+        "y": 33.0390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Language"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24.5546875,
+        "width": 39.2890625,
+        "x": 934.1796875,
+        "y": 33.0390625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Login"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "COLLECTION"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px 35.2px"
+      },
+      "tag": "DIV",
+      "text": "COLLECTION"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 262.5,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px 35.2px 60px"
+      },
+      "tag": "DIV",
+      "text": "COLLECTION"
+    },
+    {
+      "id": "component-wrapper",
+      "rect": {
+        "height": 68,
+        "width": 1139.1953125,
+        "x": 70.3984375,
+        "y": 632
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(44, 41, 38)",
+        "display": "flex",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "17.392px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.5575px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "ARTWORKS\nLIBRARY\nVISITOR STORIES"
+    },
+    {
+      "id": "search-tabs",
+      "rect": {
+        "height": 66,
+        "width": 454.21875,
+        "x": 0,
+        "y": 573
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(44, 41, 38)",
+        "display": "block",
+        "fontFamily": "RijksText, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "20.006px",
+        "padding": "15px 70.4px"
+      },
+      "tag": "DIV",
+      "text": "ARTWORKS\nLIBRARY\nVISITOR STORIES"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Collection - Rijksmuseum",
+  "url": "https://www.rijksmuseum.nl/en/collection",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:30:15.084Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

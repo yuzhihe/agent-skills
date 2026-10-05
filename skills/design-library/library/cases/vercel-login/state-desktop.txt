@@ -1,0 +1,3 @@
+Browser tab: 32, Title: "Login – Vercel", URL: "https://vercel.com/login".
+There has been no change in the accessibility tree.
+The focused UI element is 0 AXWebArea Login – Vercel, URL: vercel.com/login

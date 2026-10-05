@@ -1,0 +1,3 @@
+Browser tab: 29, Title: "Google Store for Google Made Devices & Accessories", URL: "https://store.google.com/?hl=en-US".
+There has been no change in the accessibility tree.
+The focused UI element is 385 button (expanded) Description: Main Menu, Secondary Actions: Collapse

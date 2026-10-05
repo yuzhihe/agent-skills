@@ -1,0 +1,894 @@
+{
+  "body": {
+    "background": "rgb(250, 250, 250)",
+    "fontFamily": "GeistSans, \"GeistSans Fallback\""
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 1232,
+        "x": 24,
+        "y": 16
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "24px",
+        "lineHeight": "24px",
+        "padding": "0px 0px 0px 32px"
+      },
+      "tag": "NAV",
+      "text": "Sign Up"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 75.1484375,
+        "x": 1180.8515625,
+        "y": 16
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Sign Up"
+    },
+    {
+      "id": "header-sign-up-btn",
+      "rect": {
+        "height": 32,
+        "width": 75.1484375,
+        "x": 1180.8515625,
+        "y": 16
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "6px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px 6px"
+      },
+      "tag": "A",
+      "text": "Sign Up"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 51.1484375,
+        "x": 1192.8515625,
+        "y": 22
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Sign Up"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 657,
+        "width": 1280,
+        "x": 0,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(250, 250, 250)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "Log in to Vercel\nContinue with Email\nContinue with Google\nContinue with GitHub\nContinue with ChatGPT\nContinue with SAML "
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 222.40625,
+        "x": 528.796875,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Log in to Vercel"
+    },
+    {
+      "id": "input-_R_ldauqbsnmbslad6lb_",
+      "rect": {
+        "height": 40,
+        "width": 320,
+        "x": 480,
+        "y": 128
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 12px"
+      },
+      "tag": "INPUT",
+      "text": "Email Address"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 320,
+        "x": 480,
+        "y": 184
+      },
+      "style": {
+        "background": "rgb(23, 23, 23)",
+        "borderRadius": "8px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 14px"
+      },
+      "tag": "BUTTON",
+      "text": "Continue with Email"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 320,
+        "x": 480,
+        "y": 257
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 14px"
+      },
+      "tag": "BUTTON",
+      "text": "Continue with Google"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 320,
+        "x": 480,
+        "y": 313
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 14px"
+      },
+      "tag": "BUTTON",
+      "text": "Continue with GitHub"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 320,
+        "x": 480,
+        "y": 369
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 14px"
+      },
+      "tag": "BUTTON",
+      "text": "Continue with ChatGPT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 320,
+        "x": 480,
+        "y": 425
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 14px"
+      },
+      "tag": "BUTTON",
+      "text": "Continue with SAML SSO"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 320,
+        "x": 480,
+        "y": 481
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "8px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 14px"
+      },
+      "tag": "BUTTON",
+      "text": "Continue with Passkey"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 320,
+        "x": 480,
+        "y": 537
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 14px"
+      },
+      "tag": "BUTTON",
+      "text": "Show other options"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 232.984375,
+        "x": 523.5078125,
+        "y": 601
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Don't have an account? Sign Up"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.5,
+        "width": 57.5234375,
+        "x": 698.96875,
+        "y": 602.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "oklch(0.5761 0.2508 258.23)",
+        "display": "inline",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Sign Up"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 32.96875,
+        "x": 579.5234375,
+        "y": 681
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(168, 168, 168)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Terms"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 75.9765625,
+        "x": 624.4921875,
+        "y": 681
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(168, 168, 168)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Privacy Policy"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 63.1484375,
+        "x": 1186.8515625,
+        "y": 22
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px 6px"
+      },
+      "tag": "SPAN",
+      "text": "Sign Up"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 222.40625,
+        "x": 528.796875,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "16px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Log in to Vercel"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 222.40625,
+        "x": 528.796875,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Log in to Vercel"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 160.8515625,
+        "x": 559.5703125,
+        "y": 192
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 6px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with Email"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.5,
+        "width": 148.8515625,
+        "x": 565.5703125,
+        "y": 193.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with Email"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 173.1171875,
+        "x": 564.9375,
+        "y": 265
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 6px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with Google"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.5,
+        "width": 161.1171875,
+        "x": 570.9375,
+        "y": 266.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "inline",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with Google"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.5,
+        "width": 107.7265625,
+        "x": 570.9375,
+        "y": 266.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "inline",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 171.0234375,
+        "x": 565.984375,
+        "y": 321
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 6px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with GitHub"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.5,
+        "width": 159.0234375,
+        "x": 571.984375,
+        "y": 322.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "inline",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with GitHub"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.5,
+        "width": 107.7265625,
+        "x": 571.984375,
+        "y": 322.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "inline",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 186.2265625,
+        "x": 558.3828125,
+        "y": 377
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 6px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with ChatGPT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.5,
+        "width": 174.2265625,
+        "x": 564.3828125,
+        "y": 378.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "inline",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with ChatGPT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.5,
+        "width": 107.7265625,
+        "x": 564.3828125,
+        "y": 378.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "inline",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 200.6640625,
+        "x": 551.1640625,
+        "y": 433
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 6px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with SAML SSO"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 182.140625,
+        "x": 560.4296875,
+        "y": 489
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 6px"
+      },
+      "tag": "SPAN",
+      "text": "Continue with Passkey"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 157.671875,
+        "x": 561.1640625,
+        "y": 545
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 6px"
+      },
+      "tag": "SPAN",
+      "text": "Show other options"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 232.984375,
+        "x": 523.5078125,
+        "y": 601
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "block",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Don't have an account? Sign Up"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 1280,
+        "x": 0,
+        "y": 681
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "16px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Terms\nPrivacy Policy"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 120.9453125,
+        "x": 579.5234375,
+        "y": 681
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(23, 23, 23)",
+        "display": "flex",
+        "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Terms\nPrivacy Policy"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Login – Vercel",
+  "url": "https://vercel.com/login",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:46:04.119Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

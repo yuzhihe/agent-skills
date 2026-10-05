@@ -1,0 +1,4 @@
+Browser tab: 30, Title: "F1 Driver Championship Points - Assistant Dashboards ✨ - Dashboards - Grafana", URL: "https://play.grafana.org/d/ma7w5nw/f1-driver-championship-points?from=now-6h&to=now&timezone=browser".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
++								122 container Panel loading bar
+The focused UI element is 21 button (collapsed) Description: Time range selected: Last 6 hours, Secondary Actions: Expand

@@ -1,0 +1,1377 @@
+{
+  "body": {
+    "background": "rgb(0, 0, 0)",
+    "fontFamily": "\"Helvetica Now\", sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 142.1015625,
+        "x": 20,
+        "y": 182
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "All projects"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 142.9140625,
+        "x": 178.1015625,
+        "y": 182
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(255, 255, 255, 0.4)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "92 projects"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 70,
+        "x": 20,
+        "y": 215
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "36px 0px 0px 4px"
+      },
+      "tag": "P",
+      "text": "2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 55,
+        "width": 280,
+        "x": 90,
+        "y": 241
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Casamigos World Cup 2026\n\nOur partnership with Casamigos has taken us from ski seasons to California beaches. To kick-of"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 200,
+        "x": 90,
+        "y": 244
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Casamigos World Cup 2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 45,
+        "width": 280,
+        "x": 90,
+        "y": 296
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Free Spirits Center\n\nWe created Free Spirits Center as a fully-imagined digital wellness space for Ca7riel & Paco Amoros"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 136.2578125,
+        "x": 90,
+        "y": 306
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Free Spirits Center"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 45,
+        "width": 280,
+        "x": 90,
+        "y": 341
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Powering Purpose\n\nMonocle has been synonymous with remarkable print quality since their founding in 2007. For Powering P"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 133.6640625,
+        "x": 90,
+        "y": 351
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Powering Purpose"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 45,
+        "width": 280,
+        "x": 90,
+        "y": 386
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Transforming Business\n\nTransforming Business is a groundbreaking playable film experience created to uniquely showcase G"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 165.6640625,
+        "x": 90,
+        "y": 396
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Transforming Business"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 55,
+        "width": 280,
+        "x": 90,
+        "y": 431
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Google Visitor Experience Guide\n\nBack in 2023, we supported Google’s pivotal public opening of their Mountain View campu"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 200,
+        "x": 90,
+        "y": 434
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Google Visitor Experience Guide"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 70,
+        "x": 20,
+        "y": 591
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "36px 0px 0px 4px"
+      },
+      "tag": "P",
+      "text": "2025"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 45,
+        "width": 280,
+        "x": 90,
+        "y": 617
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Season's Treatings\n\nEvery year, our relationships with partners old and new ignite our imaginations and drive us to push"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 136.2421875,
+        "x": 90,
+        "y": 627
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Season's Treatings"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 55,
+        "width": 280,
+        "x": 90,
+        "y": 662
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Stranger Things Walking Tour\n\nIn anticipation of the grand finale of Stranger Things, we helped Netflix bring the magic "
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 200,
+        "x": 90,
+        "y": 665
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Stranger Things Walking Tour"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 45,
+        "width": 280,
+        "x": 90,
+        "y": 717
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Brand Standards\n\nTo support YouTube as they implemented their latest brand evolution, we created a new Brand Standards w"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 121.265625,
+        "x": 90,
+        "y": 727
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Brand Standards"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 45,
+        "width": 280,
+        "x": 90,
+        "y": 762
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Casamigos Global Travel\n\nTo build on the momentum of the launch of The Amigos Bottle at the US Open of Surfing, we turne"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 178.7890625,
+        "x": 90,
+        "y": 772
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Casamigos Global Travel"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 45,
+        "width": 280,
+        "x": 90,
+        "y": 807
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "3px 0px"
+      },
+      "tag": "A",
+      "text": "Pixel For Travel\n\nKeys… passport… Pixel. Can your phone help you explore further, faster, and in more detail than ever b"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 109.203125,
+        "x": 90,
+        "y": 817
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Pixel For Travel"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 20,
+        "x": 20,
+        "y": 397
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "ballinger-mono, sans-serif",
+        "fontSize": "10.88px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "11.968px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 20,
+        "x": 20,
+        "y": 427
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "ballinger-mono, sans-serif",
+        "fontSize": "10.88px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "11.968px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 29.96875,
+        "width": 61.171875,
+        "x": 164.4140625,
+        "y": 37.015625
+      },
+      "style": {
+        "background": "rgba(32, 32, 32, 0.5)",
+        "borderRadius": "48px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22.4px",
+        "padding": "8px 10px"
+      },
+      "tag": "BUTTON",
+      "text": "FILTER"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 11.96875,
+        "width": 39.171875,
+        "x": 175.4140625,
+        "y": 46.015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "ballinger-mono, sans-serif",
+        "fontSize": "10.88px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "11.968px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "FILTER"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 55,
+        "width": 44,
+        "x": 16,
+        "y": 24
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 27.96875,
+        "width": 85.28125,
+        "x": 288.71875,
+        "y": 38.015625
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "48px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "ballinger-mono, sans-serif",
+        "fontSize": "10.88px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "11.968px",
+        "padding": "8px 10px"
+      },
+      "tag": "A",
+      "text": "LET'S TALK"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36.5,
+        "width": 51.046875,
+        "x": 107.8046875,
+        "y": 770.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 9px"
+      },
+      "tag": "A",
+      "text": "Work"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36.5,
+        "width": 56.109375,
+        "x": 166.9375,
+        "y": 770.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 9px"
+      },
+      "tag": "A",
+      "text": "About"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36.5,
+        "width": 67.203125,
+        "x": 223.0625,
+        "y": 770.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "8px 9px"
+      },
+      "tag": "A",
+      "text": "Careers"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 350,
+        "x": 20,
+        "y": 154
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "16px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "All projects\n92 projects"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 80,
+        "x": 290,
+        "y": 244
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Casamigos"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 59.8984375,
+        "x": 310.1015625,
+        "y": 259
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Casamigos"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38,
+        "width": 80,
+        "x": 290,
+        "y": 299
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Sony Music"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 60.84375,
+        "x": 309.15625,
+        "y": 309
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Sony Music"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38,
+        "width": 80,
+        "x": 290,
+        "y": 344
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Monocle"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 46.25,
+        "x": 323.75,
+        "y": 354
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Monocle"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38,
+        "width": 80,
+        "x": 290,
+        "y": 389
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Financial Times"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 80,
+        "x": 290,
+        "y": 390
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Financial Times"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 80,
+        "x": 290,
+        "y": 434
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Google"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 39.1875,
+        "x": 330.8125,
+        "y": 449
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Google"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38,
+        "width": 80,
+        "x": 290,
+        "y": 620
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Phantom"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 47.9453125,
+        "x": 322.0546875,
+        "y": 630
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Phantom"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 80,
+        "x": 290,
+        "y": 665
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Netflix"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 33.6015625,
+        "x": 336.3984375,
+        "y": 680
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Netflix"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38,
+        "width": 80,
+        "x": 290,
+        "y": 720
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "YouTube"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 45.234375,
+        "x": 324.765625,
+        "y": 730
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "YouTube"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38,
+        "width": 80,
+        "x": 290,
+        "y": 765
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Diageo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 37.9609375,
+        "x": 332.0390625,
+        "y": 775
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Diageo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 38,
+        "width": 80,
+        "x": 290,
+        "y": 810
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "32px",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Google"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 39.1875,
+        "x": 330.8125,
+        "y": 820
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Google"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "FILTER"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "SOUND [OFF]\nLET'S TALK\nWork\nAbout\nCareers"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 30,
+        "x": 335,
+        "y": 415
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Now\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "SOUND [OFF]"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 23.9375,
+        "width": 32.640625,
+        "x": 333.6796875,
+        "y": 416.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "ballinger-mono, sans-serif",
+        "fontSize": "10.88px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "11.968px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "SOUND [OFF]"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 27.96875,
+        "width": 85.28125,
+        "x": 288.71875,
+        "y": 38.015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "ballinger-mono, sans-serif",
+        "fontSize": "10.88px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "11.968px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "LET'S TALK"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Phantom Studios — Technology Creative Agency — London and Auckland",
+  "url": "https://www.phantom.land/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-04T23:36:46.171Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

@@ -1,0 +1,21 @@
+{
+  "order": 1,
+  "id": "stripe",
+  "name": "Stripe",
+  "source": "https://stripe.com/",
+  "studied": "2026-10-04",
+  "tasks": [
+    "product"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "none"
+  ],
+  "tone": [
+    "bright",
+    "structured"
+  ],
+  "lang": "en",
+  "summary": "用大段价值陈述和清晰的主次行动，组织多彩的商业首屏。",
+  "usage": "适合商业服务与技术平台介绍。先有明确价值和真实证明，再考虑渐变；不适合把长首屏搬进密集操作页。"
+}

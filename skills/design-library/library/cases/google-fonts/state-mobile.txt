@@ -1,0 +1,4 @@
+Browser tab: 28, Title: "Browse Fonts - Google Fonts", URL: "https://fonts.google.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 10-210, 295-302
+The focused UI element is 0 AXWebArea Browse Fonts - Google Fonts, URL: fonts.google.com/

@@ -1,0 +1,4 @@
+Browser tab: 29, Title: "Google Store for Google Made Devices & Accessories", URL: "https://store.google.com/?hl=en-US".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~					401 button play video - A closeup shot of Google Pixel 11 showcasing Gemini features while messaging.
+The focused UI element is 1 AXWebArea Google Store for Google Made Devices & Accessories, URL: store.google.com/

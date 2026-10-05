@@ -1,0 +1,85 @@
+Browser tab: 29, Title: "Google Store for Google Made Devices & Accessories", URL: "https://store.google.com/?hl=en-US".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~1 AXWebArea Google Store for Google Made Devices & Accessories, URL: store.google.com/
+~						9 link Description: Google Store home, Value: store.google.com/
+~								12 link Description: Phones, Value: store.google.com/category/phones
+~								15 link Description: Fi Wireless, Value: store.google.com/magazine/google_fi
+~								18 link Description: Watches & Trackers, Value: store.google.com/category/watches_trackers
+~								21 link Description: Laptops, Value: store.google.com/category/laptops
+~								24 link Description: Earbuds, Value: store.google.com/category/earbuds
+~								27 link Description: Smart Home, Value: store.google.com/category/connected_home
+~								30 link Description: Accessories, Value: store.google.com/collection/accessories_wall
+~								33 link Description: Offers, Value: store.google.com/collection/offers
+~								36 link Description: Support, Value: store.google.com/magazine/support
+~					39 link Description: Find a Store, Value: store.google.com/magazine/locations
+~					40 link Description: Go to empty shopping cart, Value: store.google.com/cart
+~						43 link Description: Sign in, Value: accounts.google.com/ServiceLogin
+~				52 link Description: Explore Google Pixel 11 phones., Value: store.google.com/category/phones
+~									273 link Description: footnote √, Value: store.google.com/
+~								274 link Description: Buy Google Pixel 11 Pro, Value: store.google.com/config/pixel_11_pro
+~									280 link Description: footnote √, Value: store.google.com/
+~								281 link Description: Buy Google Pixel 11 Pro Fold, Value: store.google.com/config/pixel_11_pro_fold
+~									287 link Description: footnote √, Value: store.google.com/
+~								288 link Description: Buy Google Pixel 11, Value: store.google.com/config/pixel_11
+~								290 link Description: Buy Google Pixel Watch 5, Value: store.google.com/config/pixel_watch_5
+~								292 link Description: Buy Pixel Buds Pro 2, Value: store.google.com/config/pixel_buds_pro_2
+~								86 link Description: learn more about the google fi, Value: store.google.com/magazine/google_fi
+~								297 link Description: Buy Google Home Speaker, Value: store.google.com/config/google_home_speaker
+~								299 link Description: Buy Nest Learning Thermostat (4th gen), Value: store.google.com/config/nest_learning_thermostat_4th_gen
+~								301 link Description: Buy Nest Cam Outdoor (wired, 2nd gen), Value: store.google.com/config/nest_cam_outdoor_wired_2nd_gen
+~								303 link Description: Buy Nest Cam Indoor (wired, 3rd gen), Value: store.google.com/config/nest_cam_indoor_wired_3rd_gen
+~								99 link Description: learn more about Lenovo Googlebook, Value: store.google.com/product/lenovo_googlebook
+~								103 link Description: Learn more about the XPS Googlebook, Value: store.google.com/product/xps_googlebook
+~								107 link Description: Learn more about the Acer Googlebook, Value: store.google.com/product/acer_googlebook
+~					115 link Description: Learn more about Googlebooks, Value: store.google.com/category/laptops
+~					123 link Description: footnote 1, Value: store.google.com/
+~				124 link Description: Learn more about Gemini intelligence, Value: store.google.com/magazine/gemini-ai-assistant
+~					130 link Description: Phones, Help: Shop phones, Value: store.google.com/category/phones
+~					131 link Description: Watches & Trackers, Help: Shop watches and trackers, Value: store.google.com/category/watches_trackers
+~					132 link Description: Earbuds, Help: Shop earbuds, Value: store.google.com/category/earbuds
+~					133 link Description: Cameras, Help: Browse all Nest cameras, Value: store.google.com/category/nest_cams
+~					134 link Description: image of googlebooks Laptops, Help: learn more about the google books, Value: store.google.com/category/laptops
+~					144 link Description: Buy google pixel 11 pro and pro xl, Value: store.google.com/product/pixel_11_pro
+~					150 link Description: Learn more about the Google pixel 11 pro fold, Value: store.google.com/product/pixel_11_pro_fold
+~					156 link Description: learn more about the Google Pixel 11., Value: store.google.com/product/pixel_11
+~					165 link Description: Learn more about Google Pixel Watch 5., Value: store.google.com/product/pixel_watch_5
+~					171 link Description: Learn more about Google Pixel Buds Pro 2., Value: store.google.com/product/pixel_buds_pro_2
+~					177 link Description: learn more about the Google Fitbit Air, Value: store.google.com/product/google_fitbit_air
+~						309 link Description: footnote ††, Value: store.google.com/
+~					185 link Description: learn more about the pixel drop, Value: store.google.com/magazine/google_fi
+~						311 link Description: footnote *, Value: store.google.com/
+~						313 link Description: footnote ^^, Value: store.google.com/
+~					193 link Description: learn more about the pixel drop, Value: store.google.com/magazine/pixel_drop
+~				198 link Description: Explore Google merch, Value: store.google.com/collection/accessories_wall
+~						319 link Description: Learn morea about trade-in., Value: store.google.com/magazine/trade_in
+~								324 link Description: footnote †, Value: store.google.com/
+~						325 link Description: Learn more, Value: store.google.com/magazine/financing
+~						329 link Description: Learn more, Value: support.google.com/store/answer/9631873
+~								334 link Description: footnote Δ, Value: store.google.com/
+~						335 link Description: Learn more, Value: support.google.com/store/answer/12436460
+~						339 link Description: Learn more, Value: support.google.com/store/answer/2411741
+~					237 link Description: Find a Store, Value: store.google.com/magazine/locations
+~					238 link Description: Magazine, Value: store.google.com/magazine/made-by-google
+~					239 link Description: Pixel for Business, Value: pixel.google/business
+~					240 link Description: Official Merch, Value: store.google.com/collection/accessories_wall
+~					244 link Description: Tracking an order, Value: support.google.com/store/answer/2411789
+~					245 link Description: Shipping options, Value: support.google.com/store/answer/12436460
+~					247 link Description: Pixel Care+, Value: store.google.com/magazine/pixel_care
+~					248 link Description: Trade-in, Value: store.google.com/magazine/trade_in
+~					249 link Description: Financing, Value: store.google.com/magazine/financing
+~					254 link Description: Get help, Value: store.google.com/magazine/support
+~					255 link Description: Repairs, Value: store.google.com/magazine/repaircenter
+~					256 link Description: Installations, Value: store.google.com/magazine/installation
+~					259 link Description: Send Feedback, Value: store.google.com/
+~					263 link Description: Sustainability, Value: store.google.com/magazine/sustainability
+~					264 link Description: Device recycling, Value: store.google.com/magazine/recycling
+~					265 link Description: Refurbished devices, Value: store.google.com/magazine/refurbished_devices
+~				376 link Description: YouTube, Value: youtube.com/madebygoogle
+~				377 link Description: Tiktok, Value: tiktok.com/@googlepixel
+~				379 link Description: United States. Choose your country or region., Value: store.google.com/regionpicker
+~				380 link Description: link to Privacy, Value: policies.google.com/privacy
+~				381 link Description: link to Google Nest Commitment to Privacy, Value: safety.google/intl/en_US/products/nest/
+~				382 link Description: link to Sales Terms, Value: store.google.com/intl/en-US_us/about/device-terms.html
+~				383 link Description: link to Terms of Service, Value: google.com/intl/en-US_us/policies/terms/
+~				384 link Description: link to Careers, Value: careers.google.com/hardware/
+The focused UI element is 1 AXWebArea Google Store for Google Made Devices & Accessories, URL: store.google.com/

@@ -1,0 +1,262 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 31175,
+        "width": 390,
+        "x": 0,
+        "y": -1
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "选择另一个国家或地区，以获得适用于你所在位置的内容和在线购物选项。\n中国大陆\n继续\nApple\n0\n+\n\nLease a new iPhone with low monthly payments fo"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 390,
+        "x": 0,
+        "y": 309
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "iPhone"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 390,
+        "x": 0,
+        "y": 135
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Apple\n0\n+"
+    },
+    {
+      "rect": {
+        "height": 169,
+        "width": 390,
+        "x": 0,
+        "y": 361
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "iPhone Duo\nNew\n\niPhone 18 Pro\nNew\n\niPhone Air\n\niPhone 17\n\niPhone 17e\n\niPhone 16\n\nCompare\n\nAccessorie"
+    },
+    {
+      "rect": {
+        "height": 5888,
+        "width": 390,
+        "x": 0,
+        "y": 183
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Lease a new iPhone with low monthly payments for 12 or 24 months and upgrade at the end of your term"
+    },
+    {
+      "rect": {
+        "height": 52,
+        "width": 341,
+        "x": 24,
+        "y": 309
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": "600",
+        "lineHeight": "52.0077px",
+        "padding": "0px"
+      },
+      "text": "iPhone"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 18,
+        "x": 358,
+        "y": 17
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro SC\", \"HanHei SC\", \"SF Pro Text\", \"Myriad Set Pro\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"SF Pro Icons\", \"Apple Legacy Icons\", \"PingFang SC\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "text": "关闭国家或地区选择栏"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 4,
+        "y": 135
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Main menu"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 60,
+        "x": 312,
+        "y": 80
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgb(29, 29, 31)",
+        "borderRadius": "8px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"SF Pro SC\", \"HanHei SC\", \"SF Pro Text\", \"Myriad Set Pro\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"SF Pro Icons\", \"Apple Legacy Icons\", \"PingFang SC\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.0006px",
+        "padding": "8px 15px"
+      },
+      "text": "继续"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 49,
+        "x": 0,
+        "y": 135
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "600",
+        "lineHeight": "23px",
+        "padding": "0px 16px"
+      },
+      "text": "Apple"
+    },
+    {
+      "rect": {
+        "height": 53,
+        "width": 390,
+        "x": 0,
+        "y": 174
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "padding": "3px 48px 4px"
+      },
+      "text": "Store menu"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 309,
+        "x": 40,
+        "y": 189
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "padding": "0px 38px 0px 42px"
+      },
+      "text": "Search apple.com"
+    }
+  ],
+  "title": "iPhone - Apple",
+  "url": "https://www.apple.com/iphone/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

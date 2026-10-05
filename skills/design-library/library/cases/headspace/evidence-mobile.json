@@ -1,0 +1,199 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 8377,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(75, 76, 77)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": "Sword has acquired Headspace to shape the future of mental healthcare. Learn more →\n\nTry for free\nSt"
+    },
+    {
+      "rect": {
+        "height": 64,
+        "width": 390,
+        "x": 0,
+        "y": 84
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(75, 76, 77)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px 24px"
+      },
+      "text": "Try for free"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 28,
+        "x": 338,
+        "y": 102
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(75, 76, 77)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 8377,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(75, 76, 77)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": "Sword has acquired Headspace to shape the future of mental healthcare. Learn more →\n\nTry for free\nSt"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 291,
+        "x": 50,
+        "y": 193
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(45, 44, 43)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "700",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "text": "all with Headspace"
+    },
+    {
+      "rect": {
+        "height": 58,
+        "width": 342,
+        "x": 24,
+        "y": 1232
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(45, 44, 43)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "text": "What kind of headspace are you looking for?"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 28,
+        "x": 338,
+        "y": 102
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(68, 66, 63)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "17.6px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 84,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "22px",
+        "padding": "16px 0px"
+      },
+      "text": "Sword has acquired Headspace to shape the future of mental healthcare. Learn more →"
+    },
+    {
+      "rect": {
+        "height": 64,
+        "width": 32,
+        "x": 24,
+        "y": 84
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 238)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    }
+  ],
+  "title": "Mental Health App for Meditation & Sleep - Headspace",
+  "url": "https://www.headspace.com/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

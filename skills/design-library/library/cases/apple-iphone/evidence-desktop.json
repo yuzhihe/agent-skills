@@ -1,0 +1,598 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 16872,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Apple\nStore\nMac\niPad\niPhone\nWatch\nVision\nAirPods\nTV & Home\nEntertainment\nAccessories\nSupport\n0\n+\n\nLe"
+    },
+    {
+      "rect": {
+        "height": 84,
+        "width": 1280,
+        "x": 0,
+        "y": 150
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "iPhone"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgb(250, 250, 252)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Apple\nStore\nMac\niPad\niPhone\nWatch\nVision\nAirPods\nTV & Home\nEntertainment\nAccessories\nSupport\n0\n+"
+    },
+    {
+      "rect": {
+        "height": 223,
+        "width": 1280,
+        "x": 0,
+        "y": 234
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "iPhone Duo\nNew\n\niPhone 18 Pro\nNew\n\niPhone Air\n\niPhone 17\n\niPhone 17e\n\niPhone 16\n\nCompare\n\nAccessorie"
+    },
+    {
+      "rect": {
+        "height": 6963,
+        "width": 1280,
+        "x": 0,
+        "y": 44
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Lease a new iPhone with low monthly payments for 12 or 24 months and upgrade at the end of your term"
+    },
+    {
+      "rect": {
+        "height": 84,
+        "width": 1120,
+        "x": 80,
+        "y": 150
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 29, 31)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "80px",
+        "fontWeight": "600",
+        "lineHeight": "84px",
+        "padding": "0px"
+      },
+      "text": "iPhone"
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 176,
+        "x": 150,
+        "y": 80
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(110, 110, 115)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16.0005px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 87,
+        "x": 414,
+        "y": 80
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(110, 110, 115)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16.0005px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 124,
+        "x": 546,
+        "y": 80
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(110, 110, 115)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16.0005px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 165,
+        "x": 150,
+        "y": 80
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(110, 110, 115)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16.0005px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 97,
+        "x": 403,
+        "y": 80
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(110, 110, 115)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16.0005px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 151,
+        "x": 544,
+        "y": 80
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(110, 110, 115)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16.0005px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 165,
+        "x": 150,
+        "y": 80
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(110, 110, 115)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16.0005px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 98,
+        "x": 403,
+        "y": 80
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(110, 110, 115)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16.0005px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 22,
+        "x": 222,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Store menu"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 22,
+        "x": 280,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Mac menu"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 22,
+        "x": 339,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "iPad menu"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 22,
+        "x": 413,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "iPhone menu"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 22,
+        "x": 483,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Watch menu"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 22,
+        "x": 552,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "text": "Vision menu"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 30,
+        "x": 142,
+        "y": 0
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "600",
+        "lineHeight": "21.0012px",
+        "padding": "0px 8px"
+      },
+      "text": "Apple"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 46,
+        "x": 191,
+        "y": 0
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0.8)",
+        "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "12px",
+        "padding": "0px 8px"
+      },
+      "text": "Store"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 192,
+        "x": 139,
+        "y": 102
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "padding": "9px 11px 7px"
+      },
+      "text": "Shop the latest Apple products"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 68,
+        "x": 139,
+        "y": 140
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "padding": "9px 11px 7px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 69,
+        "x": 139,
+        "y": 178
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "padding": "9px 11px 7px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 97,
+        "x": 139,
+        "y": 216
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "padding": "9px 11px 7px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 160,
+        "x": 139,
+        "y": 254
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "padding": "9px 11px 7px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 995,
+        "x": 144,
+        "y": 76
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 54)",
+        "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "padding": "1px 34px 0px"
+      },
+      "text": "Search apple.com"
+    }
+  ],
+  "title": "iPhone - Apple",
+  "url": "https://www.apple.com/iphone/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

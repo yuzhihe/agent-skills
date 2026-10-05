@@ -1,0 +1,20 @@
+{
+  "order": 9,
+  "id": "mdn-docs",
+  "name": "MDN CSS 文档",
+  "source": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+  "studied": "2026-10-05",
+  "tasks": [
+    "editorial"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "structured-content"
+  ],
+  "tone": [
+    "utilitarian"
+  ],
+  "lang": "en",
+  "summary": "桌面显示左侧目录、文章正文和右侧页内导航；窄屏先保留正文，导航压缩。",
+  "usage": "开发者文档、帮助中心、长篇知识库；短促营销首页或不需要目录的单页介绍。"
+}

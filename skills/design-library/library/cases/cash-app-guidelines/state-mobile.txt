@@ -1,0 +1,3 @@
+Browser tab: 29, Title: "Cash App Brand Guidelines - Color", URL: "https://design.cash.app/color".
+There has been no change in the accessibility tree.
+The focused UI element is 24 container page

@@ -1,0 +1,21 @@
+{
+  "order": 12,
+  "id": "aesop",
+  "name": "Aesop Skin Care",
+  "source": "https://www.aesop.com/skin-care.html",
+  "studied": "2026-10-05",
+  "tasks": [
+    "commerce"
+  ],
+  "density": "low",
+  "assets_needed": [
+    "editorial-photos"
+  ],
+  "tone": [
+    "warm",
+    "restrained"
+  ],
+  "lang": "en",
+  "summary": "桌面大幅棕米色照片承托标题和说明；手机先呈现影像，再让文字与分类入口独立成块。",
+  "usage": "有高质量影像的护肤、生活方式产品分类；缺少合适影像却只复制米色与留白的电商页。"
+}

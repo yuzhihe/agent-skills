@@ -1,0 +1,3 @@
+Browser tab: 29, Title: "Collection - Rijksmuseum", URL: "https://www.rijksmuseum.nl/en/collection".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea Collection - Rijksmuseum, URL: rijksmuseum.nl/en/collection

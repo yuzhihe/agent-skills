@@ -1,0 +1,21 @@
+{
+  "order": 36,
+  "id": "tally-contact",
+  "name": "Tally · 联系表单模板",
+  "source": "https://tally.so/templates/contact-form-template/dnWe3O",
+  "studied": "2026-10-05",
+  "tasks": [
+    "forms"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "none"
+  ],
+  "tone": [
+    "minimal",
+    "clean"
+  ],
+  "lang": "en",
+  "summary": "窄内容列承载说明和字段，桌面双列短字段、窄屏单列，错误紧贴对应输入。",
+  "usage": "适合联系、问询和简短信息收集；本例是模板预览，不是完整客户业务表单。"
+}

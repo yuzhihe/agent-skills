@@ -1,0 +1,20 @@
+{
+  "order": 16,
+  "id": "khan-academy",
+  "name": "Khan Academy",
+  "source": "https://www.khanacademy.org/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "education"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "illustration"
+  ],
+  "tone": [
+    "friendly"
+  ],
+  "lang": "en",
+  "summary": "大标题与蓝紫插画说明学习目标，随后通过身份卡片分流；手机改为上下排列。",
+  "usage": "面向学生、家长、教师等不同人群的服务；用户目标单一却设置多余身份入口。"
+}

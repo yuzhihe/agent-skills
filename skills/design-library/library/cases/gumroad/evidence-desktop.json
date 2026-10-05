@@ -1,0 +1,350 @@
+{
+  "documentWidth": 1280,
+  "elements": [
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"PingFang SC\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "tag": "HTML",
+      "text": "9.7K\nDiscover\nBlog\nPricing\nFeatures\nAbout\nGumclaw\nLog in\nStart selling\nGo from 0 to $1\nAnyone can ea"
+    },
+    {
+      "background": "rgb(244, 244, 240)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\", Avenir, Montserrat, Corbel, \"URW Gothic\", source-sans-pro, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
+      "padding": "0px",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "tag": "BODY",
+      "text": "9.7K\nDiscover\nBlog\nPricing\nFeatures\nAbout\nGumclaw\nLog in\nStart selling\nGo from 0 to $1\nAnyone can ea"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "26px",
+      "padding": "0px",
+      "rect": {
+        "height": 32,
+        "width": 228.359375,
+        "x": 32,
+        "y": 23.5
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgb(0, 0, 0)",
+      "borderRadius": "1.67772e+07px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "26px",
+      "padding": "6px",
+      "rect": {
+        "height": 34,
+        "width": 94.8359375,
+        "x": 268.359375,
+        "y": 22.5
+      },
+      "tag": "A",
+      "text": "9.7K"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgba(0, 0, 0, 0)",
+      "borderRadius": "1.67772e+07px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "8px 16px",
+      "rect": {
+        "height": 46,
+        "width": 101.9921875,
+        "x": 441.7109375,
+        "y": 16.5
+      },
+      "tag": "A",
+      "text": "Discover"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgba(0, 0, 0, 0)",
+      "borderRadius": "1.67772e+07px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "8px 16px",
+      "rect": {
+        "height": 46,
+        "width": 69.5546875,
+        "x": 547.703125,
+        "y": 16.5
+      },
+      "tag": "A",
+      "text": "Blog"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgba(0, 0, 0, 0)",
+      "borderRadius": "1.67772e+07px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "8px 16px",
+      "rect": {
+        "height": 46,
+        "width": 88.984375,
+        "x": 621.2578125,
+        "y": 16.5
+      },
+      "tag": "A",
+      "text": "Pricing"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgba(0, 0, 0, 0)",
+      "borderRadius": "1.67772e+07px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "8px 16px",
+      "rect": {
+        "height": 46,
+        "width": 102.7109375,
+        "x": 714.2421875,
+        "y": 16.5
+      },
+      "tag": "A",
+      "text": "Features"
+    },
+    {
+      "background": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(0, 0, 0)",
+      "borderRadius": "1.67772e+07px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "8px 16px",
+      "rect": {
+        "height": 46,
+        "width": 82.65625,
+        "x": 820.953125,
+        "y": 16.5
+      },
+      "tag": "A",
+      "text": "About"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "1px solid rgba(0, 0, 0, 0)",
+      "borderRadius": "1.67772e+07px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "8px 16px",
+      "rect": {
+        "height": 46,
+        "width": 108.390625,
+        "x": 907.609375,
+        "y": 16.5
+      },
+      "tag": "A",
+      "text": "Gumclaw"
+    },
+    {
+      "background": "rgb(255, 255, 255)",
+      "border": "",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "8px 24px",
+      "rect": {
+        "height": 79,
+        "width": 97.6484375,
+        "x": 1040,
+        "y": 0
+      },
+      "tag": "A",
+      "text": "Log in"
+    },
+    {
+      "background": "rgb(0, 0, 0)",
+      "border": "",
+      "borderRadius": "0px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "8px 24px",
+      "rect": {
+        "height": 79,
+        "width": 142.3515625,
+        "x": 1137.6484375,
+        "y": 0
+      },
+      "tag": "A",
+      "text": "Start selling"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid rgb(0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "96px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "96px",
+      "padding": "0px",
+      "rect": {
+        "height": 96,
+        "width": 674.078125,
+        "x": 302.9609375,
+        "y": 304
+      },
+      "tag": "H1",
+      "text": "Go from 0 to $1"
+    },
+    {
+      "background": "rgb(0, 0, 0)",
+      "border": "1px solid rgb(0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "20px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "28px",
+      "padding": "0px 40px",
+      "rect": {
+        "height": 64,
+        "width": 186.3046875,
+        "x": 356.59375,
+        "y": 520
+      },
+      "tag": "A",
+      "text": "Start selling"
+    },
+    {
+      "background": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(36, 36, 35)",
+      "borderRadius": "6px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Arial",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "8px",
+      "rect": {
+        "height": 42,
+        "width": 42,
+        "x": 869.3984375,
+        "y": 531
+      },
+      "tag": "BUTTON",
+      "text": "Search"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid oklab(0.259939 -0.000510752 0.00176638 / 0.5)",
+      "borderRadius": "0px",
+      "color": "oklab(0.259939 -0.000510752 0.00176638 / 0.5)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "24px",
+      "padding": "0px",
+      "rect": {
+        "height": 24,
+        "width": 221.9609375,
+        "x": 529.015625,
+        "y": 608
+      },
+      "tag": "P",
+      "text": "Contribute or fork on \nGitHub"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px solid oklab(0.259939 -0.000510752 0.00176638 / 0.5)",
+      "borderRadius": "0px",
+      "color": "oklab(0.259939 -0.000510752 0.00176638 / 0.5)",
+      "fontFamily": "\"ABC Favorit\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "-0.4px",
+      "lineHeight": "24px",
+      "padding": "0px",
+      "rect": {
+        "height": 24,
+        "width": 69.890625,
+        "x": 681.0859375,
+        "y": 608
+      },
+      "tag": "A",
+      "text": "GitHub"
+    }
+  ],
+  "url": "https://gumroad.com/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

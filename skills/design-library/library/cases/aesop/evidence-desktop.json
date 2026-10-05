@@ -1,0 +1,514 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 6381,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 254, 242)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "text": "SKIP TO CONTENT\nSKIP TO FOOTER NAVIGATION\nStores\nCustomer service\nEmail sign up\nAccount\nMy cart\n0 pr"
+    },
+    {
+      "rect": {
+        "height": 146,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgb(255, 254, 242)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "text": "Stores\nCustomer service\nEmail sign up\nAccount\nMy cart\n0 product in cart\nShop all\nNew & Notable\nSkin "
+    },
+    {
+      "rect": {
+        "height": 51,
+        "width": 993,
+        "x": 73,
+        "y": 95
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "text": "Shop all\nNew & Notable\nSkin Care\nHand & Body\nFragrance\nHome\nHair\nTravel\nGifts\nLibrary\nExperience"
+    },
+    {
+      "rect": {
+        "height": 5163,
+        "width": 1280,
+        "x": 0,
+        "y": 146
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "text": "Skin Care\n\nSkin is ever-changing—it responds to environment, lifestyle and diet.\nOur range is design"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 585,
+        "x": 55,
+        "y": 319
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 254, 242)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "lineHeight": "39.9px",
+        "padding": "0px"
+      },
+      "text": "Skin Care"
+    },
+    {
+      "rect": {
+        "height": 27,
+        "width": 218,
+        "x": -302,
+        "y": 900
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "padding": "0px"
+      },
+      "text": "Cleansers"
+    },
+    {
+      "rect": {
+        "height": 27,
+        "width": 218,
+        "x": -64,
+        "y": 900
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "padding": "0px"
+      },
+      "text": "Exfoliants & Masks"
+    },
+    {
+      "rect": {
+        "height": 27,
+        "width": 218,
+        "x": 174,
+        "y": 900
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "padding": "0px"
+      },
+      "text": "Toners"
+    },
+    {
+      "rect": {
+        "height": 27,
+        "width": 218,
+        "x": 412,
+        "y": 900
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "padding": "0px"
+      },
+      "text": "Hydrators & Moisturisers"
+    },
+    {
+      "rect": {
+        "height": 27,
+        "width": 218,
+        "x": 650,
+        "y": 900
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "padding": "0px"
+      },
+      "text": "Eye & Lip Care"
+    },
+    {
+      "rect": {
+        "height": 27,
+        "width": 218,
+        "x": 888,
+        "y": 900
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "padding": "0px"
+      },
+      "text": "Shaving"
+    },
+    {
+      "rect": {
+        "height": 27,
+        "width": 218,
+        "x": 1126,
+        "y": 900
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "padding": "0px"
+      },
+      "text": "Sun Care"
+    },
+    {
+      "rect": {
+        "height": 27,
+        "width": 218,
+        "x": 1364,
+        "y": 899
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "padding": "0px"
+      },
+      "text": "Skin Care Kits"
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 16,
+        "x": 1248,
+        "y": 22
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 14,
+        "width": 110,
+        "x": 122,
+        "y": 67
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "lineHeight": "14.4px",
+        "padding": "0px 0px 0px 12px"
+      },
+      "text": "Customer service"
+    },
+    {
+      "rect": {
+        "height": 14,
+        "width": 73,
+        "x": 1016,
+        "y": 68
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "lineHeight": "14.4px",
+        "padding": "0px"
+      },
+      "text": "Email sign up"
+    },
+    {
+      "rect": {
+        "height": 20,
+        "width": 57,
+        "x": 1183,
+        "y": 65
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "lineHeight": "14.4px",
+        "padding": "0px"
+      },
+      "text": "My cart\n0 product in cart"
+    },
+    {
+      "rect": {
+        "height": 51,
+        "width": 131,
+        "x": 160,
+        "y": 95
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "New & Notable"
+    },
+    {
+      "rect": {
+        "height": 25,
+        "width": 148,
+        "x": 15,
+        "y": 10
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgb(102, 102, 102)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 254, 242)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "padding": "4px 12px 3px"
+      },
+      "text": "SKIP TO CONTENT"
+    },
+    {
+      "rect": {
+        "height": 25,
+        "width": 214,
+        "x": 15,
+        "y": 10
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgb(102, 102, 102)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 254, 242)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "padding": "4px 12px 3px"
+      },
+      "text": "SKIP TO FOOTER NAVIGATION"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 140,
+        "x": 570,
+        "y": 48
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "text": "Aesop - Go to the homepage"
+    },
+    {
+      "rect": {
+        "height": 19,
+        "width": 58,
+        "x": 52,
+        "y": 65
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "lineHeight": "14.4px",
+        "padding": "0px 0px 0px 12px"
+      },
+      "text": "Stores"
+    },
+    {
+      "rect": {
+        "height": 51,
+        "width": 86,
+        "x": 73,
+        "y": 95
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "16.8px",
+        "padding": "17px"
+      },
+      "text": "Shop all"
+    },
+    {
+      "rect": {
+        "height": 51,
+        "width": 131,
+        "x": 160,
+        "y": 95
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(51, 51, 51)",
+        "fontFamily": "SuisseIntl-Medium, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "16.8px",
+        "padding": "17px"
+      },
+      "text": "New & Notable"
+    }
+  ],
+  "title": "Skin Care - Botanical & Lab-Derived Ingredients - Aesop",
+  "url": "https://www.aesop.com/skin-care.html",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

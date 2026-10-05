@@ -1,0 +1,102 @@
+Browser tab: 29, Title: "Shopify Editions | Winter '26", URL: "https://www.shopify.com/editions/winter2026#checkout".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 863-950, 1716
+~						1715 image A Buy with Shop button is shown and it expands to include the Mastercard logo and the last for digits of a card.
++				1716 container
++					1717 container ai-enhanced-chargeback-management
++						1718 heading AI-enhanced chargeback management, Value: 3
++							1719 link Description: AI-enhanced chargeback management, Value: help.shopify.com/en…
++						1720 text Auto-generate dispute summaries that include key factors like delivery tracking and your policies.
++					1721 container password-free-login
++						1722 heading Password-free login, Value: 3
++							1723 link Description: Password-free login, Value: accounts.shopify.co…
++						1724 text Set up passkeys to access your store securely with your fingerprint, face, or PIN.
++					1725 container heatmaps-in-analytics
++						1726 heading Heatmaps in analytics, Value: 3
++							1727 link Description: Heatmaps in analytics, Value: help.shopify.com/en…
++						1728 text View data as a heatmap across two variables, such as sales by hour and day of the week to spot your highest selling time.
++					1729 container customizable-top-items-in-analytics
++						1730 heading Customizable top items in analytics, Value: 3
++							1731 link Description: Customizable top items in analytics, Value: help.shopify.com/en…
++						1732 text Get a flexible view of reports by configuring the number of items displayed in visualizations, no longer limited to five.
++					1733 container bot-filtering-in-analytics
++						1734 heading Bot filtering in analytics, Value: 3
++							1735 link Description: Bot filtering in analytics, Value: help.shopify.com/en…
++						1736 text Exclude bot traffic for more accurate conversion rates and cleaner data.
++					1737 container comprehensive-inventory-history
++						1738 heading Comprehensive inventory history, Value: 3
++							1739 link Description: Comprehensive inventory history, Value: help.shopify.com/en…
++						1740 text Access full inventory adjustment history with the removal of the 180-day cap.
++					1741 container precise-date-and-time-controls-for-analytics
++						1742 heading Precise date and time controls for analytics, Value: 3
++							1743 link Description: Precise date and time controls for analytics, Value: help.shopify.com/en…
++						1744 text Monitor flash sales and product drops with filters that show data down to the minute.
++					1745 container flash-sales-with-multi-location-inventory
++						1746 heading Flash sales with multi-location inventory, Value: 3
++							1747 link Description: Flash sales with multi-location inventory, Value: help.shopify.com/en…
++						1748 text Run flash sales without overselling using inventory from multiple locations.
++					1749 container single-view-analytics-for-multiple-stores
++						1750 heading Single-view analytics for multiple stores, Value: 3
++							1751 link Description: Single-view analytics for multiple stores, Value: help.shopify.com/en…
++						1752 text See organization-wide performance in one view, then filter by store and compare metrics. Exclusive to Plus.
++					1753 container bin-locations-in-the-order-printer-app
++						1754 heading Bin locations in the Order Printer app, Value: 3
++							1755 link Description: Bin locations in the Order Printer app, Value: help.shopify.com/en…
++						1756 container
++							1757 text Pick orders faster by assigning bin locations to each SKU using a CSV or the bulk editor in the 
++							1758 link Description: Order Printer, Value: apps.shopify.com/sh…
++							1759 container Description: Get app, ID: tooltipID_:r1a:_order printer
++								1760 text Get app
++							1761 text  app.
++					1762 container more-order-filtering-capabilities
++						1763 heading More order filtering capabilities, Value: 3
++							1764 link Description: More order filtering capabilities, Value: help.shopify.com/en…
++						1765 text Filter orders by custom metafields, total value, and weight for smarter fulfillment workflows in admin.
++					1766 container edit-unfulfilled-orders-with-duties
++						1767 heading Edit unfulfilled orders with duties, Value: 3
++							1768 link Description: Edit unfulfilled orders with duties, Value: help.shopify.com/en…
++						1769 text Duties, taxes, and totals recalculate automatically when making changes to unfulfilled orders.
++					1770 container smarter-safeguards-for-inventory-updates
++						1771 heading Smarter safeguards for inventory updates, Value: 3
++							1772 link Description: Smarter safeguards for inventory updates, Value: help.shopify.com/en…
++						1773 text Prevent accidental overrides when you save bulk edits with color-coded changes, a warning, and a confirmation step.
++					1774 container discounts-on-fulfilled-items
++						1775 heading Discounts on fulfilled items, Value: 3
++							1776 link Description: Discounts on fulfilled items, Value: help.shopify.com/en…
++						1777 text Issue refunds by applying discounts to fulfilled products for accurate taxes and reporting.
++					1778 container preview-workflow-results-in-shopify-flow
++						1779 heading Preview workflow results in Flow, Value: 3
++							1780 link Description: Preview workflow results in Flow, Value: shopify.com/blog/fl…
++						1781 container
++							1782 text Test workflows in the 
++							1783 link Description: Shopify Flow, Value: apps.shopify.com/fl…
++							1784 container Description: Get app, ID: tooltipID_:r1b:_shopify-flow
++								1785 text Get app
++							1786 text  app before going live and adjust logic without impacting real store data.
++					1787 container redesigned-shopify-flow-editor
++						1788 heading Redesigned Flow editor, Value: 3
++							1789 link Description: Redesigned Flow editor, Value: shopify.com/blog/fl…
++						1790 container
++							1791 text Build large automations in the 
++							1792 link Description: Shopify Flow, Value: apps.shopify.com/fl…
++							1793 container Description: Get app, ID: tooltipID_:r1c:_shopify-flow
++								1794 text Get app
++							1795 text  app with more workspace in the vertical layout.
++					1796 container cancel-workflow-runs-in-shopify-flow
++						1797 heading Cancel workflow runs in Flow, Value: 3
++							1798 link Description: Cancel workflow runs in Flow, Value: help.shopify.com/en…
++						1799 container
++							1800 text Stop automations by cancelling a run or multiple runs in the 
++							1801 link Description: Shopify Flow, Value: apps.shopify.com/fl…
++							1802 container Description: Get app, ID: tooltipID_:r1d:_shopify flow
++								1803 text Get app
++							1804 text  app.
++					1805 container store-credit-email-notifications
++						1806 heading Store credit email notifications, Value: 3
++							1807 link Description: Store credit email notifications, Value: help.shopify.com/en…
++						1808 text Notify customers when store credit has been issued with a customizable email.
++					1809 container enhanced-managed-markets
++						1810 heading Enhanced Managed Markets, Value: 3
++							1811 link Description: Enhanced Managed Markets, Value: help.shopify.com/en…
++						1812 text Sell internationally with instant compliance checks, faster payouts, and full Harmonized System code control. US only.
+The focused UI element is 1580 container ID: checkout, Checkout Convert customers with personalized checkout experiences and more payment options. Back to navigation

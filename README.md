@@ -11,6 +11,7 @@ A collection of reusable Agent Skills for Codex, Antigravity, Claude Code, Curso
 | `clarify` | 厘清模糊表达，纠正术语与概念偏差，在必要时对齐含义。 |
 | `vocab-story-generator` | 灵活解析不同软件导出的英文单词、短语和短句，排除历史已用条目后续写格式统一的情境助记文章。 |
 | `cantonese-vocab-story-generator` | 把粤语词语、短语和短句转化为现代香港口语故事，并支持历史去重、增量续写与完整覆盖核验。 |
+| `design-library` | 从内置网站案例、截图和实测样式中选择设计参考，支持离线使用、按任务检索和按需扩库。 |
 
 ## Repository structure
 
@@ -22,8 +23,13 @@ agent-skills/
     │   └── SKILL.md
     ├── vocab-story-generator/
     │   └── SKILL.md
-    └── cantonese-vocab-story-generator/
-        └── SKILL.md
+    ├── cantonese-vocab-story-generator/
+    │   └── SKILL.md
+    └── design-library/
+        ├── SKILL.md
+        ├── library/
+        ├── references/
+        └── scripts/
 ```
 
 ## Install

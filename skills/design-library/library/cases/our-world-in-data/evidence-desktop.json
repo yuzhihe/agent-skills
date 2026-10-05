@@ -1,0 +1,577 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 6415,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 61, 99)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "text": "Our World\nin Data\nBrowse by topic\nData\nLatest\nResources\nAbout\nDonate\nPopulation10,000 BCE to 2023\nTa"
+    },
+    {
+      "rect": {
+        "height": 76,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 61, 99)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "text": "Our World\nin Data\nBrowse by topic\nData\nLatest\nResources\nAbout\nDonate"
+    },
+    {
+      "rect": {
+        "height": 26,
+        "width": 418,
+        "x": 197,
+        "y": 23
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 61, 99)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "text": "Browse by topic\nData\nLatest\nResources\nAbout"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 922,
+        "x": 25,
+        "y": 169
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(91, 91, 91)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "padding": "0px 16px"
+      },
+      "text": "Table\nMap\nLine\nBar\nSettings"
+    },
+    {
+      "rect": {
+        "height": 5834,
+        "width": 1280,
+        "x": 0,
+        "y": 76
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 61, 99)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "padding": "0px"
+      },
+      "text": "Population10,000 BCE to 2023\nTable\nMap\nLine\nBar\nSettings\n10,000 BCE\n2023\n8,000 BCE\n6,000 BCE\n4,000 B"
+    },
+    {
+      "rect": {
+        "height": 30,
+        "width": 890,
+        "x": 41,
+        "y": 117
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(45, 46, 45)",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", \"Liberation Serif\", serif",
+        "fontSize": "25px",
+        "fontWeight": "600",
+        "lineHeight": "30px",
+        "padding": "0px"
+      },
+      "text": "Population10,000 BCE to 2023"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 275,
+        "x": 964,
+        "y": 117
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(118, 118, 118)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "900",
+        "lineHeight": "15.9996px",
+        "padding": "0px"
+      },
+      "text": "ADD/REMOVE COUNTRIES AND REGIONS"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 1232,
+        "x": 24,
+        "y": 682
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(29, 61, 99)",
+        "fontFamily": "\"Playfair Display\", Georgia, \"Times New Roman\", \"Liberation Serif\", serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "31.9999px",
+        "padding": "0px"
+      },
+      "text": "What you should know about this indicator"
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 121,
+        "x": 197,
+        "y": 26
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(219, 229, 240)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Browse by topic"
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 79,
+        "x": 457,
+        "y": 26
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(219, 229, 240)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Resources"
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 55,
+        "x": 560,
+        "y": 26
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(219, 229, 240)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "About"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 47,
+        "x": 1002,
+        "y": 14
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "11.2px",
+        "padding": "1px 8px 1px 11px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 1058,
+        "y": 16
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "20.7px",
+        "padding": "0px"
+      },
+      "text": "Toggle subscribe menu"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 80,
+        "x": 851,
+        "y": 169
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "boxShadow": "none",
+        "color": "rgb(91, 91, 91)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "padding": "7px"
+      },
+      "text": "Settings"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 93,
+        "x": 80,
+        "y": 12
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Our World\nin Data"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 30,
+        "x": 342,
+        "y": 28
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(219, 229, 240)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Data"
+    },
+    {
+      "rect": {
+        "height": 17,
+        "width": 38,
+        "x": 395,
+        "y": 28
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(219, 229, 240)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Latest"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 94,
+        "x": 1106,
+        "y": 16
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgb(206, 38, 30)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "21px",
+        "padding": "0px 24px"
+      },
+      "text": "Donate"
+    },
+    {
+      "rect": {
+        "height": 16,
+        "width": 153,
+        "x": 415,
+        "y": 546
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(91, 91, 91)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "15.6px",
+        "padding": "0px"
+      },
+      "text": "Learn more about this data"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 163,
+        "x": 855,
+        "y": 14
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(164, 182, 202)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 275,
+        "x": 964,
+        "y": 165
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "4px",
+        "boxShadow": "none",
+        "color": "rgb(91, 91, 91)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "lineHeight": "15.6px",
+        "padding": "1px 8px 1px 24px"
+      },
+      "text": "Search for a country or region"
+    },
+    {
+      "rect": {
+        "height": 13,
+        "width": 13,
+        "x": 964,
+        "y": 297
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 13,
+        "width": 13,
+        "x": 964,
+        "y": 332
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 13,
+        "width": 13,
+        "x": 964,
+        "y": 366
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 13,
+        "width": 13,
+        "x": 964,
+        "y": 401
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 13,
+        "width": 13,
+        "x": 964,
+        "y": 435
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 13,
+        "width": 13,
+        "x": 964,
+        "y": 470
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Lato, \"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    }
+  ],
+  "title": "Population, 10,000 BCE to 2023",
+  "url": "https://ourworldindata.org/grapher/population",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

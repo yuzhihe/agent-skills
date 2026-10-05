@@ -1,0 +1,27 @@
+{
+  "order": 30,
+  "id": "phantom",
+  "name": "Phantom · 作品墙与目录",
+  "source": "https://www.phantom.land/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "portfolio",
+    "discovery"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "portfolio-images",
+    "project-data"
+  ],
+  "tone": [
+    "dark",
+    "bold"
+  ],
+  "lang": "en",
+  "summary": "同一批作品提供沉浸图墙和按年份排列的文字目录，兼顾浏览与快速定位。",
+  "usage": "适合拥有大量项目的创意机构；小作品集或低性能设备应优先保留普通列表。",
+  "recognition": {
+    "label": "Awwwards Site of the Day：2025-06-02；当前页面内容已更新",
+    "url": "https://www.awwwards.com/websites/web-design-agency/?page=31"
+  }
+}

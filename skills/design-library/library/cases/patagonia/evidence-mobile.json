@@ -1,0 +1,262 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 5618,
+        "width": 390,
+        "x": 0,
+        "y": -1
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "24.5px",
+        "padding": "0px"
+      },
+      "text": "Skip to main content\nGet Your People to the Polls\nFree Shipping on Orders Over $99\nEarth Is Now Our "
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 390,
+        "x": 0,
+        "y": 48
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "24.5px",
+        "padding": "8px 0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 865,
+        "width": 325,
+        "x": 423,
+        "y": 64
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "24.5px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 5618,
+        "width": 390,
+        "x": 0,
+        "y": -1
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "24.5px",
+        "padding": "0px"
+      },
+      "text": "Get Your People to the Polls\nFree Shipping on Orders Over $99\nEarth Is Now Our Only Shareholder\n11.2"
+    },
+    {
+      "rect": {
+        "height": 88,
+        "width": 342,
+        "x": 24,
+        "y": 511
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "40px",
+        "fontWeight": "500",
+        "lineHeight": "44px",
+        "padding": "0px"
+      },
+      "text": "11.2 Million Vote Project"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 358,
+        "x": 16,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "24.5px",
+        "padding": "0px"
+      },
+      "text": "Get Your People to the Polls\nFree Shipping on Orders Over $99\nEarth Is Now Our Only Shareholder"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 350,
+        "y": 48
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "40px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "24.5px",
+        "padding": "10px"
+      },
+      "text": "Close"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 254,
+        "y": 56
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "40px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "24.5px",
+        "padding": "0px"
+      },
+      "text": "Search"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 334,
+        "y": 56
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "24.5px",
+        "padding": "0px"
+      },
+      "text": "Hamburger"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 716,
+        "y": 24
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "14px",
+        "padding": "7px"
+      },
+      "text": "Close"
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 325,
+        "x": 423,
+        "y": 80
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "20px",
+        "fontWeight": "300",
+        "lineHeight": "30px",
+        "padding": "8px 4px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 812,
+        "y": 24
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "\"Ridgeway Sans\", system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "text": "Back"
+    }
+  ],
+  "title": "Patagonia Outdoor Clothing & Gear",
+  "url": "https://www.patagonia.com/home/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

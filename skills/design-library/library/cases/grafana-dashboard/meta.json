@@ -1,0 +1,23 @@
+{
+  "order": 34,
+  "id": "grafana-dashboard",
+  "name": "Grafana Play · 数据仪表盘",
+  "source": "https://play.grafana.org/d/ma7w5nw/f1-driver-championship-points",
+  "studied": "2026-10-05",
+  "tasks": [
+    "dashboard",
+    "utility"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "structured-data",
+    "charts"
+  ],
+  "tone": [
+    "analytical",
+    "dark"
+  ],
+  "lang": "en",
+  "summary": "统一时间工具条下先放摘要指标，再用表格和图表解释构成与差异。",
+  "usage": "适合监控、运营和统计后台；本例是官方公开沙盒，不代表所有 Grafana 默认布局。"
+}

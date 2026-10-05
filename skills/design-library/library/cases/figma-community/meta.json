@@ -1,0 +1,21 @@
+{
+  "order": 17,
+  "id": "figma-community",
+  "name": "Figma Community",
+  "source": "https://www.figma.com/community",
+  "studied": "2026-10-05",
+  "tasks": [
+    "creator"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "content-previews",
+    "creator-data"
+  ],
+  "tone": [
+    "neutral"
+  ],
+  "lang": "en",
+  "summary": "中性背景与居中搜索句引导查找，下面是精选资源横幅和卡片；手机收缩导航并垂直浏览。",
+  "usage": "插件、模板、设计资源、素材社区；资源数量不足却复制大型市场入口。"
+}

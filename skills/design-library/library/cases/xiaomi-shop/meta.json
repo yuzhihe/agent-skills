@@ -1,0 +1,23 @@
+{
+  "order": 38,
+  "id": "xiaomi-shop",
+  "name": "小米商城 · 中文商品目录",
+  "source": "https://www.mi.com/shop",
+  "studied": "2026-10-05",
+  "tasks": [
+    "commerce",
+    "discovery"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "product-photos",
+    "commerce-data"
+  ],
+  "tone": [
+    "practical",
+    "structured"
+  ],
+  "lang": "zh",
+  "summary": "三级入口和统一商品网格支撑大量品类，橙色集中标记价格与当前分类。",
+  "usage": "适合中文桌面商城和多品类目录；当前窄屏快照存在裁切，不作为移动范本。"
+}

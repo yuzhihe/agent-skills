@@ -1,0 +1,21 @@
+{
+  "order": 10,
+  "id": "apple-iphone",
+  "name": "Apple iPhone",
+  "source": "https://www.apple.com/iphone/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "product"
+  ],
+  "density": "low",
+  "assets_needed": [
+    "product-photos"
+  ],
+  "tone": [
+    "minimal",
+    "premium"
+  ],
+  "lang": "en",
+  "summary": "桌面以巨大 “iPhone” 标题和横向机型导航开场，随后进入产品画面；窄屏标题缩小，机型入口可横向浏览。",
+  "usage": "高质量实物产品线、品牌产品目录；无产品图或需要在首屏展示大量规格的后台页面。"
+}

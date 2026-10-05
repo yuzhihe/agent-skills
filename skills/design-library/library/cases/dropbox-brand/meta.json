@@ -1,0 +1,26 @@
+{
+  "order": 23,
+  "id": "dropbox-brand",
+  "name": "Dropbox Brand · 交互字样",
+  "source": "https://brand.dropbox.com/typography",
+  "studied": "2026-10-05",
+  "tasks": [
+    "brand",
+    "portfolio"
+  ],
+  "density": "low",
+  "assets_needed": [
+    "content-previews"
+  ],
+  "tone": [
+    "bold",
+    "playful"
+  ],
+  "lang": "en",
+  "summary": "把品牌字体做成可操作的展品，巨幅字样与彩色样本分布在深色网格中。",
+  "usage": "适合字体、品牌手册和视觉实验展示；不适合长文阅读或高频业务操作。",
+  "recognition": {
+    "label": "2025 Webby Winner：Best User Experience、Best Responsive/Adaptive Design for Mobile；Visual Design–Function 仅为提名",
+    "url": "https://winners.webbyawards.com/2025/websites-and-mobile-sites/features-design/best-visual-design-function/333662/dropbox-brand-website"
+  }
+}

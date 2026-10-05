@@ -1,0 +1,33 @@
+Browser tab: 30, Title: "个人设置 - Ant Design Pro", URL: "https://preview.pro.ant.design/account/settings".
+0 AXWebArea 个人设置 - Ant Design Pro, URL: preview.pro.ant.design/account/settings
+	1 container
+		2 container root
+			33 container
+				34 container
+					505 image menu
+					506 image logo
+					38 button 使用文档
+						39 image book
+					40 button 历史版本
+						41 image fork
+					42 button 语言切换
+						43 image global
+					44 image
+					45 text ProUser
+				507 menu
+					508 基本设置
+					509 安全设置
+					510 账号绑定
+					511 新消息通知
+				512 text 基本设置
+				496 image setting
+				497 text Ant Design Pro ©  2026 ver
+				498 link Description: 6.0.1, Value: github.com/ant-design/ant-design-pro
+				499 link Description: 2db826c, Value: github.com/ant-design/ant-design-pro/commit/2db826cb350e46206252197f416a0a22f2b9bbfe
+				500 text Umi
+				501 link Description: 4.6.51, Value: umijs.org/
+				502 text Utoo
+				503 link Description: 1.4.3, Value: utoo.land/
+				504 link Description: github GitHub, Value: github.com/ant-design/ant-design-pro
+
+The focused UI element is 0 AXWebArea 个人设置 - Ant Design Pro, URL: preview.pro.ant.design/account/settings

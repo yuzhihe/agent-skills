@@ -1,0 +1,1630 @@
+{
+  "body": {
+    "background": "rgba(0, 0, 0, 0)",
+    "fontFamily": "\"A1 Gothic M\", sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "デニムかるた\n\n45Rのデニムのあれやこれやが、\n45枚のかるたになりました。\nかるた遊びはもちろんのこと、\nうんちくも楽しめます。\n\nこのサイトは音が出ます\n\nはじめる\n練習問題\n\nアマテラスとスサノオが穿くデニム\n\n練習問題\nアマテラス"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 29.6796875,
+        "width": 78.9453125,
+        "x": 446.625,
+        "y": 254.0859375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44.7734375,
+        "width": 244.203125,
+        "x": 364,
+        "y": 312.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic B\", sans-serif",
+        "fontSize": "40.7015px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "44.7716px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "デニムかるた"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 91.59375,
+        "width": 225.5625,
+        "x": 373.3203125,
+        "y": 374.3203125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic B\", sans-serif",
+        "fontSize": "15.264px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.896px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "45Rのデニムのあれやこれやが、\n45枚のかるたになりました。\nかるた遊びはもちろんのこと、\nうんちくも楽しめます。"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20.3515625,
+        "width": 149.21875,
+        "x": 730.3125,
+        "y": 254.859375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(179, 115, 55)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "13.5697px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.3545px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "このサイトは音が出ます"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 72.0703125,
+        "width": 74.625,
+        "x": 726.3203125,
+        "y": 289.625
+      },
+      "style": {
+        "background": "rgb(179, 115, 55)",
+        "borderRadius": "32.2223px",
+        "color": "rgb(255, 255, 255)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "7.95254px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "11.9288px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 72.0703125,
+        "width": 74.625,
+        "x": 808.890625,
+        "y": 289.625
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "32.2223px",
+        "color": "rgb(179, 115, 55)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "7.95254px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "11.9288px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 69.5234375,
+        "width": 222.15625,
+        "x": 693.84375,
+        "y": 395.609375
+      },
+      "style": {
+        "background": "rgb(179, 115, 55)",
+        "borderRadius": "13.5697px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "20.3545px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "30.5318px",
+        "padding": "19.5074px 70.3823px"
+      },
+      "tag": "BUTTON",
+      "text": "はじめる"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.73046875,
+        "width": 279.75238037109375,
+        "x": 538.1554565429688,
+        "y": 78.2632827758789
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.6667px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "アマテラスとスサノオが穿くデニム"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 89.2734375,
+        "width": 430.8046875,
+        "x": 424.59375,
+        "y": 174.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px 11.9288px"
+      },
+      "tag": "H2",
+      "text": "練習問題\nアマテラスとスサノオが穿くデニム"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 86.80783081054688,
+        "width": 86.80780029296875,
+        "x": 596.5921630859375,
+        "y": 469.3968811035156
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "あてはまる絵札はどれ？"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 27.9765625,
+        "width": 254.375,
+        "x": 512.8125,
+        "y": 133.546875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "25.4375px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "27.9812px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "あ\nっ\nぱ\nれ\n！\n正\n解\nで\nす\n！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.484375,
+        "width": 286.1171875,
+        "x": 496.9375,
+        "y": 578.109375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.4872px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "この調子で全問正解を目指しましょう！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 75.625,
+        "width": 203.0390625,
+        "x": 27.8203125,
+        "y": 87.42654418945312
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic B\", sans-serif",
+        "fontSize": "11.1275px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.9167px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "練\n習\n問\n題\nで\nす\n！\nこ\nの\n文\n章\nを\nよ\n〜\nく\nお\n読\nみ\nく\nだ\nさ\nい\n。\n次\nの\n画\n面\nで\n、\n4\n5\nR\nの\nデ\nニ\nム\nに\n関\nす\nる\n豆\n知\n識\nが\n描\nか\nれ\nた\n絵\n札\nを\n選\nび\nま\nす\n。"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 35.3671875,
+        "width": 37.7578125,
+        "x": 236.0249938964844,
+        "y": 55.62068176269531
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.90625,
+        "width": 133.5,
+        "x": 27.8203125,
+        "y": 36.20232391357422
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic B\", sans-serif",
+        "fontSize": "11.1275px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.9167px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "絵\n札\nを\n選\nん\nで\nみ\nま\nし\nょ\nう\n！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 35.3671875,
+        "width": 37.7578125,
+        "x": 166.48593139648438,
+        "y": 4.396462440490723
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22.73046875,
+        "width": 139.8804931640625,
+        "x": 608.0914306640625,
+        "y": 78.2632827758789
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.6667px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "伝統と革新の融合"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 13.984375,
+        "width": 35.7890625,
+        "x": 622.1015625,
+        "y": 373.625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "12.7225px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "13.9948px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "DRAG"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28.609375,
+        "width": 59.53125,
+        "x": 610.234375,
+        "y": 403.109375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "9.54px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "14.31px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "ドラッグして\n探せます"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 89.2734375,
+        "width": 227.328125,
+        "x": 526.3359375,
+        "y": 174.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px 11.9288px"
+      },
+      "tag": "H2",
+      "text": "練習問題\n伝統と革新の融合"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 86.80783081054688,
+        "width": 86.80780029296875,
+        "x": 596.5921630859375,
+        "y": 469.3968811035156
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "あてはまる絵札はどれ？"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 89.2734375,
+        "width": 379.9375,
+        "x": 450.03125,
+        "y": 174.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px 11.9288px"
+      },
+      "tag": "H2",
+      "text": "練習問題\nわたくし、こういうものです！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 86.80783081054688,
+        "width": 86.80780029296875,
+        "x": 596.5921630859375,
+        "y": 469.3968811035156
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "あてはまる絵札はどれ？"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 89.2734375,
+        "width": 278.1953125,
+        "x": 500.8984375,
+        "y": 174.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px 11.9288px"
+      },
+      "tag": "H2",
+      "text": "練習問題\n大工、縫い子、陶芸家"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 86.80783081054688,
+        "width": 86.80780029296875,
+        "x": 596.5921630859375,
+        "y": 469.3968811035156
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "あてはまる絵札はどれ？"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 89.2734375,
+        "width": 252.765625,
+        "x": 513.6171875,
+        "y": 174.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px 11.9288px"
+      },
+      "tag": "H2",
+      "text": "練習問題\n太古の時代のデニム"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 86.80783081054688,
+        "width": 86.80780029296875,
+        "x": 596.5921630859375,
+        "y": 469.3968811035156
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "あてはまる絵札はどれ？"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 89.2734375,
+        "width": 201.890625,
+        "x": 539.0546875,
+        "y": 174.6015625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px 11.9288px"
+      },
+      "tag": "H2",
+      "text": "練習問題\n深い深い海の色"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 86.80783081054688,
+        "width": 86.80780029296875,
+        "x": 596.5921630859375,
+        "y": 469.3968811035156
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "あてはまる絵札はどれ？"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 27.9765625,
+        "width": 254.375,
+        "x": 512.8125,
+        "y": 133.546875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "25.4375px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "27.9812px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "あ\nっ\nぱ\nれ\n！\n正\n解\nで\nす\n！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 35.3671875,
+        "width": 141.109375,
+        "x": 569.4453125,
+        "y": 435.5859375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "19.08px",
+        "fontWeight": "400",
+        "gap": "normal 7.95254px",
+        "lineHeight": "20.988px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "正解を見る"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 413.8203125,
+        "width": 413.8203125,
+        "x": 358.4609375,
+        "y": 36.9140625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "もう一度\nチャレンジする"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 343.4375,
+        "width": 343.4375,
+        "x": 578.09375,
+        "y": 331.171875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "すべての札を見る"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 13.984375,
+        "width": 47.1953125,
+        "x": 616.3984375,
+        "y": 371.4921875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "12.7225px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "13.9948px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "SCROLL"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28.609375,
+        "width": 59.53125,
+        "x": 610.234375,
+        "y": 400.9765625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "9.54px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "14.31px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "スクロール\nしてください"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 23.84375,
+        "width": 1280,
+        "x": 0,
+        "y": 76.7109375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic B\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "23.8462px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "4\n5\nR\nデ\nニ\nム\n図\n鑑"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 35.3671875,
+        "width": 156.0234375,
+        "x": 40.140625,
+        "y": 638.125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal 7.95254px",
+        "lineHeight": "17.4872px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "タイトルへ戻る"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 35.3671875,
+        "width": 141.078125,
+        "x": 1098.78125,
+        "y": 638.125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal 7.95254px",
+        "lineHeight": "17.4872px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "図鑑を閉じる"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 15.2578125,
+        "width": 1280,
+        "x": 0,
+        "y": 688.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(191, 191, 191)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "10.1735px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15.2602px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "©45rpm studio co., ltd."
+    },
+    {
+      "id": "intro",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "デニムかるた\n\n45Rのデニムのあれやこれやが、\n45枚のかるたになりました。\nかるた遊びはもちろんのこと、\nうんちくも楽しめます。\n\nこのサイトは音が出ます\n\nはじめる"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 211.828125,
+        "width": 552,
+        "x": 364,
+        "y": 254.0859375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal 85.6463px",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "デニムかるた\n\n45Rのデニムのあれやこれやが、\n45枚のかるたになりました。\nかるた遊びはもちろんのこと、\nうんちくも楽しめます。\n\nこのサイトは音が出ます\n\nはじめる"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60.015625,
+        "width": 357.65625,
+        "x": 461.171875,
+        "y": 59.625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "練習問題\n\nアマテラスとスサノオが穿くデニム"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 39.7890625,
+        "width": 75.20391845703125,
+        "x": 454.2117309570313,
+        "y": 69.73828125
+      },
+      "style": {
+        "background": "rgb(25, 56, 84)",
+        "borderRadius": "16.2943px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "練習問題"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.356246948242188,
+        "width": 48.949981689453125,
+        "x": 467.3343811035156,
+        "y": 80.4546890258789
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.1275px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16.6912px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "練習問題"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 11.681243896484377,
+        "width": 31.1500244140625,
+        "x": 624.4183349609375,
+        "y": 75.04219055175781
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.1275px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16.6912px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "練習問題"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.484375,
+        "width": 127.3203125,
+        "x": 1066.8359375,
+        "y": 647.0625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.4872px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "さあはじめよう！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 50.6875,
+        "width": 189.140625,
+        "x": 0,
+        "y": 20.311697006225582
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "絵\n札\nを\n選\nん\nで\nみ\nま\nし\nょ\nう\n！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 50.6875,
+        "width": 189.140625,
+        "x": 0,
+        "y": 20.311697006225582
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "16.2943px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "15.8975px 27.8263px"
+      },
+      "tag": "DIV",
+      "text": "絵\n札\nを\n選\nん\nで\nみ\nま\nし\nょ\nう\n！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60.015625,
+        "width": 230.5,
+        "x": 524.75,
+        "y": 59.625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "練習問題\n\n伝統と革新の融合"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 39.7890625,
+        "width": 75.20391845703125,
+        "x": 524.1476440429688,
+        "y": 69.73828125
+      },
+      "style": {
+        "background": "rgb(25, 56, 84)",
+        "borderRadius": "16.2943px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "練習問題"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.356246948242188,
+        "width": 48.95001220703125,
+        "x": 537.2703247070312,
+        "y": 80.4546890258789
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.1275px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16.6912px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "練習問題"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 11.681243896484377,
+        "width": 31.1500244140625,
+        "x": 624.4183349609375,
+        "y": 75.04219055175781
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.1275px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16.6912px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "練習問題"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.484375,
+        "width": 127.3203125,
+        "x": 1066.8359375,
+        "y": 647.0625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.4872px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "さあはじめよう！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 29.756256103515625,
+        "width": 279.97503662109375,
+        "x": 500.0125122070313,
+        "y": 240.359375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "19.08px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.804px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "5問中"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 62.006256103515625,
+        "width": 238.47186279296875,
+        "x": 500.0125122070313,
+        "y": 282.5093688964844
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic B\", sans-serif",
+        "fontSize": "39.7475px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "51.6717px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "全問不正解"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 62.006256103515625,
+        "width": 71.550048828125,
+        "x": 738.484375,
+        "y": 282.5093688964844
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic B\", sans-serif",
+        "fontSize": "39.7475px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "51.6717px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "、、"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36.6640625,
+        "width": 270.21875,
+        "x": 504.890625,
+        "y": 357.703125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "inline",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "15.8975px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20.6667px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "失敗は成功の母です。\n繰り返しチャレンジしてくださいね！"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Q1\nQ2\nQ3\nQ4\nQ5\n伝統と革新の融合\nわたくし、こういうものです！\n大工、縫い子、陶芸家\n太古の時代のデニム\n深い深い海の色\n正解！\n不正解\nこの札に関連するページを見る"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 540.59375,
+        "width": 298.921875,
+        "x": 490.5390625,
+        "y": 93.9375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Q1\nQ2\nQ3\nQ4\nQ5\n伝統と革新の融合\nわたくし、こういうものです！\n大工、縫い子、陶芸家\n太古の時代のデニム\n深い深い海の色\n正解！\n不正解\nこの札に関連するページを見る"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36.171875,
+        "width": 38.15625,
+        "x": 506.828125,
+        "y": 88.8023452758789
+      },
+      "style": {
+        "background": "rgb(25, 56, 84)",
+        "borderRadius": "16.2943px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Q1\nQ2\nQ3\nQ4\nQ5"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 180.859375,
+        "width": 38.15625,
+        "x": 506.828125,
+        "y": 88.8023452758789
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Q1\nQ2\nQ3\nQ4\nQ5"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 35.765625,
+        "width": 170.5546875,
+        "x": 552.9296875,
+        "y": 89.0054702758789
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "伝統と革新の融合\nわたくし、こういうものです！\n大工、縫い子、陶芸家\n太古の時代のデニム\n深い深い海の色"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 56.83592987060547,
+        "width": 43.71875,
+        "x": 731.4296875,
+        "y": 78.4742202758789
+      },
+      "style": {
+        "background": "rgba(250, 237, 205, 0.5)",
+        "borderRadius": "8.34941px",
+        "color": "rgb(25, 56, 84)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "7.15882px 0px"
+      },
+      "tag": "DIV",
+      "text": "正解！\n不正解"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.10155487060547,
+        "width": 37.5546875,
+        "x": 734.5078125,
+        "y": 112.0523452758789
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic B\", sans-serif",
+        "fontSize": "10.7306px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16.0959px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "正解！\n不正解"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 637.6953125,
+        "width": 563.0703125,
+        "x": 358.4609375,
+        "y": 36.9140625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "もう一度\nチャレンジする\nすべての札を見る"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 413.8203125,
+        "width": 413.8203125,
+        "x": 358.4609375,
+        "y": 36.9140625
+      },
+      "style": {
+        "background": "rgb(71, 113, 139)",
+        "borderRadius": "9999px",
+        "color": "rgb(250, 237, 205)",
+        "display": "flex",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "もう一度\nチャレンジする"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 79.375,
+        "width": 214.2890625,
+        "x": 458.2265625,
+        "y": 173.6171875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "30.528px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "39.6864px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "もう一度\nチャレンジする"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.578125,
+        "width": 142.265625,
+        "x": 678.6796875,
+        "y": 464.3046875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(250, 237, 205)",
+        "display": "block",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "17.8055px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.586px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "すべての札を見る"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(25, 56, 84)",
+        "display": "grid",
+        "fontFamily": "\"A1 Gothic M\", sans-serif",
+        "fontSize": "11.9288px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.8932px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "この札に関連するページを見る"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "デニムかるた | 45R",
+  "url": "https://45r.jp/ja/45denim-karuta/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:38:43.082Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

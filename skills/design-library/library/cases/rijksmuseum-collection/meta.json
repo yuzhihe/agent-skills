@@ -1,0 +1,27 @@
+{
+  "order": 26,
+  "id": "rijksmuseum-collection",
+  "name": "Rijksmuseum · 艺术收藏检索",
+  "source": "https://www.rijksmuseum.nl/en/collection/search",
+  "studied": "2026-10-05",
+  "tasks": [
+    "discovery",
+    "editorial"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "licensed-photos",
+    "structured-content"
+  ],
+  "tone": [
+    "image-led",
+    "editorial"
+  ],
+  "lang": "en",
+  "summary": "作品铺满浏览区域，搜索与集合切换悬在画面下方，工具退后让内容成为主角。",
+  "usage": "适合美术、摄影和档案收藏；需要高质量作品图和可靠元数据。",
+  "recognition": {
+    "label": "2025 Webby Winner 与 People’s Voice：Best User Interface",
+    "url": "https://winners.webbyawards.com/2025/websites-and-mobile-sites/features-design/best-user-interface/333807/rijksmuseum-collection-online"
+  }
+}

@@ -1,0 +1,70 @@
+Browser tab: 29, Title: "Shopify Editions | Winter '26", URL: "https://www.shopify.com/editions/winter2026#checkout".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 1596-1647
++					1649 container
++						1650 container shop-pay-installments-in-the-uk
++							1651 heading Shop Pay Installments in the UK, Value: 3
++								1652 link Description: Shop Pay Installments in the UK, Value: help.shopify.com/en…
++							1653 text Offer Shop Pay's Buy Now, Pay Later in the UK with terms up to 24 months.
++						1654 container shop-pay-works-with-global-e
++							1655 heading Shop Pay works with Global-e, Value: 3
++								1656 link Description: Shop Pay works with Global-e, Value: help.shopify.com/en…
++							1657 container
++								1658 text Use 
++								1659 link Description: Shop Pay, Value: shopify.com/shop-pay
++								1660 container Description: Learn more, ID: tooltipID_:r13:_shop-pay
++									1661 text Learn more
++								1662 text  in every market, with domestic orders handled by 
++								1663 link Description: Shopify Payments, Value: shopify.com/payments
++								1664 container Description: Learn more, ID: tooltipID_:r14:_shopify-payments
++									1665 text Learn more
++								1666 text  and international orders processed by Global-e.
++						1667 container apple-pay-in-shop-pay
++							1668 heading Apple Pay in Shop Pay, Value: 3
++								1669 link Description: Apple Pay in Shop Pay, Value: help.shopify.com/en…
++							1670 container
++								1671 text Apple Pay is now available as a payment method in 
++								1672 link Description: Shop Pay, Value: shopify.com/shop-pay
++								1673 container Description: Learn more, ID: tooltipID_:r15:_shop pay
++									1674 text Learn more
++								1675 text .
++						1676 container reminders-for-shop-pay-subscriptions
++							1677 heading Reminders for Shop Pay subscriptions, Value: 3
++								1678 link Description: Reminders for Shop Pay subscriptions, Value: help.shopify.com/en…
++							1679 container
++								1680 link Description: Shop Pay, Value: shopify.com/shop-pay
++								1681 container Description: Learn more, ID: tooltipID_:r16:_shop-pay
++									1682 text Learn more
++								1683 text  automatically notifies subscribers before their payment method expires.
++						1684 container switch-to-shopify-payments-with-zero-downtime
++							1685 heading Switch to Shopify Payments with zero downtime, Value: 3
++								1686 link Description: Switch to Shopify Payments with zero downtime, Value: help.shopify.com/en…
++							1687 container
++								1688 text Move from third-party payment processors to 
++								1689 link Description: Shopify Payments, Value: shopify.com/payments
++								1690 container Description: Learn more, ID: tooltipID_:r17:_shopify-payments
++									1691 text Learn more
++								1692 text  without interrupting checkout.
++						1693 container streamlined-shopify-payments-onboarding
++							1694 heading Streamlined Shopify Payments onboarding, Value: 3
++								1695 link Description: Streamlined Shopify Payments onboarding, Value: help.shopify.com/en…
++							1696 container
++								1697 text Set up 
++								1698 link Description: Shopify Payments, Value: shopify.com/payments
++								1699 container Description: Learn more, ID: tooltipID_:r18:_shopify-payments
++									1700 text Learn more
++								1701 text  faster with localized forms, clear guidance, fewer requirements, and help from AI to fill out forms.
++						1702 container more-payment-methods-in-france
++							1703 heading More payment methods in France, Value: 3
++								1704 link Description: More payment methods in France, Value: help.shopify.com/en…
++							1705 text Accept cross-border payments in France from Bancontact in Belgium, iDEAL in the Netherlands, Twint in Switzerland, Blik and Przelewy24 in Poland, MobilePay in Denmark, and EPS in Austria.
++						1706 container klarna-in-more-countries
++							1707 heading Klarna in more countries, Value: 3
++								1708 link Description: Klarna in more countries, Value: help.shopify.com/en…
++							1709 container
++								1710 text Let customers use Klarna on 
++								1711 link Description: Shopify Payments, Value: shopify.com/payments
++								1712 container Description: Learn more, ID: tooltipID_:r19:_shopify-payments
++									1713 text Learn more
++								1714 text  in Belgium, Denmark, Finland, France, Switzerland, Czechia, Ireland, and Portugal.
+The focused UI element is 1580 container ID: checkout, Checkout Convert customers with personalized checkout experiences and more payment options. Back to navigation

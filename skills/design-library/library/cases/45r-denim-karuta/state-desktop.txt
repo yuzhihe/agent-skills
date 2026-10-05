@@ -1,0 +1,21 @@
+Browser tab: 29, Title: "デニムかるた | 45R", URL: "https://45r.jp/ja/45denim-karuta/".
+1 AXWebArea デニムかるた | 45R, URL: 45r.jp/ja/45denim-karuta/
+	6 image
+	8 container intro
+		9 image デニムかるた | 45R
+		10 heading デニムかるた, Value: 1
+			11 text デニムかるた
+		12 container
+			13 text 45Rのデニムのあれやこれやが、
+			14 text 45枚のかるたになりました。
+			15 text かるた遊びはもちろんのこと、
+			16 text うんちくも楽しめます。
+		17 text このサイトは音が出ます
+		18 button
+			19 image
+		20 button
+			21 image
+		22 button はじめる
+	7 text ©45rpm studio co., ltd.
+
+The focused UI element is 1 AXWebArea デニムかるた | 45R, URL: 45r.jp/ja/45denim-karuta/

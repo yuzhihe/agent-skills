@@ -1,0 +1,135 @@
+{
+  "body": {
+    "background": "oklch(1 0 0)",
+    "fontFamily": "hnr, HelveticaNowText, TazuganeGothicStdN, sans-serif"
+  },
+  "elements": [
+    {
+      "id": "main",
+      "rect": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "oklch(0.2718 0.001 0)",
+        "display": "flex",
+        "fontFamily": "hnr, HelveticaNowText, TazuganeGothicStdN, sans-serif",
+        "fontSize": "0.955882px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "1.09926px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "KOKUYO’s\nDiverse Initiatives"
+    },
+    {
+      "id": "menuopenbutton",
+      "rect": {
+        "height": 260,
+        "width": 260,
+        "x": 65,
+        "y": 736.9375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "oklch(0.2718 0.001 0)",
+        "display": "flex",
+        "fontFamily": "hnr, HelveticaNowText, TazuganeGothicStdN, sans-serif",
+        "fontSize": "0.955882px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "1.09926px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "KOKUYO’s\nDiverse Initiatives"
+    },
+    {
+      "id": "container",
+      "rect": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "oklch(0.2718 0.001 0)",
+        "display": "flex",
+        "fontFamily": "hnr, HelveticaNowText, TazuganeGothicStdN, sans-serif",
+        "fontSize": "0.955882px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "1.09926px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "KOKUYO’s\nDiverse Initiatives"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "oklch(0.2718 0.001 0)",
+        "display": "flex",
+        "fontFamily": "hnr, HelveticaNowText, TazuganeGothicStdN, sans-serif",
+        "fontSize": "0.955882px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "1.09926px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "KOKUYO’s\nDiverse Initiatives"
+    },
+    {
+      "id": "modalbutton",
+      "rect": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "oklch(0.2718 0.001 0)",
+        "display": "flex",
+        "fontFamily": "hnr, HelveticaNowText, TazuganeGothicStdN, sans-serif",
+        "fontSize": "0.955882px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "1.09926px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "KOKUYO’s\nDiverse Initiatives"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Curiosity is Life | KOKUYO",
+  "url": "https://www.kokuyo.com/en/special/curiosity-is-life/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-04T23:29:29.775Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

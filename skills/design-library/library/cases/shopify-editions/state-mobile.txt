@@ -1,0 +1,3 @@
+Browser tab: 29, Title: "Shopify Editions | Winter '26", URL: "https://www.shopify.com/editions/winter2026".
+There has been no change in the accessibility tree.
+The focused UI element is 1 AXWebArea Shopify Editions | Winter '26, URL: shopify.com/edition…

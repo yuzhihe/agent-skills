@@ -1,0 +1,27 @@
+{
+  "order": 32,
+  "id": "45r-denim-karuta",
+  "name": "45R Denim Karuta · 品牌卡牌",
+  "source": "https://45r.jp/ja/45denim-karuta/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "brand",
+    "education"
+  ],
+  "density": "low",
+  "assets_needed": [
+    "illustration",
+    "structured-content"
+  ],
+  "tone": [
+    "warm",
+    "playful"
+  ],
+  "lang": "ja",
+  "summary": "插画卡牌围出中央留白，把牛仔知识转为可开始、可练习的小型互动体验。",
+  "usage": "适合品牌知识、文化科普与轻量教学；需要成系列插画和可拆分的小知识。",
+  "recognition": {
+    "label": "Awwwards Site of the Day：2025-03-30；Developer Award",
+    "url": "https://www.awwwards.com/sites/45r-denim-karuta"
+  }
+}

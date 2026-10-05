@@ -1,0 +1,304 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 5496,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(57, 54, 79)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "Eventbrite\nFind my tickets\nSign in\n\nMusic\n\nNightlife\n\nPerforming & Visual Arts\n\nHolidays\n\nDating\n\nHo"
+    },
+    {
+      "rect": {
+        "height": 57,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(57, 54, 79)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "8px 16px"
+      },
+      "text": "Eventbrite\nFind my tickets\nSign in"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 358,
+        "x": 16,
+        "y": 8
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(57, 54, 79)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "Eventbrite\nFind my tickets\nSign in"
+    },
+    {
+      "rect": {
+        "height": 5496,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(57, 54, 79)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "Eventbrite\nFind my tickets\nSign in\n\nMusic\n\nNightlife\n\nPerforming & Visual Arts\n\nHolidays\n\nDating\n\nHo"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 165,
+        "x": 16,
+        "y": 657
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(57, 54, 79)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Browsing events in"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 190,
+        "y": 8
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(75, 77, 99)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "Open search"
+    },
+    {
+      "rect": {
+        "height": 38,
+        "width": 21,
+        "x": 16,
+        "y": 762
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(54, 89, 227)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px 0px 12px"
+      },
+      "text": "All"
+    },
+    {
+      "rect": {
+        "height": 38,
+        "width": 57,
+        "x": 61,
+        "y": 762
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(111, 114, 135)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px 0px 12px"
+      },
+      "text": "For you"
+    },
+    {
+      "rect": {
+        "height": 38,
+        "width": 48,
+        "x": 141,
+        "y": 762
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(111, 114, 135)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px 0px 12px"
+      },
+      "text": "Today"
+    },
+    {
+      "rect": {
+        "height": 38,
+        "width": 106,
+        "x": 213,
+        "y": 762
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(111, 114, 135)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px 0px 12px"
+      },
+      "text": "This weekend"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 16,
+        "y": 16
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "boxShadow": "none",
+        "color": "rgb(54, 89, 227)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "text": "Eventbrite"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 238,
+        "y": 8
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "boxShadow": "none",
+        "color": "rgb(75, 77, 99)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "text": "Find my tickets"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 286,
+        "y": 8
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999px",
+        "boxShadow": "none",
+        "color": "rgb(75, 77, 99)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "text": "Sign in"
+    },
+    {
+      "rect": {
+        "height": 36,
+        "width": 238,
+        "x": 76,
+        "y": 689
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(54, 89, 227)",
+        "fontFamily": "\"Founders Grotesk R\", -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", Helvetica, Tahoma, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "12px 0px 0px"
+      },
+      "text": ""
+    }
+  ],
+  "title": "Eventbrite - Discover the Best Local Events & Things to Do",
+  "url": "https://www.eventbrite.com/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

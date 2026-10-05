@@ -1,0 +1,22 @@
+{
+  "order": 22,
+  "id": "feishu-pricing",
+  "name": "飞书 · 中文定价比较",
+  "source": "https://www.feishu.cn/service",
+  "studied": "2026-10-05",
+  "tasks": [
+    "pricing",
+    "product"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "structured-data"
+  ],
+  "tone": [
+    "structured",
+    "practical"
+  ],
+  "lang": "zh",
+  "summary": "多档套餐共用价格和行动按钮基线，用推荐档强调及展开比较表辅助选择。",
+  "usage": "适合有明确档位与可比较功能的中文 SaaS；不适合无法解释档位差异的服务。"
+}

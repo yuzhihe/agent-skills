@@ -1,0 +1,315 @@
+Browser tab: 28, Title: "版本对比 | 飞书", URL: "https://www.feishu.cn/service".
+0 AXWebArea 版本对比 | 飞书, URL: feishu.cn/service
+	1 container
+		2 container root
+			3 container
+				4 link Value: feishu.cn/, ID: logo-official
+				5 link Description: 热门推荐, Value: feishu.cn/hot
+				6 image
+				7 text 案例与方案
+				8 image
+				9 image
+				10 text 产品功能
+				11 image
+				12 image
+				13 text 飞书 AI
+				14 image
+				15 image
+				16 text 合作与支持
+				17 image
+				18 image
+				19 link Description: 飞行社, Value: feishu.cn/community
+				20 image
+				21 link Description: 定价, Value: feishu.cn/service
+				22 link tel:400-0682-666
+				23 link Description: 下载飞书, Value: feishu.cn/download
+				24 link Description: 联系销售, Value: feishu.cn/landing/f…
+				25 link 登录/注册
+					26 text 登录/注册
+			27 container
+				28 container
+					29 image
+					30 text 即时消息
+					31 image
+					32 text 文档
+					33 image
+					34 text 视频会议
+					35 image
+					36 text 多维表格
+					37 image
+					38 text 日历
+					39 image
+					40 text 任务
+					41 image
+					42 text 知识库
+					43 image
+					44 text 企业邮箱
+				45 text *所有版本需按年付费
+				46 container
+					47 text 免费版 ¥ 0 人/月 飞书初体验
+					48 text 体验先进未来的工作方式
+					49 link Description: 立即免费体验, Value: feishu.cn/accounts/…
+					50 text 免费版包括： 即时消息 云文档 视频会议 多维表格 免费邮箱 支持 100 用户 商业标准版 ¥ 50 人/月 面向小型团队
+					51 text 打破基础限制
+					52 button 立即购买
+					53 text 含免费版能力, 还包括： 24 小时视频会议时长 50 方视频会议 1500 GB 总存储空间 聊天记录永久储存 妙记语音转文字不限时长 飞书 aPaaS 免费版能力 支持 500 用户
+					54 text 商业专业版 最热门 ¥ 80 人/月 面向成长型团队
+					55 text 提升业务管理效能
+					56 button 立即购买
+					57 text 含标准版能力, 还包括： 100 方视频会议 5 TB 总存储空间
+					58 link Description: 多维表格高级能力, Value: bitable.feishu.cn/
+					59 link Description: 定制工作台, Value: feishu.cn/hc/zh-CN/…
+					60 link Description: 关联组织能力, Value: feishu.cn/hc/zh-CN/…
+					61 text 支持 500 用户
+					62 text 商业旗舰版 ¥ 120 人/月 面向进阶成长团队
+					63 text 升级容量与安全能力
+					64 button 立即购买
+					65 text 含专业版能力, 还包括： 500 方视频会议 15 TB 总存储空间 SSO 单点登录 高级账号安全 高级水印 支持 500 用户
+					66 text 企业旗舰版
+					67 image
+					68 text 为您定制最佳方案
+					69 container
+						70 text 大型企业专属
+						71 text 打造企业数字总部
+					72 button 购买咨询
+					73 text 企业系列核心优势：
+					74 text 更高规格用量权益
+					75 text 企业级安全合规能力
+					76 text 复杂组织精细化管控能力
+					77 text 企业品牌与数字门户定制
+					78 text 飞书 aPaaS 免费版能力
+					79 text 无规模上限
+				80 button 版本功能对比
+					81 image
+					82 text 版本功能对比
+				83 image
+				84 text 更多产品
+				85 container
+					86 image 飞书项目
+					87 text 飞书项目 为复杂项目定制的专业项目管理平台，用标准化工作流，大幅提升效率，驱动项目成功
+					88 image
+					89 text 可视化流程有序拆解，牵引项目成功交付
+					90 image
+					91 text 多维视图追踪透视，持续提升项目质量
+					92 image
+					93 text 高频流程自动化，省人力更专注
+					94 link Description: 查看详情, Value: project.feishu.cn/h…
+				95 container
+					96 image 飞书人事
+					97 text 飞书人事 让管理者轻松获取员工信息，掌控组织全局；HR 轻松操作架构与流程，服务组织需求
+					98 image
+					99 text 员工信息触手可及，随时随地发现人才
+					100 image
+					101 text 数据一体化流转，团队动态全景洞察
+					102 image
+					103 text 组织脉络清晰可见，排兵布阵掌控全局
+					104 link Description: 查看详情, Value: feishu.cn/product/c…
+				105 container
+					106 image 飞书会议室
+					107 text 飞书会议室 集会议软件、硬件支持、服务为一体，全方位解决方案为团队带来高效愉悦的会议体验
+					108 image
+					109 text 轻松入会，打通飞书一键开启会议
+					110 image
+					111 text 无线投屏，多人实时编辑与互动
+					112 image
+					113 text 智能硬件，灵活适配各种会议空间
+					114 link Description: 查看详情, Value: feishu.cn/solutions…
+				115 container
+					116 image 飞书招聘
+					117 text 飞书招聘 基于数百万人才招聘经验，提供高效、智能的招聘方式，助企业在人才竞争中脱颖而出
+					118 image
+					119 text 查简历、面试、面评，三合一工作台
+					120 image
+					121 text 轻松解析复杂简历，更好地沉淀人才数据
+					122 image
+					123 text 打通 IM、日历、邮件，多角色高效协同
+					124 link Description: 查看详情, Value: hire.feishu.cn/
+				125 container
+					126 image 飞书OKR
+					127 text 飞书OKR 简洁的 OKR 工具，丰富的实践方法，保障 OKR 发挥实效，让组织向着一致方向前进
+					128 image
+					129 text 公开透明的线上看板，保持全员目标一致
+					130 image
+					131 text 实时高效跟进和沟通，过程管理更加敏捷
+					132 image
+					133 text 可视化的数据看板，复盘 OKR 执行情况
+					134 link Description: 查看详情, Value: okr.feishu.cn/
+				135 container
+					136 image 飞书绩效
+					137 text 飞书绩效 用全面信息、统一标准帮助组织发现人才、激励人才、助力管理者成长，加速组织成长
+					138 image
+					139 text 360° 全方位信息，助力管理者准确评价
+					140 image
+					141 text 自下而上逐级校准，多维度比较绝对产出
+					142 image
+					143 text 绩效任务一键催办，HR 轻松推进流程
+					144 link Description: 查看详情, Value: perf.feishu.cn/
+				145 text 更多客户用飞书
+				146 container logo-wall
+					147 container
+						148 image 奈雪的茶
+						149 image 亚朵酒店
+						150 image 槐店王婆
+						151 image 东软医疗
+						152 image 金斯瑞生物
+						153 image 上汽通用五菱
+						154 image 阿维塔
+						155 image 永卓控股
+						156 image PayerMax
+						157 image 美腾科技
+						158 image 海尔
+						159 image 元气森林
+						160 image 泡泡玛特
+						161 image 西贝
+						162 image 泰康保险
+						163 image 安克创新
+						164 image NIO 蔚来
+						165 image 小米
+						166 image 海底捞
+						167 image 理想汽车
+						168 image 新松机器人
+						169 image 传音控股
+						170 image 三一重工
+						171 image 华住
+						172 image 地平线
+						173 image 珀莱雅
+						174 image 米未传媒
+						175 image 万达集团
+						176 image 正大天晴
+						177 image 源码资本
+						178 image 御泥坊
+						179 image 小鹏汽车
+						180 image 太平鸟
+						181 image 夸父炸串
+						182 image 黑湖科技
+						183 image Keep
+						184 image 新希望
+						185 image 物美
+						186 image 家家悦
+						187 image 麦德龙
+						188 image 天眼查
+						189 image 得到
+						190 image 得物
+						191 image PingCAP
+						192 image G7
+						193 image 禾赛科技
+						194 image 中科创达
+						195 image 郑煤机
+						196 image 北汽集团
+						197 image 好慷在家
+						198 image 蓝晶微生物
+						199 image 圣农发展
+						200 image 沐瞳
+						201 image 吉比特
+						202 image usmile
+						203 image Babycare
+						204 image 飞速 FS
+						205 image 来伊份
+						206 image 沪上阿姨
+						207 image 民生保险
+						208 image 百世集团
+						209 image 懂车帝
+						210 image 掌阅科技
+						211 image 黑芝麻
+						212 image 高合汽车
+						213 image 抖推猫
+						214 image 中化环境
+						215 image 晶泰科技
+						216 image 樊登读书
+						217 image 脉脉
+						218 image 蓝湖
+						219 image WeWork 中国
+						220 image 欢乐互娱
+						221 image 昆仑万维
+						222 image 益世界
+						223 image 航旅纵横
+						224 image 星宇股份
+						225 image 三顿半
+						226 image 中征律所
+						227 image 思为科技
+						228 image 智明星通 elex
+						229 image 马路边边
+			230 container
+				231 text 联系我们，飞书效能顾问将为您提供全力支持
+				232 content list
+					233 container
+						234 image
+						235 text 分享先进工作方式
+					236 container
+						237 image
+						238 text 输送行业最佳实践
+					239 container
+						240 image
+						241 text 全面协助组织提效
+				242 link Description: 联系我们, Value: feishu.cn/salessupp…
+				243 link Description: 下载飞书, Value: feishu.cn/download
+			244 container
+				245 text 热门产品
+				246 link Description: 豆包工作伙伴, Value: aily.feishu.cn/univ…
+				247 link Description: 多维表格, Value: feishu.cn/product/b…
+				248 link Description: 飞书项目, Value: project.feishu.cn/h…
+				249 link Description: 飞书 CodeM, Value: codem.feishu.cn/home
+				250 link Description: 文档, Value: feishu.cn/product/d…
+				251 link Description: 视频会议, Value: feishu.cn/product/v…
+				252 link Description: 妙记, Value: feishu.cn/product/m…
+				253 link Description: 知识库, Value: feishu.cn/product/w…
+				254 text 解决方案
+				255 link Description: 制造, Value: feishu.cn/industry_…
+				256 link Description: 消费品, Value: feishu.cn/industry_…
+				257 link Description: 零售, Value: feishu.cn/industry_…
+				258 link Description: 金融, Value: feishu.cn/industry_…
+				259 link Description: 餐饮, Value: feishu.cn/industry_…
+				260 link Description: 医疗, Value: feishu.cn/industry_…
+				261 link Description: 企业服务, Value: feishu.cn/industry_…
+				262 link Description: 汽车, Value: feishu.cn/industry_…
+				263 text 定价
+				264 link Description: 版本对比, Value: feishu.cn/service
+				265 link Description: 购买咨询, Value: javascript:void(0);, ID: feishu_linkchat_footer_trigger
+				266 text 探索飞书
+				267 link Description: 加入我们, Value: feishu.cn/jobs
+				268 link Description: 关于飞书, Value: feishu.cn/about
+				269 link Description: 博客中心, Value: feishu.cn/content
+				270 link Description: 飞书研习社, Value: feishu.cn/research
+				271 link Description: 飞书认证官, Value: feishu.cn/certifica…
+				272 link Description: 公益计划, Value: feishu.cn/charity
+				273 link Description: 生态快讯, Value: feishu.cn/partnerne…
+				274 link Description: 飞行社, Value: feishu.cn/community
+				275 text 合作与支持
+				276 link Description: 帮助中心, Value: feishu.cn/hc
+				277 link Description: 开放平台, Value: open.feishu.cn/
+				278 link Description: 应用目录, Value: app.feishu.cn/
+				279 link Description: 合作伙伴, Value: feishu.cn/partners
+				280 link Description: 联系我们, Value: feishu.cn/contact
+				281 link Description: 更新日志, Value: feishu.cn/hc/zh-CN/…
+				282 link Description: 管理后台, Value: feishu.cn/admin
+				283 link Description: 友情链接, Value: feishu.cn/friend_li…
+				284 link Description: 举报与反馈, Value: feishu.cn/complaint
+				285 text 法律与合规
+				286 link Description: 服务协议, Value: feishu.cn/terms
+				287 link Description: 隐私政策, Value: feishu.cn/privacy
+				288 link Description: 平台行为守则, Value: feishu.cn/privacy-c…
+				289 link Description: 安全合规, Value: feishu.cn/security
+				290 link Description: 下载飞书, Value: feishu.cn/download
+				291 link Description: 联系顾问, Value: feishu.cn/salessupp…
+			292 link feishu.cn/
+			293 link javascript:void(0);
+			294 link weibo.com/u/7223713…
+			295 link zhihu.com/org/fei-s…
+			296 link toutiao.com/c/user/…
+			297 link xiaohongshu.com/use…
+			298 link space.bilibili.com/…
+			299 link Description: Copyright © 2026 北京飞书科技有限公司, Value: javascript:void(0);
+			300 link Description: 京 ICP 备 16045432号-4, Value: beian.miit.gov.cn/
+			301 link Description: 京公网安备 11010802029085号, Value: beian.gov.cn/portal…
+			302 link Description: 增值电信业务经营许可证： 京 B2-20190249 / 京 B2-20191817, Value: tsm.miit.gov.cn/dxx…
+			303 link Description: 营业执照, Value: feishu.cn/license_y…
+			304 image
+			305 container
+				306 text 更改地区-简体中文
+				307 image
+			308 container
+				309 container
+					310 image
+					311 text 购买
+
+The focused UI element is 0 AXWebArea 版本对比 | 飞书, URL: feishu.cn/service

@@ -1,0 +1,1469 @@
+{
+  "body": {
+    "background": "rgb(17, 18, 23)",
+    "fontFamily": "Inter, Helvetica, Arial, sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 12,
+        "y": 11.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "mega-menu-toggle",
+      "rect": {
+        "height": 32,
+        "width": 34,
+        "x": 44,
+        "y": 7.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 4px"
+      },
+      "tag": "BUTTON",
+      "text": "Main menu"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 188.1171875,
+        "x": 82,
+        "y": 8.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Dashboards\nAssistant Dashboards ✨\nF1 Driver Championship Points"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 38.703125,
+        "x": 86,
+        "y": 12.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dashboards"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 38.7109375,
+        "x": 148.703125,
+        "y": 12.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Assistant Dashboards ✨"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 36,
+        "x": 286.1171875,
+        "y": 7.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Search..."
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 52,
+        "x": 331.1171875,
+        "y": 7.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "New"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 36,
+        "x": 392.1171875,
+        "y": 7.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Help"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 36,
+        "x": 437.1171875,
+        "y": 7.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Open Grafana Assistant"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 61.8828125,
+        "x": 482.1171875,
+        "y": 12.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "Sign in"
+    },
+    {
+      "id": "pageContent",
+      "rect": {
+        "height": 586,
+        "width": 552,
+        "x": 0,
+        "y": 48
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "Absolute time range\nLast 5 minutes\nLast 15 minutes\nLast 30 minutes\nLast 1 hour\nLast 3 hours\nLast 6 hours\nLast 12 hours\nL"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 34,
+        "x": 178,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(44, 47, 53)",
+        "borderRadius": "6px 0px 0px 6px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 4px"
+      },
+      "tag": "BUTTON",
+      "text": "Move 3h backward"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 52,
+        "x": 212,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(56, 59, 66)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Time range selected: Last 6 hours"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 244,
+        "x": 81,
+        "y": 110.1171875
+      },
+      "style": {
+        "background": "rgb(17, 18, 23)",
+        "borderRadius": "6px",
+        "color": "rgb(204, 204, 220)",
+        "display": "inline-block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px 24px 0px 28px"
+      },
+      "tag": "INPUT",
+      "text": "Search quick ranges"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 242,
+        "x": 82,
+        "y": 157.1171875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "1px 6px"
+      },
+      "tag": "BUTTON",
+      "text": "Absolute time range"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 134.421875,
+        "x": 88,
+        "y": 158.1171875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "15.2727px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Absolute time range"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 34,
+        "x": 264,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(44, 47, 53)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 4px"
+      },
+      "tag": "BUTTON",
+      "text": "Move time range forwards"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 36,
+        "x": 298,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(44, 47, 53)",
+        "borderRadius": "0px 6px 6px 0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Zoom out time range"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 36,
+        "x": 342,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(44, 47, 53)",
+        "borderRadius": "6px 0px 0px 6px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Refresh"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 34,
+        "x": 378,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(44, 47, 53)",
+        "borderRadius": "0px 6px 6px 0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Auto refresh turned off. Choose refresh time interval"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 36,
+        "x": 420,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(44, 47, 53)",
+        "borderRadius": "6px 0px 0px 6px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Copy link"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 36,
+        "x": 456,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(44, 47, 53)",
+        "borderRadius": "0px 6px 6px 0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Share"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 36,
+        "x": 500,
+        "y": 64
+      },
+      "style": {
+        "background": "rgb(44, 47, 53)",
+        "borderRadius": "6px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Enter edit mode"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 136.4296875,
+        "x": 16,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "8px",
+        "lineHeight": "30px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "Source (GitHub)"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 45.734375,
+        "width": 268.4921875,
+        "x": 43,
+        "y": 136
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "19.6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22.8667px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "🏆 F1 Driver Championship Points"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 66,
+        "width": 268.4921875,
+        "x": 43,
+        "y": 191.734375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Live season standings, driver points, and race-by-race results powered by the Jolpica F1 API."
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17,
+        "width": 94.734375,
+        "x": 68.5625,
+        "y": 238.234375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(110, 159, 255)",
+        "display": "inline",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Jolpica F1 API"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 68.0859375,
+        "width": 77.75,
+        "x": 218.7421875,
+        "y": 340.328125
+      },
+      "style": {
+        "background": "rgb(225, 6, 0)",
+        "borderRadius": "5px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "11.9px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "18.7px",
+        "padding": "6px 14px"
+      },
+      "tag": "A",
+      "text": "Try it yourself →"
+    },
+    {
+      "id": "_r_1h_",
+      "rect": {
+        "height": 22,
+        "width": 167.4140625,
+        "x": 29,
+        "y": 321
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "🥇 Championship Leader"
+    },
+    {
+      "id": "_r_1n_",
+      "rect": {
+        "height": 22,
+        "width": 137.8828125,
+        "x": 29,
+        "y": 481
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "🏁 Races Completed"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 40,
+        "x": 495,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Export"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 40,
+        "x": 495,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Outline"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 40,
+        "x": 495,
+        "y": 218
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Hide"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 552,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "16px",
+        "lineHeight": "22px",
+        "padding": "0px 8px"
+      },
+      "tag": "DIV",
+      "text": "Dashboards\nAssistant Dashboards ✨\nF1 Driver Championship Points\nSign in"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 58.703125,
+        "x": 211.4140625,
+        "y": 12.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(204, 204, 220, 0.65)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "F1 Driver Championship Points"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 33,
+        "width": 260,
+        "x": 73,
+        "y": 150.1171875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "7px 9px"
+      },
+      "tag": "DIV",
+      "text": "Absolute time range"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 136.4296875,
+        "x": 16,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "inline-flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Source (GitHub)"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 136.4296875,
+        "x": 16,
+        "y": 64
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Source (GitHub)"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 94.4296875,
+        "x": 49,
+        "y": 65
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "30px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Source (GitHub)"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 51.59375,
+        "width": 268.4921875,
+        "x": 43,
+        "y": 267.734375
+      },
+      "style": {
+        "background": "rgba(225, 6, 0, 0.08)",
+        "borderRadius": "2px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "12.6px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19.8px",
+        "padding": "6px 10px"
+      },
+      "tag": "DIV",
+      "text": "Data reflects the current season standings in real time."
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24.1953125,
+        "width": 15.65625,
+        "x": 58,
+        "y": 362.2734375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "15.4px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24.2px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "✨"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 59.390625,
+        "width": 121.0859375,
+        "x": 85.65625,
+        "y": 344.671875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "12.6px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19.8px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Want to recreate this dashboard with one prompt?"
+    },
+    {
+      "id": "4",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 311
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🥇 Championship Leader\nAndrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "5",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 311
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🥇 Championship Leader\nAndrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 311
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🥇 Championship Leader\nAndrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 311
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🥇 Championship Leader\nAndrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 311
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🥇 Championship Leader\nAndrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 171.4140625,
+        "x": 25,
+        "y": 321
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px 0px 0px 4px"
+      },
+      "tag": "DIV",
+      "text": "🥇 Championship Leader"
+    },
+    {
+      "id": "_r_1g_",
+      "rect": {
+        "height": 102,
+        "width": 462,
+        "x": 17,
+        "y": 352
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Andrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 102,
+        "width": 462,
+        "x": 17,
+        "y": 352
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Andrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 102,
+        "width": 462,
+        "x": 17,
+        "y": 352
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Andrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 102,
+        "width": 462,
+        "x": 17,
+        "y": 352
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "12px"
+      },
+      "tag": "DIV",
+      "text": "Andrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 77.609375,
+        "width": 438,
+        "x": 29,
+        "y": 364.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Andrea Kimi Antonelli\n320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30.734375,
+        "width": 262.265625,
+        "x": 29,
+        "y": 387.6328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(247, 248, 250)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "25.6176px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "30.7411px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Andrea Kimi Antonelli"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 77.609375,
+        "width": 122.609375,
+        "x": 344.390625,
+        "y": 364.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(247, 248, 250)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "64.6803px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "77.6164px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 77.609375,
+        "width": 122.609375,
+        "x": 344.390625,
+        "y": 364.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(247, 248, 250)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "64.6803px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "77.6164px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "320"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 78,
+        "width": 122.609375,
+        "x": 344.390625,
+        "y": 363.6953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(247, 248, 250)",
+        "display": "inline",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "64.6803px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "77.6164px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "320"
+    },
+    {
+      "id": "6",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 471
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🏁 Races Completed\n16"
+    },
+    {
+      "id": "7",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 471
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🏁 Races Completed\n16"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 471
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🏁 Races Completed\n16"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 471
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🏁 Races Completed\n16"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 144,
+        "width": 464,
+        "x": 16,
+        "y": 471
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "block",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "🏁 Races Completed\n16"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 141.8828125,
+        "x": 25,
+        "y": 481
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(204, 204, 220)",
+        "display": "flex",
+        "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px 0px 0px 4px"
+      },
+      "tag": "DIV",
+      "text": "🏁 Races Completed"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "F1 Driver Championship Points - Assistant Dashboards ✨ - Dashboards - Grafana",
+  "url": "https://play.grafana.org/d/ma7w5nw/f1-driver-championship-points?from=now-6h&to=now&timezone=browser",
+  "viewport": {
+    "height": 634,
+    "width": 552
+  },
+  "capturedAt": "2026-10-04T23:41:58.577Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

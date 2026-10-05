@@ -1,0 +1,27 @@
+{
+  "order": 31,
+  "id": "siena-film",
+  "name": "Siena Film · 电影海报式展示",
+  "source": "https://siena.film/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "portfolio",
+    "brand"
+  ],
+  "density": "low",
+  "assets_needed": [
+    "portfolio-images",
+    "project-data"
+  ],
+  "tone": [
+    "dark",
+    "image-led"
+  ],
+  "lang": "en",
+  "summary": "影片画面占据主体，票根式导航与演职员信息把网站组织成电影展映空间。",
+  "usage": "适合电影、影像作品及展览；依赖画面质量，不适合密集业务表单。",
+  "recognition": {
+    "label": "Awwwards Site of the Month：March 2025；Developer Award",
+    "url": "https://www.awwwards.com/websites/%23FAEDCD/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "order": 19,
+  "id": "unsplash",
+  "name": "Unsplash",
+  "source": "https://unsplash.com/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "discovery"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "licensed-photos"
+  ],
+  "tone": [
+    "image-led"
+  ],
+  "lang": "en",
+  "summary": "桌面左侧功能栏与顶部分类导航围绕中央搜索和图像网格；窄屏收起功能栏并以内容流为主。",
+  "usage": "摄影库、素材库、图库型作品展示；图片质量参差或没有明确授权信息的站点。"
+}

@@ -1,0 +1,125 @@
+Browser tab: 30, Title: "app.cal.com/rick/get-rick-rolled/embed?layout=month_view&useSlotsViewOnSmallScreen=true&embedType=inline&embed=embed-inline-demo", URL: "https://app.cal.com/rick/get-rick-rolled/embed?layout=month_view&useSlotsViewOnSmallScreen=true&embedType=inline&embed=embed-inline-demo".
+1 AXWebArea app.cal.com/rick/get-rick-rolled/embed?layout=month_view&useSlotsViewOnSmallScreen=true&embedType=inline&embed=embed-inline-demo
+	2 container
+		3 container
+			4 content list
+				5 link Description: Rick Astley, Value: cal.com/rick?redirect=false
+			6 text Rick Astley
+			7 heading Get Rickrolled, Value: 1
+				8 text Get Rickrolled
+			9 container Description
+				10 container
+					11 text Book me and I will never give you up. 
+					12 link Description: Cal.com, Value: cal.com/
+					13 text  will never let you down. Open Source will never run around and desert you.
+			14 image
+			15 text 10m
+			16 image
+			17 text Link meeting
+			18 image
+			19 container
+				20 container
+					38 text Asia/Shanghai
+					21 combo box (collapsed, settable) Description: Timezone Select, ID: react-select-2-input, Secondary Actions: Expand
+		22 container
+			23 text October 2026
+		24 button (disabled) View previous month
+			25 image
+		26 button View next month
+			27 image
+		28 text SUN
+		29 text MON
+		30 text TUE
+		31 text WED
+		32 text THU
+		33 text FRI
+		34 text SAT
+		39 container
+			40 checkbox (disabled) Description: Thursday, October 1, 2026, Value: 0
+			41 checkbox (disabled) Description: Friday, October 2, 2026, Value: 0
+			42 checkbox (disabled) Description: Saturday, October 3, 2026, Value: 0
+			43 checkbox (disabled) Description: Sunday, October 4, 2026, Value: 0
+			44 checkbox Description: Monday, October 5, 2026, Today, Value: 1
+			45 checkbox Description: Tuesday, October 6, 2026, Value: 0
+			46 checkbox Description: Wednesday, October 7, 2026, Value: 0
+			47 checkbox Description: Thursday, October 8, 2026, Value: 0
+			48 checkbox Description: Friday, October 9, 2026, Value: 0
+			49 checkbox Description: Saturday, October 10, 2026, Value: 0
+			50 checkbox Description: Sunday, October 11, 2026, Value: 0
+			51 checkbox Description: Monday, October 12, 2026, Value: 0
+			52 checkbox Description: Tuesday, October 13, 2026, Value: 0
+			53 checkbox Description: Wednesday, October 14, 2026, Value: 0
+			54 checkbox Description: Thursday, October 15, 2026, Value: 0
+			55 checkbox Description: Friday, October 16, 2026, Value: 0
+			56 checkbox Description: Saturday, October 17, 2026, Value: 0
+			57 checkbox Description: Sunday, October 18, 2026, Value: 0
+			58 checkbox Description: Monday, October 19, 2026, Value: 0
+			59 checkbox Description: Tuesday, October 20, 2026, Value: 0
+			60 checkbox Description: Wednesday, October 21, 2026, Value: 0
+			61 checkbox Description: Thursday, October 22, 2026, Value: 0
+			62 checkbox Description: Friday, October 23, 2026, Value: 0
+			63 checkbox Description: Saturday, October 24, 2026, Value: 0
+			64 checkbox Description: Sunday, October 25, 2026, Value: 0
+			65 checkbox Description: Monday, October 26, 2026, Value: 0
+			66 checkbox Description: Tuesday, October 27, 2026, Value: 0
+			67 checkbox Description: Wednesday, October 28, 2026, Value: 0
+			68 checkbox Description: Thursday, October 29, 2026, Value: 0
+			69 checkbox Description: Friday, October 30, 2026, Value: 0
+			70 checkbox Description: Saturday, October 31, 2026, Value: 0
+		71 container
+			72 text Mon 5th
+			73 container Time format
+				74 radio button 12h, Value: 0
+				75 radio button 24h, Value: 1
+		76 container
+			77 text Available times for Monday, October 5, 2026
+			78 checkbox Description: Monday, October 5, 2026 at 16:30, Value: 0
+			79 checkbox Description: Monday, October 5, 2026 at 16:40, Value: 0
+			80 checkbox Description: Monday, October 5, 2026 at 16:50, Value: 0
+			81 checkbox Description: Monday, October 5, 2026 at 17:00, Value: 0
+			82 checkbox Description: Monday, October 5, 2026 at 17:10, Value: 0
+			83 checkbox Description: Monday, October 5, 2026 at 17:20, Value: 0
+			84 checkbox Description: Monday, October 5, 2026 at 17:30, Value: 0
+			85 checkbox Description: Monday, October 5, 2026 at 17:40, Value: 0
+			86 checkbox Description: Monday, October 5, 2026 at 17:50, Value: 0
+			87 checkbox Description: Monday, October 5, 2026 at 18:00, Value: 0
+			88 checkbox Description: Monday, October 5, 2026 at 18:10, Value: 0
+			89 checkbox Description: Monday, October 5, 2026 at 18:20, Value: 0
+			90 checkbox Description: Monday, October 5, 2026 at 18:30, Value: 0
+			91 checkbox Description: Monday, October 5, 2026 at 18:40, Value: 0
+			92 checkbox Description: Monday, October 5, 2026 at 18:50, Value: 0
+			93 checkbox Description: Monday, October 5, 2026 at 19:00, Value: 0
+			94 checkbox Description: Monday, October 5, 2026 at 19:10, Value: 0
+			95 checkbox Description: Monday, October 5, 2026 at 19:20, Value: 0
+			96 checkbox Description: Monday, October 5, 2026 at 19:30, Value: 0
+			97 checkbox Description: Monday, October 5, 2026 at 19:40, Value: 0
+			98 checkbox Description: Monday, October 5, 2026 at 19:50, Value: 0
+			99 checkbox Description: Monday, October 5, 2026 at 20:00, Value: 0
+			100 checkbox Description: Monday, October 5, 2026 at 20:10, Value: 0
+			101 checkbox Description: Monday, October 5, 2026 at 20:20, Value: 0
+			102 checkbox Description: Monday, October 5, 2026 at 20:30, Value: 0
+			103 checkbox Description: Monday, October 5, 2026 at 20:40, Value: 0
+			104 checkbox Description: Monday, October 5, 2026 at 20:50, Value: 0
+			105 checkbox Description: Monday, October 5, 2026 at 21:00, Value: 0
+			106 checkbox Description: Monday, October 5, 2026 at 21:10, Value: 0
+			107 checkbox Description: Monday, October 5, 2026 at 21:20, Value: 0
+			108 checkbox Description: Monday, October 5, 2026 at 21:30, Value: 0
+			109 checkbox Description: Monday, October 5, 2026 at 21:40, Value: 0
+			110 checkbox Description: Monday, October 5, 2026 at 21:50, Value: 0
+			111 checkbox Description: Monday, October 5, 2026 at 22:00, Value: 0
+			112 checkbox Description: Monday, October 5, 2026 at 22:10, Value: 0
+			113 checkbox Description: Monday, October 5, 2026 at 22:20, Value: 0
+			114 checkbox Description: Monday, October 5, 2026 at 22:30, Value: 0
+			115 checkbox Description: Monday, October 5, 2026 at 22:40, Value: 0
+			116 checkbox Description: Monday, October 5, 2026 at 22:50, Value: 0
+			117 checkbox Description: Monday, October 5, 2026 at 23:00, Value: 0
+			118 checkbox Description: Monday, October 5, 2026 at 23:10, Value: 0
+			119 checkbox Description: Monday, October 5, 2026 at 23:20, Value: 0
+			120 checkbox Description: Monday, October 5, 2026 at 23:30, Value: 0
+			121 checkbox Description: Monday, October 5, 2026 at 23:40, Value: 0
+			122 checkbox Description: Monday, October 5, 2026 at 23:50, Value: 0
+		35 link Description: Cal.com Logo, Value: go.cal.com/booking
+		36 container Notifications
+		37 container Notifications
+
+The focused UI element is 1 AXWebArea app.cal.com/rick/get-rick-rolled/embed?layout=month_view&useSlotsViewOnSmallScreen=true&embedType=inline&embed=embed-inline-demo

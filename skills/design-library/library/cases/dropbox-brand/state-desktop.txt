@@ -1,0 +1,3 @@
+Browser tab: 29, Title: "Typography - Dropbox Brand Guidelines", URL: "https://brand.dropbox.com/typography".
+There has been no change in the accessibility tree.
+The focused UI element is 0 AXWebArea Typography - Dropbox Brand Guidelines, URL: brand.dropbox.com/typography

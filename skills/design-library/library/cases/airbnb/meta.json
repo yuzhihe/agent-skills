@@ -1,0 +1,21 @@
+{
+  "order": 13,
+  "id": "airbnb",
+  "name": "Airbnb",
+  "source": "https://www.airbnb.com/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "discovery"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "listing-photos",
+    "commerce-data"
+  ],
+  "tone": [
+    "practical"
+  ],
+  "lang": "en",
+  "summary": "桌面将搜索和分类入口置于上方，下面是横向房源组；手机把搜索收成大圆角入口、房源卡变成两列并保留底部导航。",
+  "usage": "旅行、房源或多条件服务发现页；没有可靠库存、地点或图片数据的展示站。"
+}

@@ -1,0 +1,26 @@
+{
+  "order": 25,
+  "id": "kokuyo-curiosity",
+  "name": "KOKUYO · 插画叙事",
+  "source": "https://www.kokuyo.com/en/special/curiosity-is-life/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "brand",
+    "education"
+  ],
+  "density": "low",
+  "assets_needed": [
+    "illustration"
+  ],
+  "tone": [
+    "playful",
+    "warm"
+  ],
+  "lang": "en",
+  "summary": "以桌面和笔记本构成叙事场景，用单一箭头引导进入品牌故事。",
+  "usage": "适合儿童教育、文化品牌及短篇互动故事；高度依赖原创场景插画。",
+  "recognition": {
+    "label": "2026 Webby People’s Voice：Corporate Communications",
+    "url": "https://winners.webbyawards.com/2026/websites-and-mobile-sites/general-desktop-mobile-sites/corporate-communications/377358/kokuyo-curiosity-is-life"
+  }
+}

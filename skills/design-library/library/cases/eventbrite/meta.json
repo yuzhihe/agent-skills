@@ -1,0 +1,21 @@
+{
+  "order": 15,
+  "id": "eventbrite",
+  "name": "Eventbrite",
+  "source": "https://www.eventbrite.com/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "discovery"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "event-images",
+    "event-data"
+  ],
+  "tone": [
+    "energetic"
+  ],
+  "lang": "en",
+  "summary": "搜索与地点入口之后是活动推广横幅、圆形类别入口和时间筛选；手机进一步压缩顶部入口。",
+  "usage": "本地活动、讲座、展览与票务探索；活动很少却复制复杂筛选和分类结构。"
+}

@@ -1,0 +1,535 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 7919,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "Skip to main content\nAccessibility\nUSEnglish\nEnter ZIP code\nSelect store\nProducts\nRooms\nDeals\nDesign"
+    },
+    {
+      "rect": {
+        "height": 138,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "USEnglish\nEnter ZIP code\nSelect store\nProducts\nRooms\nDeals\nDesign & ideas\nServices\nClear the search "
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 407,
+        "x": 186,
+        "y": 70
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "Products\nRooms\nDeals\nDesign & ideas\nServices"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 136,
+        "x": 1096,
+        "y": 73
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "Hej! Log in or sign up\nFavorites\nShopping bag"
+    },
+    {
+      "rect": {
+        "height": 35,
+        "width": 1184,
+        "x": 48,
+        "y": 138
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "Products\nStorage & organization\nShelving furniture\nStorage shelves & shelving units\nKALLAX Shelf uni"
+    },
+    {
+      "rect": {
+        "height": 6801,
+        "width": 1280,
+        "x": 0,
+        "y": 138
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "Products\nStorage & organization\nShelving furniture\nStorage shelves & shelving units\nKALLAX Shelf uni"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 235,
+        "x": 793,
+        "y": 239
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "text": "KALLAX\nShelf unit, white, 30 1/8x16 1/8 \""
+    },
+    {
+      "rect": {
+        "height": 22,
+        "width": 89,
+        "x": 793,
+        "y": 427
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "Choose color"
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 291,
+        "x": 793,
+        "y": 572
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Design it yourself"
+    },
+    {
+      "rect": {
+        "height": 22,
+        "width": 439,
+        "x": 793,
+        "y": 634
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "How to get it"
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 318,
+        "x": 841,
+        "y": 785
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "17.5px",
+        "padding": "0px"
+      },
+      "text": "Collect 34 points with IKEA Family"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 405,
+        "x": 810,
+        "y": 874
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "17.5px",
+        "padding": "0px"
+      },
+      "text": "It's OK to change your mind"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 405,
+        "x": 810,
+        "y": 945
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "17.5px",
+        "padding": "0px"
+      },
+      "text": "Low Price Guarantee"
+    },
+    {
+      "rect": {
+        "height": 22,
+        "width": 123,
+        "x": 793,
+        "y": 1054
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "More ways to pay"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 119,
+        "x": 48,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "USEnglish"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 131,
+        "x": 965,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "Enter ZIP code"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 112,
+        "x": 1120,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "Select store"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 69,
+        "y": 183
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "64px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Scroll up to see more product photos"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 98,
+        "x": 48,
+        "y": 73
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "0px"
+      },
+      "text": "IKEA Home"
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 82,
+        "x": 186,
+        "y": 70
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "12px 10px"
+      },
+      "text": "Products"
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 67,
+        "x": 268,
+        "y": 70
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "12px 10px"
+      },
+      "text": "Rooms"
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 58,
+        "x": 335,
+        "y": 70
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "12px 10px"
+      },
+      "text": "Deals"
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 123,
+        "x": 394,
+        "y": 70
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "12px 10px"
+      },
+      "text": "Design & ideas"
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 77,
+        "x": 516,
+        "y": 70
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(72, 72, 72)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21.994px",
+        "padding": "12px 10px"
+      },
+      "text": "Services"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 411,
+        "x": 633,
+        "y": 69
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 48px inset",
+        "color": "rgb(17, 17, 17)",
+        "fontFamily": "\"Noto IKEA\", \"Noto Sans\", Roboto, \"Open Sans\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "padding": "0px 0px 0px 48px"
+      },
+      "text": "Search by product"
+    }
+  ],
+  "title": "KALLAX shelf unit, white, 301/8x161/8\" - IKEA",
+  "url": "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-90301555/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

@@ -1,0 +1,1262 @@
+{
+  "body": {
+    "background": "rgb(255, 255, 255)",
+    "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial"
+  },
+  "elements": [
+    {
+      "id": "logo-official",
+      "rect": {
+        "height": 24,
+        "width": 78,
+        "x": 16,
+        "y": 18
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 62.6796875,
+        "x": 314.7421875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "16px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "热门推荐"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 87.046875,
+        "x": 393.421875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "16px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "案例与方案"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 74.859375,
+        "x": 496.46875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "16px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "产品功能"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 65.3984375,
+        "x": 587.328125,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "16px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "飞书 AI"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 87.046875,
+        "x": 668.7265625,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "16px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "合作与支持"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 50.484375,
+        "x": 771.7734375,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "16px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "飞行社"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 50.484375,
+        "x": 838.2578125,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "4px",
+        "lineHeight": "14px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": "定价"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 34,
+        "x": 968,
+        "y": 21
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 8px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 64,
+        "x": 1006,
+        "y": 12
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "100px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "下载飞书"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 88,
+        "x": 1080,
+        "y": 12
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "100px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "联系销售"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 88,
+        "x": 1176,
+        "y": 12
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "100px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, \"PingFang SC\", \"Microsoft YaHei\", Tahoma, Arial",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "登录/注册"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 64,
+        "x": 230,
+        "y": 318
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(43, 47, 54)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "即时消息"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 64,
+        "x": 338,
+        "y": 318
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(43, 47, 54)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "文档"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 64,
+        "x": 446,
+        "y": 318
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(43, 47, 54)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "视频会议"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 64,
+        "x": 554,
+        "y": 318
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(43, 47, 54)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "多维表格"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 64,
+        "x": 662,
+        "y": 318
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(43, 47, 54)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "日历"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 64,
+        "x": 770,
+        "y": 318
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(43, 47, 54)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "任务"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 64,
+        "x": 878,
+        "y": 318
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(43, 47, 54)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "知识库"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 64,
+        "x": 986,
+        "y": 318
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(43, 47, 54)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "企业邮箱"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 1136,
+        "x": 72,
+        "y": 382
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "*所有版本需按年付费"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 72,
+        "x": 96,
+        "y": 452
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "免费版"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 17,
+        "x": 98,
+        "y": 504
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "¥"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 23,
+        "x": 122,
+        "y": 508
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "Roboto",
+        "fontSize": "40px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "0"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 35,
+        "x": 155,
+        "y": 516
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "人/月"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 154,
+        "x": 98,
+        "y": 560
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "飞书初体验\n体验先进未来的工作方式"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 176,
+        "x": 96,
+        "y": 632
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999999px",
+        "color": "rgb(31, 35, 41)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "4px 11px"
+      },
+      "tag": "A",
+      "text": "立即免费体验"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 156,
+        "x": 98,
+        "y": 692
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "免费版包括："
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 120,
+        "x": 336,
+        "y": 452
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "商业标准版"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 17,
+        "x": 338,
+        "y": 504
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 109, 244)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "¥"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 46,
+        "x": 362,
+        "y": 508
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 109, 244)",
+        "display": "block",
+        "fontFamily": "Roboto",
+        "fontSize": "40px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "50"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 35,
+        "x": 418,
+        "y": 516
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "人/月"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 112,
+        "x": 338,
+        "y": 560
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "面向小型团队\n打破基础限制"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 168.5,
+        "x": 336,
+        "y": 632
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "999999px",
+        "color": "rgb(20, 86, 240)",
+        "display": "inline-flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "4px 11px"
+      },
+      "tag": "BUTTON",
+      "text": "立即购买"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 156,
+        "x": 338,
+        "y": 692
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "含免费版能力, 还包括："
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 120,
+        "x": 550.5,
+        "y": 452
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "商业专业版"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 17,
+        "x": 552.5,
+        "y": 504
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 109, 244)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "¥"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 46,
+        "x": 576.5,
+        "y": 508
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 109, 244)",
+        "display": "block",
+        "fontFamily": "Roboto",
+        "fontSize": "40px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "80"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 35,
+        "x": 632.5,
+        "y": 516
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "人/月"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 112,
+        "x": 552.5,
+        "y": 560
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "面向成长型团队\n提升业务管理效能"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 179,
+        "x": 550.5,
+        "y": 632
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999999px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "4px 11px"
+      },
+      "tag": "BUTTON",
+      "text": "立即购买"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 156,
+        "x": 552.5,
+        "y": 692
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "含标准版能力, 还包括："
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 120,
+        "x": 775.5,
+        "y": 452
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "商业旗舰版"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 17,
+        "x": 777.5,
+        "y": 504
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 109, 244)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "¥"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 68.203125,
+        "x": 801.5,
+        "y": 508
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 109, 244)",
+        "display": "block",
+        "fontFamily": "Roboto",
+        "fontSize": "40px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "32px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "120"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 35,
+        "x": 879.703125,
+        "y": 516
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "人/月"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 126,
+        "x": 777.5,
+        "y": 560
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "面向进阶成长团队\n升级容量与安全能力"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 168.5,
+        "x": 775.5,
+        "y": 632
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "999999px",
+        "color": "rgb(20, 86, 240)",
+        "display": "inline-flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "4px 11px"
+      },
+      "tag": "BUTTON",
+      "text": "立即购买"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 156,
+        "x": 777.5,
+        "y": 692
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "含专业版能力, 还包括："
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 120,
+        "x": 1008,
+        "y": 452
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "36px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "企业旗舰版"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 128,
+        "x": 1038,
+        "y": 504
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(100, 106, 115)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "为您定制最佳方案"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 162,
+        "x": 1010,
+        "y": 560
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "大型企业专属\n打造企业数字总部"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 176,
+        "x": 1008,
+        "y": 632
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "999999px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "4px 11px"
+      },
+      "tag": "BUTTON",
+      "text": "购买咨询"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 172,
+        "x": 1010,
+        "y": 692
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 35, 41)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "企业系列核心优势："
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "版本对比 | 飞书",
+  "url": "https://www.feishu.cn/service",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:23:56.839Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; no inferred CSS breakpoints."
+}

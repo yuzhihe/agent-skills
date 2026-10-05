@@ -1,0 +1,3 @@
+Browser tab: 28, Title: "Browse Fonts - Google Fonts", URL: "https://fonts.google.com/".
+There has been no change in the accessibility tree.
+The focused UI element is 0 AXWebArea Browse Fonts - Google Fonts, URL: fonts.google.com/

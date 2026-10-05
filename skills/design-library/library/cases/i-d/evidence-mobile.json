@@ -1,0 +1,595 @@
+{
+  "body": {
+    "background": "rgba(0, 0, 0, 0)",
+    "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 21.0078125,
+        "y": 759.53125
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "7.77px",
+        "color": "rgb(10, 10, 10)",
+        "display": "flex",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "13px"
+      },
+      "tag": "A",
+      "text": "homepage"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 279.9765625,
+        "x": 89.0078125,
+        "y": 775.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "lineHeight": "16px",
+        "padding": "0px 10px 0px 0px"
+      },
+      "tag": "NAV",
+      "text": "Latest\nShop \nSubscribe \nSearch"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 40.03125,
+        "x": 89.0078125,
+        "y": 777.03125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Latest"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 46.921875,
+        "x": 149.0390625,
+        "y": 777.03125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Shop"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 77.8984375,
+        "x": 215.9609375,
+        "y": 777.03125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Subscribe"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 45.125,
+        "x": 313.859375,
+        "y": 777.03125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Search"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 519.9921875,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 238)",
+        "display": "block",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 0px 519.992px"
+      },
+      "tag": "A",
+      "text": "They’re Sexy, They Party, and They’re About to Win an Oscar"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 57.3984375,
+        "width": 339.5,
+        "x": 18,
+        "y": 538.4921875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "29.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "They’re Sexy, They Party, and They’re About to Win an Oscar"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 354,
+        "x": 18,
+        "y": 713.7890625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "2 DAYS\nAGO"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 126,
+        "width": 354,
+        "x": 18,
+        "y": 765.7890625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Enter the blood-soaked world of TEENAGE SEX AND DEATH AT CAMP MIASMA. Jane Schoenbrun’s genre-bending film stars Hannah "
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 83,
+        "width": 390,
+        "x": 0,
+        "y": 761
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Instagram\nTikTok\nYoutube\nX"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 70.421875,
+        "x": 94.3828125,
+        "y": 795.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Instagram"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 45.421875,
+        "x": 170.8046875,
+        "y": 795.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "TikTok"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 57.0234375,
+        "x": 222.2265625,
+        "y": 795.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Youtube"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 10.3671875,
+        "x": 285.25,
+        "y": 795.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "X"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 843.53125,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Latest\nShop \nSubscribe \nSearch"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 359.9765625,
+        "x": 15.0078125,
+        "y": 783.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Latest\nShop \nSubscribe \nSearch"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 40.03125,
+        "x": 89.0078125,
+        "y": 777.03125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Latest"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 33.84375,
+        "x": 149.0390625,
+        "y": 777.03125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Shop"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 64.8203125,
+        "x": 215.9609375,
+        "y": 777.03125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Subscribe"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 614.7890625,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "They’re Sexy, They Party, and They’re About to Win an Oscar"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 94.796875,
+        "width": 390,
+        "x": 0,
+        "y": 519.9921875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "18px"
+      },
+      "tag": "DIV",
+      "text": "They’re Sexy, They Party, and They’re About to Win an Oscar"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 58.796875,
+        "width": 354,
+        "x": 18,
+        "y": 537.9921875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "They’re Sexy, They Party, and They’re About to Win an Oscar"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 58.796875,
+        "width": 354,
+        "x": 18,
+        "y": 537.9921875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Univers Next Variable\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "29.4px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "They’re Sexy, They Party, and They’re About to Win an Oscar"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30.5,
+        "width": 34.1640625,
+        "x": 18,
+        "y": 714.7890625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "inline",
+        "fontFamily": "\"New Letter Gothic\", Menlo, Monaco, \"Lucida Sans Typewriter\", monospace",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "15px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "2 DAYS\nAGO"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "i-D",
+  "url": "https://i-d.co/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-04T23:37:13.867Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

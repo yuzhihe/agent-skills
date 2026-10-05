@@ -1,0 +1,9 @@
+Browser tab: 29, Title: "Curiosity is Life | KOKUYO", URL: "https://www.kokuyo.com/en/special/curiosity-is-life/".
+1 AXWebArea Curiosity is Life | KOKUYO, URL: kokuyo.com/en/special/curiosity-is-life/
+	2 container
+		3 container main
+			6 button KOKUYO’s Diverse Initiatives, ID: menuopenbutton
+				7 text KOKUYO’s
+				8 text Diverse Initiatives
+
+The focused UI element is 1 AXWebArea Curiosity is Life | KOKUYO, URL: kokuyo.com/en/special/curiosity-is-life/

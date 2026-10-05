@@ -1,0 +1,1538 @@
+{
+  "body": {
+    "background": "rgb(255, 255, 255)",
+    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 48,
+        "x": 27,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "小米官网"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 48,
+        "x": 91.21875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "小米商城"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 64.8984375,
+        "x": 155.4375,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "小米澎湃OS"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 48,
+        "x": 236.5546875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "小米汽车"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 36,
+        "x": 300.7734375,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "云服务"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 16.890625,
+        "x": 352.9921875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "IoT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 24,
+        "x": 386.1015625,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "有品"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 72,
+        "x": 426.3203125,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "小爱开放平台"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 48,
+        "x": 514.5390625,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "资质证照"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 48,
+        "x": 578.7578125,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "协议规则"
+    },
+    {
+      "id": "J_siteDownloadApp",
+      "rect": {
+        "height": 40,
+        "width": 44.6796875,
+        "x": 642.9765625,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "下载app\n小米商城APP"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 83.34375,
+        "x": 703.875,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Select Location"
+    },
+    {
+      "id": "J_miniCartBtn",
+      "rect": {
+        "height": 40,
+        "width": 120,
+        "x": 1133,
+        "y": 0
+      },
+      "style": {
+        "background": "rgb(66, 66, 66)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "购物车（0）"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 34,
+        "x": 977.3125,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px 5px"
+      },
+      "tag": "A",
+      "text": "登录"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 34,
+        "x": 1013.65625,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px 5px"
+      },
+      "tag": "A",
+      "text": "注册"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 48,
+        "x": 1060,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline-block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "消息通知"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 56,
+        "width": 56,
+        "x": 27,
+        "y": 62
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "小米官网"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 160
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "手机"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 202
+      },
+      "style": {
+        "background": "rgb(255, 103, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "电视"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 261,
+        "y": 143
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "S Pro RGB-Mini LED"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 261,
+        "y": 219
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "X RGB-Mini LED"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 261,
+        "y": 295
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "S Mini LED 2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 261,
+        "y": 371
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "小米电视SPro MiniLED2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 261,
+        "y": 447
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "旗舰系列-S Pro Mini LED"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 261,
+        "y": 523
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "巨幕影院-REDMI MAX"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 526,
+        "y": 143
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "游戏高刷-REDMI 电视 X 2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 526,
+        "y": 219
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "性价比爆款-REDMI A Pro"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 76,
+        "width": 265,
+        "x": 526,
+        "y": 295
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "18px 20px"
+      },
+      "tag": "A",
+      "text": "性价比爆款-REDMI A 2025"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 244
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "家电"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 286
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "笔记本 平板 显示器"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 328
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "出行 穿戴"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 370
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "耳机 音箱"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 412
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "健康 儿童"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 454
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "生活 箱包"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 496
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "智能 路由器"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 234,
+        "x": 27,
+        "y": 538
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "42px",
+        "padding": "0px 0px 0px 30px"
+      },
+      "tag": "A",
+      "text": "电源 配件"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 88,
+        "width": 100.3046875,
+        "x": 261,
+        "y": 52
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "26px 10px 38px"
+      },
+      "tag": "A",
+      "text": "Xiaomi手机"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 88,
+        "width": 102.0859375,
+        "x": 361.3046875,
+        "y": 52
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "26px 10px 38px"
+      },
+      "tag": "A",
+      "text": "REDMI手机"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 88,
+        "width": 52,
+        "x": 463.390625,
+        "y": 52
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "26px 10px 38px"
+      },
+      "tag": "A",
+      "text": "电视"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 88,
+        "width": 68,
+        "x": 515.390625,
+        "y": 52
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "26px 10px 38px"
+      },
+      "tag": "A",
+      "text": "笔记本"
+    },
+    {
+      "id": "J_miniCartTrigger",
+      "rect": {
+        "height": 40,
+        "width": 120,
+        "x": 1133,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "购物车（0）"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 30.6796875,
+        "x": 1207.65625,
+        "y": 13
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "（0）"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 68,
+        "x": 1050,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px 10px"
+      },
+      "tag": "SPAN",
+      "text": "消息通知"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 56,
+        "width": 62,
+        "x": 27,
+        "y": 62
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "小米官网"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 333,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "S Pro RGB-Mini LED"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 333,
+        "y": 237
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "X RGB-Mini LED"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 333,
+        "y": 313
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "S Mini LED 2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 333,
+        "y": 389
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "小米电视SPro MiniLED2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 333,
+        "y": 465
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "旗舰系列-S Pro Mini LED"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 333,
+        "y": 541
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "巨幕影院-REDMI MAX"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 598,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "游戏高刷-REDMI 电视 X 2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 598,
+        "y": 237
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "性价比爆款-REDMI A Pro"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 172,
+        "x": 598,
+        "y": 313
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "性价比爆款-REDMI A 2025"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 80.3046875,
+        "x": 271,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Xiaomi手机"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 82.0859375,
+        "x": 371.3046875,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "REDMI手机"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 32,
+        "x": 473.390625,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "电视"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 48,
+        "x": 525.390625,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "笔记本"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 32,
+        "x": 593.390625,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "平板"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 32,
+        "x": 645.390625,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "家电"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 48,
+        "x": 697.390625,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "路由器"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 64,
+        "x": 765.390625,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "服务中心"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.5,
+        "width": 32,
+        "x": 849.390625,
+        "y": 80.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "社区"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 670,
+        "width": 1226,
+        "x": 27,
+        "y": 140
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "保障服务\n企业团购\nF码通道\n米粉卡\n以旧换新\n话费充值"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 644,
+        "width": 1226,
+        "x": 27,
+        "y": 140
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "保障服务\n企业团购\nF码通道\n米粉卡\n以旧换新\n话费充值"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 170,
+        "width": 1240,
+        "x": 13,
+        "y": 614
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "保障服务\n企业团购\nF码通道\n米粉卡\n以旧换新\n话费充值"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 170,
+        "width": 234,
+        "x": 27,
+        "y": 614
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "保障服务\n企业团购\nF码通道\n米粉卡\n以旧换新\n话费充值"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Xiaomi官方网站 | 以人为中心，构建“人车家全生态”",
+  "url": "https://www.mi.com/shop",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:44:37.939Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

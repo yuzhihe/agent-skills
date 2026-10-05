@@ -1,0 +1,22 @@
+{
+  "order": 35,
+  "id": "ant-design-settings",
+  "name": "Ant Design Pro · 中文账户设置",
+  "source": "https://preview.pro.ant.design/account/settings",
+  "studied": "2026-10-05",
+  "tasks": [
+    "forms",
+    "dashboard"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "structured-content"
+  ],
+  "tone": [
+    "practical",
+    "structured"
+  ],
+  "lang": "zh",
+  "summary": "全局导航、设置分类和编辑区分层，基本信息用表单，安全信息用状态列表。",
+  "usage": "适合中文管理后台及账户设置；这是官方演示数据，不是用户真实账户。"
+}

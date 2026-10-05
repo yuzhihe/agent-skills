@@ -1,0 +1,26 @@
+Browser tab: 29, Title: "デニムかるた | 45R", URL: "https://45r.jp/ja/45denim-karuta/".
+1 AXWebArea デニムかるた | 45R, URL: 45r.jp/ja/45denim-karuta/
+	6 image
+	8 container
+		9 link Description: デニムかるた | 45R, Value: 45r.jp/
+		10 button mute
+			11 image mute
+	12 container tutorial
+		13 heading 練習問題 ア マ テ ラ ス と ス サ ノ オ が 穿 く デ ニ ム, Value: 2
+			14 text 練習問題 ア マ テ ラ ス と ス サ ノ オ が 穿 く デ ニ ム
+		15 button あてはまる絵札はどれ？
+			16 image
+		17 container
+			18 container 練習問題です！
+				19 text 練 習 問 題 で す ！
+			20 container この文章をよ〜くお読みください。
+				21 text こ の 文 章 を よ 〜 く お 読 み く だ さ い 。
+			22 container 次の画面で、45Rのデニムに関する
+				23 text 次 の 画 面 で 、 4 5 R の デ ニ ム に 関 す る
+			24 container 豆知識が描かれた絵札を選びます。
+				25 text 豆 知 識 が 描 か れ た 絵 札 を 選 び ま す 。
+			26 button
+				27 image
+	7 text ©45rpm studio co., ltd.
+
+The focused UI element is 1 AXWebArea デニムかるた | 45R, URL: 45r.jp/ja/45denim-karuta/

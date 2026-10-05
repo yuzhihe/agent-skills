@@ -1,0 +1,50 @@
+Browser tab: 29, Title: "Search - Rijksmuseum", URL: "https://www.rijksmuseum.nl/en/collection/search?collectionSearchContext=Art&page=1&sortingType=Popularity".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~				73 link Description: Rijksmuseum tickets, Value: rijksmuseum.nl/en/tickets?variantKey=default-configuration
+~					64 ARTWORKS (841008)
+~					65 LIBRARY (359309)
+~					66 VISITOR STORIES (209585)
++			74 container Collection search results
++				75 container Still Life with Flowers in a Glass Vase, Jan Davidsz. de Heem, 1650 - 1683
++					76 link Help: Still Life with Flowers in a Glass Vase, Description: Still Life with Flowers in a Glass Vase Still Life with Flowers in a Glass Vase Jan Davidsz. de Heem, 1650 - 1683, Value: rijksmuseum.nl/en/collection/object/Still-Life-with-Flowers-in-a-Glass-Vase--9f1ca72cf761e1764fe22a5516b46ecc
++				77 container The Milkmaid, Johannes Vermeer, c. 1660
++					78 link Description: The Milkmaid The Milkmaid Johannes Vermeer, c. 1660, Help: The Milkmaid, Value: rijksmuseum.nl/en/collection/object/The-Milkmaid--42dd0e658c2979aec8e144d2357c55c0
++				79 container The Night Watch Militia Company of District II under the Command of Captain Frans Banninck Cocq, Rembrandt van Rijn, 1642
++					80 link Help: The Night Watch Militia Company of District II under the Command of Captain Frans Banninck Cocq, Description: The Night Watch Militia Company of District II under the Command of Captain Frans Banninck Cocq On display in Night Watch Gallery The Night Watch Militia Company of District II under the Command of Captain Frans Banninck Cocq Rembrandt van Rijn, 1642, Value: rijksmuseum.nl/en/collection/object/The-Night-Watch-Militia-Company-of-District-II-under-the-Command-of-Captain-Frans-Banninck-Cocq--3137deb45cd7765f9a76084a16c99544
++				81 container Children of the Sea, Jozef Israëls, 1872
++					82 link Description: Children of the Sea On display in 1.18 Children of the Sea Jozef Israëls, 1872, Help: Children of the Sea, Value: rijksmuseum.nl/en/collection/object/Children-of-the-Sea--98cc90bcb55dfc39dda04341bc8414c1
++				83 container Still Life with Flowers and a Watch, Abraham Mignon, c. 1660 - c. 1679
++					84 link Help: Still Life with Flowers and a Watch, Description: Still Life with Flowers and a Watch Still Life with Flowers and a Watch Abraham Mignon, c. 1660 - c. 1679, Value: rijksmuseum.nl/en/collection/object/Still-Life-with-Flowers-and-a-Watch--7404dc80eb5bfc4161ed6ccf454e293f
++				85 container View of Houses in Delft, Known as ‘The Little Street’, Johannes Vermeer, c. 1658
++					86 link Help: View of Houses in Delft, Known as ‘The Little Street’, Description: View of Houses in Delft, Known as ‘The Little Street’ View of Houses in Delft, Known as ‘The Little Street’ Johannes Vermeer, c. 1658, Value: rijksmuseum.nl/en/collection/object/View-of-Houses-in-Delft-Known-as-The-Little-Street--a7dbf937cbd6f7c30f66f8aca4a0207c
++				87 container Winter Landscape with Ice Skaters, Hendrick Avercamp (signed by artist), c. 1608
++					88 link Help: Winter Landscape with Ice Skaters, Description: Winter Landscape with Ice Skaters On display in 2.6 Winter Landscape with Ice Skaters Hendrick Avercamp (signed by artist), c. 1608, Value: rijksmuseum.nl/en/collection/object/Winter-Landscape-with-Ice-Skaters--918895dc18da94e357c6763adda8882f
++				89 container Floral Still Life, Hans Bollongier (signed by artist), 1639
++					90 link Description: Floral Still Life Floral Still Life Hans Bollongier (signed by artist), 1639, Help: Floral Still Life, Value: rijksmuseum.nl/en/collection/object/Floral-Still-Life--c3c05d8cfd0da3b92a72445596e8a914
++				91 container The Threatened Swan, Jan Asselijn, c. 1650
++					92 link Description: The Threatened Swan On display in Gallery of Honour The Threatened Swan Jan Asselijn, c. 1650, Help: The Threatened Swan, Value: rijksmuseum.nl/en/collection/object/The-Threatened-Swan--22040f90565e730131983a44a85b989f
++				93 container Girl in a White Kimono, George Hendrik Breitner (mentioned on object), 1894
++					94 link Help: Girl in a White Kimono, Value: rijksmuseum.nl/en/collection/object/Girl-in-a-White-Kimono--40fc3390d77e969fabd1189b1770fd5a, Description: Girl in a White Kimono On display in 1.18 Girl in a White Kimono George Hendrik Breitner (mentioned on object), 1894
++				95 container Self-portrait, Vincent van Gogh, 1887
++					96 link Description: Self-portrait On display in 1.18 Self-portrait Vincent van Gogh, 1887, Help: Self-portrait, Value: rijksmuseum.nl/en/collection/object/Self-portrait--72f97ac66c33f86b161cd51d62f7d365
++				97 container Italian Landscape with Umbrella Pines, Hendrik Voogd, 1807
++					98 link Help: Italian Landscape with Umbrella Pines, Description: Italian Landscape with Umbrella Pines On display in 1.12 Italian Landscape with Umbrella Pines Hendrik Voogd, 1807, Value: rijksmuseum.nl/en/collection/object/Italian-Landscape-with-Umbrella-Pines--ebe61d8e3b3a3817793b7503ac99752b
++				99 container Woman Reading a Letter, Johannes Vermeer, c. 1663
++					100 link Description: Woman Reading a Letter Woman Reading a Letter Johannes Vermeer, c. 1663, Help: Woman Reading a Letter, Value: rijksmuseum.nl/en/collection/object/Woman-Reading-a-Letter--8e9e02c8045362ffb2171b2fb52953ba
++				101 container A Windmill on a Polder Waterway, Known as ‘In the Month of July’, Paul Joseph Constantin Gabriël, c. 1889
++					102 link Help: A Windmill on a Polder Waterway, Known as ‘In the Month of July’, Description: A Windmill on a Polder Waterway, Known as ‘In the Month of July’ On display in 1.18 A Windmill on a Polder Waterway, Known as ‘In the Month of July’ Paul Joseph Constantin Gabriël, c. 1889, Value: rijksmuseum.nl/en/collection/object/A-Windmill-on-a-Polder-Waterway-Known-as-In-the-Month-of-July--3e97d6f21dd17609968549d9d3b76922
++				103 container Bouquet of Flowers, anonymous, 1680-08
++					104 link Description: Bouquet of Flowers Bouquet of Flowers anonymous, 1680-08, Help: Bouquet of Flowers, Value: rijksmuseum.nl/en/collection/object/Bouquet-of-Flowers--317341446f9bf54ee95fc53a9d136868
++				105 container Still Life with Flowers on a Marble Tabletop, Rachel Ruysch (mentioned on object), 1716
++					106 link Help: Still Life with Flowers on a Marble Tabletop, Description: Still Life with Flowers on a Marble Tabletop On display in 1.1 Still Life with Flowers on a Marble Tabletop Rachel Ruysch (mentioned on object), 1716, Value: rijksmuseum.nl/en/collection/object/Still-Life-with-Flowers-on-a-Marble-Tabletop--570d1419506e38cb3916f640fe5a2328
++				107 container Still Life with Flowers, Jan van Huysum, 1723
++					108 link Description: Still Life with Flowers On display in 1.1 Still Life with Flowers Jan van Huysum, 1723, Help: Still Life with Flowers, Value: rijksmuseum.nl/en/collection/object/Still-Life-with-Flowers--54e9fdb51274f68e38c108e91e1cf12b
++				109 container A Pelican and other Birds near a Pool, Known as ‘The Floating Feather’, Melchior d' Hondecoeter, c. 1680
++					110 link Help: A Pelican and other Birds near a Pool, Known as ‘The Floating Feather’, Description: A Pelican and other Birds near a Pool, Known as ‘The Floating Feather’ On display in 2.22 A Pelican and other Birds near a Pool, Known as ‘The Floating Feather’ Melchior d' Hondecoeter, c. 1680, Value: rijksmuseum.nl/en/collection/object/A-Pelican-and-other-Birds-near-a-Pool-Known-as-The-Floating-Feather--01bb30d2f6e625c798fcc40e8dd554de
++				111 container Still Life with Asparagus, Adriaen Coorte (mentioned on object), 1697
++					112 link Help: Still Life with Asparagus, Value: rijksmuseum.nl/en/collection/object/Still-Life-with-Asparagus--a10d24c9b6d2774e912db7afe05fb4ff, Description: Still Life with Asparagus On display in 2.24 Still Life with Asparagus Adriaen Coorte (mentioned on object), 1697
++				113 container Morning Ride along the Beach, Anton Mauve (mentioned on object), 1876
++					114 link Help: Morning Ride along the Beach, Value: rijksmuseum.nl/en/collection/object/Morning-Ride-along-the-Beach--6102580b0dc8656aa3ce497c8395c93d, Description: Morning Ride along the Beach On display in 1.18 Morning Ride along the Beach Anton Mauve (mentioned on object), 1876
++			115 text New collection search results loaded
++			116 text 841008 results found
+The focused UI element is 1 AXWebArea Search - Rijksmuseum, URL: rijksmuseum.nl/en/collection/search?collectionSearchContext=Art&page=1&sortingType=Popularity

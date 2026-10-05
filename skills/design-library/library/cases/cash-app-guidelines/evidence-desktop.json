@@ -1,0 +1,1193 @@
+{
+  "body": {
+    "background": "rgb(255, 255, 255)",
+    "fontFamily": "\"PingFang SC\""
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 70,
+        "width": 299,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "https://design.cash.app/"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 299,
+        "x": 0,
+        "y": 81
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px"
+      },
+      "tag": "A",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Color"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 33,
+        "width": 299,
+        "x": 0,
+        "y": 181
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(132, 132, 132)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 0px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Cash Green"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 33,
+        "width": 299,
+        "x": 0,
+        "y": 214
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(132, 132, 132)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 0px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Supporting colors"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 33,
+        "width": 299,
+        "x": 0,
+        "y": 247
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(132, 132, 132)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 0px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Color modes"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 33,
+        "width": 299,
+        "x": 0,
+        "y": 280
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(132, 132, 132)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 0px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Accessibility"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 33,
+        "width": 299,
+        "x": 0,
+        "y": 313
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(132, 132, 132)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 0px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Incorrect usage"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 33,
+        "width": 299,
+        "x": 0,
+        "y": 346
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(132, 132, 132)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 0px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Resources"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 379
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Typography"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 409
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Motion"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 439
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Iconography"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 469
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px 0px 40px"
+      },
+      "tag": "A",
+      "text": "Voice & Tone"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 299,
+        "x": 0,
+        "y": 499
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px 0px 40px"
+      },
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 299,
+        "x": 0,
+        "y": 540
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px"
+      },
+      "tag": "A",
+      "text": "Expressions"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 299,
+        "x": 0,
+        "y": 601
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px 20px"
+      },
+      "tag": "A",
+      "text": "Resources"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19,
+        "width": 210,
+        "x": 800,
+        "y": 25.296875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "c2ec2eecf166124ea2cee5b11e8fb966",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Brand Guidelines"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 117.765625,
+        "x": 800,
+        "y": 24.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "inline",
+        "fontFamily": "c2ec2eecf166124ea2cee5b11e8fb966",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Brand Guidelines"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 68,
+        "width": 440,
+        "x": 340,
+        "y": 138.421875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "fe76c4146e12a6b709c4cfc4741a018f",
+        "fontSize": "68px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "68px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Color"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 150,
+        "width": 440,
+        "x": 800,
+        "y": 145.1171875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "fe76c4146e12a6b709c4cfc4741a018f",
+        "fontSize": "21px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "25px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Our brand color palette is centered around Cash Green, a bold distillation of how we redefine money. Though one singular"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 299,
+        "x": 0,
+        "y": 81
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 299,
+        "x": 0,
+        "y": 81
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 299,
+        "x": 0,
+        "y": 81
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 299,
+        "x": 0,
+        "y": 81
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 299,
+        "x": 0,
+        "y": 81
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 11.5,
+        "width": 88.53125,
+        "x": 20,
+        "y": 95.25
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19,
+        "width": 88.53125,
+        "x": 20,
+        "y": 90.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flow-root",
+        "fontFamily": "c2ec2eecf166124ea2cee5b11e8fb966",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19,
+        "width": 88.53125,
+        "x": 20,
+        "y": 90.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "c2ec2eecf166124ea2cee5b11e8fb966",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "19px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Foundations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "0px normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 121
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 11.5,
+        "width": 36.1796875,
+        "x": 40,
+        "y": 130.25
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19,
+        "width": 36.1796875,
+        "x": 40,
+        "y": 125.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flow-root",
+        "fontFamily": "fe76c4146e12a6b709c4cfc4741a018f",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19,
+        "width": 36.1796875,
+        "x": 40,
+        "y": 125.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "fe76c4146e12a6b709c4cfc4741a018f",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "19px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Logo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 228,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color\nCash Green\nSupporting colors\nColor modes\nAccessibility\nIncorrect usage\nResources"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 228,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color\nCash Green\nSupporting colors\nColor modes\nAccessibility\nIncorrect usage\nResources"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 228,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color\nCash Green\nSupporting colors\nColor modes\nAccessibility\nIncorrect usage\nResources"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 228,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color\nCash Green\nSupporting colors\nColor modes\nAccessibility\nIncorrect usage\nResources"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 30,
+        "width": 299,
+        "x": 0,
+        "y": 151
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"PingFang SC\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Color"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Cash App Brand Guidelines - Color",
+  "url": "https://design.cash.app/color",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:35:07.894Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

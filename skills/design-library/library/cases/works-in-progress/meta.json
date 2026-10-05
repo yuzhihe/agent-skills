@@ -1,0 +1,21 @@
+{
+  "order": 4,
+  "id": "works-in-progress",
+  "name": "Works in Progress",
+  "source": "https://worksinprogress.co/",
+  "studied": "2026-10-04",
+  "tasks": [
+    "editorial"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "illustration"
+  ],
+  "tone": [
+    "editorial",
+    "warm"
+  ],
+  "lang": "en",
+  "summary": "以标题、元信息和细线构成阅读秩序，让主稿与其他内容有分别。",
+  "usage": "适合研究笔记、文章合集与专题出版。缺少插画时仍可借鉴编辑层级；移动菜单已观察开合，未做完整可访问性审计。"
+}

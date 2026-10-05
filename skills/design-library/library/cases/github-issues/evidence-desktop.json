@@ -1,0 +1,598 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 2286,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Skip to content\nNavigation Menu\nPlatform\nSolutions\nResources\nOpen Source\nEnterprise\nPricing\nSign in\n"
+    },
+    {
+      "rect": {
+        "height": 72,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "16px 0px"
+      },
+      "text": "Navigation Menu\nPlatform\nSolutions\nResources\nOpen Source\nEnterprise\nPricing\nSign in\nSign up"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 643,
+        "x": 80,
+        "y": 16
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Platform\nSolutions\nResources\nOpen Source\nEnterprise\nPricing"
+    },
+    {
+      "rect": {
+        "height": 176,
+        "width": 239,
+        "x": 8,
+        "y": 80
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Issues\nAssigned to me\nCreated by me\nMentioned\nRecent activity"
+    },
+    {
+      "rect": {
+        "height": 112,
+        "width": 239,
+        "x": 8,
+        "y": 281
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Views\nMilestones\nLabels"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 239,
+        "x": 8,
+        "y": 636
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Feedback\nPreview"
+    },
+    {
+      "rect": {
+        "height": 2100,
+        "width": 1280,
+        "x": 0,
+        "y": 72
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": "Issues\nAssigned to me\nCreated by me\nMentioned\nRecent activity\nViews\nMilestones\nLabels\nFeedback\nPrevi"
+    },
+    {
+      "rect": {
+        "height": 30,
+        "width": 59,
+        "x": 280,
+        "y": 96
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "30px",
+        "padding": "0px"
+      },
+      "text": "Issues"
+    },
+    {
+      "rect": {
+        "height": 43,
+        "width": 646,
+        "x": 321,
+        "y": 262
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "[bug]: Base UI Select trigger renders a stray \"▼\" inside the chevron (Select.Icon default children m"
+    },
+    {
+      "rect": {
+        "height": 43,
+        "width": 663,
+        "x": 321,
+        "y": 351
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "[bug]: React Aria Tooltip demo on docs doesn't show on first hover and renders below the trigger aft"
+    },
+    {
+      "rect": {
+        "height": 43,
+        "width": 673,
+        "x": 321,
+        "y": 440
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "[bug]: Translucent menu preset: backdrop-blur on the ::before pseudo computes but never paints in Ch"
+    },
+    {
+      "rect": {
+        "height": 43,
+        "width": 677,
+        "x": 321,
+        "y": 529
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "[bug]: Dialog/AlertDialog/Sheet (Base UI): unmasked strip where the scrollbar was while the modal is"
+    },
+    {
+      "rect": {
+        "height": 19,
+        "width": 412,
+        "x": 321,
+        "y": 618
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "[bug]: SidebarMenuButton tooltip breaks disabled state"
+    },
+    {
+      "rect": {
+        "height": 19,
+        "width": 570,
+        "x": 321,
+        "y": 683
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "[bug]: Comboboxes look differently than other form fields on smaller screens"
+    },
+    {
+      "rect": {
+        "height": 19,
+        "width": 454,
+        "x": 321,
+        "y": 748
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "[feat]: Add Keyline Icons to the icon libraries in shadcn/create"
+    },
+    {
+      "rect": {
+        "height": 19,
+        "width": 432,
+        "x": 321,
+        "y": 813
+      },
+      "selector": "h3",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(31, 35, 40)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "[feat]: Add support for andrsrxn/icons duotone icon library"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 101,
+        "x": 80,
+        "y": 16
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": "Platform"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 107,
+        "x": 181,
+        "y": 16
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": "Solutions"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 116,
+        "x": 289,
+        "y": 16
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": "Resources"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 135,
+        "x": 405,
+        "y": 16
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": "Open Source"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 115,
+        "x": 539,
+        "y": 16
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": "Enterprise"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 32,
+        "y": 20
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Homepage"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 186,
+        "x": 112,
+        "y": 133
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 254,
+        "x": 112,
+        "y": 201
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 173,
+        "x": 112,
+        "y": 269
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 174,
+        "x": 406,
+        "y": 133
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 188,
+        "x": 406,
+        "y": 201
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 30,
+        "width": 902,
+        "x": 293,
+        "y": 147
+      },
+      "selector": "input",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "text": ""
+    }
+  ],
+  "title": "Issues · shadcn-ui/ui · GitHub",
+  "url": "https://github.com/shadcn-ui/ui/issues",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

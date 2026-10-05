@@ -1,0 +1,34 @@
+Browser tab: 30, Title: "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili", URL: "https://www.bilibili.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~			8 link Description: 会员购, Value: show.bilibili.com/platform/home.html
+~			9 link Description: 漫画, Value: manga.bilibili.com/
+~			44 link Description: 活动, Value: bilibili.com/blackboard/era/reward-activity-list-page.html
+~			45 link Description: 课堂, Value: bilibili.com/cheese/
+~					51 link Description: ⚡B站首支Vup战队「MRC」强势出道⚡, Value: live.bilibili.com/7222865
+~					59 link Description: 震惊！500元在日本只能买一个西瓜？, Value: bilibili.com/bangumi/play/ss261878
+~					69 link Description: ⚡B站首支Vup战队「MRC」强势出道⚡, Value: live.bilibili.com/7222865
+~				113 link Description: 直播 1468 视频唱见, Value: live.bilibili.com/1929638195
+~				114 link Description: 直播中 划走就分手 再见前男友, Value: live.bilibili.com/1929638195
+~				117 link Description: 78.1万 3682 34:36, Value: bilibili.com/video/BV1wua162Eoc
+~					119 link Description: 富游香港！预算无上限在香港玩要花多少钱？会是最奢侈的体验吗！？, Value: bilibili.com/video/BV1wua162Eoc
+~				123 link Description: 538.4万 9791 59:51, Value: bilibili.com/video/BV1mwY96jEom
+~					125 link Description: 什么事比丈夫出轨还头疼？！年度8.7高分抓马韩剧万字详解, Value: bilibili.com/video/BV1mwY96jEom
+~				128 link Description: 45.2万 207, Value: cm.bilibili.com/cm/api/fees/pc/sync/v2
+~					130 link Description: 如果您不想学习，请观看此视频。, Value: cm.bilibili.com/cm/api/fees/pc/sync/v2
+~				132 link Description: 高途高中 · 9月14日, Value: cm.bilibili.com/cm/api/fees/pc/sync/v2
+~				138 link Description: 163.8万 3399 41:27, Value: bilibili.com/video/BV1Q8ae6aED9
+~					140 link Description: “诈骗”拯救世界？20世纪规模最大的慈善演唱会是如何诞生的？, Value: bilibili.com/video/BV1Q8ae6aED9
+~				143 link Description: 134.2万 550 03:38, Value: bilibili.com/video/BV1e2eS69ES3
+~					145 link Description: 站起来就是活，连起来就是招！【人类沙雕纪录片】, Value: bilibili.com/video/BV1e2eS69ES3
+~				148 link Description: 1434.9万 1864 15:20, Value: bilibili.com/video/BV1a44y62Ew1
+~					150 link Description: 100年被翻拍3次，这就是经典的魅力！战争给世界带来了什么？, Value: bilibili.com/video/BV1a44y62Ew1
+~				157 link Description: 80.8万 3636 23:29, Value: bilibili.com/video/BV1sfa965ENG
+~					159 link Description: 美国富人区最顶级美食！连吃24小时！老钱吃得有多离谱？, Value: bilibili.com/video/BV1sfa965ENG
+~				163 link Description: 186.5万 2316 01:41, Value: bilibili.com/video/BV1PHay6UEaS
+~					165 link Description: ⚡赵本山 世界巡演⚡, Value: bilibili.com/video/BV1PHay6UEaS
+~				168 link Description: 859.8万 1.2万 13:08, Value: bilibili.com/video/BV1J7hE6aEDQ
+~					170 link Description: 比电影更夸张？专业保镖到底在做什么？, Value: bilibili.com/video/BV1J7hE6aEDQ
+~				173 link Description: 综艺 2285.0万, Value: bilibili.com/bangumi/play/ep316964
+~				174 link Description: 极限挑战 第2季, Value: bilibili.com/bangumi/play/ep316964
+~				175 link Description: 综艺哔哔机, Value: space.bilibili.com/429711841
+The focused UI element is 1 AXWebArea 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili, URL: bilibili.com/

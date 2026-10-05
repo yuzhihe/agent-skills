@@ -1,0 +1,21 @@
+{
+  "order": 14,
+  "id": "kickstarter",
+  "name": "Kickstarter",
+  "source": "https://www.kickstarter.com/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "creator"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "project-photos",
+    "project-data"
+  ],
+  "tone": [
+    "editorial"
+  ],
+  "lang": "en",
+  "summary": "绿色品牌导航之后是简洁使命语、当期专题横幅和精选项目卡；窄屏顺序堆叠。",
+  "usage": "创意项目发现、作品众筹、专题活动入口；没有项目故事、进度或可信封面的空卡片墙。"
+}

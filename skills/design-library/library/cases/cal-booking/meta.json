@@ -1,0 +1,22 @@
+{
+  "order": 37,
+  "id": "cal-booking",
+  "name": "Cal.com · 预约日历示例",
+  "source": "https://app.cal.com/rick/get-rick-rolled/embed?layout=month_view&useSlotsViewOnSmallScreen=true&embedType=inline&embed=embed-inline-demo",
+  "studied": "2026-10-05",
+  "tasks": [
+    "forms",
+    "utility"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "structured-data"
+  ],
+  "tone": [
+    "neutral",
+    "structured"
+  ],
+  "lang": "en",
+  "summary": "桌面将活动说明、日期和时段分三栏，选定日期后只更新对应的时段列表。",
+  "usage": "适合咨询、活动和服务预约；需要真实时区、可用日期和时段数据。"
+}

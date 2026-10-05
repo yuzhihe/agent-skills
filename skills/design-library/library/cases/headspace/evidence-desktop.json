@@ -1,0 +1,304 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 8086,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(75, 76, 77)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": "Sword has acquired Headspace to shape the future of mental healthcare. Learn more →\n\nFor You\nFor Bus"
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 1280,
+        "x": 0,
+        "y": 58
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(75, 76, 77)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px 48px"
+      },
+      "text": "For You\nFor Business\nFor Providers\nOur Plans\nResources\nAbout\nLog in\nHelp\nTry for free"
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 519,
+        "x": 104,
+        "y": 58
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(75, 76, 77)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": "For You\nFor Business\nFor Providers\nOur Plans\nResources\nAbout"
+    },
+    {
+      "rect": {
+        "height": 8086,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(75, 76, 77)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": "Sword has acquired Headspace to shape the future of mental healthcare. Learn more →\n\nFor You\nFor Bus"
+    },
+    {
+      "rect": {
+        "height": 44,
+        "width": 323,
+        "x": 479,
+        "y": 199
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(45, 44, 43)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "lineHeight": "44px",
+        "padding": "0px"
+      },
+      "text": "all with Headspace"
+    },
+    {
+      "rect": {
+        "height": 29,
+        "width": 1184,
+        "x": 48,
+        "y": 830
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(45, 44, 43)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "28.8px",
+        "padding": "0px"
+      },
+      "text": "What kind of headspace are you looking for?"
+    },
+    {
+      "rect": {
+        "height": 58,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "22px",
+        "padding": "16px 0px"
+      },
+      "text": "Sword has acquired Headspace to shape the future of mental healthcare. Learn more →"
+    },
+    {
+      "rect": {
+        "height": 80,
+        "width": 32,
+        "x": 48,
+        "y": 58
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 238)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 18,
+        "width": 53,
+        "x": 104,
+        "y": 89
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(45, 44, 43)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "18.4px",
+        "padding": "0px"
+      },
+      "text": "For You"
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 93,
+        "x": 48,
+        "y": 184
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(68, 66, 63)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 121,
+        "x": 48,
+        "y": 221
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(68, 66, 63)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 101,
+        "x": 48,
+        "y": 258
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(68, 66, 63)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 55,
+        "x": 48,
+        "y": 295
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(68, 66, 63)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 21,
+        "width": 182,
+        "x": 48,
+        "y": 332
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(68, 66, 63)",
+        "fontFamily": "\"Headspace Apercu\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "20.8px",
+        "padding": "0px"
+      },
+      "text": ""
+    }
+  ],
+  "title": "Mental Health App for Meditation & Sleep - Headspace",
+  "url": "https://www.headspace.com/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

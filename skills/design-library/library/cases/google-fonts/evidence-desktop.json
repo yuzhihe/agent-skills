@@ -1,0 +1,917 @@
+{
+  "body": {
+    "background": "rgba(0, 0, 0, 0)",
+    "fontFamily": "\"PingFang SC\""
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 80,
+        "x": 8,
+        "y": 24
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 99, 155)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "4px 0px 0px"
+      },
+      "tag": "A",
+      "text": "font_download\nFonts"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 80,
+        "x": 8,
+        "y": 92
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "4px 0px 0px"
+      },
+      "tag": "A",
+      "text": "language\nNoto"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 80,
+        "x": 8,
+        "y": 160
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "4px 0px 0px"
+      },
+      "tag": "A",
+      "text": "interests\nIcons"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 80,
+        "x": 8,
+        "y": 228
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "4px 0px 0px"
+      },
+      "tag": "A",
+      "text": "school\nKnowledge"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 80,
+        "x": 8,
+        "y": 296
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "4px 0px 0px"
+      },
+      "tag": "A",
+      "text": "help\nFAQ"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 24,
+        "y": 648
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "9999px",
+        "color": "rgb(68, 71, 70)",
+        "display": "inline-flex",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "10px"
+      },
+      "tag": "BUTTON",
+      "text": "dark_mode"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 120.984375,
+        "x": 223.015625,
+        "y": 24
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "9999px",
+        "color": "color(srgb 0.121569 0.121569 0.121569 / 0.38)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "refresh\nReset all"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 344,
+        "y": 20
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "9999px",
+        "color": "rgb(68, 71, 70)",
+        "display": "flex",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "12px"
+      },
+      "tag": "BUTTON",
+      "text": "close"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 53.625,
+        "x": 120,
+        "y": 68
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Preview"
+    },
+    {
+      "id": "mat-input-2",
+      "rect": {
+        "height": 156,
+        "width": 264,
+        "x": 128,
+        "y": 120
+      },
+      "style": {
+        "background": "rgb(233, 238, 246)",
+        "borderRadius": "16px",
+        "color": "rgb(31, 31, 31)",
+        "display": "inline-block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "16px"
+      },
+      "tag": "TEXTAREA",
+      "text": "Preview text"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 178,
+        "x": 211,
+        "y": 294
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgb(16, 16, 16)",
+        "display": "block",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px 16px"
+      },
+      "tag": "INPUT",
+      "text": "font size slider"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 34.9765625,
+        "x": 120,
+        "y": 389
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "Filter"
+    },
+    {
+      "id": "mat-expansion-panel-header-0",
+      "rect": {
+        "height": 68,
+        "width": 272,
+        "x": 120,
+        "y": 425
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 31, 31)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 16px 0px 8px"
+      },
+      "tag": "MAT-EXPANSION-PANEL-HEADER",
+      "text": "language\nLanguage"
+    },
+    {
+      "id": "mat-input-0",
+      "rect": {
+        "height": 24,
+        "width": 220,
+        "x": 136,
+        "y": 515
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "INPUT",
+      "text": "Search for writing system"
+    },
+    {
+      "id": "mat-input-1",
+      "rect": {
+        "height": 24,
+        "width": 220,
+        "x": 136,
+        "y": 571
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "INPUT",
+      "text": "Search for language"
+    },
+    {
+      "id": "mat-expansion-panel-header-2",
+      "rect": {
+        "height": 68,
+        "width": 272,
+        "x": 120,
+        "y": 625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 31, 31)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 16px 0px 8px"
+      },
+      "tag": "MAT-EXPANSION-PANEL-HEADER",
+      "text": "sentiment_satisfied\nFeeling"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 116,
+        "x": 128,
+        "y": 689
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 31, 31)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "8px 0px"
+      },
+      "tag": "BUTTON",
+      "text": "Business"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 116,
+        "x": 268,
+        "y": 689
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 31, 31)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "8px 0px"
+      },
+      "tag": "BUTTON",
+      "text": "Fancy"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 200,
+        "x": 476,
+        "y": 20
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(11, 87, 208)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "0px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Google Fonts"
+    },
+    {
+      "id": "mat-input-3",
+      "rect": {
+        "height": 24,
+        "width": 247,
+        "x": 732,
+        "y": 32
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 31, 31)",
+        "display": "inline-block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "INPUT",
+      "text": "Search fonts"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 1172,
+        "y": 20
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "9999px",
+        "color": "rgb(68, 71, 70)",
+        "display": "inline-flex",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "12px"
+      },
+      "tag": "BUTTON",
+      "text": "shopping_bag"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.5,
+        "width": 52,
+        "x": 1150,
+        "y": 98
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Dismiss"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 105.1640625,
+        "x": 481,
+        "y": 96
+      },
+      "style": {
+        "background": "rgb(11, 87, 208)",
+        "borderRadius": "50px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px 24px 0px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "close\n Filters"
+    },
+    {
+      "id": "mat-button-toggle-0-button",
+      "rect": {
+        "height": 40,
+        "width": 88.890625,
+        "x": 923.1640625,
+        "y": 100
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 74, 119)",
+        "display": "inline-block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "view_list\nRow"
+    },
+    {
+      "id": "mat-button-toggle-1-button",
+      "rect": {
+        "height": 40,
+        "width": 90.0625,
+        "x": 1013.0546875,
+        "y": 100
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "inline-block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "view_module\nGrid"
+    },
+    {
+      "id": "mat-button-toggle-2-button",
+      "rect": {
+        "height": 40,
+        "width": 110.8828125,
+        "x": 1104.1171875,
+        "y": 100
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "inline-block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "image\nSample"
+    },
+    {
+      "id": "main-content",
+      "rect": {
+        "height": 250192,
+        "width": 744,
+        "x": 476,
+        "y": 176
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(31, 31, 31)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "Readability\nHow type influences readability\naccessibility_new\nMaterial design guidelines\nStyling text\nmaterial_design\nOp"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 112,
+        "width": 256,
+        "x": 476,
+        "y": 176
+      },
+      "style": {
+        "background": "rgb(248, 250, 253)",
+        "borderRadius": "24px",
+        "color": "rgb(11, 87, 208)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "12px 24px"
+      },
+      "tag": "A",
+      "text": "Readability\nHow type influences readability\naccessibility_new"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 112,
+        "width": 256,
+        "x": 744,
+        "y": 176
+      },
+      "style": {
+        "background": "rgb(248, 250, 253)",
+        "borderRadius": "24px",
+        "color": "rgb(11, 87, 208)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "12px 24px"
+      },
+      "tag": "A",
+      "text": "Material design guidelines\nStyling text\nmaterial_design"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 112,
+        "width": 256,
+        "x": 1012,
+        "y": 176
+      },
+      "style": {
+        "background": "rgb(248, 250, 253)",
+        "borderRadius": "24px",
+        "color": "rgb(11, 87, 208)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "12px 24px"
+      },
+      "tag": "A",
+      "text": "Optimize font loading\nAchieve faster page load times\narrow_outward"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 112,
+        "width": 256,
+        "x": 1280,
+        "y": 176
+      },
+      "style": {
+        "background": "rgb(248, 250, 253)",
+        "borderRadius": "24px",
+        "color": "rgb(11, 87, 208)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "12px 24px"
+      },
+      "tag": "A",
+      "text": "Google Fonts API\nGet started with web fonts\ncode"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 112,
+        "width": 256,
+        "x": 1548,
+        "y": 176
+      },
+      "style": {
+        "background": "rgb(248, 250, 253)",
+        "borderRadius": "24px",
+        "color": "rgb(11, 87, 208)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "12px 24px"
+      },
+      "tag": "A",
+      "text": "Self-hosting web fonts\nGet the most out of self-hosting\narrow_outward"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 112,
+        "width": 256,
+        "x": 1816,
+        "y": 176
+      },
+      "style": {
+        "background": "rgb(248, 250, 253)",
+        "borderRadius": "24px",
+        "color": "rgb(11, 87, 208)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "12px 24px"
+      },
+      "tag": "A",
+      "text": "Internationalization\nConsider your language needs\nlanguage"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 1172,
+        "y": 208
+      },
+      "style": {
+        "background": "rgb(233, 238, 246)",
+        "borderRadius": "24px",
+        "color": "rgb(68, 71, 70)",
+        "display": "flex",
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "arrow_forward_ios"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 146.3515625,
+        "x": 476,
+        "y": 322
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(68, 71, 70)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "1,950 of 1,950 families"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 192.6796875,
+        "x": 1027.3203125,
+        "y": 312
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "9999px",
+        "color": "rgb(68, 71, 70)",
+        "display": "inline-flex",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px 16px"
+      },
+      "tag": "BUTTON",
+      "text": "About these results\ninfo"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 95.6328125,
+        "x": 501,
+        "y": 393
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(11, 87, 208)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Google Sans"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 61.2578125,
+        "x": 501,
+        "y": 553
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(11, 87, 208)",
+        "display": "block",
+        "fontFamily": "\"Google Sans Flex\", -apple-system, \"system-ui\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Poppins"
+    },
+    {
+      "id": "feedback-button",
+      "rect": {
+        "height": 48,
+        "width": 48,
+        "x": 416,
+        "y": 672
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "9999px",
+        "color": "rgb(68, 71, 70)",
+        "display": "flex",
+        "fontFamily": "Arial",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "normal",
+        "padding": "12px"
+      },
+      "tag": "BUTTON",
+      "text": "feedback"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Browse Fonts - Google Fonts",
+  "url": "https://fonts.google.com/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:23:29.177Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; no inferred CSS breakpoints."
+}

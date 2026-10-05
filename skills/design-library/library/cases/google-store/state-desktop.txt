@@ -1,0 +1,176 @@
+Browser tab: 29, Title: "Google Store for Google Made Devices & Accessories", URL: "https://store.google.com/?hl=en-US".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 50-51, 184, 192, 202-226
+~1 AXWebArea Google Store for Google Made Devices & Accessories, URL: store.google.com/
+~						9 link Description: Google Store home, Value: store.google.com/
+~								12 link Description: Phones, Value: store.google.com/category/phones
+~								15 link Description: Fi Wireless, Value: store.google.com/magazine/google_fi
+~								18 link Description: Watches & Trackers, Value: store.google.com/category/watches_trackers
+~								21 link Description: Laptops, Value: store.google.com/category/laptops
+~								24 link Description: Earbuds, Value: store.google.com/category/earbuds
+~								27 link Description: Smart Home, Value: store.google.com/category/connected_home
+~								30 link Description: Accessories, Value: store.google.com/collection/accessories_wall
+~								33 link Description: Offers, Value: store.google.com/collection/offers
+~								36 link Description: Support, Value: store.google.com/magazine/support
+~					39 link Description: Find a Store, Value: store.google.com/magazine/locations
+~					40 link Description: Go to empty shopping cart, Value: store.google.com/cart
+~						43 link Description: Sign in, Value: accounts.google.com/ServiceLogin
++				266 heading Ask more of your phone., Value: 1
++					267 text Ask more of your phone.
+~				52 link Description: Explore Google Pixel 11 phones., Value: store.google.com/category/phones
+~					57 container Description: Popular on the Google Store, ID: scroller-c4
++								268 container
++									269 text From $619
++									270 text Save up to $480
++								271 container
++									272 text after typical trade-in ⁠
++									273 link Description: footnote √, Value: store.google.com/
++								274 link Description: Buy Google Pixel 11 Pro, Value: store.google.com/config/pixel_11_pro
++								275 container
++									276 text From $1,269
++									277 text Save up to $630
++								278 container
++									279 text after typical trade-in ⁠
++									280 link Description: footnote √, Value: store.google.com/
++								281 link Description: Buy Google Pixel 11 Pro Fold, Value: store.google.com/config/pixel_11_pro_fold
++								282 container
++									283 text From $549
++									284 text Save up to $350
++								285 container
++									286 text after typical trade-in ⁠
++									287 link Description: footnote √, Value: store.google.com/
++								288 link Description: Buy Google Pixel 11, Value: store.google.com/config/pixel_11
++								289 text From $399.99
++								290 link Description: Buy Google Pixel Watch 5, Value: store.google.com/config/pixel_watch_5
++								291 text $229
++								292 link Description: Buy Pixel Buds Pro 2, Value: store.google.com/config/pixel_buds_pro_2
++								293 text From $29.99
++								294 button Sign in to get notified for Google Pixel Tag
++									295 text Sign in to get notified
+~								86 link Description: learn more about the google fi, Value: store.google.com/magazine/google_fi
++								296 text $99.99
++								297 link Description: Buy Google Home Speaker, Value: store.google.com/config/google_home_speaker
++								298 text $279.99
++								299 link Description: Buy Nest Learning Thermostat (4th gen), Value: store.google.com/config/nest_learning_thermostat_4th_gen
++								300 text From $199.99
++								301 link Description: Buy Nest Cam Outdoor (wired, 2nd gen), Value: store.google.com/config/nest_cam_outdoor_wired_2nd_gen
++								302 text $129.99
++								303 link Description: Buy Nest Cam Indoor (wired, 3rd gen), Value: store.google.com/config/nest_cam_indoor_wired_3rd_gen
++								304 text $1,149
+~								99 link Description: learn more about Lenovo Googlebook, Value: store.google.com/product/lenovo_googlebook
++								305 text $999
+~								103 link Description: Learn more about the XPS Googlebook, Value: store.google.com/product/xps_googlebook
++								306 text $899
+~								107 link Description: Learn more about the Acer Googlebook, Value: store.google.com/product/acer_googlebook
++					307 scroll bar Popular on the Google Store, Value: 0
+~					115 link Description: Learn more about Googlebooks, Value: store.google.com/category/laptops
+~					123 link Description: footnote 1, Value: store.google.com/
+~				124 link Description: Learn more about Gemini intelligence, Value: store.google.com/magazine/gemini-ai-assistant
+~					130 link Description: Phones, Help: Shop phones, Value: store.google.com/category/phones
+~					131 link Description: Watches & Trackers, Help: Shop watches and trackers, Value: store.google.com/category/watches_trackers
+~					132 link Description: Earbuds, Help: Shop earbuds, Value: store.google.com/category/earbuds
+~					133 link Description: Cameras, Help: Browse all Nest cameras, Value: store.google.com/category/nest_cams
+~					134 link Description: image of googlebooks Laptops, Help: learn more about the google books, Value: store.google.com/category/laptops
+~					144 link Description: Buy google pixel 11 pro and pro xl, Value: store.google.com/product/pixel_11_pro
+~					150 link Description: Learn more about the Google pixel 11 pro fold, Value: store.google.com/product/pixel_11_pro_fold
+~					156 link Description: learn more about the Google Pixel 11., Value: store.google.com/product/pixel_11
+~					165 link Description: Learn more about Google Pixel Watch 5., Value: store.google.com/product/pixel_watch_5
+~					171 link Description: Learn more about Google Pixel Buds Pro 2., Value: store.google.com/product/pixel_buds_pro_2
+~					177 link Description: learn more about the Google Fitbit Air, Value: store.google.com/product/google_fitbit_air
++						308 text Do more of what you love with your favorite Pixel devices. Google Fi Wireless offers ultra-reliable 5G speed and industry-leading security plus plenty of perks at no extra cost. ⁠
++						309 link Description: footnote ††, Value: store.google.com/
+~					185 link Description: learn more about the pixel drop, Value: store.google.com/magazine/google_fi
++						310 text Every Pixel Drop brings you new and improved features, including the latest AI innovations. Get that new-phone feeling for 7 years. ⁠
++						311 link Description: footnote *, Value: store.google.com/
++						312 text ⁠
++						313 link Description: footnote ^^, Value: store.google.com/
+~					193 link Description: learn more about the pixel drop, Value: store.google.com/magazine/pixel_drop
+~				198 link Description: Explore Google merch, Value: store.google.com/collection/accessories_wall
++			314 container GStore Promise
++				315 content list
++					316 container
++						317 heading Save more when you trade in., Value: 2
++							318 text Save more when you trade in.
++						319 link Description: Learn morea about trade-in., Value: store.google.com/magazine/trade_in
++					320 container
++						321 heading Finance with 0% APR for 36 months. ⁠ footnote †, Value: 2
++							322 container
++								323 text Finance with 0% APR for 36 months. ⁠
++								324 link Description: footnote †, Value: store.google.com/
++						325 link Description: Learn more, Value: store.google.com/magazine/financing
++					326 container
++						327 heading Get our price match promise., Value: 2
++							328 text Get our price match promise.
++						329 link Description: Learn more, Value: support.google.com/store/answer/9631873
++					330 container
++						331 heading Free shipping. ⁠ footnote Δ, Value: 2
++							332 container
++								333 text Free shipping. ⁠
++								334 link Description: footnote Δ, Value: store.google.com/
++						335 link Description: Learn more, Value: support.google.com/store/answer/12436460
++					336 container
++						337 heading Free and easy returns., Value: 2
++							338 text Free and easy returns.
++						339 link Description: Learn more, Value: support.google.com/store/answer/2411741
++				340 scroll bar Value: 0, Save more when you trade in. Learn morea about trade-in. Finance with 0% APR for 36 months. ⁠ footnote † Learn more Get our price match promise. Learn more Free shipping. ⁠ footnote Δ
++				341 button Sign in and sign up
++				342 content list
++					343 container footnote:gemini-intelligence1
++						344 text 1
++						345 text Available for select countries and languages to users 18+. Feature availability will vary; some features may require subscription for higher usage. Check responses. Some features available through Gemini app.
++					346 container footnote:7years
++						347 text ^^
++						348 container
++							349 text Pixel updates for 7 years from when the device first became available on the Google Store in the US. See 
++							350 link g.co/pixel/updates
++							351 text  for details.
++					352 container footnote:googlefi
++						353 text ††
++						354 container
++							355 text 5G service not available in all areas; speed and performance depend on factors like device configuration and capabilities, network traffic location, signal strength and signal obstruction. Actual results may vary. For more information visit 
++							356 link Description: g.co/fi/broadband-facts., Value: g.co/fi/broadband-facts
++					357 container footnote:finance
++						358 text †
++						359 text 0% APR with Google Store Financing on Phone and Qualifying Purchases: Google Store Financing is a credit card issued and serviced solely by Synchrony Bank and can be used only for purchases at store.google.com. Credit card application decisions are made solely by Synchrony Bank. 0% APR with equal monthly payments is available every day on Phone Purchases (as defined in the credit card agreement). At times, we may offer Equal Pay Financing promotions with 0% APR on identified Qualifying Purchases (and all other items purchased in the same sales transaction). No interest will be charged on Phone Purchases or Qualifying Purchases and equal monthly payments are required equal to the total Phone or Qualifying Purchase amount divided by the number of months in the applicable promotional period, rounded to the whole cent. Any estimated monthly payments shown on a Phone Purchase or Qualifying Purchase may be shown rounded to the next whole dollar (for ease of display) or may be shown rounded to the whole cent. See your billing statement for your actual equal monthly payment required, which will be rounded to the whole cent. If you make your payments by the due date each month, the monthly payment (adjusted for taxes, delivery and any other items purchased in the same sale transaction) should allow you to pay off the Phone Purchase or Qualifying Purchase within the number of months advertised if this balance is the only balance on your account during the promotional period. If you have other balances on your account, this monthly payment will be added to the monthly payment applicable to those balances. New Accounts as of 6/27/24: Purchase APR for Phone Purchases 0.00%. Purchase APR for Other Purchases 34.99%. Penalty APR 39.99%. Min Interest Charge $2. Existing cardholders: See your credit card agreement terms. Subject to credit approval.
++					360 container footnote:shipping
++						361 text Δ
++						362 text All orders that deliver free of charge use the lowest-cost option unless otherwise noted.
++					363 container footnote:pixel-drops
++						364 text *
++						365 container
++							366 text Your Pixel will generally receive Pixel Drops during the applicable Android update and support periods for the phone. See 
++							367 link g.co/pixel/updates
++							368 text  for details. Availability of some Pixel Drops may vary by phone and device model.
++					369 container footnote:trade-in-inclusive-price
++						370 text √
++						371 text $480 estimated trade in value for Google Pixel 11 Pro based on trade in value of Pixel 9 Pro device. $630 estimated trade in value for Google Pixel 11 Pro Fold based on trade in value of Pixel 9 Pro Fold device. $350 estimated trade in value for Google Pixel 11 based on trade in value of Pixel 9 device. All values based on devices in good condition: turns on, is free of cracks, and the screen works properly.
+~					237 link Description: Find a Store, Value: store.google.com/magazine/locations
+~					238 link Description: Magazine, Value: store.google.com/magazine/made-by-google
+~					239 link Description: Pixel for Business, Value: pixel.google/business
+~					240 link Description: Official Merch, Value: store.google.com/collection/accessories_wall
+~					244 link Description: Tracking an order, Value: support.google.com/store/answer/2411789
+~					245 link Description: Shipping options, Value: support.google.com/store/answer/12436460
+~					247 link Description: Pixel Care+, Value: store.google.com/magazine/pixel_care
+~					248 link Description: Trade-in, Value: store.google.com/magazine/trade_in
+~					249 link Description: Financing, Value: store.google.com/magazine/financing
+~					254 link Description: Get help, Value: store.google.com/magazine/support
+~					255 link Description: Repairs, Value: store.google.com/magazine/repaircenter
+~					256 link Description: Installations, Value: store.google.com/magazine/installation
+~					259 link Description: Send Feedback, Value: store.google.com/
+~					263 link Description: Sustainability, Value: store.google.com/magazine/sustainability
+~					264 link Description: Device recycling, Value: store.google.com/magazine/recycling
+~					265 link Description: Refurbished devices, Value: store.google.com/magazine/refurbished_devices
++			372 content list
++				373 link Description: Twitter, Value: twitter.com/madebygoogle
++				374 link Description: Instagram, Value: instagram.com/madebygoogle
++				375 link Description: Facebook, Value: facebook.com/madebygoogle
++				376 link Description: YouTube, Value: youtube.com/madebygoogle
++				377 link Description: Tiktok, Value: tiktok.com/@googlepixel
++			378 content list
++				379 link Description: United States. Choose your country or region., Value: store.google.com/regionpicker
++				380 link Description: link to Privacy, Value: policies.google.com/privacy
++				381 link Description: link to Google Nest Commitment to Privacy, Value: safety.google/intl/en_US/products/nest/
++				382 link Description: link to Sales Terms, Value: store.google.com/intl/en-US_us/about/device-terms.html
++				383 link Description: link to Terms of Service, Value: google.com/intl/en-US_us/policies/terms/
++				384 link Description: link to Careers, Value: careers.google.com/hardware/
+The focused UI element is 1 AXWebArea Google Store for Google Made Devices & Accessories, URL: store.google.com/

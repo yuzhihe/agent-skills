@@ -1,0 +1,21 @@
+{
+  "order": 6,
+  "id": "sspai",
+  "name": "少数派",
+  "source": "https://sspai.com/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "editorial"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "article-covers"
+  ],
+  "tone": [
+    "editorial",
+    "clean"
+  ],
+  "lang": "zh",
+  "summary": "桌面首屏把一篇主稿放大，旁边安排较小的文章卡；窄屏改成顺序阅读。",
+  "usage": "中文文章首页、资讯聚合、专题导读；需要大量表格操作或极少内容的工具页。"
+}

@@ -1,0 +1,26 @@
+{
+  "order": 21,
+  "id": "google-fonts",
+  "name": "Google Fonts · 字体发现",
+  "source": "https://fonts.google.com/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "discovery",
+    "utility"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "content-previews"
+  ],
+  "tone": [
+    "clean",
+    "structured"
+  ],
+  "lang": "en",
+  "summary": "侧栏负责筛选，主区域用真实字样直接比较字体，窄屏将筛选收进抽屉。",
+  "usage": "适合字体、图标等可直接预览的资源库；不适合只有几项资源的小页面。",
+  "recognition": {
+    "label": "2024 Webby Winner：Best User Interface",
+    "url": "https://winners.webbyawards.com/winners/websites-and-mobile-sites/features-design/best-user-interface"
+  }
+}

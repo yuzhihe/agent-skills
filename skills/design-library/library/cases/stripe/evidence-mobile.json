@@ -1,0 +1,710 @@
+{
+  "documentWidth": 390,
+  "elements": [
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 20356.671875,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "tag": "HTML",
+      "text": "Global GDP running on Stripe: 1.72656815%\n1.72656815%\nFinancial infrastructure to grow your revenue."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 20356.671875,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "tag": "BODY",
+      "text": "Global GDP running on Stripe: 1.72656815%\n1.72656815%\nFinancial infrastructure to grow your revenue."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 25,
+        "width": 60,
+        "x": 16,
+        "y": 19.5
+      },
+      "tag": "A",
+      "text": "Stripe homepage"
+    },
+    {
+      "background": "rgb(232, 233, 255)",
+      "border": "0px none rgb(0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "16px",
+      "padding": "0px",
+      "rect": {
+        "height": 40,
+        "width": 40,
+        "x": 338,
+        "y": 12
+      },
+      "tag": "BUTTON",
+      "text": "Toggle navigation menu"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(221, 214, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(221, 214, 0)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "34px",
+      "fontWeight": "300",
+      "letterSpacing": "-0.34px",
+      "lineHeight": "35.02px",
+      "padding": "0px",
+      "rect": {
+        "height": 70.03125,
+        "width": 358,
+        "x": 16,
+        "y": 190
+      },
+      "tag": "H1",
+      "text": "Financial infrastructure to grow your revenue."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgba(0, 14, 255, 0.5)",
+      "borderRadius": "0px",
+      "color": "rgba(0, 14, 255, 0.5)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "34px",
+      "fontWeight": "300",
+      "letterSpacing": "-0.34px",
+      "lineHeight": "35.02px",
+      "padding": "0px",
+      "rect": {
+        "height": 70.03125,
+        "width": 358,
+        "x": 16,
+        "y": 190
+      },
+      "tag": "H1",
+      "text": "Financial infrastructure to grow your revenue."
+    },
+    {
+      "background": "rgb(83, 58, 253)",
+      "border": "0px none rgb(255, 255, 255)",
+      "borderRadius": "4px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "16px",
+      "padding": "13.5px 24px 14.5px",
+      "rect": {
+        "height": 44,
+        "width": 358,
+        "x": 16,
+        "y": 300.03125
+      },
+      "tag": "A",
+      "text": "Get started"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0.65)",
+      "border": "1px solid rgb(185, 185, 249)",
+      "borderRadius": "4px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "16px",
+      "padding": "12.5px 24px 13.5px",
+      "rect": {
+        "height": 44,
+        "width": 358,
+        "x": 16,
+        "y": 352.03125
+      },
+      "tag": "A",
+      "text": "Sign up with Google"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": -469.5090026855469,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": -297.5090026855469,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": -125.50900268554688,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 46.490997314453125,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 141.99996948242188,
+        "x": 390.4909973144531,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 562.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 734.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 1078.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 1422.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 1594.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 1766.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 1938.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 2110.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 2282.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 2454.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 2626.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 2798.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 2970.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 3142.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 3486.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 3658.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 3830.490966796875,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 4174.4912109375,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 4518.4912109375,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 4690.4912109375,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 4862.4912109375,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(83, 58, 253)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 5034.4912109375,
+        "y": 500.03125
+      },
+      "tag": "A",
+      "text": ""
+    }
+  ],
+  "url": "https://stripe.com/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

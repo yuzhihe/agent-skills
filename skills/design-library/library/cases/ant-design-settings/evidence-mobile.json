@@ -1,0 +1,779 @@
+{
+  "body": {
+    "background": "rgba(0, 0, 0, 0)",
+    "fontFamily": "AlibabaSans, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 28,
+        "x": 50,
+        "y": 14
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(22, 119, 255)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "56px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 36,
+        "x": 120.03125,
+        "y": 10
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "56px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "使用文档"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 36,
+        "x": 160.03125,
+        "y": 10
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "56px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "历史版本"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 36,
+        "x": 200.03125,
+        "y": 10
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "56px",
+        "padding": "0px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "语言切换"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 408,
+        "width": 390,
+        "x": 0,
+        "y": 56
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "32px 40px"
+      },
+      "tag": "MAIN",
+      "text": "基本设置\n安全设置\n账号绑定\n新消息通知\n基本设置"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 33.1171875,
+        "x": 60.5859375,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "block",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "6.0.1"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 46.359375,
+        "x": 97.703125,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "block",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "2db826c"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 39.7421875,
+        "x": 208.9375,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "block",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "4.6.51"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 33.1171875,
+        "x": 320.171875,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "block",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "1.4.3"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 54.7421875,
+        "x": 182.125,
+        "y": 528.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "block",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "GitHub"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 56,
+        "width": 255.96875,
+        "x": 118.03125,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "56px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "ProUser"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 56,
+        "width": 255.96875,
+        "x": 118.03125,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "56px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "ProUser"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 56,
+        "width": 255.96875,
+        "x": 118.03125,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "56px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "ProUser"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 135.96875,
+        "x": 238.03125,
+        "y": 6
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "56px",
+        "padding": "0px 16px"
+      },
+      "tag": "SPAN",
+      "text": "ProUser"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 103.96875,
+        "x": 254.03125,
+        "y": 6
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "6px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "44px",
+        "padding": "8px"
+      },
+      "tag": "DIV",
+      "text": "ProUser"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 44,
+        "width": 51.96875,
+        "x": 298.03125,
+        "y": 6
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "44px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "ProUser"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 344,
+        "width": 310,
+        "x": 40,
+        "y": 88
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "基本设置\n安全设置\n账号绑定\n新消息通知\n基本设置"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 344,
+        "width": 310,
+        "x": 40,
+        "y": 88
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "基本设置\n安全设置\n账号绑定\n新消息通知\n基本设置"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 344,
+        "width": 310,
+        "x": 40,
+        "y": 88
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "flex",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "16px 0px"
+      },
+      "tag": "DIV",
+      "text": "基本设置\n安全设置\n账号绑定\n新消息通知\n基本设置"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 180,
+        "width": 310,
+        "x": 40,
+        "y": 104
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "基本设置\n安全设置\n账号绑定\n新消息通知"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 262,
+        "x": 68,
+        "y": 108
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(24, 144, 255)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "基本设置"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 262,
+        "x": 68,
+        "y": 152
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "安全设置"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 262,
+        "x": 68,
+        "y": 196
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "账号绑定"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 40,
+        "width": 262,
+        "x": 68,
+        "y": 240
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "40px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "新消息通知"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 132,
+        "width": 310,
+        "x": 40,
+        "y": 284
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "22px",
+        "padding": "40px"
+      },
+      "tag": "DIV",
+      "text": "基本设置"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 230,
+        "x": 80,
+        "y": 324
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.88)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "基本设置"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 97.4140625,
+        "width": 390,
+        "x": 0,
+        "y": 464
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.8571px",
+        "padding": "16px 24px"
+      },
+      "tag": "DIV",
+      "text": "Ant Design Pro © 2026\nver\n6.0.1\n2db826c\nUmi\n4.6.51\nUtoo\n1.4.3\nGitHub"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18.8515625,
+        "width": 342,
+        "x": 24,
+        "y": 480
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "block",
+        "fontFamily": "AlibabaSans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18.8571px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Ant Design Pro © 2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 19.875,
+        "x": 36.7109375,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.25)",
+        "display": "block",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "ver"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 63.6171875,
+        "x": 185.0625,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "flex",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Umi\n4.6.51"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 19.875,
+        "x": 185.0625,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.25)",
+        "display": "block",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Umi"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 63.609375,
+        "x": 289.6796875,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.45)",
+        "display": "flex",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Utoo\n1.4.3"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17.28125,
+        "width": 26.4921875,
+        "x": 289.6796875,
+        "y": 504.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgba(0, 0, 0, 0.25)",
+        "display": "block",
+        "fontFamily": "SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "17.2857px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Utoo"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "个人设置 - Ant Design Pro",
+  "url": "https://preview.pro.ant.design/account/settings",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-04T23:42:41.882Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

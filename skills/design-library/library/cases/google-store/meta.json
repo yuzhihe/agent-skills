@@ -1,0 +1,27 @@
+{
+  "order": 28,
+  "id": "google-store",
+  "name": "Google Store · 产品商店",
+  "source": "https://store.google.com/?hl=en-US",
+  "studied": "2026-10-05",
+  "tasks": [
+    "commerce",
+    "product"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "product-photos",
+    "commerce-data"
+  ],
+  "tone": [
+    "clean",
+    "image-led"
+  ],
+  "lang": "en",
+  "summary": "生活场景首屏引出产品，随后以统一商品图和独立价格行完成比较。",
+  "usage": "适合少数产品家族的品牌商店；依赖高质量生活摄影及统一商品图。",
+  "recognition": {
+    "label": "2026 Webby People’s Voice：Best User Interface",
+    "url": "https://winners.webbyawards.com/winners/websites-and-mobile-sites/features-design/best-user-interface"
+  }
+}

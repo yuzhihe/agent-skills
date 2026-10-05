@@ -1,0 +1,178 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 6960,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Skip to main content\nSkip to search\nWeb\nCSS\nCSS: Cascading Style Sheets\n\nCascading Style Sheets (CSS"
+    },
+    {
+      "rect": {
+        "height": 78,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "header",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "Web\nCSS"
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 288,
+        "width": 178,
+        "x": 16,
+        "y": 1098
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "text": "In this article\nBeginner's tutorials\nGuides\nHow to\nTools\nReference\nSee also"
+    },
+    {
+      "rect": {
+        "height": 100,
+        "width": 358,
+        "x": 16,
+        "y": 94
+      },
+      "selector": "h1",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": "400",
+        "lineHeight": "50px",
+        "padding": "0px"
+      },
+      "text": "CSS: Cascading Style Sheets"
+    },
+    {
+      "rect": {
+        "height": 96,
+        "width": 178,
+        "x": 16,
+        "y": 1098
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "400",
+        "lineHeight": "48px",
+        "padding": "24px 0px"
+      },
+      "text": "In this article"
+    },
+    {
+      "rect": {
+        "height": 46,
+        "width": 46,
+        "x": 344,
+        "y": 0
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(0, 0, 0)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "11.2px"
+      },
+      "text": "Toggle navigation"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 99,
+        "x": 3,
+        "y": 3
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(4, 76, 159)",
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "8px"
+      },
+      "text": ""
+    }
+  ],
+  "title": "CSS: Cascading Style Sheets | MDN",
+  "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

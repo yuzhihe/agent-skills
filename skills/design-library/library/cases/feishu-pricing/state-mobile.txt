@@ -1,0 +1,221 @@
+Browser tab: 28, Title: "版本对比 | 飞书", URL: "https://www.feishu.cn/service".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 3-26, 28-79, 83-84, 145, 232-241, 244-291, 313-317, 329-330, 332-363, 366-377, 379-384, 386-387, 389-856
++			313 container
++				314 link feishu.cn/
++				315 link 登录/注册
++					316 text 登录/注册
++				317 link Description: 下载, Value: feishu.cn/download
+~				318 image
+~				319 image
+~				320 image
+~				321 image
+~				322 image
+~				323 image
+~				325 image
+~				326 image
+~				327 container
+~					328 text 免费版
++					329 text ¥
++					330 text 0
+~					331 text 人/月
++					332 container
++						333 text 飞书初体验
++						334 text 体验先进未来的工作方式
++					335 link Description: 立即免费体验, Value: feishu.cn/accounts/page/ug_re…
++					336 text 免费版包括：
++					337 text 即时消息
++					338 text 云文档
++					339 text 视频会议
++					340 text 多维表格
++					341 text 免费邮箱
++					342 text 支持 100 用户
++					343 text 商业标准版
++					344 text ¥
++					345 text 50
++					346 text 人/月
++					347 container
++						348 text 面向小型团队
++						349 text 打破基础限制
++					350 button 立即购买
++					351 text 含免费版能力, 还包括：
++					352 text 24 小时视频会议时长
++					353 text 50 方视频会议
++					354 text 1500 GB 总存储空间
++					355 text 聊天记录永久储存
++					356 text 妙记语音转文字不限时长
++					357 text 飞书 aPaaS 免费版能力
++					358 text 支持 500 用户
++					359 text 商业专业版
++					360 text 最热门
++					361 text ¥
++					362 text 80
++					363 text 人/月
+~					364 container
+~						365 text 面向成长型团队
++						366 text 提升业务管理效能
++					367 button 立即购买
++					368 text 含标准版能力, 还包括：
++					369 text 100 方视频会议
++					370 text 5 TB 总存储空间
++					371 link Description: 多维表格高级能力, Value: bitable.feishu.cn/
++					372 link Description: 定制工作台, Value: feishu.cn/hc/zh-CN/articles/4…
++					373 link Description: 关联组织能力, Value: feishu.cn/hc/zh-CN/articles/6…
++					374 text 支持 500 用户
++					375 text 商业旗舰版
++					376 text ¥
++					377 text 120
+~					378 text 人/月
++					379 container
++						380 text 面向进阶成长团队
++						381 text 升级容量与安全能力
++					382 button 立即购买
++					383 text 含专业版能力, 还包括：
++					384 text 500 方视频会议
+~					385 text 15 TB 总存储空间
++					386 text SSO 单点登录
++					387 text 高级账号安全
+~					388 text 高级水印
++					389 text 支持 500 用户
++					390 container
++						391 text 企业旗舰版
++						392 image
++						393 text 为您定制最佳方案
++						394 container
++							395 text 大型企业专属
++							396 text 打造企业数字总部
++						397 button 购买咨询
++						398 text 企业系列核心优势： 更高规格用量权益 企业级安全合规能力 复杂组织精细化管控能力 企业品牌与数字门户定制 飞书 aPaaS 免费版能力 无规模上限
++				399 button
++					400 image
++				401 button
++					402 image
++				80 button 版本功能对比
++					312 image
++					82 text 版本功能对比
++				403 text 免费版 ¥ 0 人/月
++				404 link Description: 免费体验, Value: feishu.cn/accounts/page/ug_re…
++				405 container js-fixed--banner-menu-item-second
++					406 button 商业专业版
++						407 text 商业专业版
++						408 image
++					409 text ¥ 80 人/月
++					410 button 立即购买
++				411 container js-fixed--banner-menu-item-third
++					412 button 企业旗舰版
++						413 text 企业旗舰版
++						414 image
++					415 image
++					416 text 获取报价
++					417 button 购买咨询
++				418 link Description: 即时消息：工作沟通更高效，信息流动更顺畅, Value: feishu.cn/product/messenger
++				419 text 话题群和话题回复
++				420 text 群人数上限 500 5000 50000 短信/电话加急消息 50 次/月 50 +
+10 * 购买人数
+次/月 5000 +
+10 * 购买人数
+次/月 聊天记录存储时长 18 个月 永久存储 永久存储
++				421 link Description: 云文档：高效愉悦的协同创作, Value: feishu.cn/product/docs
++				422 text 多种创作工具
++				423 text 知识库
++				424 link Description: 视频会议：随时随地高效开会, Value: feishu.cn/product/video
++				425 text 同时参会人数 25 方 100 方 1000 方 单次会议时长 60 分钟 24 小时 24 小时 电话参会和邀请 0 1000 分钟/年 3000 分钟/年 飞书会议室 Rooms 基础版 赠送 3 个基础版额度 赠送 25 个基础版额度 视频会议用量分钟数/年 100 万 300 万 1500万 + 4000 * 购买人数 妙记语音转文字时长 300 分钟/月/人 无限制 无限制 妙享
++				426 text 会议等候室
++				427 text AI 字幕，多语言实时翻译
++				428 text 分组讨论
++				429 link Description: 云盘：便捷管理知识资源, Value: feishu.cn/product/drive
++				430 text 总存储空间 100GB 5TB 15TB + 30GB * 购买人数 单个文件上传大小 10GB 50GB 100GB
++				431 link Description: 多维表格：强大灵活的零代码业务搭建平台, Value: bitable.feishu.cn/
++				432 text 多种灵活视图
++				433 text 自动化流程运行次数/月 200 5000 50 万 + 60 * 购买人数 单表最大行数 2000 行 2 万行 5 万行 仪表盘联表计算个数 1 个 5 个 200 个 甘特图视图
++				434 text 行列和视图权限控制
++				435 text 千人千面仪表盘
++				436 text 跨表同步数据
++				437 text 业务小程序
++				438 link Description: 日历, Value: feishu.cn/product/calendar
++				439 text 与 Exchange 日历双向同步
++				440 text 与 Google 日历双向同步
++				441 link Description: 企业邮箱, Value: feishu.cn/product/email
++				442 text 公共邮箱数量 50 个 (50 + 购买人数) 个 (50 + 购买人数) 个
++				443 link Description: 工作台：连接更多企业应用, Value: feishu.cn/service
++				444 text 标准工作台，办公统一入口
++				445 text 应用市场，获取海量第三方应用
++				446 text 定制工作台，搭建企业专属门户
++				447 text 工作台应用数据统计
++				448 link Description: 服务台, Value: feishu.cn/product/helpdesk
++				449 text 服务台数量 0 10 500 跨组织使用服务台
++				450 link Description: 集成平台, Value: anycross.feishu.cn/
++				451 text 单点登录应用数 0 20 无限制 工作流每月运行次数 0 50 万次/月 200 万次/月 自定义连接器
++				452 text 本地数据代理服务
++				453 text 自定义身份源配置
++				454 link Description: 开放平台, Value: feishu.cn/service
++				455 text API 调用次数 100 万次/月 26年10月限时 无限制 无限制
++				456 link Description: 企业管理, Value: feishu.cn/service
++				457 text 关联组织 0 10 100 自定义管理员角色 1 30 300 动态用户组
++				458 text 恢复最近删除的用户
++				459 text 复杂组织架构管理
++				460 link Description: 企业文化, Value: feishu.cn/service
++				461 text 飞书词典自建词条数 50 5 万 100 万 企业专属表情包
++				462 text 自定义客户端主题色及开屏
++				463 text 企业级品牌自定义方案
++				464 text 公司圈：企业内部社区平台
++				465 link Description: 企业安全与合规, Value: feishu.cn/security
++				466 text 管理员操作日志
++				467 text 企业架构可见范围管理
++				468 text 基础自主密钥
++				469 text 基础水印
++				470 text 高级水印
++				471 text 账号安全与身份认证
++				472 text SSO 单点登录
++				473 text 高级自主密钥
++				474 text 精细化文件管理
++				475 text 粘贴与敏感信息保护
++				476 text 零信任策略
++				477 text 密级管理与数据发现
++				478 text 企业合规与风险治理
++				479 link Description: 飞书 aPaaS：智能系统开发，AI 全程助力, Value: ae.feishu.cn/home
++				480 text 数据建模与管理
++				481 text 双端页面搭建
++				482 text 流程编排与调试
++				483 text 云函数与WebIDE
++				484 text 应用观测与告警
++				485 text 多环境隔离
++				486 link Description: 服务与支持, Value: feishu.cn/service
++				487 text 帮助中心
++				488 text 行业最佳实践分享
++				489 text 企业效能顾问
++				490 text 培训支持
+~					94 link Description: 查看详情, Value: project.feishu.cn/home/service
+~					104 link Description: 查看详情, Value: feishu.cn/product/corehr
+~					114 link Description: 查看详情, Value: feishu.cn/solutions/feishu-ro…
+~				242 link Description: 联系我们, Value: feishu.cn/salessupport
++			491 menu
++				492 (collapsed) 热门产品  , Secondary Actions: Expand
++					493 text 热门产品
++					494 image
++				495 (collapsed) 解决方案  , Secondary Actions: Expand
++					496 text 解决方案
++					497 image
++				498 (collapsed) 定价  , Secondary Actions: Expand
++					499 text 定价
++					500 image
++				501 (collapsed) 探索飞书  , Secondary Actions: Expand
++					502 text 探索飞书
++					503 image
++				504 (collapsed) 合作与支持  , Secondary Actions: Expand
++					505 text 合作与支持
++					506 image
++				507 (collapsed) 法律与合规  , Secondary Actions: Expand
++					508 text 法律与合规
++					509 image
++				510 400-0682-666  
++					511 link Description: 400-0682-666, Value: tel:400-0682-666
+~			294 link weibo.com/u/7223713567
+~			295 link zhihu.com/org/fei-shu-27-96/a…
+~			296 link toutiao.com/c/user/3073831497…
+~			297 link xiaohongshu.com/user/profile/…
+~			298 link space.bilibili.com/1880331212
+~			301 link Description: 京公网安备 11010802029085号, Value: beian.gov.cn/portal/registerS…
+~			302 link Description: 增值电信业务经营许可证： 京 B2-20190249 / 京 B2-20191817, Value: tsm.miit.gov.cn/dxxzsp/
+~			303 link Description: 营业执照, Value: feishu.cn/license_yingyezhizh…
+The focused UI element is 80 button 版本功能对比

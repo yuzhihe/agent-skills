@@ -1,0 +1,23 @@
+{
+  "order": 39,
+  "id": "bilibili-discovery",
+  "name": "哔哩哔哩 · 中文内容发现",
+  "source": "https://www.bilibili.com/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "discovery",
+    "creator"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "content-previews",
+    "creator-data"
+  ],
+  "tone": [
+    "energetic",
+    "practical"
+  ],
+  "lang": "zh",
+  "summary": "分类入口、重点轮播和标准视频卡片并置，用缩略图与短元信息支持快速浏览。",
+  "usage": "适合中文内容社区和视频发现页；应有足够内容，不照搬登录干扰和桌面裁切。"
+}

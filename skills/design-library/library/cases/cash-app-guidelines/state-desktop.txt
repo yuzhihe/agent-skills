@@ -1,0 +1,188 @@
+Browser tab: 29, Title: "Cash App Brand Guidelines - Color", URL: "https://design.cash.app/color".
+1 AXWebArea Cash App Brand Guidelines - Color, URL: design.cash.app/color
+	2 container
+		3 container
+			4 container
+				5 link Description: https://design.cash.app/, Value: design.cash.app/
+			6 container
+				7 link Description: Index Foundations, Value: design.cash.app/foundations
+				8 link Description: Logo, Value: design.cash.app/logo
+				9 container
+					10 link Description: Color, Value: design.cash.app/color
+					11 link Description: Primary, Value: design.cash.app/color?e=cbef1a401a2
+					12 link Description: Secondary, Value: design.cash.app/color?e=6280db458ae
+					13 link Description: Color Modes, Value: design.cash.app/color?e=d41c8124e8c
+					14 link Description: Accessibility, Value: design.cash.app/color?e=6655f67b24c
+					15 link Description: Incorrect Usage, Value: design.cash.app/color?e=fa9675a80bc
+					16 link Description: Resources, Value: design.cash.app/color?e=ae864120de7
+				17 link Description: Typography , Value: design.cash.app/typography
+				18 link Description: Motion, Value: design.cash.app/motion
+				19 link Description: Iconography, Value: design.cash.app/iconography
+				20 link Description: Voice & Tone, Value: design.cash.app/voice-and-tone
+				21 button Open
+			22 link Description: Index Expressions, Value: design.cash.app/expressions
+			23 link Description: Index Resources, Value: design.cash.app/resources
+		24 container page
+			25 container page-inner
+				26 container
+					27 container
+						28 text ﻿
+						29 link Description: Brand Guidelines, Value: design.cash.app/
+						30 text ﻿
+				31 container
+					32 text Color
+					33 text Our brand color palette is centered around Cash Green, a bold distillation of how we redefine money. Though one singular color, our usage of green pushes boundaries, from simple and straightforward, to textured and sensorial.
+				34 container
+					35 container
+						36 container
+							37 text Name : Cash Green CMYK: 65/0/100/0 RGB: 0/224/19 HEX: #00E013 PMS: 802 C / U  C
+					38 container
+						39 text Cash Green
+						40 text Cash Green should be omnipresent across all brand touchpoints and used strategically such that it stands out as the hero color. Floods of green can be powerful, but that shouldn't be the only way green shows up, Cash Green’s inclusion should be done thoughtfully and intentionally. Challenge yourself to meet this criteria in unexpected ways. Consider materiality, lighting, props, and styling as avenues to explore, and approach Cash Green with nuance and refinement. 
+				41 container
+					42 container 1 of 6
+					43 container 2 of 6
+						44 button
+							45 container
+								46 text Prepaid debit cards issued by Sutton Bank, Member FDIC.
+					47 container 3 of 6
+					48 container 4 of 6
+					49 container 5 of 6
+					50 container 6 of 6
+					51 container 1 of 6
+					52 container 2 of 6
+						53 button
+							54 container
+								55 text Prepaid debit cards issued by Sutton Bank, Member FDIC.
+					56 container 3 of 6
+					57 container 4 of 6
+					58 container 5 of 6
+					59 container 6 of 6
+					60 container
+						61 button Go to slide 1
+						62 button Go to slide 2
+						63 button Go to slide 3
+						64 button Go to slide 4
+						65 button Go to slide 5
+						66 button Go to slide 6
+				67 container
+					68 text Supporting colors
+					69 text Black and white provide balance to Cash Green, helping maintain visual clarity and avoid overuse of our signature color. They bring structure and contrast to compositions, allowing green to stand out where it matters most. Citron can be used sparingly as a high-impact accent to introduce depth and energy—but should never be used as a full background fill.
+					70 container
+						71 container
+							72 container
+								73 container
+									74 text Name : Black CMYK: 60/40/40/100 RGB: 0/0/0 HEX: #000000 PMS: Black C / U  C
+							75 container
+								76 container
+									77 text Name : White CMYK: 0/0/0/0 RGB: 255/255/255 HEX: #FFFFFF PMS: Bright White  C
+							78 container
+								79 container
+									80 text Name : Citron CMYK: 11/0/91/0 RGB: 216/255/20 HEX: #D8FF14 PMS: 388 C / 387 U  C
+				81 container
+					82 text Related product design sections
+					83 container
+						84 container
+							85 container
+								86 link Description: Index Resources, Value: design.cash.app/resources
+							87 container
+								88 text Resources Tokens, components, product illustrations, avatars, download links, and more.
+						89 container
+							90 container
+								91 link Description: Group, Value: design.cash.app/tokens?e=8916ed79b02
+							92 container
+								93 text Color tokens Guidelines on how we structure colors in our design system.
+				94 container
+					95 text Color Modes
+					96 text No color system can perfectly represent the full extent of what we see with our eyes in the wider world. Different color modes serve different purposes depending on medium. RGB and Pantone offer the most vibrant on-screen color, while CMYK is used for print, with some limitations in vibrancy and range.
+					97 container
+						98 text Color Mode
+						99 text Application
+						100 text Notes
+					101 container
+						102 text RGB
+						103 text Screen
+						104 text Most vibrant, the truest depiction of the Cash color system
+					105 container
+						106 text Pantone
+						107 text Print
+						108 text Vibrant, preferred method for printing
+					109 container
+						110 text CMYK
+						111 text Print
+						112 text Not as vibrant, printers should match Pantones where possible
+				113 container
+					114 text Accessibility
+					115 container
+						116 text Good accessibility starts with legible text. In digital design, this means ensuring strong contrast between text and background colors. Cash App follows WCAG guidelines, aiming for AAA compliance—the highest standard. This means a contrast ratio of at least 7:1 for normal text to ensure maximum readability. Cash Green is specifically created to work with black text, not green text. Avoid using Cash Green as a critical design element where contrast requirements are not met.
+					117 container
+						118 container
+							119 text Text
+							120 text Pass, AAA (7:1+)
+						121 container
+							122 text Text
+							123 text Pass, AAA (7:1+)
+						124 container
+							125 image
+							126 text Text
+							127 text Fail
+					128 container
+						129 text Resources
+						130 container
+							131 text ﻿
+							132 link Description: A11y Project website >, Value: a11yproject.com/
+							133 text ﻿
+						134 container
+							135 text ﻿
+							136 link Description: A11y Color Contrast Checker plugin for Figma >, Value: figma.com/community/plugin/733159460536249875
+							137 text ﻿
+				138 container
+					139 text Incorrect Usage
+					140 container
+						141 container
+							142 container
+								143 container
+									144 text Don’t use the wrong color Don’t use colors that are obviously not part of the CashApp color palette — brown, mint green, golf green, and so on.
+							145 container
+								146 container
+									147 text Don’t substitute Cash Green Use only the Cash Green provided unless you have a specific UI or accessibility need.
+							148 container
+								149 container
+									150 text Don’t eyedrop CMYK or RGB / Hex values Small color shifts in RGB can cause headaches for developers. Using the wrong CMYK values can cause unexepected results in print. 
+						151 container
+							152 container
+								153 container
+									154 text Don’t make muddy gradients Gradients should be bright. If you are using gradients, make sure they do not turn brown or grey in between the start and end colors.
+							155 container
+								156 container
+									157 text Don’t forget Cash Green for  external facing brand applications Cash Green should be present in most circumstances where color ambiguity would hinder brand recognition.
+							158 container
+								159 container
+									160 text Don’t use the wrong color mode Use RGB for screens, CMYK and Pantone for print. Using the wrong color modes will cause serious consistency problems.
+				161 container
+					162 text Resources
+					163 text Adobe Color Libraries
+					164 container
+						165 container
+							166 text ﻿
+							167 link Description: RGB, Value: design.cash.app/file/designstandards.cash.app/https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fstandards-site-beta.appspot.com%2Fo%2Fdocuments%252Fz56ac8giorm%252F9011fb87b20%252FCashApp_Swatches_RGB_G1_Primary.ase%3Falt%3Dmedia%26token%3D4d9903e8-64a9-4b43-8076-a0cd0c5e8569
+							168 text ﻿
+						169 container
+							170 text ﻿
+							171 link Description: CMYK, Value: design.cash.app/file/designstandards.cash.app/https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fstandards-site-beta.appspot.com%2Fo%2Fdocuments%252Fz56ac8giorm%252F9011fb87b20%252FCashApp_Swatches_CMYK_G1_Primary.ase%3Falt%3Dmedia%26token%3Ddf7a9c46-d70e-4626-bcd8-a4546651008d
+							172 text ﻿
+						173 container
+							174 text ﻿
+							175 link Description: Pantone, Value: design.cash.app/file/designstandards.cash.app/https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fstandards-site-beta.appspot.com%2Fo%2Fdocuments%252Fz56ac8giorm%252F9011fb87b20%252FCashApp_Swatches_PMS.zip%3Falt%3Dmedia%26token%3D94a7313b-8882-4f09-8e44-c9b8bf53c622
+							176 text ﻿
+				177 container
+					178 container
+						179 text Cash App, the Cash App logo and all other trademarks are owned by Block Inc., formerly known as Square, Inc., or are the property of the respective owners
+						180 container
+							181 text ﻿
+							182 link Description: Design foundations, Value: design.cash.app/foundations
+							183 link Description: Resources, Value: design.cash.app/resources
+							184 link Description: Voice & tone, Value: design.cash.app/voice-and-tone
+							185 text ﻿
+
+The focused UI element is 24 container page

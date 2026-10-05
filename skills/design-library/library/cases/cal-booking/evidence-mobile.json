@@ -1,0 +1,1630 @@
+{
+  "body": {
+    "background": "lab(98.26 0 0)",
+    "fontFamily": "fontSans, \"fontSans Fallback\""
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 751.46875,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "Rick Astley\n\nGet Rickrolled\n\nBook me and I will never give you up. Cal.com will never let you down. Open Source will nev"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.5,
+        "width": 24,
+        "x": 24,
+        "y": 26
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "inline",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 342,
+        "x": 24,
+        "y": 56
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(107, 114, 128)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Rick Astley"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 342,
+        "x": 24,
+        "y": 84
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Get Rickrolled"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 60,
+        "width": 326,
+        "x": 24,
+        "y": 120
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Book me and I will never give you up. Cal.com will never let you down. Open Source will never run around and desert you."
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 17,
+        "width": 54.171875,
+        "x": 273.6640625,
+        "y": 121.5
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "lab(54.1736 13.3369 -74.6839)",
+        "display": "inline",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Cal.com"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 85.6796875,
+        "x": 50,
+        "y": 248
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flow-root",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Link meeting"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 94.859375,
+        "x": 48,
+        "y": 284
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 36,
+        "x": 298,
+        "y": 342
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(107, 114, 128)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "4px",
+        "lineHeight": "14px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "View previous month"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 36,
+        "x": 334,
+        "y": 342
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(107, 114, 128)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "4px",
+        "lineHeight": "14px",
+        "padding": "8px"
+      },
+      "tag": "BUTTON",
+      "text": "View next month"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 222.28125,
+        "y": 440
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "1"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 272.8515625,
+        "y": 440
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "2"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.578125,
+        "x": 323.421875,
+        "y": 440
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "3"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 20,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "300",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "4"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 70.5703125,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "5\nToday"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 121.140625,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgb(41, 41, 41)",
+        "borderRadius": "8px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "6"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 171.7109375,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "7"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 222.28125,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "8"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 272.8515625,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "9"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.578125,
+        "x": 323.421875,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "10"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 20,
+        "y": 541.15625
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "11"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 70.5703125,
+        "y": 541.15625
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "12"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 121.140625,
+        "y": 541.15625
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "13"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 171.7109375,
+        "y": 541.15625
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "14"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 222.28125,
+        "y": 541.15625
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "15"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 272.8515625,
+        "y": 541.15625
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "16"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.578125,
+        "x": 323.421875,
+        "y": 541.15625
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "17"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 20,
+        "y": 591.734375
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "18"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 70.5703125,
+        "y": 591.734375
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "19"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 121.140625,
+        "y": 591.734375
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "20"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 171.7109375,
+        "y": 591.734375
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "21"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 222.28125,
+        "y": 591.734375
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "22"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 272.8515625,
+        "y": 591.734375
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "23"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.578125,
+        "x": 323.421875,
+        "y": 591.734375
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "24"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 20,
+        "y": 642.3125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "25"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 70.5703125,
+        "y": 642.3125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "26"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 121.140625,
+        "y": 642.3125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "27"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 171.7109375,
+        "y": 642.3125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "28"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 222.28125,
+        "y": 642.3125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "29"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 272.8515625,
+        "y": 642.3125
+      },
+      "style": {
+        "background": "rgb(229, 231, 235)",
+        "borderRadius": "8px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "30"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 342,
+        "x": 24,
+        "y": 212
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "10m"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 27.28125,
+        "x": 48,
+        "y": 212
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "10m"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 342,
+        "x": 24,
+        "y": 248
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Link meeting"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 135.6796875,
+        "x": 24,
+        "y": 248
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Link meeting"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 135.6796875,
+        "x": 24,
+        "y": 248
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Link meeting"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 20,
+        "width": 135.6796875,
+        "x": 24,
+        "y": 248
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Link meeting"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 342,
+        "x": 24,
+        "y": 284
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 342,
+        "x": 24,
+        "y": 284
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 22,
+        "width": 128,
+        "x": 48,
+        "y": 284
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 128,
+        "x": 48,
+        "y": 282
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 115.859375,
+        "x": 48,
+        "y": 276
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "inline",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 115.859375,
+        "x": 48,
+        "y": 276
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "10px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 94.859375,
+        "x": 48,
+        "y": 280
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(7, 10, 13)",
+        "display": "grid",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 94.859375,
+        "x": 48,
+        "y": 280
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "4px 0px"
+      },
+      "tag": "DIV",
+      "text": "Asia/Shanghai"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 350,
+        "x": 20,
+        "y": 342
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "28px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "October 2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 175,
+        "x": 20,
+        "y": 348
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "October 2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 19.5,
+        "width": 40.1328125,
+        "x": 87.1640625,
+        "y": 350
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(107, 114, 128)",
+        "display": "inline",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "2026"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 36.28125,
+        "x": 20,
+        "y": 399
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "SUN"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 36.2890625,
+        "x": 72.28125,
+        "y": 399
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "MON"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 36.28125,
+        "x": 124.5703125,
+        "y": 399
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "TUE"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 36.2890625,
+        "x": 176.8515625,
+        "y": 399
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "WED"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 36.28125,
+        "x": 229.140625,
+        "y": 399
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "THU"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 36.2890625,
+        "x": 281.421875,
+        "y": 399
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "FRI"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16,
+        "width": 36.28125,
+        "x": 333.7109375,
+        "y": 399
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(7, 10, 13)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "16px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "SAT"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 222.28125,
+        "y": 440
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "46.5703px 0px 0px"
+      },
+      "tag": "DIV",
+      "text": "1"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 272.8515625,
+        "y": 440
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "46.5703px 0px 0px"
+      },
+      "tag": "DIV",
+      "text": "2"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.578125,
+        "x": 323.421875,
+        "y": 440
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "46.5781px 0px 0px"
+      },
+      "tag": "DIV",
+      "text": "3"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 20,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "46.5703px 0px 0px"
+      },
+      "tag": "DIV",
+      "text": "4"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 70.5703125,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "46.5703px 0px 0px"
+      },
+      "tag": "DIV",
+      "text": "5\nToday"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46.578125,
+        "width": 46.5703125,
+        "x": 121.140625,
+        "y": 490.578125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(60, 62, 68)",
+        "display": "block",
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "24px",
+        "padding": "46.5703px 0px 0px"
+      },
+      "tag": "DIV",
+      "text": "6"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "",
+  "url": "https://app.cal.com/rick/get-rick-rolled/embed?layout=month_view&useSlotsViewOnSmallScreen=true&embedType=inline&embed=embed-inline-demo&date=2026-10-06",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  },
+  "capturedAt": "2026-10-04T23:46:23.920Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

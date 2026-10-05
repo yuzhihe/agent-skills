@@ -1,0 +1,20 @@
+{
+  "order": 3,
+  "id": "gumroad",
+  "name": "Gumroad",
+  "source": "https://gumroad.com/",
+  "studied": "2026-10-04",
+  "tasks": [
+    "creator"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "illustration"
+  ],
+  "tone": [
+    "playful"
+  ],
+  "lang": "en",
+  "summary": "简短承诺放在中心，装饰留在边缘，行动醒目而明确。",
+  "usage": "适合创作者、数字产品和轻量业务。可替换成自己的插画；粉色硬币和原品牌字标不是可复用素材。"
+}

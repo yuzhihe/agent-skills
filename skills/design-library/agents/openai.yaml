@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人网页设计库"
+  short_description: "从内置网站案例、截图和实测样式中选取参考，指导网页设计并按需扩库"
+  default_prompt: "使用 $design-library，从内置案例中选择适合当前内容的参考，并应用到我的网页设计。"

@@ -1,0 +1,457 @@
+{
+  "body": {
+    "background": "rgb(255, 255, 255)",
+    "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(30, 25, 25)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "10px",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "NAV",
+      "text": "Framework\nVoice & Tone\nLogo\nTypography\nIconography\nColor\nImagery\nMotion"
+    },
+    {
+      "id": "nav-button",
+      "rect": {
+        "height": 60,
+        "width": 60,
+        "x": 0,
+        "y": 330
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "At Dropbox, our Brand Guidelines help us infuse everything we make with identity.\nFrom icons to illustration, logos to l"
+    },
+    {
+      "id": "partner-info-button",
+      "rect": {
+        "height": 102.21875,
+        "width": 20,
+        "x": 20,
+        "y": 601.78125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(48, 128, 255)",
+        "display": "flex",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Partner Info"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 93.4375,
+        "width": 3096,
+        "x": 208.6640625,
+        "y": 313.28125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Dbsharpgroteskvariable Vf\", Arial, sans-serif",
+        "fontSize": "29.2px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "23.36px",
+        "padding": "0px"
+      },
+      "tag": "H1",
+      "text": "Typography"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 36,
+        "x": 746.6640625,
+        "y": 198
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Bold weight toggle"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 36,
+        "x": 788.6640625,
+        "y": 198
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Italics toggle"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 36,
+        "width": 36,
+        "x": 830.6640625,
+        "y": 198
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Width toggle"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 720,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(30, 25, 25)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Framework\nVoice & Tone\nLogo\nTypography\nIconography\nColor\nImagery\nMotion"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 77.953125,
+        "width": 20,
+        "x": 20,
+        "y": 16
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Typography"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 78.21875,
+        "width": 20,
+        "x": 20,
+        "y": 601.78125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(48, 128, 255)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Partner Info"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 720,
+        "width": 774,
+        "x": 208.6640625,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Typography\nTD\nType Designer"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 198.140625,
+        "y": 505.6796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(5, 84, 99)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "0px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "TD"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 24,
+        "width": 24,
+        "x": 198.140625,
+        "y": 506.1796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(61, 211, 238)",
+        "display": "flex",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "0px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "TD"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 216,
+        "width": 148.6640625,
+        "x": 60,
+        "y": 0
+      },
+      "style": {
+        "background": "rgb(180, 220, 25)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 97, 254)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": ".jpg"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 82.28125,
+        "width": 51.1953125,
+        "x": 108.73046875,
+        "y": 95.3203125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 97, 254)",
+        "display": "block",
+        "fontFamily": "\"Dbsharpgroteskvariable Vf\", Arial, sans-serif",
+        "fontSize": "64px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "64px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": ".jpg"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 86,
+        "width": 120,
+        "x": 1160,
+        "y": 418
+      },
+      "style": {
+        "background": "rgb(247, 245, 242)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 97, 254)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "DB Sharp Grotesk"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 142.578125,
+        "width": 46.078125,
+        "x": 1196.9609375,
+        "y": 424.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 97, 254)",
+        "display": "block",
+        "fontFamily": "\"Dbsharpgroteskvariable Vf\", Arial, sans-serif",
+        "fontSize": "51.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "51.2px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "DB Sharp Grotesk"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 216,
+        "width": 242,
+        "x": 740.6640625,
+        "y": 504
+      },
+      "style": {
+        "background": "rgb(250, 210, 75)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 120, 145)",
+        "display": "block",
+        "fontFamily": "\"Atlasgrotesk Web\", Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "20px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "!@#$%\n&*();/<>\n“”{}+?"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 192,
+        "width": 146.4609375,
+        "x": 747.0625,
+        "y": 504
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 120, 145)",
+        "display": "block",
+        "fontFamily": "\"Dbsharpgroteskvariable Vf\", Arial, sans-serif",
+        "fontSize": "51.2px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "64px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "!@#$%\n&*();/<>\n“”{}+?"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Typography - Dropbox Brand Guidelines",
+  "url": "https://brand.dropbox.com/typography",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:27:06.039Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

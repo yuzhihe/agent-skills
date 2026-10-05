@@ -1,0 +1,29 @@
+{
+  "order": 33,
+  "id": "wwf-blue-corridors",
+  "name": "WWF Blue Corridors · 地图数据",
+  "source": "https://bluecorridors.org/explore/species",
+  "studied": "2026-10-05",
+  "tasks": [
+    "utility",
+    "discovery",
+    "brand"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "trusted-data",
+    "illustration",
+    "charts"
+  ],
+  "tone": [
+    "analytical",
+    "dark"
+  ],
+  "lang": "en",
+  "summary": "物种目录、迁徙图层和时间轴围绕地图组织，颜色将数据轨迹与对象关联。",
+  "usage": "适合地理数据、生态研究及地图探索；必须有可信数据和可解释图例。",
+  "recognition": {
+    "label": "2026 Webby Winner：Best Data Visualization",
+    "url": "https://winners.webbyawards.com/2026/websites-and-mobile-sites/features-design/best-data-visualization/364937/wwf--blue-corridors"
+  }
+}

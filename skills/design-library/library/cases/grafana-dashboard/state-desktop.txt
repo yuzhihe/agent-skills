@@ -1,0 +1,34 @@
+Browser tab: 30, Title: "F1 Driver Championship Points - Assistant Dashboards ✨ - Dashboards - Grafana", URL: "https://play.grafana.org/d/ma7w5nw/f1-driver-championship-points?from=now-6h&to=now&timezone=browser".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
++									346 text 🥇 Championship Leader
++									347 text 🏁 Races Completed
+~										209 cell (selectable) Team, Description: Filter Team
+~										210 cell (selectable) Wins, Description: Filter Wins
+~										216 cell (selectable) Mercedes
+~										217 cell (selectable) 8
+~										223 cell (selectable) Mercedes
+~										224 cell (selectable) 3
+~										230 cell (selectable) Ferrari
+~										231 cell (selectable) 1
+~										237 cell (selectable) Ferrari
+~										238 cell (selectable) 1
+~										244 cell (selectable) McLaren
+~										245 cell (selectable) 2
+~										251 cell (selectable) Red Bull
+~										252 cell (selectable) 1
+~										258 cell (selectable) McLaren
+~										259 cell (selectable) 0
+~										265 cell (selectable) Red Bull
+~										266 cell (selectable) 0
+~										272 cell (selectable) RB F1 Team
+~										273 cell (selectable) 0
+~										279 cell (selectable) Alpine F1 Team
+~										280 cell (selectable) 0
+~										286 cell (selectable) RB F1 Team
+~										287 cell (selectable) 0
+~										293 cell (selectable) Alpine F1 Team
+~										294 cell (selectable) 0
+~										300 cell (selectable) Haas F1 Team
+~										301 cell (selectable) 0
++								348 container Panel loading bar
+The focused UI element is 161 button Description: Undock menu, ID: dock-menu-button

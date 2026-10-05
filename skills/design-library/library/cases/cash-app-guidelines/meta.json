@@ -1,0 +1,27 @@
+{
+  "order": 27,
+  "id": "cash-app-guidelines",
+  "name": "Cash App · 颜色规范",
+  "source": "https://design.cash.app/color",
+  "studied": "2026-10-05",
+  "tasks": [
+    "editorial",
+    "brand"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "structured-content",
+    "editorial-photos"
+  ],
+  "tone": [
+    "structured",
+    "bold"
+  ],
+  "lang": "en",
+  "summary": "固定规范目录配合分栏说明、大色样和应用照片，把品牌规则写成可查阅手册。",
+  "usage": "适合设计系统和品牌规范文档；不需要把品牌绿迁移到其他产品。",
+  "recognition": {
+    "label": "2026 Webby Winner 与 People’s Voice：Financial Services & Banking（整个品牌指南站）",
+    "url": "https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-desktop-mobile-sites/financial-services-banking"
+  }
+}

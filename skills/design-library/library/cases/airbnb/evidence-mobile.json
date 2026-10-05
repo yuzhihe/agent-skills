@@ -1,0 +1,472 @@
+{
+  "elements": [
+    {
+      "rect": {
+        "height": 2881,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "selector": "body",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Skip to content\nAirbnb homepage\nStart your search\nCurrently showing Anytime. Change search.\nAll\nHome"
+    },
+    {
+      "rect": {
+        "height": 125,
+        "width": 390,
+        "x": 0,
+        "y": 779
+      },
+      "selector": "nav",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px 4px 60px"
+      },
+      "text": "Explore\nWishlists\nLog in"
+    },
+    {
+      "rect": {
+        "height": 900,
+        "width": 390,
+        "x": 0,
+        "y": 122
+      },
+      "selector": "main",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Popular homes in Lake Tahoe\n2 of 9 items showing\nGuest favorite\nGuest favorite\nCabin in South Lake T"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 296,
+        "x": 26,
+        "y": 148
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Popular homes in Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 24,
+        "width": 296,
+        "x": 26,
+        "y": 431
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Great hotels for your next trip"
+    },
+    {
+      "rect": {
+        "height": 48,
+        "width": 296,
+        "x": 26,
+        "y": 744
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Available in South Lake Tahoe next weekend"
+    },
+    {
+      "rect": {
+        "height": 26,
+        "width": 342,
+        "x": 24,
+        "y": 1119
+      },
+      "selector": "h2",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "22px",
+        "fontWeight": "500",
+        "lineHeight": "26px",
+        "padding": "0px"
+      },
+      "text": "Inspiration for future getaways"
+    },
+    {
+      "rect": {
+        "height": 56,
+        "width": 342,
+        "x": 24,
+        "y": 12
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "40px",
+        "boxShadow": "rgba(0, 0, 0, 0.1) 0px 6px 20px 0px",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "18px",
+        "padding": "10px 19px"
+      },
+      "text": "Start your search\nCurrently showing Anytime. Change search."
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 149,
+        "y": 198
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "2px 0px 0px"
+      },
+      "text": "Add to wishlist: Cabin in South Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 326,
+        "y": 198
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "2px 0px 0px"
+      },
+      "text": "Add to wishlist: Home in South Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 503,
+        "y": 198
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "2px 0px 0px"
+      },
+      "text": "Add to wishlist: Home in South Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 680,
+        "y": 198
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "2px 0px 0px"
+      },
+      "text": "Add to wishlist: Home in South Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 857,
+        "y": 198
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "2px 0px 0px"
+      },
+      "text": "Add to wishlist: Cabin in Tahoma"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 1034,
+        "y": 198
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "2px 0px 0px"
+      },
+      "text": "Add to wishlist: Home in Tahoe City"
+    },
+    {
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 1211,
+        "y": 198
+      },
+      "selector": "button",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "padding": "2px 0px 0px"
+      },
+      "text": "Add to wishlist: Cabin in Tahoma"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 70,
+        "x": 24,
+        "y": 86
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "40px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "10px 14px"
+      },
+      "text": "All"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 100,
+        "x": 102,
+        "y": 84
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "40px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "10px 14px"
+      },
+      "text": "Homes"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 133,
+        "x": 210,
+        "y": 84
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "40px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "10px 14px"
+      },
+      "text": "Experiences"
+    },
+    {
+      "rect": {
+        "height": 40,
+        "width": 108,
+        "x": 351,
+        "y": 84
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "40px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "10px 14px"
+      },
+      "text": "Services"
+    },
+    {
+      "rect": {
+        "height": 28,
+        "width": 342,
+        "x": 24,
+        "y": 146
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": "Popular homes in Lake Tahoe"
+    },
+    {
+      "rect": {
+        "height": 215,
+        "width": 165,
+        "x": 24,
+        "y": 190
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "20px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": ""
+    },
+    {
+      "rect": {
+        "height": 215,
+        "width": 165,
+        "x": 201,
+        "y": 190
+      },
+      "selector": "a",
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "20px",
+        "boxShadow": "none",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.02px",
+        "padding": "0px"
+      },
+      "text": ""
+    }
+  ],
+  "title": "Airbnb | Vacation rentals, cabins, beach houses, & more",
+  "url": "https://www.airbnb.com/",
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

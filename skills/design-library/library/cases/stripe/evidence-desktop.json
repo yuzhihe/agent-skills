@@ -1,0 +1,465 @@
+{
+  "elements": [
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 15062.015625,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "tag": "BODY",
+      "text": "Products\nSolutions\nDevelopers\nResources\nPricing\nGuide me\nSign in\nSign in\nContact sales\nGlobal GDP running on S"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 25,
+        "width": 60,
+        "x": 34,
+        "y": 25.5
+      },
+      "tag": "A",
+      "text": "Stripe homepage"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(6, 27, 49)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "14px",
+      "padding": "12px 0px",
+      "rect": {
+        "height": 40,
+        "width": 76.6640625,
+        "x": 122,
+        "y": 18
+      },
+      "tag": "BUTTON",
+      "text": "Products"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(6, 27, 49)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "14px",
+      "padding": "12px 0px",
+      "rect": {
+        "height": 40,
+        "width": 78.46875,
+        "x": 222.6640625,
+        "y": 18
+      },
+      "tag": "BUTTON",
+      "text": "Solutions"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(6, 27, 49)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "14px",
+      "padding": "12px 0px",
+      "rect": {
+        "height": 40,
+        "width": 91.0078125,
+        "x": 325.1328125,
+        "y": 18
+      },
+      "tag": "BUTTON",
+      "text": "Developers"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(6, 27, 49)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "14px",
+      "padding": "12px 0px",
+      "rect": {
+        "height": 40,
+        "width": 85.921875,
+        "x": 440.140625,
+        "y": 18
+      },
+      "tag": "BUTTON",
+      "text": "Resources"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(6, 27, 49)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "14px",
+      "padding": "12px 0px",
+      "rect": {
+        "height": 38,
+        "width": 44.296875,
+        "x": 550.0625,
+        "y": 19
+      },
+      "tag": "A",
+      "text": "Pricing"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(6, 27, 49)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "14px",
+      "padding": "12px 0px",
+      "rect": {
+        "height": 40,
+        "width": 81.953125,
+        "x": 634.359375,
+        "y": 18
+      },
+      "tag": "A",
+      "text": "Guide me"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "4px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "14px",
+      "padding": "11.5px 20px 12.5px",
+      "rect": {
+        "height": 40,
+        "width": 84.0859375,
+        "x": 1016.546875,
+        "y": 18
+      },
+      "tag": "A",
+      "text": "Sign in\nSign in"
+    },
+    {
+      "background": "rgb(83, 58, 253)",
+      "borderRadius": "4px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "14px",
+      "padding": "11.5px 20px 12.5px",
+      "rect": {
+        "height": 40,
+        "width": 137.3671875,
+        "x": 1108.6328125,
+        "y": 18
+      },
+      "tag": "A",
+      "text": "Contact sales"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(221, 214, 0)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "43.2px",
+      "fontWeight": "300",
+      "letterSpacing": "-0.864px",
+      "lineHeight": "49.68px",
+      "padding": "0px",
+      "rect": {
+        "height": 198.71875,
+        "width": 916.6953125,
+        "x": 135.5,
+        "y": 207.4375
+      },
+      "tag": "H1",
+      "text": "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgba(0, 14, 255, 0.5)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "43.2px",
+      "fontWeight": "300",
+      "letterSpacing": "-0.864px",
+      "lineHeight": "49.68px",
+      "padding": "0px",
+      "rect": {
+        "height": 198.71875,
+        "width": 916.6953125,
+        "x": 135.5,
+        "y": 207.4375
+      },
+      "tag": "H1",
+      "text": "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom"
+    },
+    {
+      "background": "rgb(83, 58, 253)",
+      "borderRadius": "4px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "16px",
+      "padding": "15.5px 24px 16.5px",
+      "rect": {
+        "height": 48,
+        "width": 141.453125,
+        "x": 135.5,
+        "y": 446.15625
+      },
+      "tag": "A",
+      "text": "Get started"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0.65)",
+      "borderRadius": "4px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "16px",
+      "padding": "14.5px 24px 15.5px",
+      "rect": {
+        "height": 48,
+        "width": 211.953125,
+        "x": 284.953125,
+        "y": 446.15625
+      },
+      "tag": "A",
+      "text": "Sign up with Google"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": -839.5599975585938,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": -667.5599975585938,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": -495.55999755859375,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": -323.55999755859375,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 20.44000244140625,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 192.44000244140625,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 364.44000244140625,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 708.4400024414062,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 1052.43994140625,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(83, 58, 253)",
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "padding": "0px",
+      "rect": {
+        "height": 34,
+        "width": 142,
+        "x": 1224.43994140625,
+        "y": 585.59375
+      },
+      "tag": "A",
+      "text": ""
+    }
+  ],
+  "url": "https://stripe.com/",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "order": 29,
+  "id": "i-d",
+  "name": "i-D · 时尚杂志",
+  "source": "https://i-d.co/",
+  "studied": "2026-10-05",
+  "tasks": [
+    "editorial",
+    "discovery"
+  ],
+  "density": "medium",
+  "assets_needed": [
+    "editorial-photos",
+    "structured-content"
+  ],
+  "tone": [
+    "editorial",
+    "bold"
+  ],
+  "lang": "en",
+  "summary": "大幅人物摄影与夸张刊名字形并列，文章流和快讯流形成不同阅读速度。",
+  "usage": "适合有强摄影与编辑选题的杂志；不适合以检索效率为首要目标的资料站。",
+  "recognition": {
+    "label": "2025 Webby Winner：Magazine or Publication；Cultural Blog/Website 为提名",
+    "url": "https://winners.webbyawards.com/2025/websites-and-mobile-sites/general-desktop-mobile-sites/cultural-blogwebsite/321852/id"
+  }
+}

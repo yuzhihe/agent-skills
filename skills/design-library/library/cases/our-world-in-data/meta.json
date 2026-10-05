@@ -1,0 +1,21 @@
+{
+  "order": 11,
+  "id": "our-world-in-data",
+  "name": "Our World in Data",
+  "source": "https://ourworldindata.org/grapher/population",
+  "studied": "2026-10-05",
+  "tasks": [
+    "utility"
+  ],
+  "density": "high",
+  "assets_needed": [
+    "trusted-data",
+    "charts"
+  ],
+  "tone": [
+    "analytical"
+  ],
+  "lang": "en",
+  "summary": "深蓝站点页眉之下，桌面让主图表与地区选择并列；窄屏把图表放满宽度，地区选择收进按钮。",
+  "usage": "数据探索、指标专题、研究报告交互图；没有可信数据来源或需要遮蔽不确定性的营销图表。"
+}

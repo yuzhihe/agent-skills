@@ -1,0 +1,1308 @@
+{
+  "body": {
+    "background": "rgb(0, 0, 0)",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 50,
+        "width": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "8px 12px"
+      },
+      "tag": "NAV",
+      "text": "Skip to main content\nShopify Editions\nWinter '26\nEditions\nSearch\nCLEAR\nSearch\nShopify.com\nStart for free"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28,
+        "width": 208.7109375,
+        "x": 12,
+        "y": -17
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "8px",
+        "lineHeight": "14px",
+        "padding": "5px 0px"
+      },
+      "tag": "A",
+      "text": "Shopify Editions\nWinter '26"
+    },
+    {
+      "id": "all-editions-dropdown-button",
+      "rect": {
+        "height": 34,
+        "width": 89.21875,
+        "x": 260.7109375,
+        "y": -26
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "5px",
+        "lineHeight": "14px",
+        "padding": "5px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Editions"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 34,
+        "width": 83.1640625,
+        "x": 373.9296875,
+        "y": -26
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "5px",
+        "lineHeight": "14px",
+        "padding": "5px 8px"
+      },
+      "tag": "BUTTON",
+      "text": "Search"
+    },
+    {
+      "id": "search",
+      "rect": {
+        "height": 46,
+        "width": 507.1484375,
+        "x": -272.4703369140625,
+        "y": -32
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16.8px",
+        "padding": "8px 16px"
+      },
+      "tag": "INPUT",
+      "text": "Search"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 32,
+        "width": 32,
+        "x": 327.5296630859375,
+        "y": -25
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "8px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "BUTTON",
+      "text": "Search"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 34,
+        "width": 98.5625,
+        "x": 1037.984375,
+        "y": -26
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "4px",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-flex",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "5px",
+        "lineHeight": "14px",
+        "padding": "5px 8px"
+      },
+      "tag": "A",
+      "text": "Shopify.com"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 34,
+        "width": 111.453125,
+        "x": 1156.546875,
+        "y": -26
+      },
+      "style": {
+        "background": "rgb(255, 255, 255)",
+        "borderRadius": "1.67772e+07px",
+        "color": "rgb(0, 0, 0)",
+        "display": "inline-flex",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "5px",
+        "lineHeight": "14px",
+        "padding": "0px 14px"
+      },
+      "tag": "A",
+      "text": "Start for free"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 48397.84375,
+        "width": 1280,
+        "x": 0,
+        "y": 66
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "MAIN",
+      "text": "The Renaissance Edition\n\nA new world of commerce. 150+ product updates.\n\nSidekick\nAgentic\nOnline\nRetail\nMarketing\nChecko"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 464,
+        "width": 340,
+        "x": 470,
+        "y": 128
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px"
+      },
+      "tag": "NAV",
+      "text": "The Renaissance Edition\n\nA new world of commerce. 150+ product updates.\n\nSidekick\nAgentic\nOnline\nRetail\nMarketing\nChecko"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 71.53125,
+        "width": 165,
+        "x": 490,
+        "y": 148
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "30.4px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "The Renaissance Edition"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 71.53125,
+        "width": 165,
+        "x": 490,
+        "y": 148
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(247, 247, 238)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "30.4px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "The Renaissance Edition"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 28.7421875,
+        "width": 300,
+        "x": 490,
+        "y": 320.8515625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(247, 247, 238)",
+        "display": "block",
+        "fontFamily": "HWCigars, Georgia, \"Times New Roman\", serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "16.49px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "A new world of commerce. 150+ product updates."
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 369.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Sidekick"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 386.4609375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Agentic"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 403.328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Online"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 420.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Retail"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 437.0625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Marketing"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 453.9296875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Checkout"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 470.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Operations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 487.6640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Shop app"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 504.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "B2B"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 521.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Finance"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 538.265625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Shipping"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.8671875,
+        "width": 300,
+        "x": 490,
+        "y": 555.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "2px",
+        "lineHeight": "17.1px",
+        "padding": "2px 0px"
+      },
+      "tag": "A",
+      "text": "Developer"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 10,
+        "width": 62.3828125,
+        "x": 12.796875,
+        "y": 700
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(247, 247, 238)",
+        "display": "inline",
+        "fontFamily": "HWCigars, Georgia, \"Times New Roman\", serif",
+        "fontSize": "10px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "15px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Privacy Policy"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 182.7109375,
+        "x": 38,
+        "y": -10
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "8px",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Shopify Editions\nWinter '26"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 106.3046875,
+        "x": 38,
+        "y": -10
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Shopify Editions"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 14,
+        "width": 68.40625,
+        "x": 152.3046875,
+        "y": -10
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "Inter-Variable, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "normal",
+        "lineHeight": "14px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Winter '26"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 34,
+        "width": 640,
+        "x": 373.9296875,
+        "y": -26
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "Search\nCLEAR\nSearch"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46,
+        "width": 640,
+        "x": -272.4703369140625,
+        "y": -32
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "CLEAR\nSearch"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 46,
+        "width": 640,
+        "x": -272.4703369140625,
+        "y": -32
+      },
+      "style": {
+        "background": "rgb(244, 244, 244)",
+        "borderRadius": "4px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "CLEAR\nSearch"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 294.5625,
+        "x": 490,
+        "y": 371.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Sidekick"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 66.5703125,
+        "x": 490,
+        "y": 371.59375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Sidekick"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 291.125,
+        "x": 490,
+        "y": 388.4609375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Agentic"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 60.375,
+        "x": 490,
+        "y": 388.4609375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Agentic"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 287.6875,
+        "x": 490,
+        "y": 405.328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Online"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 50.4921875,
+        "x": 490,
+        "y": 405.328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Online"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 286.84375,
+        "x": 490,
+        "y": 422.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Retail"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 44.28125,
+        "x": 490,
+        "y": 422.1953125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Retail"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 290.28125,
+        "x": 490,
+        "y": 439.0625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Marketing"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 78.5390625,
+        "x": 490,
+        "y": 439.0625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Marketing"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 286.84375,
+        "x": 490,
+        "y": 455.9296875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Checkout"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 75.90625,
+        "x": 490,
+        "y": 455.9296875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Checkout"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 283.4140625,
+        "x": 490,
+        "y": 472.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Operations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 87.234375,
+        "x": 490,
+        "y": 472.796875
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Operations"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 279.9765625,
+        "x": 490,
+        "y": 489.6640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Shop app"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 74.703125,
+        "x": 490,
+        "y": 489.6640625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Shop app"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 286.8125,
+        "x": 490,
+        "y": 506.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "B2B"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 34.0390625,
+        "x": 490,
+        "y": 506.53125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "B2B"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 290.25,
+        "x": 490,
+        "y": 523.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Finance"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 62.71875,
+        "x": 490,
+        "y": 523.3984375
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Finance"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 286.921875,
+        "x": 490,
+        "y": 540.265625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Shipping"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 69.125,
+        "x": 490,
+        "y": 540.265625
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Shipping"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 283.4921875,
+        "x": 490,
+        "y": 557.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "flex",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "5px",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Developer"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 12.8671875,
+        "width": 80.640625,
+        "x": 490,
+        "y": 557.1328125
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block",
+        "fontFamily": "NeueMontreal, Helvetica, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "lineHeight": "17.1px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "Developer"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "title": "Shopify Editions | Winter '26",
+  "url": "https://www.shopify.com/editions/winter2026",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:28:00.600Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}

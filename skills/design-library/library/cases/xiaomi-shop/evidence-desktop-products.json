@@ -1,0 +1,1400 @@
+{
+  "body": {
+    "background": "rgb(255, 255, 255)",
+    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif"
+  },
+  "elements": [
+    {
+      "id": "",
+      "rect": {
+        "height": 614,
+        "width": 234,
+        "x": 27,
+        "y": -404
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 275,
+        "y": -90
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI K100 Pro\n\n旗舰双芯 | 185Hz 高刷屏 | 2亿旗舰主摄\n\n3999元起"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 285,
+        "y": 108
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "REDMI K100 Pro"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 285,
+        "y": 131
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "旗舰双芯 | 185Hz 高刷屏 | 2亿旗舰主摄"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 285,
+        "y": 159
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "3999元起"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 523,
+        "y": -90
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI 17 5G\n\n大屏长续航 久用也流畅\n\n999元起1099元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 533,
+        "y": 108
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "REDMI 17 5G"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 533,
+        "y": 131
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "大屏长续航 久用也流畅"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 533,
+        "y": 159
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "999元起1099元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 771,
+        "y": -90
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI Note 17 Pro\n\n抗摔 防水 长续航\n\n1599元起"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 781,
+        "y": 108
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "REDMI Note 17 Pro"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 781,
+        "y": 131
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "抗摔 防水 长续航"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 781,
+        "y": 159
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "1599元起"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 1019,
+        "y": -90
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI Note 17\n\n大屏 大电量\n\n1249元起1299元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 1029,
+        "y": 108
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "REDMI Note 17"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 1029,
+        "y": 131
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "大屏 大电量"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 1029,
+        "y": 159
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "1249元起1299元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 58,
+        "width": 1226,
+        "x": 27,
+        "y": 232
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "22px",
+        "fontWeight": "200",
+        "gap": "normal",
+        "lineHeight": "58px",
+        "padding": "0px"
+      },
+      "tag": "H2",
+      "text": "智能穿戴"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 614,
+        "width": 234,
+        "x": 27,
+        "y": 290
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": ""
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 275,
+        "y": 290
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI 头戴降噪耳机\n\n40mm 超大镀钛动圈 | 深度主动降噪 | 支持小米澎湃智联\n\n349元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 285,
+        "y": 488
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "REDMI 头戴降噪耳机"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 285,
+        "y": 511
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "40mm 超大镀钛动圈 | 深度主动降噪 | 支持小米澎湃智联"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 285,
+        "y": 539
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "349元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 523,
+        "y": 290
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "Xiaomi 耳夹式耳机\n\n轻盈无感 佩戴舒适 | 超级小爱 智能陪伴 | 逆向声波防漏音\n\n749元849元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 533,
+        "y": 488
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Xiaomi 耳夹式耳机"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 533,
+        "y": 511
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "轻盈无感 佩戴舒适 | 超级小爱 智能陪伴 | 逆向声波防漏音"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 533,
+        "y": 539
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "749元849元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 771,
+        "y": 290
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI Buds 8\n\n至高 50dB 4kHz宽频降噪 | 11mm 高性能动圈单元 | 设备智能互联体验\n\n229元249元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 781,
+        "y": 488
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "REDMI Buds 8"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 781,
+        "y": 511
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "至高 50dB 4kHz宽频降噪 | 11mm 高性能动圈单元 | 设备智能互联体验"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 781,
+        "y": 539
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "229元249元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 1019,
+        "y": 290
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI Buds 8 活力版\n\n声享澎湃音质 电量超长相随\n\n99元119元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 1029,
+        "y": 488
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "REDMI Buds 8 活力版"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 18,
+        "width": 214,
+        "x": 1029,
+        "y": 511
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "18px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "声享澎湃音质 电量超长相随"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 21,
+        "width": 214,
+        "x": 1029,
+        "y": 539
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "P",
+      "text": "99元119元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 275,
+        "y": 604
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI Buds 8 青春版\n\n42dB 深度主动降噪 | 12.4mm超大镀钛单元 | 支持小米澎湃智联\n\n139元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 523,
+        "y": 604
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "REDMI Buds 8 Pro\n\n55dB深度降噪 | 新增智能查找 | 同档罕见同轴三单元\n\n369元399元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 300,
+        "width": 234,
+        "x": 771,
+        "y": 604
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "20px 0px"
+      },
+      "tag": "A",
+      "text": "Xiaomi Buds 6\n\n仿生曲线设计|哈曼金耳朵联合调音|耳机独立录音2.0\n\n649元699元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 68,
+        "width": 234,
+        "x": 1019,
+        "y": 644
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(117, 117, 117)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "A",
+      "text": "Xiaomi 开放式耳机 Pro\n\n699元"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 94,
+        "x": 1049,
+        "y": 644
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "H3",
+      "text": "Xiaomi 开放式耳机 Pro"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 31.140625,
+        "x": 362.4296875,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "3999"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 14,
+        "x": 407.5703125,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "起"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 23.359375,
+        "x": 588.25,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "999"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 14,
+        "x": 625.609375,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "起"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 31.140625,
+        "x": 646.609375,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "1099"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 31.140625,
+        "x": 858.4296875,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "1599"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 14,
+        "x": 903.5703125,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "起"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 31.140625,
+        "x": 1080.359375,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "1249"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 14,
+        "x": 1125.5,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "起"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 31.140625,
+        "x": 1146.5,
+        "y": 161
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "1299"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 58,
+        "width": 1226,
+        "x": 27,
+        "y": 232
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "智能穿戴\n耳机穿戴"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 42,
+        "width": 124,
+        "x": 1129,
+        "y": 232
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(51, 51, 51)",
+        "display": "block",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "DIV",
+      "text": "耳机穿戴"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 23.359375,
+        "x": 373.3203125,
+        "y": 541
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "349"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 23.359375,
+        "x": 599.140625,
+        "y": 541
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "749"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 23.359375,
+        "x": 643.5,
+        "y": 541
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "849"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 23.359375,
+        "x": 847.140625,
+        "y": 541
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "229"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 23.359375,
+        "x": 891.5,
+        "y": 541
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "249"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 15.5703125,
+        "x": 1099.03125,
+        "y": 541
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "99"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 23.359375,
+        "x": 1135.6015625,
+        "y": 541
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(176, 176, 176)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "119"
+    },
+    {
+      "id": "",
+      "rect": {
+        "height": 16.5,
+        "width": 23.359375,
+        "x": 1049,
+        "y": 693
+      },
+      "style": {
+        "background": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "color": "rgb(255, 103, 0)",
+        "display": "inline",
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Microsoft Yahei\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "lineHeight": "21px",
+        "padding": "0px"
+      },
+      "tag": "SPAN",
+      "text": "699"
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 1440
+  },
+  "title": "Xiaomi官方网站 | 以人为中心，构建“人车家全生态”",
+  "url": "https://www.mi.com/shop",
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "capturedAt": "2026-10-04T23:44:28.519Z",
+  "scope": "Visible DOM sample; screenshot is authority for appearance; ancestor clipping or occlusion may affect visibility; no inferred CSS breakpoints."
+}
