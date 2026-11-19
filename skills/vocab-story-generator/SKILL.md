@@ -153,7 +153,7 @@ original | type(word/phrase/sentence) | definition | example | source
 
 输出文件沿用数字前缀和主题名，例如 `07_城市生活 (Urban Encounters).md`。若输入包含原生例句，可生成或续写 `00_原生例句汇总.md`（或沿用项目既有命名如 `00_例句列表.md`）；不要把历史例句重复追加。
 
-若用户同时要求同步更新线上阅读站，动手前先核查项目是否已托管在 Git/GitHub 仓库并接入自动部署（检查远程仓库、`CLAUDE.md`、`amplify.yml`、`.github/workflows/` 等）：以最新线上仓库为唯一真源，通过新建分支并提交 PR 留存变更记录，不要回退到历史备份目录的手动打包上传流程。
+若用户同时要求同步更新线上阅读站，动手前先核查项目是否已托管在 Git/GitHub 仓库并接入自动部署（检查远程仓库、`CLAUDE.md`、`amplify.yml`、`.github/workflows/` 等）：以最新线上仓库为唯一真源，通过新建分支并提交 PR 留存变更记录，不要回退到历史备份目录的手动打包上传流程。**默认必须为新文章的所有 `<span class="vocab">` 补齐美式音标（IPA）与 Piper 发音音频（MP3）**：在仓库内运行 `node scripts/sync-pronunciation.mjs --articles <NN>` 更新 `data/phonetics.json`、合成 `audio/<sha256_16>.mp3` 并写入 `data-pronunciation`/`data-audio`/`data-tooltip`/`aria-label`，提交 PR 前运行 `node scripts/sync-pronunciation.mjs --articles <NN> --check` 确保覆盖率 100%。
 
 ## 7. 交付前质量核验
 
@@ -166,6 +166,7 @@ original | type(word/phrase/sentence) | definition | example | source
 - [ ] 每个悬停释义都与所在句的义项一致，中文翻译自然，没有逐词硬译。
 - [ ] 情节过渡自然，没有为补漏而在结尾堆入无关词。
 - [ ] 文件编号承接历史，旧文章未被覆盖；索引只记录已成功交付的新条目。
+- [ ] 若同步到线上阅读站，新增文章已默认补齐美式音标与 Piper MP3 发音（`node scripts/sync-pronunciation.mjs --articles <NN> --check` 通过）。
 
 交付时简要报告统计，例如：
 
